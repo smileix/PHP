@@ -1,0 +1,1202 @@
+yes, i need a table for 6 on thursday. we'd like it at 14:15, please	O O O O O O B-hotel-bookpeople O B-hotel-bookday O O O O O O	book_hotel
+5 people, 3 nights starting thurs.	B-hotel-bookpeople O B-hotel-bookstay O O O	book_hotel
+i want a hotel for 3 people and 2 nights, with free parking. is there nothing in the city that fits those requirements?	O O O O O B-hotel-bookstay O O B-hotel-bookpeople O O O O O O O O O O O O O O	book_hotel
+i've booked rosa's bed and breakfast for 1 night, it's cheap located at 53 roseford road, 4 stars with internet and parking. reference number hjp6p9ik . will you need anything else today?	O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+i would like to book the huntingdon marriott on thursday for 5 nights for the same 2 people. if it is not available, please book another one.	O O O O O O B-hotel-name I-hotel-name O B-hotel-bookday O B-hotel-bookstay O O O O B-hotel-bookpeople O O O O O O O O O O	book_hotel
+yes please for 2 people on monday, thanks.	O O O B-hotel-bookpeople O O B-hotel-bookday O	book_hotel
+can you check the availability at the university arms hotel for five people?	O O O O O O O B-hotel-name I-hotel-name I-hotel-name O B-hotel-bookpeople O	book_hotel
+i booked the alexander bed and breakfast for you. your reference number is tq7xk6mp for your arrival on sunday. is there anything else i can help you with today?	O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+we want to arrive on friday and stay 4 nights.	O O O O O B-hotel-bookday O O B-hotel-bookstay O	book_hotel
+i will be departing from london kings cross on monday.	O O O O O O O O O B-hotel-bookday	book_hotel
+yeah, i want it booked for 2 people on wednesday for 2 nights	O O O O O O B-hotel-bookstay O O B-hotel-bookday O O O	book_hotel
+is the cambridge belfry available for 4 nights starting saturday for 6 people?	O O B-hotel-name I-hotel-name O O B-hotel-bookstay O O B-hotel-bookday O B-hotel-bookpeople O	book_hotel
+is that a guesthouse in the north? if so, i need to book it for 5 people 3 nights starting tuesday, and i'll need a reference number.	O O O B-hotel-type O O B-hotel-area O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday O O O O O O	book_hotel
+sounds good. please book for 5 people and 3 nights starting from this sunday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O O O	book_hotel
+yes, book it for 5 people for 4 nights starting thursday.	O O O O B-hotel-bookpeople O O B-hotel-stars O O B-hotel-bookday	book_hotel
+yes please for the same group of people on tuesday.	O O O O O O O O O B-hotel-bookday	book_hotel
+yes please for 2 nights for 7 people for wednesday.	O O O B-hotel-bookstay O O B-hotel-bookpeople O O B-hotel-bookday	book_hotel
+friday, please, and for 3 nights. thank you!	B-hotel-bookday O O O B-hotel-bookstay O O O	book_hotel
+yes please create a booking for 6 people. it needs to be for 2 nights starting on tuesday.	O O O O O O B-hotel-bookpeople O O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+how about a different hotel in the same price range?	O O O O B-hotel-type O O O O O	book_hotel
+it will be 5 people and 4 nights.	O O O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+i would like to stay for 3 nights.	O O O O O O B-hotel-bookstay O	book_hotel
+no, but i do need free wifi. could you book a room for wednesday? i will need it for 4 nights. i will be alone.	O O O O O O O O O O O O O B-hotel-bookday O O O O O B-hotel-bookstay O O O O O	book_hotel
+thank you! i'm also looking for assistance booking a taxi between the two places. can you help with that please?	O O O O O O O O O O O O B-hotel-bookpeople O O O O O O O	book_hotel
+i need to book a stay for 5 nights for 6 people there.	O O O O O O O B-hotel-bookstay O O B-hotel-bookpeople O O	book_hotel
+how about cheap in any area please?	O O B-hotel-pricerange O O O O	book_hotel
+just 1 night would be perfect. thank you.	O B-hotel-bookstay O O O O O O	book_hotel
+booking was successful at acorn guest house. reference number is m8shuqug .	O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O	book_hotel
+i need the hotel reserved for 3 people for 4 nights starting on thursday.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+just a guesthouse in the north with free parking. i'll need a reference number then too please.	O O B-hotel-type O O B-hotel-area O O O O O O O O O O O	book_hotel
+what is the name of the hotel?	O O O O O O B-hotel-type	book_hotel
+let's try the allenbell. could you make a reservation for 1 person, for 5 nights starting wednesday?	O O O B-hotel-name O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i have the cambridge belfry, which is 4 stars, cheap, and in the west with free internet and parking.	O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O	book_hotel
+how about a different hotel in the same price range?	O O O O B-hotel-type O O O O O	book_hotel
+i'm sorry, i misspoke earlier. the allenbell will be fine. could you see if they have any rooms starting on tuesday for 3 nights? there will be 8 people.	O O O O O O B-hotel-name O O O O O O O O O O O O O B-hotel-bookday O B-hotel-bookstay O O O O B-hotel-bookpeople O	book_hotel
+the marriott worked. your reference number is nnft47mw .	B-hotel-name I-hotel-name O O O O O O O	book_hotel
+alright, i was able to book your hotel room at the cityroomz, for 3 people, for one night. your reference number is e62ixzgb . is there anything else i can do?	O O O O O O O O O O O B-taxi-destination O O O O O O O O O O O O O O O O O O O	book_hotel
+okay, i recommend the warkworth house. i want to make sure this is okay with you before i go ahead and make a reservation.	O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O	book_hotel
+a cheap one. i don't have a lot of money. one with free wifi for 8 and 5 nights starting friday please.	O B-hotel-pricerange O O O O O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+great. please book it for 5 people for 5 nights starting from wednesday.	O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+can you check if a 2 night reservation fits in anywhere?	O O O O O B-hotel-bookstay O O O O O	book_hotel
+yeah, can you try for 2 nights then?	O O O O O B-hotel-bookstay O O	book_hotel
+we will be staying for five days.	O O O O O B-hotel-bookstay O	book_hotel
+as long as it is expensive. can i just get the postcode, address, and area for that?	O O O O O B-hotel-pricerange O O O O O O O O O O O	book_hotel
+i want to leave the hotel by 14:00 to go to the swimming pool.	O O O O O B-hotel-type O O O O O O O O	book_hotel
+yes please start a booking there. 6 people will be staying.	O O O O O O B-hotel-bookpeople O O O O	book_hotel
+sounds good. could you book me a room for 5 nights, starting sunday? there will be six of us.	O O O O O O O O O B-hotel-bookstay O O B-hotel-bookday O O O B-hotel-bookpeople O O	book_hotel
+great. can i book that for three nights starting monday for three people.	O O O O O O B-hotel-bookstay O O B-hotel-bookday O O O	book_hotel
+book it for 4 people and 3 nights starting from thursday	O O O B-hotel-stars O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+how about 1 night at the archway house for 4 people. please book and provide a reference number. thank you.	O O B-hotel-bookstay O O O B-hotel-name I-hotel-name O B-hotel-stars O O O O O O O O O O	book_hotel
+yes, please book that restaurant for me. it'll be 7 people on wednesday at 14:45. i'll definitely need a reference number.	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookday O O O O O O O O	book_hotel
+book it for 3 people and 5 nights starting from thursday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+starting on saturday, i would like to book 3 nights at that hotel for my family of 6.	O O B-hotel-bookday O O O O O B-hotel-bookstay O O O O O O O O B-hotel-bookpeople	book_hotel
+book for 7 people for 5 days from wednesday	O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+there are no moderate 3 star hotels in the whole of london?	O O O B-hotel-pricerange B-hotel-stars O O O O O O O	book_hotel
+i have booked you at the a and b guest house at 124 tenison road. the reference number is 0j08kugq . can i help you with anything else?	O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O	book_hotel
+it will be on sunday.	O O O O B-hotel-bookday	book_hotel
+i need a room for three nights for 5 people	O O O O O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+ok, let's book the lensfield hotel for you saturday for 6 people for 4 nights.	O O O O B-hotel-name I-hotel-name O O O O O O O O O	book_hotel
+book for me bed and breakfast for five people from tommorrow.	O O O O O O O B-hotel-bookpeople O O O	book_hotel
+yes. i'm looking for a 4 star hotel in the west. could you please find me one?	O O O O O B-hotel-bookstay O O O O B-hotel-area O O O O O O	book_hotel
+there will be 8 of us and i am also looking for a moderate priced restaurant in the center for 11:15 on saturday. please send me the reference number.	O O O B-hotel-bookpeople O O O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+okay can you book it for me for 3 nights from friday for 2 people?	O O O O O O O O B-hotel-bookstay O O B-hotel-bookday O B-hotel-bookpeople O	book_hotel
+can they accommodate 3 people for 4 nights? also, what are their phone numbers?	O O O B-hotel-bookstay O O O O O O O O O O	book_hotel
+somewhere in the center that gives free parking. it's pretty important as that's where i'm interested in. if that does not exist, i'd like to be somewhere in the west.	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-hotel-area	book_hotel
+great! i would like a reservation for wednesday.	O O O O O O O B-hotel-bookday	book_hotel
+okay, how about a booking for 1 night?	O O O O O O B-hotel-bookstay O	book_hotel
+you have a room at the ashley, reference number 1iikbzbl .	O O O O O O B-hotel-name O O O O	book_hotel
+book it for 8 people and 3 nights starting from wednesday	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+the west please. and it should include free wifi. book for 3 people 4 nights starting thurs.	O B-hotel-area O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O	book_hotel
+the lovell lodge sounds nice. please try for 5 nights but we can settle with 4 if we need to.	O B-hotel-name I-hotel-name O O O O O B-hotel-bookstay O O O O O O O O O O O	book_hotel
+yes, are there any restaurants located near the cityroomz hotel?	O O O O O O O O B-hotel-name B-hotel-type	book_hotel
+great, i think that will work. i need a room for myself for five days, starting wed.	O O O O O O O O O O O O O B-hotel-bookstay O O O	book_hotel
+yes, i'd like to book for 4 people for 2 nights, starting friday.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, i am looking to book a room at the leverton house for 3 people and 5 nights starting wednesday.	O O O O O O O O O O B-hotel-name I-hotel-name O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, whateveryou recommend, can we book it for two people and four nights starting friday?	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+booking was successful. the table will be reserved for 15 minutes. reference number is : aiaobim7 . is there anything else?	O O O O O O O O O B-taxi-arriveby O O O O O O O O O O O	book_hotel
+book for 2 people, 5 nights, and we will arrive on thursday.	O O B-hotel-bookpeople O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+how about for only a one night stay?	O O O O O B-hotel-bookstay O O	book_hotel
+okay. i would like to recommend the acorn guest house.	O O O O O O O B-hotel-name I-hotel-name I-hotel-name	book_hotel
+we'll be staying for five nights.	O O O O B-hotel-bookstay O	book_hotel
+great! yes please book it for 8 people and for 3 nights.	O O O O O O B-hotel-bookpeople O O O B-hotel-bookstay O	book_hotel
+ok, you're booked at the ashley hotel. your reference number is: 5uh12mnc . is there anything else you need today?	O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O	book_hotel
+area doesn't matter. you can recommend the one you like best, and then please book it for 5 people and 2 nights starting sunday.	O O O O O O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+sure. i need to book it for 3 people staying for 4 nights starting sunday. please provide a reference number. thanks!	O O O O O O O B-hotel-bookpeople O O O B-hotel-bookstay O O B-hotel-bookday O O O O O O	book_hotel
+i'd like to make a reservation for thursday for 6 people and we want to stay 2 nights please.	O O O O O O O B-hotel-bookday O B-hotel-bookpeople O O O O O O B-hotel-bookstay O O	book_hotel
+1 people, 4 nights starting monday. thanks.	B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+the acorn guest house has availability for that time.	O B-hotel-name I-hotel-name I-hotel-name O O O O O	book_hotel
+i would like to this book hotel for 2 people and for 5 nights on friday, please.	O O O O O O O O B-hotel-bookpeople O O O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+can i book a stay there for 1 person for 5 nights starting tuesday please?	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+book it for 7 people and 3 nights starting from sunday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i need it for 2 people please.	O O O O B-hotel-stars O O	book_hotel
+i need to book it to 2 people for 4 nights starting from wednesday.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i do not need free parking. can you book one of them for thursday? i have 8 people and we need to stay for 2 nights.	O O O O O O O O O O O O O B-hotel-bookday O O B-hotel-bookpeople O O O O O O O B-hotel-bookstay O	book_hotel
+i will be traveling on friday from london liverpool street to cambridge.	O O O O O B-hotel-bookday O O O O O O	book_hotel
+friday, 5 nights, beginning this friday.	B-hotel-bookday B-hotel-bookstay O O O O	book_hotel
+is the gonville hotel expensive? if so, please book for 6 people and 4 nights starting on sunday.	O O B-hotel-name I-hotel-name O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+we will be checking in on tuesday.	O O O O O O B-hotel-bookday	book_hotel
+you're booked at the acorn guesthouse for 3 nights, 7 people, starting on monday. your reference number is wu51a5wi . can i help with anything else today?	O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O	book_hotel
+book it for 4 people staying for 2 nights and give me the reference number.	O O O B-hotel-stars O O O B-hotel-bookstay O O O O O O O	book_hotel
+great, i need it for 5 people for 3 nights, and let me know the reference number.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O O O O O O	book_hotel
+do they have a room available that will accommodate 4 people?	O O O O O O O O O B-hotel-bookpeople O	book_hotel
+we'll arrive on monday and stay 2 nights. there will be 8 of us.	O O O B-hotel-bookday O O B-hotel-bookstay O O O O B-hotel-bookpeople O O	book_hotel
+sure, can i please get a table on sunday at 13:00 for 6 people at the missing sock?	O O O O O O O O B-hotel-bookday O O O B-hotel-bookpeople O O O O O	book_hotel
+let's go with charlie chan for 6 people at 15:45 friday	O O O O O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+are you certain there is not either a guesthouse or hotel in the south with free parking for 2 or 3 nights sunday for 6 people?	O O O O O O O O O O O O O B-hotel-area O O O O B-hotel-bookstay O O O B-hotel-bookday O B-hotel-bookpeople O	book_hotel
+i would like to make a reservation for 11:00 on saturday. please provide the reference number for the reservation. thanks	O O O O O O O O O O B-hotel-bookday O O O O O O O O O	book_hotel
+yes, please book it at 14:00 on saturday for 1.	O O O O O O O B-hotel-bookday O O	book_hotel
+the bridge guest house book was unsuccessful. would you like me to try the acorn guest house?	O O O O O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name	book_hotel
+yes, could you book the hotel room for me for 7 people?	O O O O O O O O O O B-hotel-bookpeople O	book_hotel
+monday. please give me their phone number , postcode and address	B-hotel-bookday O O O O O O O O O O	book_hotel
+i will get there thursday.	O O O O B-hotel-bookday	book_hotel
+no, i would like it for 4 people.	O O O O O O B-hotel-bookpeople O	book_hotel
+i was able to book you at charlie chan's. your reference # is zwmr0d97 . i also found you a room at worth house for 1 night. reference # is 0hebry1y .	O O O O O O O O O O O O O O O O O O O O O O B-hotel-name I-hotel-name O O O O O O O O	book_hotel
+that's fine. can i book it on monday for 4 nights for 7 people?	O O O O O O O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+yes, please. that was 4 nights at the alexander starting wednesday. 5 people.	O O O O B-hotel-bookstay O O O B-hotel-name O B-hotel-bookday B-hotel-bookpeople O	book_hotel
+yes that sounds nice, can you check for booking for 5 people and 3 nights starting from monday?	O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+what is the reference number for the ashley hotel?	O O O O O O O B-hotel-name I-hotel-name	book_hotel
+yes. i need it booked for 4 people on sunday and for 2 nights	O O O O O O B-hotel-stars O O B-hotel-bookday O O B-hotel-bookstay O	book_hotel
+yes, for two nights please.	O O B-hotel-bookstay O O	book_hotel
+ok, try for 2 nights.	O O O B-hotel-bookstay O	book_hotel
+yes, make a reservation for 2 for 3 nights starting wednesday.	O O O O O B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+yes please, for tuesday. 4 nights and 8 people. please include the reference number.	O O O B-hotel-bookday B-hotel-bookstay O O B-hotel-bookpeople O O O O O O	book_hotel
+ok. i need a train after 14:00 on wednesday. it needs to leave from london liverpool street and get to cambridge. i need the train id please.	O O O O O O O O B-hotel-bookday O O O O O O O O O O O O O O O O O O	book_hotel
+let's put the pool on hold. i forgot to ask you to book the alexander for me. it is just me for two nights beginning saturday.	O O O O O O O O O O O O O O B-hotel-name O O O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, please make a reservation for 1 person, 3 nights, starting from thursday.	O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes. please book for 4 people, from sunday, for 2 nights. and tell me the refernce number	O O O O B-hotel-bookpeople O O B-hotel-bookday O B-hotel-bookstay O O O O O O O	book_hotel
+i need to leave after 14:00. and it's how i'm getting to cambridge, so friday.	O O O O O O O O O O O O O O B-hotel-bookday	book_hotel
+great i was able to book a and b guest house, the reference is vmwivzv7 .	O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O	book_hotel
+yes for sunday please 4 nights for 4 people	O O B-hotel-bookday O B-hotel-bookstay O O O O	book_hotel
+i would also love a suggestion of something to do in the city. something in the north would be preferred.	O O O O O O O O O O O O O O O O B-hotel-area O O O	book_hotel
+can you book the ashley hotel for me? 4 people and 5 nights starting from wednesday.	O O O O B-hotel-name I-hotel-name O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+there is, but booking was unsuccessful at the city centre north b and b as well.	O O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O	book_hotel
+could you try it for one night? if that works, please book it and get the reference number.	O O O O O B-hotel-bookstay O O O O O O O O O O O O	book_hotel
+the lensfield hotel is in the south while the gonville hotel is in the center.	O O O O O O O O O B-hotel-name I-hotel-name O O O O	book_hotel
+can you book it for one night starting sunday?	O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+then book one, doesn't matter which. eight people, two nights, starting wednesday.	O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i'll be leaving london liverpool street on monday.	O O O O O O O B-hotel-bookday	book_hotel
+let's start over.this is what i need: a cheap place with wifi on the east side. book it for 4 nights for 1 person from wednesday.	O O O O O O O O B-hotel-pricerange O O O O O B-hotel-area O O O O B-hotel-bookstay O O B-hotel-bookpeople O O B-hotel-bookday	book_hotel
+thanks. now i will be needing a taxi please. i want to depart from the hotel	O O O O O O O O O O O O O O O B-hotel-type	book_hotel
+would it help if i stayed for only 3 nights instead? i'm flexible.	O O O O O O O O B-hotel-bookstay O O O O	book_hotel
+the area doesn't matter, i just need to make sure i have a place to stay for 4 nights starting saturday.	O O O O O O O O O O O O O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i need it for 4 people for 2 nights starting thursday, if that fails one night. i don't care the area but i will need the reference number.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O O O O O O O O O O O O O	book_hotel
+you can just pick one for me. i'd like a 4 star guesthouse with free wifi. i need a room monday for 5 nights and 8 people.	O O O O O O O O O O B-hotel-stars O B-hotel-type O O O O O O O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+please, for 2 people for 5 nights starting on wednesday	O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes please. i need it for 5 people for 4 nights staring from thursday.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+okay great! can you please book a reservation for 4 people for 5 nights starting on thursday?	O O O O O O O O O B-hotel-stars O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+the acorn guest house is a good option for you.	O B-hotel-name I-hotel-name I-hotel-name O O O O O O	book_hotel
+it doesn't matter. can you please recommend one and book it on sunday for 3nights for 5	O O O O O O O O O O O O B-hotel-bookday O O O B-hotel-bookpeople	book_hotel
+the el shaddai was full but i was able to book you at the city centre north b and b. reference number xlpm3fvl .	O O O O O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O	book_hotel
+the arbury lodge guesthouse is 4 stars, it has internet it is in the moderate price range	O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O	book_hotel
+is it also a guesthouse type of hotel?	O O O O B-hotel-type O O O	book_hotel
+i am open to any hotel that matches my requests. i need it booked for 1 person, 3 nights starting thursday	O O O O O O O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i also need a taxi from the restaurant to the hotel. i'd like to leave the restaurant by 5:00.	O O O O O O O O O O B-hotel-type O O O O O O O O	book_hotel
+yes i would like to make a booking for 5 people and 5 nights starting from monday.	O O O O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+can you try it for 2 nights?	O O O O O B-hotel-bookstay O	book_hotel
+excellent. can i book that for 2 people for 2 nights starting on tuesday	O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+that sounds great! can you see if you can get me a room starting friday? we'll be staying 4 nights, and there will be 2 of us.	O O O O O O O O O O O O O O B-hotel-bookday O O O B-hotel-bookstay O O O O O B-hotel-bookpeople O O	book_hotel
+yes.book for six people and six nights. remember to also give me the reference number	O O B-hotel-bookstay O O O O O O O O O O O O	book_hotel
+well can you recommend the a hotel from these choices and then book me 2 nights for 4 people starting from friday. i will need my booking reference number.	O O O O O O O O O O O O O O B-hotel-bookstay O O B-hotel-bookpeople O O O B-hotel-bookday O O O O O O O	book_hotel
+i also need to find a place to dine. it should serve british food and be in the moderate price range.	O O O O O O O O O O O O O O O O O O B-hotel-pricerange O O	book_hotel
+can you search for one that is cheap in price then?	O O O O O O O B-hotel-pricerange O O O	book_hotel
+actually, let's back up. i need a place with a star rating of 0, in the centre, with free parking. does the alexander have 0 stars?	O O O O O O O O O O O O O B-hotel-stars O O B-hotel-area O O O O O O O O O	book_hotel
+how about just one night?	O O O B-hotel-bookstay O	book_hotel
+can you try booking again for 3 nights instead of 4?	O O O O O O B-hotel-bookstay O O O O	book_hotel
+i'd like a hotel named warkworth house, and am interested in booking for 8 people starting on saturday.	O O O O O B-hotel-name I-hotel-name O O O O O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+thank you i also need a train leaving after 13:15 on tuesday	O O O O O O O O O O O B-hotel-bookday	book_hotel
+well, the name of the guesthouse is finches bed and breakfast. the phone is 01223276653. do you need anything else?	O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O	book_hotel
+i'd prefer a hotel. can you book that for 6 people and 3 nights?	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+i just want the reservation number for friday please.	O O O O O O O B-hotel-bookday O	book_hotel
+i need it for 8 people, and for 4 nights starting saturday.	O O O O B-hotel-bookpeople O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+there will be 3 people and 4 nights from thursday	O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+book it for 3 people and 2 nights starting from thursday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes for monday. i will be staying one night.	O O B-hotel-bookday O O O O O O	book_hotel
+i'd also like to find a train departing from kings cross and going to cambridge on wednesday.	O O O O O O O O O O O O O O O O B-hotel-bookday	book_hotel
+i need it for 8 people, 2 nights from monday.	O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+pick one for me. i need a hotel for 2 people and 5 nights starting from wednesday.	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i was able to get you rooms at the alexander bed & breakfast. reference number is : hreom15w . can i be of further assistance today?	O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O	book_hotel
+can you try another hotel in the same price range?	O O O O B-hotel-type O O O O O	book_hotel
+yes, please book for 4 nights on friday for 4 people.	O O O O B-hotel-bookstay O O B-hotel-bookday O O O	book_hotel
+yes, please book a room for 3 people and 5 nights.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+either one is fine i need a reservation for 2 on thursday at 12:30.	O O O O O O O O O B-hotel-bookpeople O B-hotel-bookday O O	book_hotel
+great. i have booked you at zizzi cambridge. the reference number is brx4es4l . is there anything else i can help you with?	O O O O O O B-restaurant-name I-restaurant-name O O O O O O O O O O O O O O O	book_hotel
+yes, i need a room starting on tuesday.	O O O O O O O B-hotel-bookday	book_hotel
+i will be staying for 5 days. can you book the hobson house for me for 5 people please?	O O O O O B-hotel-bookstay O O O O O O O O O O O O O	book_hotel
+yes, please for 3 people on monday.	O O O B-hotel-bookpeople O O B-hotel-bookday	book_hotel
+alright. i was able to book you a room at the carolina bed and breakfast. your reference number is oz7qg2ok . is there anything else you need?	O O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O	book_hotel
+sure. the two of us want to stay for two nights starting saturday.	O O B-hotel-bookstay O O O O O O O O O B-hotel-bookday	book_hotel
+yes! please book me for a 4 night stay, starting monday, for 6 people. please send reference number as well.	O O O O O O B-hotel-bookstay O O O B-hotel-bookday O B-hotel-bookpeople O O O O O O O	book_hotel
+i would also like to book a taxi from the college to the guesthouse. can you help with that?	O O O O O O O O O O O O O B-hotel-type O O O O O	book_hotel
+is that rated similar to the other one?	O O O O O O O B-hotel-bookpeople	book_hotel
+yes, i need a reservation for 2 people for 4 nights please.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O	book_hotel
+yes can you reserve for two nights beginning may 18th?	O O O O O B-hotel-bookstay O O O O	book_hotel
+yes, for 8 staying 5 nights starting monday, provide reference number. also, book a taxi from hotel to arrive at restaurant by 11:45. i will need contact number and car type.	O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday O O O O O O O O B-hotel-type O O O O O O O O O O O O O O	book_hotel
+there is the lensfield hotel which is 3 stars. would you like me to make a reservation there?	O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O	book_hotel
+try a 1 night stay, instead.	O O B-hotel-bookstay O O O	book_hotel
+yes please. please recommend a hotel that is available thursday for 3 people, 2 nights as far east as possible.	O O O O O B-hotel-type O O O B-hotel-bookday O B-hotel-bookstay O B-hotel-bookpeople O O O B-hotel-area O O	book_hotel
+i am hoping to book a 5 star hotel in cambridge that is expensive. what ones are available to book for next thursday through sunday?	O O O O O O B-hotel-stars O B-hotel-type O O O O B-hotel-pricerange O O O O O O O O B-hotel-bookday O O	book_hotel
+how about a guesthouse instead?	O O O B-hotel-type O	book_hotel
+yes please, i would like to book it for 7 people for 5 nights on saturday, and i need a reference number.	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O O	book_hotel
+can you suggest another place, is there a hotel with 4 stars in that area?	O O O O O O O O O O B-hotel-stars O O O O	book_hotel
+i'll be happy to book the guesthouse for you. that will be hobson's house located on 96 barton road. is there anything else i can help you with?	O O O O O O O O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O	book_hotel
+yes, please. 5 people for 5 nights starting thursday	O O B-hotel-bookstay O O O O O B-hotel-bookday	book_hotel
+why don't you pick one and reserve 6 people 3 nights starting monday please	O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+ok thats the one. can i reserve a room for 8 people starting saturday? we will be there 4 nights.	O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookday O O O O B-hotel-bookstay O	book_hotel
+i also need a train leaving the same day as hotel	O O O O O O O O O O B-hotel-type	book_hotel
+can you find me something in the east part of town? price range doesn't matter.	O O O O O O O B-hotel-area O O O O O O O	book_hotel
+yes. i would like to book for tuesday for 3 nights for 2 people.	O O O O O O O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+is there availability for 5 people for 5 nights starting on thursday?	O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+yes, please book that for the same group of people for 4 nights the same day. wednesday would work also, and i need the reference number.	O O O O O O O O O O O B-hotel-bookstay O O O O O O O O O O O O O O	book_hotel
+is there another one in the centre with that critera avaible?	O O O O O O B-hotel-area O O O O	book_hotel
+thank you i need to book a room for 3 people, for 3 nights starting friday and can i get the reference number?	O O O O O O O O O B-hotel-bookstay O O O O O B-hotel-bookday O O O O O O O	book_hotel
+i need it for thursday night, for four nights, for 4 people. i'll also need a taxi by 10:15. i need the car type and contact number please.	O O O O B-hotel-bookday O O O O O B-hotel-bookstay O O O O O O O O O O O O O O O O O	book_hotel
+i would like to book the hotel for 8 people spending wednesday and thursday night.	O O O O O O B-hotel-type O B-hotel-bookpeople O O B-hotel-bookday O O O	book_hotel
+i need a hotel type in the west that's 4 stars to book for 6 people for 5 nights, starting on saturday, please recheck that you can't book that.	O O O B-hotel-type O O O B-hotel-area O B-hotel-stars O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O	book_hotel
+i do need a train from london liverpool street on tuesday please.	O O O O O O O O O O B-hotel-bookday O	book_hotel
+book for 7 people and 2 nights starting from thursday and get the reference number	O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O	book_hotel
+yes, 4 people, 4 nights, start from wednesday. reference number please.	O B-hotel-bookstay O O O O O B-hotel-bookday O O O	book_hotel
+can we try for it for wednesday instead?	O O O O O O B-hotel-bookday O	book_hotel
+i apologize for not mentioning it before, please book it starting sunday for 1 person for five days?	O O O O O O O O O O O B-hotel-bookday O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+great can you please book me for that hotel for 2 people 3 nights starting this saturday.	O O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+well i'll be leaving from the cineworld cinema traveling to the city centre north b and b hotel you've just booked for me.	O O O O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O	book_hotel
+yes. book for 5 people, 4 nights and starting on tuesday.	O O O B-hotel-bookpeople O B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+yes i'd like it for 4 people and 4 nights starting saturday.	O O O O O B-hotel-bookstay O O O O O B-hotel-bookday	book_hotel
+yes please, i would arrive tuesday and need to book for 3 people. it will be a 4 night stay. can i get a reference number please?	O O O O O B-hotel-bookday O O O O O B-hotel-bookpeople O O O O O B-hotel-bookstay O O O O O O O O O	book_hotel
+i would rather have a hotel. i need it for 8 people for 3 nights. is there anything available?	O O O O O B-hotel-type O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O O O	book_hotel
+yes, could you book a taxi for me? i'd like to leave the gonville hotel by 24:00, going to all saints church.	O O O O O O O O O O O O O B-hotel-name I-hotel-name O O O O O O O	book_hotel
+expensive price is fine.	B-hotel-pricerange O O O	book_hotel
+it will be for 3 people and2 nights.	O O O O B-hotel-bookpeople O O O	book_hotel
+please, book the hotel for 5 days for 4 people starting on friday.	O O O O O B-hotel-bookstay O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+i'm sorry for jumping ahead. i do want to book the guesthouse starting tuesday for 5 people staying 2 nights.	O O O O O O O O O O O B-hotel-type O B-hotel-bookday O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+i suppose so. another hotel in the same general price range, if you can.	O O O O B-hotel-type O O O O O O O O O	book_hotel
+there are 3 of us.	O O B-hotel-bookpeople O O	book_hotel
+i have booked you for alexander bed and breakfast. reference number: h02psc79 . is there anything else you need?	O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O	book_hotel
+i want it to be a hotel and the stars don't matter.	O O O O O O B-hotel-type O O O O O	book_hotel
+i need to book a room for two nights please.	O O O O O O O B-hotel-bookstay O O	book_hotel
+cool. can you help me to book a room there for 4 people and 3 nights starting from saturday?	O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+sure, please try 2 nights.	O O O B-hotel-bookstay O	book_hotel
+the acorn guest house will do nicely. i would like to book 4 nights starting monday accommodating 4 guests. i will need the reference number.	B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O B-hotel-bookstay O O B-hotel-bookday O O O O O O O O O	book_hotel
+yes please book for 1 night 1 person. i also need a taxi to go from the hotel by 14:15 to the restaurant. what is the car & contact number?	O O O O B-hotel-bookpeople O O O O O O O O O O O O B-hotel-type O O O O O O O O O O O O	book_hotel
+thank you, i need to book for 3 people and 4 nights starting from tuesday.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes please. it needs to be for 4 people for 4 nights starting on monday.	O O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+i'll be arriving on monday.	O O O O B-hotel-bookday	book_hotel
+i don't care, book it for 6 people and 2 nights starting from friday	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+that's for 8 people and it's for 2 nights.	O O B-hotel-bookpeople O O O O B-hotel-bookstay O	book_hotel
+yes, please. i need to book it for 2 people and 4 nights starting from friday.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i will need to stay 4 nights please.	O O O O O B-hotel-bookstay O O	book_hotel
+yes, i would like to book it for 8 people and 3 nights starting from tuesday. please make sure to include the reference number.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O O	book_hotel
+that sounds nice, yes please book a room for 3 guests staying for 5 nights starting on sunday.	O O O O O O O O O B-hotel-bookpeople O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes, please book the ashley hotel. i need a booking for 7 people for 4 nights, starting from friday.	O O O O B-hotel-name I-hotel-name O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+if the acorn guesthouse is in the moderate range with wifi and parking, please book the above nights for me, please.	O O B-hotel-name I-hotel-name O O O B-hotel-pricerange O O O O O O O O O O O O O	book_hotel
+yes, for myself and 4 nights starting tuesday	O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, please. i'd like a reservation for 7 people for 4 nights starting on tuesday.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+can you book the marriott hotel for 5 people and 2 nights on saturday?	O O O O B-hotel-name I-hotel-name O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i would like it to take me between my hotel and the college.	O O O O O O O O O B-hotel-type O O O	book_hotel
+i would like to book that for 2 nights from friday for 2 people.	O O O O O O O B-hotel-bookstay O O B-hotel-bookday O O O	book_hotel
+i need to book it for 4 people starting from saturday for 5 nights.	O O O O O O B-hotel-bookpeople O O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+ok, so pick one of them and book me there a room for 7 people for 2 nights starting on tuesday please.	O O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O	book_hotel
+i want a guesthouse.	O O O B-hotel-type	book_hotel
+yes, one person, 4 nights starting wednesday. reference number for that, parks to visit. area, address and phone number and a taxi to arrive at 17:00, contact number and car type.	O O O B-hotel-bookstay O O B-hotel-bookday O O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+i need a hotel, so i will go with ashley hotel if it is in the moderate price range. i need to book for 5 nights.	O O O B-hotel-type O O O O O B-hotel-name I-hotel-name O O O O O B-hotel-pricerange O O O O O O O B-hotel-bookstay O	book_hotel
+i would like to leave the hotel by 01:00.	O O O O O O B-hotel-type O O	book_hotel
+how about 3 nights for the same day and number of people?	O O B-hotel-bookstay O O O O O O O O O	book_hotel
+great. i need it for 7 for 5 nights.	O O O O O B-hotel-bookpeople O B-hotel-bookstay O	book_hotel
+i would like the hotel for 5 people for 3 nights starting on tuesday.	O O O O B-hotel-type O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yea that sounds good. can i book for 5 people and 4 nights starting friday	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i would like to book for thursday, not tuesday.	O O O O O O B-hotel-bookday O O	book_hotel
+i have booked you at kirkwood house. reference number: a40vc3l5 . anything else you need?	O O O O O B-hotel-name I-hotel-name O O O O O O O O	book_hotel
+booking was successful at worth house. reference number is : e2kq4g5l .	O O O O B-hotel-name I-hotel-name O O O O O O	book_hotel
+can we try 3 nights?	O O O B-hotel-bookstay O	book_hotel
+that'll work. please book it for 6 people for 5 nights. we'll check in on thursday	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O O O B-hotel-bookday	book_hotel
+thanks! i'd like to book at the worth house for 7 people and 3 nights starting thursday.	O O O O O O O B-hotel-name I-hotel-name O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes please reserve the room for 1 person staying 2 nights on sunday.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i would like to book 2 nights for 3 people starting on sunday.	O O O O O B-hotel-bookstay O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+i will be staying for 5 days	O O O O O B-hotel-bookstay O	book_hotel
+i want to book it for 5 nights	O O O O O O B-hotel-bookstay O	book_hotel
+yes, for 2 nights for 5 people on the same day	O O B-hotel-bookstay O O B-hotel-bookpeople O O O O O	book_hotel
+i'd like to book a room at the gonville for 5 people. we'll arrive on saturday and will stay for 4 nights, please.	O O O O O O O O B-hotel-name O B-hotel-bookpeople O O O O B-hotel-bookday O O O O B-hotel-bookstay O O	book_hotel
+4 of us will be staying. please give me the reference number for this booking.	B-hotel-bookstay O O O O O O O O O O O O O O	book_hotel
+yes, please. i need a reservation for 7 at 12:00 on tuesday.	O O O O O O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+yes, please, i would like a taxi from the restaurant to the guesthouse.	O O O O O O O O O O O O B-hotel-type	book_hotel
+that location is perfect. can you book it for me for 2 nights starting with thursday. it would be for 5 people.	O O O O O O O O O O O B-hotel-bookstay O O O B-hotel-bookday O O O O B-hotel-bookpeople O	book_hotel
+thank you. can you please confirm for me that the guesthouse you booked for me is moderately priced?	O O O O O O O O O O B-hotel-type O O O O O O O	book_hotel
+let's try just one night then.	O O O B-hotel-bookstay O O	book_hotel
+monday and i actually meant 17:30 and for 6 people. sorry, things are hectic and im a little scatterbrained.	B-hotel-bookday O O O O O O O B-hotel-bookpeople O O O O O O O O O O	book_hotel
+5 people starting on sunday.	B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+sure, that sounds great. can you book me a room for thursday for 4 people, 2 nights please?	O O O O O O O O O O O B-hotel-bookday O B-hotel-stars O B-hotel-bookstay O O	book_hotel
+we're arriving on thursday.	O O O B-hotel-bookday	book_hotel
+yes could you make me a reservation for 8 people for 4 nights from tuesday.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes please. remember there are 6 people. it should be at least 3 stars and expensive.	O O O O O B-hotel-bookpeople O O O O O O B-hotel-stars O O B-hotel-pricerange	book_hotel
+i want to book this hotel for the same group of people and 3 nights starting from sunday. i'll need a reference number please.	O O O O O O O O O O O O O B-hotel-bookstay O O O O O O O O O O	book_hotel
+i will need 3 nights for 2 people.	O O O O O O B-hotel-bookpeople O	book_hotel
+there'll be 8 guests and we'll be staying on tuesday.	O O B-hotel-bookpeople O O O O O O B-hotel-bookday	book_hotel
+sure, could you book it for 5 people for 3 nights starting thursday?	O O O O O O B-hotel-bookpeople O O B-hotel-stars O O B-hotel-bookday	book_hotel
+i need a taxi to return back to the hotel. i'll be leaving the college at 3:15 pm.	O O O O O O O O O B-hotel-type O O O O O O O O	book_hotel
+please. i'll go with your recommendation. i'll need a room for 8 people, two nights starting sunday.	O O O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, at whichever one you think is nicer. i need a room for 2 nights on saturday. there are 6 of us.	O O O O O O O O O O O O O B-hotel-bookstay O O B-hotel-bookday O O B-hotel-bookpeople O O	book_hotel
+are you sure that didn't work? 8 people and 3 nights starting from monday?	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+could you try the same one, three nights only?	O O O O O O B-hotel-bookstay O O	book_hotel
+sure, for 5 people for four nights starting wednesday.	O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i would recommend autumn house on 710 newmarket road. it has internet and parking and is cheap. does that sound good?	O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O	book_hotel
+please book a table for 4 at 15:15 on wednesday.	O O O O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+yes, i would like to try a different hotel that is in the same price range.	O O O O O O O O B-hotel-type O O O O O O O	book_hotel
+i need a place to dine in the expensive price range serving north indian food	O O O O O O O O O O O O B-hotel-area O O	book_hotel
+yes,please book for 5 people for 5 nights starting on thursday.	O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+5 people and 3 nights starting from thursday.	B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+are there any trains from stevenage to cambridge on monday leaving at 21:00? that is what i'd prefer.	O O O O O O O O O B-hotel-bookday O O O O O O O O	book_hotel
+yes please for two people at 16:15 on wednesday please if its not too much trouble.	O O O B-hotel-bookpeople O O O O B-hotel-bookday O O O O O O O	book_hotel
+there will be 2 people and a total of 4 nights stay starting from tuesday.	O O O B-hotel-bookpeople O O O O O B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+yes, please. on tuesday for 3 nights for 8 people.	O O O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+hamilton lodge and book for 2 people for 3 nights starting monday, please.	B-hotel-name I-hotel-name O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+will i be able to stay for 2 nights?	O O O O O O O B-hotel-bookstay O	book_hotel
+that sounds fine. would you make a reservation for 4 people, 3 nights starting monday?	O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, that would be great. 2 nights for 1 person.	O O O O O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+there will be 7 people.	O O O B-hotel-bookpeople O	book_hotel
+we need it to start on monday please as this is when our train comes in.	O O O O O O B-hotel-bookday O O O O O O O O O	book_hotel
+how about 1 night?	O O B-hotel-bookstay O	book_hotel
+actually, i'm sorry -- can you first try booking that same hotel for just one night starting from saturday?	O O O O O O O O O O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i was hoping to stay for 4 nights starting tuesday.	O O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes lets book one of those for 6 people and 4 nights starting from sunday	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes please. i need it for 7 people, 2 nights and starting from wednesday.	O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+we will be staying 2 nights starting on tuesday.	O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+on second thought, would you look for another hotel in the cheap price range? please book it and give me the reference number.	O O O O O O O O O O O B-hotel-pricerange O O O O O O O O O O O	book_hotel
+yes, please book for 5 people and 2 nights starting on wednesday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+can you make me a booking for 5 people, for 4 nights, starting on saturday?	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+can you please book it for me? 5 nights starting on monday for 7 people. please and thank you.	O O O O O O O B-hotel-bookstay O O O B-hotel-bookday O B-hotel-bookpeople O O O O O	book_hotel
+i would like it for wednesday	O O O O O B-hotel-bookday	book_hotel
+yes please, i need to book it for 3 nights for 5 people starting sunday.	O O O O O O O O B-hotel-bookstay O O B-hotel-bookpeople O O B-hotel-bookday	book_hotel
+all the 8 hotels are 4 star hotels. i recommend the avalon or the archway house. should i book one of those for you and your party?	O O O O O O O O O O O B-hotel-name O O O O O O O O O O O O O O O	book_hotel
+can you book it for 6 people. we will need it for 4 days starting on saturday. i also need a reference number. thanks	O O O O O B-hotel-bookpeople O O O O O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O	book_hotel
+i'd like to book one for 4 people for 3 nights starting sunday. will that be possible?	O O O O O O B-hotel-stars O O B-hotel-bookstay O O B-hotel-bookday O O O O	book_hotel
+please book ashley for 7 people and 4 nights.	O O B-hotel-name O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+the huntingdon marriott hotel sounds really nice. could you book us a room there for 2 nights on tuesday?	O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes and book it for 3 people and 3 nights starting from wednesday.	O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+i have the a and b guesthouse in the east that is a 4 star moderatly price guesthouse. would you like to make reservations?	O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O	book_hotel
+that'll be fine. i would like to book 2 people for 2 nights starting on tuesday.	O O O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+i need the reservation to be for 2 people and 2 nights please.	O O O O O O O B-hotel-bookstay O O O O O	book_hotel
+i've booked you a room at the lovely avalon (ref#3ok8zq7u). can i help with anything else today?	O O O O O O O O B-taxi-destination O O O O O O O O	book_hotel
+i want to book worth house for 3 people for 4 nights starting on wednesday.	O O O O B-hotel-name I-hotel-name O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+awesome, please book it for 2 nights starting tuesday	O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+can you book it for 4 people and 4 nights starting from monday?	O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+sounds great. can i book 8 people for 2 nights starting tuesday?	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+sure thing! may i have the times you would need that taxi and also where you would like to be picked up for your ride to the lovely acorn guest house?	O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	book_hotel
+i would like to stay on sunday for 1 person, 2 nights please.	O O O O O O B-hotel-bookday O B-hotel-bookpeople O B-hotel-bookstay O O	book_hotel
+how about for 2 days? if it's available will you please book and provide a reference number?	O O O B-hotel-bookstay O O O O O O O O O O O O O	book_hotel
+tuesday, i want to arrive at 20:15.	B-hotel-bookday O O O O O O	book_hotel
+try two nights and please give me a reference number when you are done.	O B-hotel-bookstay O O O O O O O O O O O O	book_hotel
+how about alexander bed and breakfast?	O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name	book_hotel
+yes please. book a room for 4 people for 3 nights, beginning monday. i need a reference number.	O O O O O O B-hotel-stars O O B-hotel-bookstay O O B-hotel-bookday O O O O O	book_hotel
+that would be great. i'll need it booked for 1 person for 5 nights starting on thursday. will you provide me with the conformation number when that is complete?	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O O O O O O	book_hotel
+i'd like to book a table there for 8 at 16:00 on saturday, please.	O O O O O O O O B-hotel-bookpeople O O O B-hotel-bookday O	book_hotel
+can you let me know what the trip duration is for that train, please, and how much it costs? oh, almost forgot. does the bridge guest house include free parking?	O O O O O O O O O O O O O O O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O	book_hotel
+i will be travelling on saturday, but i can't leave until the evening after 18:45.	O O O O O B-hotel-bookday O O O O O O O O O	book_hotel
+please, search another hotel in the same pricerange that the leverton house.	O O O B-hotel-type O O O O O O O O	book_hotel
+yes, please. can you book a room for thursday for 5 people, 4 nights?	O O O O O O O O B-hotel-bookday O B-hotel-bookpeople O B-hotel-bookstay O	book_hotel
+yes, please book for 8 people for 3 nights, starting from saturday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i need to book that for 3 people for 5 nights from tuesday please. i will need a reference number.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O O O	book_hotel
+the price range does not matter. it needs to be a guesthouse and located in the west with free parking.	O O O O O O O O O O O B-hotel-type O O O O B-hotel-area O O O	book_hotel
+sorry i tried alexander bed and breakfast but it seems that they have all booked out at for these days. do you want to change to another place?	O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O	book_hotel
+monday, please	B-hotel-bookday O	book_hotel
+yes i need it for friday for two nights for 7 people please. i will also need the reference number.	O O O O O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O O O O O O O O O	book_hotel
+yes. three nights, from wednesday. 8 people.	O B-hotel-bookstay O O B-hotel-bookday B-hotel-bookpeople O	book_hotel
+the avalon sounds lovely. would you book it for 3 nights starting friday for 4 people?	O B-hotel-name O O O O O O O B-hotel-bookstay O O B-hotel-bookday O B-hotel-bookpeople O	book_hotel
+yes, go ahead and book either of those for 2 people and 3 nights beginning on tuesday.	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes please. can you book it for 2 people? we'd like to arrive thursday and stay for 5 nights please.	O O O O O O O B-hotel-bookpeople O O O O O B-hotel-bookday O O O B-hotel-bookstay O O	book_hotel
+can you book me a room for 2 people for 2 days starting friday at the express by holiday inn in cambridge.	O O O O O O O B-hotel-bookstay O O O O O B-hotel-bookday O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name	book_hotel
+yes. please book it for 8 people for 5 nights starting from sunday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+no, but i do need a reservation for wednesday, 2 nights, for 3 people.	O O O O O O O O B-hotel-bookday B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+i have you booked at archway house, the reference number is n8irhqyo, any further questions?	O O O O O B-hotel-name I-hotel-name O O O O O O O O	book_hotel
+can you see if they have anything for 2 nights?	O O O O O O O O B-hotel-bookstay O	book_hotel
+there will be just one person.	O O O O B-hotel-bookpeople O	book_hotel
+okay. your booking at the lensfield hotel was successful. the reference number is m0z0vujl . can i help with anything else today?	O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O O O O O O O	book_hotel
+you are all booked for the alexander bed and breakfast! your reference number is 66xcd1xw . is there anything else you need?	O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O O O O O O	book_hotel
+yes please, as long as internet and parking are free. there are 7 of us arriving on wednesday for 5 nights.	O O O O O O O O O O O O B-hotel-bookpeople O O O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+great thanks. im also looking for an african restaurant on the north side of town	O O O O O O O O O O O B-hotel-area O O O	book_hotel
+yes, can you book me at the guesthouse for 8 people?	O O O O O O O B-hotel-type O B-hotel-bookpeople O	book_hotel
+alexander bed and breakfast was able to be booked, reference number is a36615hd .	B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O	book_hotel
+yes. i need to stay 4 nights with 6 people. i'll need the reference number as well.	O O O O O B-hotel-bookstay O O B-hotel-bookpeople O O O O O O O O	book_hotel
+that sounds good. can you book it for 3 people to stay 5 nights on tuesday?	O O O O O O O O B-hotel-bookpeople O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, please book it for 6 people and 3 nights starting from tuesday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i'd like to book 5 nights, starting saturday.	O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+okay. yes let's book it from tuesday for 4 people for 5 nights.	O O O O O O B-hotel-bookday O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+that sounds wonderful. can you please book a reservation for 7 people?	O O O O O O O O O O B-hotel-bookpeople O	book_hotel
+book it for 4 people and 5 nights starting from sunday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+just please book for that room for 2 nights.	O O O O O O O B-hotel-bookstay O	book_hotel
+book for one and 2 nights starting friday one of your choice	O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday O O O O	book_hotel
+ok, can we book that for 4 people, for 3 nights starting tuesday?	O O O O O O B-hotel-stars O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i want to book for 5 people and 2 nights starting from saturday if available.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O	book_hotel
+yes please. another 3-star hotel in the centre with free wifi.	O O O O B-hotel-type O O B-hotel-area O O O	book_hotel
+i would like it also to be in the north and moderately priced.	O O O O O O O O O B-hotel-area O O O	book_hotel
+that's a pity. ok, but i want it to be expensive alright?	O O O O O O O O O O B-hotel-pricerange O	book_hotel
+can you see if they have just 1 night available?	O O O O O O O B-hotel-bookstay O O	book_hotel
+could you please try one night	O O O O B-hotel-bookstay O	book_hotel
+i would like to be booked into the warkworth house starting tuesday.	O O O O O O O O B-hotel-name I-hotel-name O B-hotel-bookday	book_hotel
+i need five nights. and i need the reference number, please.	O O B-hotel-bookstay O O O O O O O O	book_hotel
+i will need it for 4 nights. thanks.	O O O O O B-hotel-bookstay O O	book_hotel
+yes, i would suggest this one jinling noodle bar.	O O O O O O B-restaurant-name I-restaurant-name I-restaurant-name	book_hotel
+i would like it for 3 people 2 nights starting sunday please.	O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+can you confirm a and b guest house is in the moderate price range, please?	O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O B-hotel-pricerange O O O	book_hotel
+limehouse for 1 person, 3 nights and starting on sunday.	B-hotel-name O B-hotel-bookpeople O B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+yes, as long as finches is in the cheap price range please book it and give me the reference number.	O O O O B-hotel-name O O O B-hotel-pricerange O O O O O O O O O O O	book_hotel
+great, book me one of those for 8 people. we'll stay from friday for 5 nights. i'll need a reference number, please.	O O O O O O O B-hotel-bookpeople O O O O B-hotel-bookday O B-hotel-bookstay O O O O O O O	book_hotel
+i will also need the postcode and the star rating of that guesthouse please.	O O O O O O O O O O O O B-hotel-type O	book_hotel
+there are 4 of us.	O O B-hotel-bookpeople O O	book_hotel
+can you choose one for me and book it for 7 people for 2 nights from friday please?	O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+how about only 2 nights.	O O O B-hotel-bookstay O	book_hotel
+i am also looking for a cheap, italian restaurant near the hotel.	O O O O O O B-hotel-pricerange O O O O B-hotel-type	book_hotel
+el shaddai sounds fine. i need to reserve it for two adults for two nights, please.	B-hotel-name I-hotel-name O O O O O O O O B-hotel-bookstay O O O O O	book_hotel
+the hakka sounds good. can you book it for 5 people on friday?	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookday	book_hotel
+yes please. i'll need to for 5 nights starting on saturday for 5 people.	O O O O O O B-hotel-bookstay O O O B-hotel-bookday O O O	book_hotel
+i'd like to go from broxbourne to cambridge on monday.	O O O O O O O O O B-hotel-bookday	book_hotel
+alexander bed and breakfast was able to be booked reference number is yux0zqku .	B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O	book_hotel
+okay, i've booked 7 for tandoori palace on wednesday at 17:15. your reference number is 2uk6e0ht . the address is 68 histon road chesterton.	O O O O O B-restaurant-name I-restaurant-name O O O O O O O O O O O O O O O O O	book_hotel
+i will be departing from finches bed and breakfast to la mimosa restaurant.	O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O	book_hotel
+thank you. can you book it for 5 people and 4 nights starting on thursday?	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+that would work, can you please book it for 1 person for 5 nights starting from monday?	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+okay, how about on monday?	O O O O B-hotel-bookday	book_hotel
+sounds great, can you book it on sunday for 2 nights for 2 people?	O O O O O O O B-hotel-bookday O B-hotel-bookstay O O O O	book_hotel
+i've made you a reservation at cityroomz for 6 people starting thursday night. your reference number is ldyhl4pr . can i help with anything else?	O O O O O O B-taxi-destination O O O O O O O O O O O O O O O O O O	book_hotel
+it will be for 2 people starting on wednesday.	O O O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+i guess a 4 star guest house would be fine.	O O O B-hotel-stars O O O O O O	book_hotel
+i wanted to begin my stay on tuesday, not wednesday. could you check for tuesday?	O O O O O O O B-hotel-bookday O O O O O O O	book_hotel
+thanks, i just searched online for it, looks great, please book me for 8 people, 3 nights starting tuesday.	O O O O O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i would like to book it for 4 nights for 4 people please.	O O O O O O O B-hotel-bookstay O O O O O	book_hotel
+unfortunately, it looks like acorn guest house doesn't have that time available. would you like me to try for a different day or shorter stay?	O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O	book_hotel
+the acorn guesthouse come highly recommended, shall i book a room for you there?	O B-hotel-name I-hotel-name O O O O O O O O O O O	book_hotel
+there is one option. it is the university arms hotel.	O O O O O O O B-hotel-name I-hotel-name I-hotel-name	book_hotel
+i booked you at city centre north b and b. your reference number is y87q565o . do you need anything else?	O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O	book_hotel
+yes i need it for 2 people checking in on saturday and staying for 4 nights.	O O O O O B-hotel-bookpeople O O O O B-hotel-bookday O O O B-hotel-bookstay O	book_hotel
+i would like to book a room for 3 people for 5 nights starting thursday if possible, if not sunday. can i also have the reference number?	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O O O O O O O O	book_hotel
+yes. book it for monday. 5 nights and 6 people.	O O O O B-hotel-bookday B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+yes, for 7 people and 4 nights.	O O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+there are two moderately price hotels there, would you like to try the wankworth house?	O O O O O O O O O O O O O B-hotel-name I-hotel-name	book_hotel
+can you book that hotel for me for 1 person for 2 nights starting from friday, please?	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O	book_hotel
+thanks can i also get a restaurant? i am looking for one in the centre of town serving korean food	O O O O O O O O O O O O O O B-hotel-area O O O O O	book_hotel
+are you sure there are no modern european restaurants in the centre?	O O O O O O O O O O O B-hotel-area	book_hotel
+yes for 18:00 on wednesday for 8 people please.	O O O O B-hotel-bookday O O O O	book_hotel
+could you try the booking for only four nights and see if it works?	O O O O O O O B-hotel-bookstay O O O O O O	book_hotel
+there are two pizza express locations in the centre. one in regent street city centre and the other in jesus lane fen ditton. would one of those work for you?	O O O B-restaurant-name I-restaurant-name O O O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+i need a room there for 8 on saturday, and staying two nights, i'll need the reference number too please	O O O O O O B-hotel-bookpeople O B-hotel-bookday O O O O O O O O O O O	book_hotel
+on second thought could you book alexander b&b for saturday night please.	O O O O O O B-hotel-name I-hotel-name O B-hotel-bookday O O	book_hotel
+i was able to book your room for autumn house. the reference number is 9iutq641 . is that all you need?	O O O O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O O O	book_hotel
+i can book for 1 night instead.	O O O O B-hotel-bookstay O O	book_hotel
+3 nights starting from saturday.	B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i would need to book the hotel for 6 people for 2 nights on sunday as well.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O	book_hotel
+the price range doesn't matter. i need to book a room for monday.	O O O O O O O O O O O O B-hotel-bookday	book_hotel
+please do. i want it for 7 people on sunday at 16:00. please provide the reference number	O O O O O O B-hotel-bookpeople O O B-hotel-bookday O O O O O O O	book_hotel
+just one.	O B-hotel-bookpeople	book_hotel
+i do not have a preference. please pick one and get me a booking for 8 people for 3 nights staring from friday.	O O O O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes, please. book that one, saturday, 4 nights, 7 people.	O O O O O B-hotel-bookday B-hotel-bookstay O B-hotel-bookpeople O	book_hotel
+i would like it book for sunday for 5 people and 3 nights. can i have the booking number please.	O O O O O O B-hotel-bookday O B-hotel-bookpeople O O B-hotel-bookstay O O O O O O O O	book_hotel
+el shaddai has been booked for you for friday.	B-hotel-name I-hotel-name O O O O O O O	book_hotel
+i would like to book one of the hotels. i will need it for 4 people for 2 nights staring from thursday. may i also have a reference number?	O O O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O	book_hotel
+yes i am looking at a train that departs stansted airport for 3 people. leaves tuesday and arrives in cambridge by 16:30.	O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookday O O O O O O	book_hotel
+6 people please on monday at 18:45. thanks!	B-hotel-bookpeople O O O B-hotel-bookday O O O	book_hotel
+yes please book that for one person on thursday at 12:15.	O O O O O O O O B-hotel-bookday O O	book_hotel
+i'm looking for a hotel called rosa's bed and breakfast.	O O O O O O B-hotel-name O O O	book_hotel
+3 days and get me phone number, postcode, and address please	B-hotel-stars O O O O O O O O O O	book_hotel
+great. i have 7 people and need it for 5 nights starting thursday.	O O O B-hotel-bookpeople O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+ok, can you try 2 nights?	O O O O B-hotel-bookstay O	book_hotel
+yes, please book it for the same day for a party of 4 for 4 nights.	O O O O O O O O O O O O B-hotel-bookstay O O O	book_hotel
+that sounds good. i need to book a 3 night reservation for four people to check in on friday.	O O O O O O O O B-hotel-bookstay O O O B-hotel-stars O O O O O B-hotel-bookday	book_hotel
+i need a hotel to stay in for the same group of people just for 1 night though, and a reference number too please	O O O O O O O O O O O O O O O B-hotel-bookstay O O O O O O O O	book_hotel
+that would be great, thanks. we'll be arriving on sunday.	O O O O O O O O O B-hotel-bookday	book_hotel
+yes, that would be great. i'll need it to start on tuesday and go for 5 nights. it will be 2 people.	O O O O O O O O O O O B-hotel-bookday O O O B-hotel-bookstay O O O O B-hotel-bookpeople O	book_hotel
+i need to book it for 7 people and 2 nights from saturday.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+that would be great. there will be 4 of us and we want to arrive on saturday for 2 nights.	O O O O O O O B-hotel-bookpeople O O O O O O O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+please do so, thank you. after that, i need a cheap hotel.	O O O O O O O O O O B-hotel-pricerange O	book_hotel
+i want to stay for 5 nights starting on tuesday.	O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+booking was successful. reference number is : 6jgb7u7h . the acorn guest house. need any thing else?	O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O	book_hotel
+please book that for 8 people for two nights starting on saturday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i would be arriving sunday.	O O O O B-hotel-bookday	book_hotel
+huntington marriott hotel, 2 nights for 6 people beginning friday. your reference number is wq7sc2ad . is there anything else i can help you with today?	B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+cool i also need a taxi to get to the hotel after visiting the museum.	O O O O O O O O O O B-hotel-type O O O O	book_hotel
+yes, i want that from sunday on for 4 nights. 3 people will be staying.	O O O O O B-hotel-bookday O O B-hotel-bookstay O B-hotel-bookpeople O O O O	book_hotel
+can you book autumn house for 7 people, starting on saturday for 4 nights, please?	O O O B-hotel-name I-hotel-name O B-hotel-bookpeople O O O B-hotel-bookday O B-hotel-bookstay O O	book_hotel
+please book for 3 people and for 4 nights starting friday. i will also need the reference number.	O O O B-hotel-bookpeople O O O B-hotel-bookstay O O B-hotel-bookday O O O O O O O	book_hotel
+whatever you recommend will work. it need it booked for wednesday, 2 nights, 7 people. i'll need the reference number as well please.	O O O O O O O O O O B-hotel-bookday B-hotel-bookpeople O B-hotel-bookstay O O O O O O O O O	book_hotel
+sure it'll be for 5 people for 4 nights starting on tuesday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+great can you book that for 7 people for 3 nights starting friday?	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i am open to suggestions. i need a booking for 1 at 12:30 on monday. can i get a reference number?	O O O O O O O O O O O O O O B-hotel-bookday O O O O O O	book_hotel
+yes please. i need it to be for 1 person for 2 nights starting on friday.	O O O O O O O O B-hotel-bookpeople O O O O O O B-hotel-bookday	book_hotel
+you're all set at the alexander bed and breakfast. your reference number is 5x64uyin . anything else i can do for you?	O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O	book_hotel
+can you please book a room there for 2 people starting on wednesday for 4 nights?	O O O O O O O O B-hotel-bookpeople O O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+i'd like to stay on wednesday, thursday, and friday, please. is that available?	O O O O O B-hotel-bookday O O O O O O O	book_hotel
+sure, can you book that for me? starting friday, 2 nights, and 5 people	O O O O O O O O B-hotel-bookday B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+i would like it to be in the centre of town.	O O O O O O O O B-hotel-area O O	book_hotel
+no, but i do want to book a taxi to go between the restaurant and the hotel, leaving the restaurant by 19:00.	O O O O O O O O O O O O O O O O B-hotel-type O O O O O	book_hotel
+this will be for 3 people please	O O O O B-hotel-stars O O	book_hotel
+yes 4 nights will work, can you book that and give me the reference number?	O B-hotel-bookstay O O O O O O O O O O O O O	book_hotel
+can you book it for me? just for one person starting on wednesday for 5 nights.	O O O O O O O O B-hotel-bookpeople O O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+can i get a train from leicester to cambridge? should be on that same sunday and i'd need it to arrive by 20:30.	O O O O O O O O O O O O O O B-hotel-bookday O O O O O O O O	book_hotel
+i need to book it for 3 days starting on wednesday. there are 6 people in my party.	O O O O O O B-hotel-bookstay O O O B-hotel-bookday O O B-hotel-bookpeople O O O O	book_hotel
+yes, let's try for 4 nights instead.	O O O O B-hotel-bookstay O O	book_hotel
+just one room for the 7 of us.	O O O O O B-hotel-bookpeople O O	book_hotel
+i would like it starting thursday for 8 people for 5 nights.	O O O O O B-hotel-bookday O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+there will be 3 people.	O O O B-hotel-bookpeople O	book_hotel
+yes please, two people and one room with two beds for next saturday.	O O B-hotel-bookpeople O O O O O O O O O B-hotel-bookday	book_hotel
+monday, please. there will be 7 of us and we'd like to stay for 4 days.	B-hotel-bookday O O O O B-hotel-bookpeople O O O O O O O O B-hotel-bookstay O	book_hotel
+can you please recommend one and book it for 4 nights?	O O O O O O O O O B-hotel-bookstay O	book_hotel
+try for one day.	O O B-hotel-bookstay O	book_hotel
+i'd like info on bridge guest house. i need 5 nights for 8 people starting saturday. can you book and give me a reference number please?	O O O O B-hotel-name I-hotel-name I-hotel-name O O B-hotel-bookstay O O B-hotel-bookpeople O O B-hotel-bookday O O O O O O O O O O	book_hotel
+yes, please try booking for 2 nights.	O O O O O B-hotel-bookstay O	book_hotel
+it'll be for 5 people and 5 nights starting from wednesday please	O O O B-hotel-bookstay O O O O O O B-hotel-bookday O	book_hotel
+yes, please. again, there are 5 of us on sunday. book us for 11:00.	O O O O O B-hotel-bookstay O O O B-hotel-bookday O O O O	book_hotel
+yes please recommend one. the booking is needed for saturday. 3 nights, 6 people	O O O O O O O O O B-hotel-bookday B-hotel-bookstay O B-hotel-bookpeople O	book_hotel
+can i please have the phone number and area for pizza hut fen ditton? also, the guesthouse we booked is 4 stars correct?	O O O O O O O O O O O O O O O O B-hotel-type O O O B-hotel-stars O O	book_hotel
+i would be there for 5 nights.	O O O O O B-hotel-bookstay O	book_hotel
+you are booked at the alexander b & b. it is cheap, with wifi and parking included. your reference number is ztrmokwm . is there anything else?	O O O O O B-hotel-name O O O O O O O O O O O O O O O O O O O O O	book_hotel
+yes, please. can you book a room for friday for 1 person, 3 nights?	O O O O O O O O B-hotel-bookday O B-hotel-bookpeople O B-hotel-bookstay O	book_hotel
+could you also help me with a taxi between the hotel and restaurant?	O O O O O O O O O O B-hotel-type O O	book_hotel
+not really. i would like you to pick one and book it for 5 people for 3 nights staring from wednesday.	O O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i need to book the room for 2 people for 2 nights, starting on wednesday.	O O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+sure, how about two nights?	O O O B-hotel-bookstay O	book_hotel
+yes, please. i would like a room for 6 people for 2 nights. we'll arrive on saturday.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+your booking number is gc8v34od for the acorn guest house at 154 chesterton road for 1 person on saturday for 2 days is set.	O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O	book_hotel
+are you sure the alexander is in the centre? you said earlier that it's in the east.	O O O O B-hotel-name O O O B-hotel-area O O O O O O O O	book_hotel
+on friday, please.	O B-hotel-bookday O	book_hotel
+8 people, for 3 nights.	B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+it does not matter. pick and book me at one on monday, for four people at 13:00.	O O O O O O O O O O O B-hotel-bookday O B-hotel-bookpeople O O O	book_hotel
+ok, i have you booked in the ashley hotel. the reference number is : keh2f5z2 . can i help you with anything else today?	O O O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O	book_hotel
+tuesday please. thanks	B-hotel-bookday O O	book_hotel
+let's go with city centre.	O O O B-hotel-name I-hotel-name	book_hotel
+i am in the mood for asian oriental food. i am looking for something in the moderate price range, please.	O O O O O O O O O O O O O O O O B-hotel-pricerange O O O	book_hotel
+thank you! please book a room for 6 people for 5 nights, starting on friday.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes please book a table on wednesday for 8 people at 17:15, i'll need a reference number.	O O O O O O B-hotel-bookday O B-hotel-bookpeople O O O O O O O O	book_hotel
+can i just try maybe 3 nights?	O O O O O B-hotel-bookstay O	book_hotel
+i am leaving on friday.	O O O O B-hotel-bookday	book_hotel
+i'll be staying for 3 nights starting on saturday.	O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+one person for two nights and need the reference number. also want to reserve a table at travellers rest for one on monday at 13:45, the reference number as well.	O O O B-hotel-bookstay O O O O O O O O O O O O O O O O O O B-hotel-bookday O O O O O O O	book_hotel
+i will be travelling on wednesday.	O O O O O B-hotel-bookday	book_hotel
+i was able to book you a room at the acorn guest house. booking was successful. reference number is : fbgl114y . is there anything else i can help with?	O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O	book_hotel
+yes. i would like to book the hotel for 4 people starting on tuesday for 4 nights.	O O O O O O O O O B-hotel-bookstay O O O B-hotel-bookday O O O	book_hotel
+i have made a booking for you for city centre north b and b. your reference number is k9ngvlit .	O O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O	book_hotel
+yes. that sounds good. can you book it for 1 person and 2 nights starting from monday?	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes, i need of for seven people starting today and lasting five nights.	O O O O O B-hotel-bookpeople O O O O O B-hotel-bookstay O	book_hotel
+yes, can you please book me for 6 people and 4 nights starting on monday?	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes, please. make sure it's for 3 people and 3 nights starting on sunday and i need the reference number.	O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday O O O O O O	book_hotel
+that sounds great. i would like to book that for 3 people and 2 nights starting from sunday.	O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+can you help me book a 5 night stay there?	O O O O O O B-hotel-bookstay O O O	book_hotel
+yes, could you book it for 5 people for 3 nights starting thursday?	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+okay. i would like to book the archway house for three nights and for one person starting on sunday and what is the price.	O O O O O O O B-hotel-name I-hotel-name O B-hotel-bookstay O O O B-hotel-bookpeople O O O B-hotel-bookday O O O O O	book_hotel
+okay sounds good can you make a booking for 3 people and 4 nights starting from sunday.	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i would like the booking for wednesday at 19:45 for a group of 6	O O O O O O B-hotel-bookday O O O O O O B-hotel-bookpeople	book_hotel
+i also need a place to dine in the north	O O O O O O O O O B-hotel-area	book_hotel
+yes, please! i need a table for 2 on tuesday at 16:15?	O O O O O O O B-hotel-bookpeople O B-hotel-bookday O O	book_hotel
+yes i'd like to book a train from kings lynn to cambridge on saturday that leaves after 12:00	O O O O O O O O O O O O O B-hotel-bookday O O O O	book_hotel
+yes book for 4 people and 5 nights from sunday	O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, please book the room for 4 people and 4 nights starting from tuesday.	O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+can you try another hotel in the same pricerange?	O O O O B-hotel-type O O O O	book_hotel
+i need it for 6 people for 3 nights starting monday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes please, for 5 people and 4 nights on friday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i would like a room starting on sunday for 4 nights. there will be 6 of staying.	O O O O O O O B-hotel-bookday O B-hotel-bookstay O O O O B-hotel-bookpeople O O	book_hotel
+i will need thursday at 17:00 please.	O O O B-hotel-bookday O O O	book_hotel
+okay, i've booked you for one person at university arms, starting on tuesday, for 4 days. your reference number is hsvg3gt9 .	O O O O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O O O O	book_hotel
+the avalon doesn't have room for 5 nights starting monday. how about a different day or a shorter stay?	O B-hotel-name O O O O O O O O O O O O O O O O O	book_hotel
+i need a reservation for 5 people and 5 nights starting wednesday. thanks!	O O O O O B-hotel-bookstay O O O O O B-hotel-bookday O	book_hotel
+great, lets set up a reservation for 7 people at 20:00 on tuesday.	O O O O O O O B-hotel-bookpeople O O O O B-hotel-bookday	book_hotel
+yes. please book it for 4 people and 5 nights beginning saturday	O O O O O B-hotel-stars O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+that sounds great! can you please book it for me starting on thursday? i will need the reference number please.	O O O O O O O O O O O O B-hotel-bookday O O O O O O O	book_hotel
+yes, i would. i need 3 nights, 7 people, starting wednedady. i need the reference number. i also need a train to cambridge after 14:45.	O O O O O B-hotel-bookstay O B-hotel-bookpeople O O O O O O O O O O O O O O O O O	book_hotel
+yes, please! we'll arrive on monday and stay 2 nights. just the two of us, of course!	O O O O O B-hotel-bookday O O B-hotel-bookstay O O O O O O O O	book_hotel
+okay, i need a hotel for same group of people for two nights starting friday, and i'll need reference number, please.	O O O O O O O O O O O B-hotel-bookstay O O B-hotel-bookday O O O O O O	book_hotel
+i stayed at finches last year. can you please look for it again?	O O O B-hotel-name O O O O O O O O O	book_hotel
+i have you booked in the ashley hotel. your reference number is cw6ymt0b . is there anything else i can do for you today?	O O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O	book_hotel
+can you try booking it for two nights?	O O O O O O B-hotel-bookstay O	book_hotel
+ok, can you book a room for me at your favorite place? 4 of us will arrive on tuesday, and we need to stay for 3 nights.	O O O O O O O O O O O O B-hotel-stars O O O O O B-hotel-bookday O O O O O O B-hotel-bookstay O	book_hotel
+i'll be starting on thursday.	O O O O B-hotel-bookday	book_hotel
+ive located a guesthouse that meets your criteria expect that it is on the north side, city centre north b and b would you like me to try and book that?	O O O O O O O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O	book_hotel
+i am also looking for a resturant called nandos city centre. can you make a reservation there for 2 people at 17:00 on saturday?	O O O O O O O O O O O O O O O O O O B-hotel-bookpeople O O O O B-hotel-bookday	book_hotel
+yes please! i'd like the reservation to be for 2 people for 4 nights starting on sunday.	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+lensfield sounds perfect. i will need 5 nights please.	O O O O O O B-hotel-bookstay O O	book_hotel
+how about the ashley hotel?	O O O B-hotel-name I-hotel-name	book_hotel
+yes, that sounds good. could you reserve a room for 5 people checking in on saturday? i think we'll stay for 3 nights.	O O O O O O O O O O B-hotel-bookpeople O O O O B-hotel-bookday O O O O O B-hotel-bookstay O	book_hotel
+my destination is cambridge and i should arrive by 20:00. please book tickets for thursday for 4 people. i'll also need the reference number.	O O O O O O O O O O O O O O B-hotel-bookday O B-hotel-bookstay O O O O O O O	book_hotel
+yes. need it in the east. star of 4 and do not care about parking, but do need it to be a hotel not guesthouse.	O O O O O B-hotel-area O O B-hotel-bookstay O O O O O O O O O O O O O B-hotel-type O O	book_hotel
+oh sure, try for 2 nights instead of 3.	O O O O B-hotel-bookstay O O O O	book_hotel
+it will be 6 people, 3 nights from wednesday on.	O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+yes please,if it is available for thursday for 3 nights for 2 people	O O O O O O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+could you check to see if they have booking for 3 people and 2 nights starting from thursday?	O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes for 8 for 3 nights starting sunday	O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, let's try 2 nights and see if that works.	O O O B-hotel-bookstay O O O O O O	book_hotel
+yes, which one has room for six guests?	O O O O O O B-hotel-bookpeople O	book_hotel
+yes, i need a train on friday leaving from peterborough to cambridge.	O O O O O O B-hotel-bookday O O O O O	book_hotel
+yes i would like to book that for the same day for 4 nights please starting from saturday.	O O O O O O O O O O O O B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+how about 3 nights, then?	O O B-hotel-bookstay O O	book_hotel
+ok sounds good. is it available for a 5 night stay for 2 on wednesday? if so book it.	O O O O O O O O B-hotel-bookstay O O O B-hotel-bookpeople O B-hotel-bookday O O O O	book_hotel
+i certainly want to try it then. please book for 6 people at 11:30 on saturday.	O O O O O O O O O O B-hotel-bookpeople O O O O B-hotel-bookday	book_hotel
+i want to leave from city centre north b and b to arrive at the eraina restaurant in time for my 17:15 reservation.	O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O	book_hotel
+great! you're booked at autumn house for one night. your reference number is n4tvfkgs . would you like more information?	O O O O B-taxi-destination I-taxi-destination O O O O O O O O O O O O O O	book_hotel
+that sounds great! i need a reservation just for me for 5 nights starting on thursday.	O O O O O O O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+can you please make a reservation for just me, for 4 nights starting tuesday?	O O O O O O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+5 people and 4 nights.	B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+can you try for 2 nights instead?	O O O O B-hotel-bookstay O O	book_hotel
+can you try booking it for just one night? if that works i will need the reference number, too.	O O O O O O O B-hotel-bookstay O O O O O O O O O O O	book_hotel
+i apologize, it looks like i forgot to book the hotel. alexander b&b, saturday night thru monday, for two adults, please.	O O O O O O O O O O O O O B-hotel-bookday O O O O B-hotel-bookstay O O	book_hotel
+how about just for the one night?	O O O O O B-hotel-bookstay O	book_hotel
+would i be able to book for two nights?	O O O O O O O B-hotel-bookstay O	book_hotel
+i need a cheap hotel for 6 people on wednesday for 3 nights please.	O O O B-hotel-pricerange B-hotel-type O B-hotel-bookpeople O O B-hotel-bookday O B-hotel-bookstay O O	book_hotel
+we will arrive on tuesday and stay for 4 nights. there will be 2 of us.	O O O O B-hotel-bookday O O O B-hotel-bookstay O O O O B-hotel-bookpeople O O	book_hotel
+i also need to find a hotel for the two of us starting on the same monday for 4 nights, please.	O O O O O O B-hotel-type O O B-hotel-bookpeople O O O O O O B-hotel-bookday O B-hotel-bookstay O O	book_hotel
+the day will be tuesday, as well.	O O O O B-hotel-bookday O O	book_hotel
+great i also need a train going to cambridge on tuesday as well.	O O O O O O O O O O B-hotel-bookday O O	book_hotel
+can we try for 1 night instead of 3?	O O O O B-hotel-bookstay O O O B-hotel-bookpeople	book_hotel
+no, i need it to be friday. can we try it for a one night stay instead?	O O O O O O B-hotel-bookday O O O O O O B-hotel-bookstay O O O	book_hotel
+yes, please book for 1 person and 4 nights starting from tuesday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+great i also need the lovell lodge for 8 people for 2 nights starting wednesday.	O O O O O B-hotel-name I-hotel-name O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+can you get it for 2 nights?	O O O O O B-hotel-bookstay O	book_hotel
+i have booked you a room at the acorn guest house, i think you'll like it. reference number is : 5epgq1mr .	O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O	book_hotel
+okay, i've booked you at autumn house with reference number 6ospysh1 . may i help with anything else?	O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O	book_hotel
+okay i was able to book you into the gonville and your reference number is : pvrv1eej .	O O O O O O O O O B-hotel-name O O O O O O O O	book_hotel
+it's just for me, and i'll be staying for three nights starting from tuesday.	O O O O O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+that sounds nice. could you book that for me for friday?	O O O O O O O O O O B-hotel-bookday	book_hotel
+not really,once you find the hotel you want to book it for the same group of people and 5 nights starting from monday. send the reference number.	O O O O O O O O O O O O O O O O O O B-hotel-bookstay O O O B-hotel-bookday O O O O	book_hotel
+yes, please. i would like it for thursday for 7 people, 5 nights.	O O O O O O O B-hotel-bookday O B-hotel-bookpeople O B-hotel-bookstay O	book_hotel
+it will be 2 nights and for 1 person.	O O O B-hotel-bookstay O O O B-hotel-bookpeople O	book_hotel
+i'll be arriving on sunday. please send me the reference number for this stay.	O O O O B-hotel-bookday O O O O O O O O O	book_hotel
+sure, can i book for 4 nights starting saturday for 8 people?	O O O O O B-hotel-bookstay O O B-hotel-bookday O B-hotel-bookpeople O	book_hotel
+i will try the lovell lodge. will you book a room for me starting on monday for 3 nights, please? i am traveling alone.	O O O O B-hotel-name I-hotel-name O O O O O O O O O B-hotel-bookday O B-hotel-bookstay O O O O O O	book_hotel
+thank you i need to book four people for 2 nights starting saturday	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+sounds nice. can you book a room for 2 nights for me? there will be 2 of us, coming in on friday.	O O O O O O O O B-hotel-bookstay O O O O O O O O O O O O B-hotel-bookday	book_hotel
+i have you booked at allenbell at 710 newmarket road. the reference number is : s0jdzbtq .	O O O O O B-hotel-name O O O O O O O O O O O	book_hotel
+3 nights starting from sunday.	B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+there are 5 people in my group and we will be staying 2 nights.	O O B-hotel-bookpeople O O O O O O O O O B-hotel-bookstay O	book_hotel
+there are 7 guesthouses that fit your needs. may i recommend arbury lodge guesthouse?	O O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name	book_hotel
+what about the 4 star hotels?	O O O B-hotel-stars O O	book_hotel
+that sounds lovely. please book that for 6 people for 5 nights starting saturday.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes a reservation for three please	O O O O B-hotel-bookpeople O	book_hotel
+that is great, can you book me please for 12:00 for 5 people on monday?	O O O O O O O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i will get there on saturday.	O O O O O B-hotel-bookday	book_hotel
+nope, just pick your favorite. i need lodging for 5 people, 4 nights, and we'll arrive on wednesday.	O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O O O B-hotel-bookday	book_hotel
+i need one that arrives in cambridge by 8:45 on friday.	O O B-hotel-bookstay O O O O O O O B-hotel-bookday	book_hotel
+okay, i recommend rosa's bed and breakfast. would you like me to book a reservation there?	O O O B-hotel-name O O O O O O O O O O O O	book_hotel
+yes, please book the hotel.	O O O O B-hotel-type	book_hotel
+book it for 2 people and 2 nights starting from sunday.	O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+i request you to book it for 6 people and 2 nights starting from friday	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+would 1 night work instead? if it does could i get the reference number please?	O B-hotel-bookstay O O O O O O O O O O O O O	book_hotel
+i will take the one in centre, can you book that for 8 people starting friday for 5 nights? i need the reference number as well please.	O O O O O O B-hotel-area O O O O O B-hotel-bookpeople O O B-hotel-bookday O B-hotel-bookstay O O O O O O O O O	book_hotel
+the acorn will do. can you please book me a room for monday for 3 people, 5 nights please?	O B-hotel-name O O O O O O O O O O B-hotel-bookday O B-hotel-bookpeople O B-hotel-bookstay O O	book_hotel
+starting sunday for 3 nights and 6 people.	O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+please make a reservation for 3 nights.	O O O O O B-hotel-bookstay O	book_hotel
+great! book for 1 people starting on thursday for 4 nights. thanks.	O O O B-hotel-bookpeople O O O B-hotel-bookday O B-hotel-bookstay O O	book_hotel
+please book for 3 people for 5 nights, starting from monday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i would like it for 6 people for 2 nights starting on wednesday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+okay can you make a booking for 4 nights from friday for 7 people.	O O O O O O O B-hotel-bookstay O O B-hotel-bookday O B-hotel-bookpeople O	book_hotel
+yes, i'm going to cambridge and i need to leave on thursday.	O O O O O O O O O O O B-hotel-bookday	book_hotel
+i don't care about the type of cusine, i'd like it to be in the moderate range in the north.	O O O O O O O O O O O O O O O B-hotel-pricerange O O O B-hotel-area	book_hotel
+also looking to make a reservation at archway house. 2 people, 2 nights starting from saturday. please make the reservation and provide reference number.	O O O O O O O B-hotel-name I-hotel-name B-hotel-bookstay O O O O O B-hotel-bookday O O O O O O O O	book_hotel
+do they have free parking? if so, please reserve a room for tuesday for 7 people, 4 nights.	O O O O O O O O O O O O B-hotel-bookday O B-hotel-bookpeople O B-hotel-bookstay O	book_hotel
+i think that should be fine. can i book one for wednesday for 4 nights? there will be 4 of us.	O O O O O O O O O O O B-hotel-bookday O B-hotel-bookstay O O O O O O O	book_hotel
+okay. please book a stay starting on tuesday for 4 nights and 3 people.	O O O O O O O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+i'm going to need a taxi at the hotel first, i'll be leaving the hotel at 19:45.	O O O O O O O O B-hotel-type O O O O O O O O	book_hotel
+no tuscan restaurants? i also like italian food. anything in the cheap price range?	O O O O O O O O O O O B-hotel-pricerange O O	book_hotel
+sure. there will be 5 of us for 4 nights starting monday.	O O O O B-hotel-bookpeople O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+can you find one that will take a booking for thursday and friday for eight people?	O O O O O O O O O O B-hotel-bookday O O O B-hotel-bookpeople O	book_hotel
+i would like to stay on the east side.	O O O O O O O B-hotel-area O	book_hotel
+yes, please. i need rooms for 3 nights for 4 people beginning friday.	O O O O O O B-hotel-bookstay O O B-hotel-bookpeople O O B-hotel-bookday	book_hotel
+i will need a hotel in the same area, preferably 4 stars and include free parking and internet. i will need a booking for 5 people, 5 nights starting saturday.	O O O O B-hotel-type O O O O O B-hotel-stars O O O O O O O O O O O O O B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+actually, i'd like a moderate hotel in the centre with free wifi. i need to book it for 3 people for 3 nights starting sunday. and a reference number please?	O O O O B-hotel-pricerange O O O B-hotel-area O O O O O O O O O B-hotel-bookstay O O O O O B-hotel-bookday O O O O O	book_hotel
+i also need a place to dine in the centre area. can you recommend an expensive restaurant that serves indian food?	O O O O O O O O O O O O O O O B-hotel-pricerange O O O O O	book_hotel
+yes, please, it's for 1 person for 4 nights starting from monday. if you can get it, i need the reference number, please.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O O O O O	book_hotel
+i want to leave the hotel by 05:00. going to the attraction.	O O O O O B-hotel-type O O O O O O	book_hotel
+yes please book it monday, 3 nights, 5 people. i'll need the reference number as well.	O O O O B-hotel-bookday B-hotel-bookstay O B-hotel-bookpeople O O O O O O O O	book_hotel
+does saturday work?	O B-hotel-bookday O	book_hotel
+that one sounds good. can i book it for 8 people for 2 nights starting saturday?	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+okay, your room reservation is for gonville hotel located at gonville place. your reference number is roqagg58 . anything else you need help with today?	O O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O	book_hotel
+yes, i need to book it for 5 people.	O O O O O O O B-hotel-bookpeople O	book_hotel
+the area does not matter to me, but i need accommodations for 6 adults for 3 nights and 4 days beginning this sunday.	O O O O O O O O O O O O B-hotel-bookpeople O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+great. i need to make a reservation starting on saturday.	O O O O O O O O O B-hotel-bookday	book_hotel
+4 people, 5 nights on saturday. if that's not available try a different one same price range.	B-hotel-stars O B-hotel-bookstay O O B-hotel-bookday O O O O O O O O O O O	book_hotel
+that's fine. please make a reservation for 3 people on friday at 18:00, please.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookday O O O	book_hotel
+maybe the centre near my restaurant.	O O B-hotel-area O O O	book_hotel
+i'm sorry, starting from sunday for 2 nights, 6 people. if that fails try one night and provide the reference number.	O O O O B-hotel-bookday O B-hotel-bookstay O B-hotel-bookpeople O O O O O O O O O O O O	book_hotel
+can you book a room there for 2 people and two nights? i'll need a reference number as well.	O O O O O O O B-hotel-bookstay O O O O O O O O O O O	book_hotel
+beginning on wednesday for three nights. i also need a restaurant in the same area as the hotel that serves chinese food.	O O B-hotel-bookday O B-hotel-bookstay O O O O O O O O O O O O O O O O O	book_hotel
+i would like a reservation for 4 people and 4 nights starting from friday.	O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+yes, please - could you book it for 4 people for 4 nights please? also, could you let me know the reference number?	O O O O O O O O B-hotel-bookstay O O O O O O O O O O O O O O	book_hotel
+we'll check in on tuesday, please.	O O O O B-hotel-bookday O	book_hotel
+can you book it for 8 people for 4 nights starting on thursday?	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+carolina bed and breakfast is a moderate price, 4 star guesthouse in the east area with wifi and parking. will that work?	B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O	book_hotel
+okay i need a reservation for friday, 4 people at 14:15. can you please include the reference number?	O O O O O O B-hotel-bookday B-hotel-bookpeople O O O O O O O O O O	book_hotel
+ok, i need rooms for 7 people for 4 nights, starting on wednesday. can you tell me which of the two hotels are available then?	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O O O O O O	book_hotel
+i am also looking for a train to cambridge from stansted airport on thursday. i would need to arrive by 14:00.	O O O O O O O O O O O O O B-hotel-bookday O O O O O O O	book_hotel
+yes, can you book me for 4 people and 3 nights starting on thursday?	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+okay sounds good can you make a booking for 3 people and 4 nights starting from sunday.	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+please make the reservation for 2 people.	O O O O O B-hotel-bookpeople O	book_hotel
+the ashley hotel is a two-star hotel with a moderate price and internet. do you want to make a booking?	O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O	book_hotel
+yes please. book it for 4 nights for 8 people starting this friday	O O O O O B-hotel-bookstay O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+yes, i will need accommodations for 7 people, for 5 nights. we want to check in thursday.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+thanks so much, can you book it for 1 person for 4 nights starting from the same day?	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O O O O	book_hotel
+i need reservations for 2.	O O O O B-hotel-bookpeople	book_hotel
+can you please book it for 5 people for 3 nights starting on friday? also, i will need the reference number for that.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O O O	book_hotel
+how about acorn guest house? i hear it's lovely	O O B-hotel-name I-hotel-name I-hotel-name O O O O	book_hotel
+i was able to get you a room for 3 people for 1 night, starting monday, at the acorn guest house. the reference number is gxtsrby0 .	O O O O O O O O O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O	book_hotel
+yes, are there any modern american restaurants in the center of town? something expensive.	O O O O O O O O O O O O O B-hotel-pricerange	book_hotel
+no i have no preferences. i need it for 4 nights for 2 people starting monday.	O O O O O O O O O B-hotel-bookstay O O B-hotel-bookpeople O O B-hotel-bookday	book_hotel
+i do not care about the area too much. could you please make a reservation for 1 person starting thursday for 5 nights?	O O O O O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+yes. i would like to book for 8 people for 3 nights starting from saturday.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+in the east. with free wifi, please.	O O B-hotel-area O O O O	book_hotel
+i need 3 rooms for nights in a cheap hotel	O O B-hotel-bookstay O O O O O B-hotel-pricerange O	book_hotel
+thank you. i also would like to find some places to go in the area of the hotel.	O O O O O O O O O O O O O O O O O B-hotel-type	book_hotel
+maybe. is either one a 4 star hotel? if so, i'd like to book a room for 4 nights.	O O O O O B-hotel-bookstay O O O O O O O O O O O O O	book_hotel
+do you have the phone number for autumn house's front desk?	O O O O O O O B-hotel-name I-hotel-name O O	book_hotel
+yes i need to book it for 7 people, for 4 nights starting thursday, can i get the reference number?	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O O	book_hotel
+book for 4 people and 4 nights from wednsday	O O B-hotel-bookstay O O O O O O	book_hotel
+that sounds nice. can you get it for four nights starting thursday?	O O O O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+that is what i am looking for. i need to book for 2 nights starting on wednesday. four people will be staying. please give a reference number.	O O O O O O O O O O O O B-hotel-bookstay O O O B-hotel-bookday B-hotel-bookpeople O O O O O O O O O	book_hotel
+sure, can you try just 2 nights, please?	O O O O O B-hotel-bookstay O O	book_hotel
+please try it for 2 nights.	O O O O B-hotel-bookstay O	book_hotel
+sure i was able to book you into the cambridge belfry and your reference number is 4myondfw .	O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O	book_hotel
+yes, that would be great. i'll need it booked for saturday, 4 nights, and 8 people. can i have the reference number please?	O O O O O O O O O O B-hotel-bookday B-hotel-bookstay O O B-hotel-bookpeople O O O O O O O O	book_hotel
+all right, then let's start all over again. i need a place to stay for 4 people 3 nights, if not then for one night.	O O O O O O O O O O O O O O O B-hotel-bookpeople O O O O O O O B-hotel-bookstay O	book_hotel
+ok, i will need to book for 6 people starting wednesday for 2 nights.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+i'm sorry the alpha-minton doesn't have free wifi. i booked you into the avalon starting saturday, which you wanted.	O O O O O O O O O O O O O B-hotel-name O O O O O	book_hotel
+here you go university arms hotel	O O O B-hotel-name I-hotel-name I-hotel-name	book_hotel
+no, but there will be 6 people in my party and we'd like to stay for 4 nights starting on tuesday, if possible.	O O O O O B-hotel-bookpeople O O O O O O O O O O B-hotel-bookstay O O O B-hotel-bookday O O	book_hotel
+that's great. please make a reservation for 1 on monday. i'd like to stay 3 nights.	O O O O O O O B-hotel-bookpeople O B-hotel-bookday O O O O B-hotel-bookstay O	book_hotel
+yes please, for 4 nights.	O O O B-hotel-bookstay O	book_hotel
+ashley hotel is moderately priced and has free wifi. what night would you like to begin your stay?	B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O	book_hotel
+could you try another in the moderate price range?	O O O O O O B-hotel-pricerange O O	book_hotel
+we are arriving on tuesday and want to stay 2 nights.	O O O O B-hotel-bookday O O O O B-hotel-bookstay O	book_hotel
+great, i have booked express by holiday inn cambridge for 7 people for 1 night starting saturday. your reference number is : 5agsv9jb . may i help with anything else?	O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O	book_hotel
+that sounds great. could you book me a room for 3 nights starting saturday please.	O O O O O O O O O O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+can you pick your favorite and book a room for me? there will be 8 people, and we'll arrive on thursday and spend 3 nights.	O O O O O O O O O O O O O O B-hotel-bookstay O O O O O B-hotel-bookday O O B-hotel-bookpeople O	book_hotel
+yes i need a chinese place in the cheap range	O O O O O O O O B-hotel-pricerange O	book_hotel
+the cheap one is fine. book it for 4 people for 4 nights starting tuesday	O O O O O O O O B-hotel-bookstay O O O O O B-hotel-bookday	book_hotel
+your booking at the alexander bed and breakfast was successful, the reference number is l60goseu .	O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O	book_hotel
+yes, i need a reservation for 3 people, 3 nights starting wednesday and i also need the reference number.	O O O O O O B-hotel-bookstay O O O O B-hotel-bookday O O O O O O O	book_hotel
+four people for four nights.	B-hotel-bookstay O O O O	book_hotel
+please pick the best option. i need a room for 8, for two nights and starting monday.	O O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes, please book golden wok for 2 people at 18:45 on wednesday.	O O O O O O B-hotel-bookpeople O O O O B-hotel-bookday	book_hotel
+great can you book that for 7 people for 4 nights starting tuesday?	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes please. 1 person for 3 nights starting thursday.	O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+two for the same day. i need a taxi to commute between the two places to be sure it arrives by the booked time. the contact number and car type?	B-hotel-bookstay O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+5 nights, please.	B-hotel-bookstay O O	book_hotel
+your booking at the yu garden on wednesday at 15:45 for a party of 8 is confirmed. your reference number is : fpl31kwn . can i help you wroth anything further?	O O O O B-restaurant-name I-restaurant-name O O O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+okay, i want to book it for 2 people and 4 nights starting from tuesday.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+great! can you book a room there for 5 nights? there will be 8 of us, and we'll arrive on friday.	O O O O O O O O B-hotel-bookstay O O O O B-hotel-bookpeople O O O O O O B-hotel-bookday	book_hotel
+looking for places to go in the same area as the hotel, possibly a concerthall.	O O O O O O O O O O O B-hotel-type O O O	book_hotel
+great can you book it for 2 people for 4 nights starting thursday?	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes. i would like to book it for 8 people and 5 nights starting from tuesday.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+there are 5 expensive restaurants on the south side. you can pick from chinese, indian, italian, or mexican. mexican one is chiquito restaurant bar.	O O O O O O O O O O O O O O O O O O O O O B-restaurant-name I-restaurant-name I-restaurant-name	book_hotel
+we arrive on monday and stay for 3 nights, there are 7 of us.	O O O B-hotel-bookday O O O B-hotel-bookstay O O O B-hotel-bookpeople O O	book_hotel
+i need a train from norwich to get to the hotel by 16:30.	O O O O O O O O O O B-hotel-type O O	book_hotel
+yes let's go ahead and make it for just 1 night then.	O O O O O O O O O B-hotel-bookstay O O	book_hotel
+any place is fine, can you please book me for 6 people and 2 nights starting on monday?	O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes! i'd like to book it for the same group of people and 5 nights starting from the same day.	O O O O O O O O O O O O O B-hotel-bookstay O O O O O O	book_hotel
+i don't care what cuisine, but i'd like one in the moderate price range.	O O O O O O O O O O O B-hotel-pricerange O O	book_hotel
+no, that is the name of the hotel, can you try again?	O O O O O O O B-hotel-type O O O O	book_hotel
+yes please for 7 people and for 3 nights starting wednesday	O O O B-hotel-bookpeople O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i would like to book the acorn for 2 people for 5 nights starting sunday.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+actually, i need to leave charlie chan by 11:15 and go to home from home.	O O O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name	book_hotel
+2 people for thursday at 19:00 please	B-hotel-bookpeople O O B-hotel-bookday O O O	book_hotel
+i will go with the first. book for the same group of people and 2 nights starting from the same day	O O O O O O O O O O O O O O B-hotel-bookstay O O O O O O	book_hotel
+can i get a taxi between acorn and the park?	O O O O O O B-hotel-name O O O	book_hotel
+ok i have you booked at the allenbell for 4 nights for 8 people. your reference number 7sn0baat . do you need anything else?	O O O O O O O B-hotel-name O O O O O O O O O O O O O O O O	book_hotel
+okay sold! book it for 5 nights for 2 on tuesday, and i need the ref # too please	O O O O O B-hotel-bookstay O O B-hotel-bookpeople O B-hotel-bookday O O O O O O O O	book_hotel
+i would like to book one starting friday.	O O O O O O O B-hotel-bookday	book_hotel
+i would like a moderately priced hotel. i'd like to book it starting wednesday for 5 nights for 2 people if possible. can you help?	O O O O O O O O O O O O O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O O O O O O	book_hotel
+there is also archway house, would you like me to check booking there as well?	O O O B-hotel-name I-hotel-name O O O O O O O O O O	book_hotel
+i need it for one person, 3 nights and starting on monday.	O O O O B-hotel-bookpeople O B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+i would like to book any moderately priced guesthouse for 4 people starting on saturday for 4 nights.	O O O O O O O O B-hotel-type O B-hotel-bookstay O O O B-hotel-bookday O O O	book_hotel
+yes. i will need it for three nights, 3 people starting wednesday.	O O O O O O O O B-hotel-stars O O B-hotel-bookday	book_hotel
+no, i don't. i just a reservation for 4 people for 4 nights starting on saturday.	O O O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+just to confirm, does the lensfield have free parking? if so i'd like to book for 6 people, 3 nights, starting on thursday.	O O O O O B-hotel-name O O O O O O O O O O B-hotel-bookpeople O B-hotel-stars O O O B-hotel-bookday	book_hotel
+yes please book it for tuesday for 4 nights and for 5 people.	O O O O O B-hotel-bookday O B-hotel-bookstay O O O B-hotel-bookpeople O	book_hotel
+what if we try two nights?	O O O O B-hotel-bookstay O	book_hotel
+i need to commute between the guesthouse and the restaurant. make sure it arrives by the booked time and send me the contact number and car type please.	O O O O O O B-hotel-type O O O O O O O O O O O O O O O O O O O O O	book_hotel
+4 nights please starting on monday.	B-hotel-stars O O O O B-hotel-bookday	book_hotel
+great, please book me for just myself, five nights starting saturday.	O O O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, please book that for 8 people starting friday for 3 nights.	O O O O O B-hotel-bookpeople O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+that sounds perfect. can i book it for 5 nights starting on monday for 3 people?	O O O O O O O O B-hotel-bookstay O O O B-hotel-bookday O B-hotel-bookpeople O	book_hotel
+ok. how about the bridge guest house. i'm happy to book that for you. i just need to know what day you'll be arriving.	O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O	book_hotel
+arriving on tuesday	O O B-hotel-bookday	book_hotel
+i would like to make a reservation for this saturday for 2 people for 4 nights please.	O O O O O O O O O B-hotel-bookday O B-hotel-bookpeople O O B-hotel-bookstay O O	book_hotel
+that's perfect. i would like to book it for 1 person. it needs to be for 4 nights beginning saturday.	O O O O O O O O O B-hotel-bookpeople O O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes please, 7 people for 2 nights starting on sunday.	O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i would need a hotel for 6 people, starting from thursday and lasting 4 nights. is there anything available?	O O O O O O B-hotel-bookpeople O O O B-hotel-bookday O O B-hotel-bookstay O O O O O	book_hotel
+is that at the home from home. that is where i want to stay.	O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O	book_hotel
+i would like to book it 3 nights for one person starting on thursday	O O O O O O B-hotel-bookstay O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+i'd like a cheap place in the centre for 8 people and 5 nights starting wednesday.	O O O B-hotel-pricerange O O O B-hotel-area O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+sure, let's try for just one night and see if that works please.	O O O O O B-hotel-bookstay O O O O O O O	book_hotel
+yes, i want to book it for 6 people and 5 nights starting from sunday. may i also have the reference number?	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O	book_hotel
+yes. i need a booking for 6 people for 3 nights, starting on friday.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes please. book me a stay for 7 people and 5 nights starting from saturday.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+how about one night?	O O B-hotel-bookstay O	book_hotel
+okay, book me into one of those starting sunday. there will be 8 of us staying 5 nights.	O O O O O O O O B-hotel-bookday O O O B-hotel-bookpeople O O O B-hotel-bookstay O	book_hotel
+yes, i would like to book a room for 1 for 4 nights starting on tuesday.	O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i am arriving on friday.	O O O O B-hotel-bookday	book_hotel
+can you book one of them for 3 people?	O O O O O O O B-hotel-bookpeople O	book_hotel
+yes please book that for 5 people for 3 nights starting on saturday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+right, as i states above, 5 days please.	O O O O O B-hotel-bookstay O O	book_hotel
+no, lets try reserving it for 2 nights instead.	O O O O O O B-hotel-bookstay O O	book_hotel
+great, can you book that for 5 nights first day wednesday for people please?	O O O O O O B-hotel-bookstay O O O B-hotel-bookday O O O	book_hotel
+it will be at 16:00 on sunday. just a table for one.	O O O O O O B-hotel-bookday O O O O O	book_hotel
+yes, please. i need a reservation for 5 nights starting wednesday. there will be 4 people.	O O O O O O O B-hotel-bookstay O O B-hotel-bookday O O O B-hotel-stars O	book_hotel
+let's go ahead and make a reservation. i'll be arriving tuesday and would like to stay 5 nights. there will be 7 people in my group.	O O O O O O O O O O B-hotel-bookday O O O O O B-hotel-bookstay O O O O B-hotel-bookpeople O O O O	book_hotel
+i could not get a room for you there. i was able to get one at gonville hotel. your reference number is a4ij54q . is there anything else?	O O O O O O O O O O O O O O O O B-hotel-name I-hotel-name O O O O O O O O O O	book_hotel
+could i book it for 1 person for 3 nights starting tuesday?	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+let's try to start on monday.	O O O O O B-hotel-bookday	book_hotel
+book it for 5 people and 2 nights starting from monday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes, i'd like to stay on the north end of the city if possible. no too expensive, please. something that's moderately priced would be best.	O O O O O O O B-hotel-area O O O O O O O O O O O O O O O O O	book_hotel
+we're arriving on friday and we'd like to stay for 4 nights.	O O O B-hotel-bookday O O O O O O B-hotel-bookstay O	book_hotel
+so you need to arrive on thursday after 11:00 am to check-in.	O O O O O O B-hotel-bookday O O O O O	book_hotel
+i'm sorry, i think i'm spending too much money on this trip. can you look for a cheap restaurant in the north that serves barbeque?	O O O O O O O O O O O O O O O O O O O O O B-hotel-area O O O	book_hotel
+yes, i'd like to book for 4 people and for 4 nights, starting from friday. can you check availability?	O O O O O O B-hotel-bookstay O O O O O O O B-hotel-bookday O O O O	book_hotel
+okay, let's book it for two people for 5 nights starting friday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+the hotel i'm looking for should have a star of 4, in the cheap range, somewhere in the west. it'll be for 3 people and 4 nights starting wednesday.	O B-hotel-type O O O O O O O O B-hotel-bookstay O O B-hotel-pricerange O O O O B-hotel-area O O O B-hotel-bookpeople O O O O O B-hotel-bookday	book_hotel
+yes please book it for 4 people for 2 nights starting monday for me.	O O O O O B-hotel-stars O O B-hotel-bookstay O O B-hotel-bookday O O	book_hotel
+the archway house would be fine. can you book me a room for wednesday for 2 people, 5 nights please?	O B-hotel-name I-hotel-name O O O O O O O O O O B-hotel-bookday O B-hotel-bookpeople O B-hotel-bookstay O O	book_hotel
+the allenbell sounds perfect. can you book it for me for tuesday?	O B-hotel-name O O O O O O O O O B-hotel-bookday	book_hotel
+the allenbell in the east is a cheap hotel with 4 stars.	O B-hotel-name O O O O O O O O O O	book_hotel
+no it will be for 2 people for 5 nights.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+that sounds great. i would like to book that for 8 people and 4 nights starting from tuesday.	O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+can you book for seven people for three nights starting from friday?	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+okay, please book that for 2 people and 5 nights starting from monday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i can try for the acorn guest house, if you'd like. they're on chesterton road.	O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O	book_hotel
+can we book the other expensive 3 star hotel for one night starting on wednesday?	O O O O O B-hotel-pricerange B-hotel-stars O B-hotel-type O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i'm sorry for the confusion. may i suggest the acorn guest house, which is moderately priced, in the north, with 4 stars, and free parking?	O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O	book_hotel
+okay, book the gonville hotel for 4 nights starting with sunday. there will be 7 guests.	O O O B-hotel-name I-hotel-name O B-hotel-bookstay O O O B-hotel-bookday O O O B-hotel-bookpeople O	book_hotel
+i need it for 8 people, 2 nights from monday.	O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+that is not a issue. book it for 7 people and 4 nights starting from tuesday.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes, for 6 people for 5 nights starting on friday.	O O B-hotel-bookpeople O O B-hotel-bookstay O O O O	book_hotel
+the el shaddi is fine. can i please have a room for 4 people, for 4 nights, starting from monday?	O B-hotel-name I-hotel-name O O O O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+i would like information on booking a hotel for friday night in cambridge.	O O O O O O O B-hotel-type O B-hotel-bookday O O O	book_hotel
+i need to get a reference number first. this booking is for 7 people and 3 nights starting from thursday.	O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+wait, before i commit, is allenbell a guesthouse or a full hotel?	O O O O O B-hotel-name O O O O O O	book_hotel
+yes, 5 people 2 nights from monday.	O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+no thanks, just a booking for 5 people, 2 nights starting on sunday please.	O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O B-hotel-bookday O	book_hotel
+i would actually like to book rooms for 8 people. can i do that?	O O O O O O O O B-hotel-bookpeople O O O O O	book_hotel
+what is the name of the hotel please?	O O O O O O B-hotel-type O	book_hotel
+can you find a restaurant in the north?	O O O O O O O B-hotel-area	book_hotel
+yes, that would be great. i will be there for three nights.	O O O O O O O O O O B-hotel-bookstay O	book_hotel
+okay, i will need to book for 8 people for 4 nights starting from sunday.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i will be starting my stay on thursday.	O O O O O O O B-hotel-bookday	book_hotel
+i would prefer the cheap range. can you book for me 8 people for four nights beginning on friday? i will need the reference number.	O O O O B-hotel-pricerange O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O	book_hotel
+the only other hotel that matches your requirements is the lensfield hotel located in the south. would you like me to make a booking?	O O O O O O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O	book_hotel
+great can you get me a room for 7 people for 2 nights starting saturday?	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+oh sure, start on friday please.	O O O O B-hotel-bookday O	book_hotel
+i have the hotel and the taxi already?	O O O B-hotel-type O O O O	book_hotel
+yes, please. i need a room for 1 person, 3 nights. i'll be arriving on saturday. the ashley is fine.	O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O O O B-hotel-bookday O B-hotel-name O O	book_hotel
+yes, expensive french food for 3 people at 12:30 on monday	O O O O O B-hotel-stars O O O O B-hotel-bookday	book_hotel
+i'd like 3 nights for 6 people, please.	O O B-hotel-bookstay O O B-hotel-bookpeople O O	book_hotel
+yes how about 1 night	O O O B-hotel-bookstay O	book_hotel
+just one person please.	O B-hotel-bookpeople O O	book_hotel
+okay, great! i'll need it booked for sunday, 5 nights, and 5 people, please?	O O O O O O O B-hotel-bookday B-hotel-bookstay O O O O O	book_hotel
+ok great. can you book a table for 3 at 16:00 on monday?	O O O O O O O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+that works. book it for 7 people for 5 nights starting with wednesday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+ok, i guess we can book that one then. there will be 3 of us staying 4 nights, starting sunday.	O O O O O O O O O O O O B-hotel-bookpeople O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i would like to book that for one person for two nights starting thursday	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+that is perfect, can i get a reservation for tuesday at 16:30?	O O O O O O O O O B-hotel-bookday O O	book_hotel
+yes book the ashley hotel for the same group of people for 2 nights.	O O O B-hotel-name I-hotel-name O O O O O O O B-hotel-bookstay O	book_hotel
+will you book a table for 2 at 17:00 on sunday?	O O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+can you go ahead and book me a room for 4 nights starting friday? there will be a total of 6 people.	O O O O O O O O O O B-hotel-bookstay O O B-hotel-bookday O O O O O O B-hotel-bookpeople O	book_hotel
+gonville hotel is a great hotel located in the centre. it's 3 stars and is in the expensive price range. would you like me to book you a room?	B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+yes for tuesday at 14:00 on tuesday please.	O O B-hotel-bookday O O O O O	book_hotel
+how about 2 nights instead?	O O B-hotel-bookstay O O	book_hotel
+yes, can you book for 1 person, 3 nights, starting saturday.	O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+can you book it for me for thursday i'm staying 5 nights. only one person is staying.	O O O O O O O B-hotel-bookday O O B-hotel-bookstay O O B-hotel-bookpeople O O O	book_hotel
+yes for 6 people for 5 nights starting saturday.	O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+alright! i was able to book your room for 1 night at the university arms hotel for 3 people. your reference number is f13028xh . can i help with anything else?	O O O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O O O O O O O O O O O O O	book_hotel
+i'd like to book for 1 person, 4 nights, starting from tuesday please.	O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O B-hotel-bookday O	book_hotel
+it will be 3 nights for 8 people.	O O O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+yes, i would like to book it for two people for four nights starting on friday.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+can you book acorn guest house for 4 people for 2 nights starting friday?	O O O B-hotel-name I-hotel-name I-hotel-name O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, please. we need to book for 3 people. we're arriving on monday and we'd like to stay for 3 nights.	O O O O O O O B-hotel-bookstay O O O O B-hotel-bookday O O O O O O O O	book_hotel
+i actually need a reservation for 1 person for 5 nights on wednesday	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, that would be great. it will be on the same day, same people, and 5 nights.	O O O O O O O O O O O O O O O B-hotel-bookstay O	book_hotel
+actually i changed my mind. i do want to book the hotel.	O O O O O O O O O O O B-hotel-type	book_hotel
+i'm sorry? were you able to book the express by holiday inn for 4 people?	O O O O O O O O O O O O O B-hotel-bookpeople O	book_hotel
+man, we are just not having much luck tonight, huh? okay, can you see if there are any available for one night?	O O O O O O O O O O O O O O O O O O O O B-hotel-bookstay O	book_hotel
+could you book a room for 2 people, 2 nights on wednesday at the ashley, please?	O O O O O O B-hotel-stars O O O O B-hotel-bookday O O B-hotel-name O	book_hotel
+great! i'd like to book rooms for 5 people for 4 nights starting friday.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+ok, the ashley hotel is a moderately priced hotel in the north with free wifi. would you like a room there?	O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O	book_hotel
+can we book the hotel for 1 person and 5 nights starting from tuesday?	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes. please. three people, wednesday, two nights.	O O B-hotel-bookpeople O B-hotel-bookday B-hotel-bookstay O	book_hotel
+it will be for six people for 4 nights starting on monday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+book one of them for two people, five nights, starting wednesday.	O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+can you please recommend one and book it for 5 nights?	O O O O O O O O O B-hotel-bookstay O	book_hotel
+can you get me the address to every hotel in the north. thank you	O O O O O O O O B-hotel-type O O B-hotel-area O O	book_hotel
+okay your room is booked at the acorn guest house for saturday. reference number is 414s09ix . can i help you with anything else today?	O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O	book_hotel
+sounds good, i need rooms for 7 people for 4 nights starting tuesday.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+book ashley hotel for 2 people and 3 nights starting from saturday	O B-hotel-name I-hotel-name O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+book for 6 people and three nights starting on thursday.	O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes please. i need a room for 8 and 2 nights starting from saturday.	O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i think ashley hotel would work for you. would you like me to book a room for you?	O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O	book_hotel
+can you check again? i need any place to stay that has free wi-fi, 2 stars, and a cheap or moderate price range.	O O O O O O O O O O O O O O B-hotel-stars O O O B-hotel-pricerange O O O O	book_hotel
+i don't care about the area anymore... could you please book an expensive 3 star hotel?	O O O O O O O O O O O O B-hotel-pricerange B-hotel-stars O O	book_hotel
+yes, is hamilton lodge a guesthouse or hotel? i prefer a hotel.	O O B-hotel-name I-hotel-name O O O B-hotel-type O O O O	book_hotel
+yes please. i need the reservation to be for 8 people and 2 nights starting on tuesday.	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+on wednesday please	O B-hotel-bookday O	book_hotel
+sounds great! can you book a room for 7 people for 5 nights? we'll be arriving on thursday.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O O O B-hotel-bookday	book_hotel
+ok, can we try 2 nights instead please?	O O O O B-hotel-bookstay O O O	book_hotel
+do they have reservations available for 6 people and 3 nights starting from thursday?	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes can you book it for 7 people and 3 nights starting from thursday ?	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O	book_hotel
+yes for 7 for 2 nights starting sunday, need the ref # too please	O O B-hotel-bookpeople O O O O B-hotel-bookday O O O O O O	book_hotel
+i am also looking for a place to dine near the hotel.	O O O O O O O O O O O B-hotel-type	book_hotel
+book it for 4 people and 3 nights starting from tuesday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+can you book 8 people for 2 nights staring from thursday for me? i will need a reference number as well.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O O O O	book_hotel
+will you also check the hotel called lovell lodge?	O O O O O O O B-hotel-name I-hotel-name	book_hotel
+is there a different 4 star hotel available?	O O O O B-hotel-stars O O O	book_hotel
+monday, for 2 nights, 2 people. i'll need a reference number. also, i need a taxi to college by 4:00. i need the contact number and car type.	B-hotel-bookday O B-hotel-bookstay O O O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+yes please book it for 6 people and 5 nights starting from wednesday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+sure. would you book that starting friday for 3 nights for 7 people?	O O O O O O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+i will have a party of 4 people.	O O O O O O B-hotel-bookstay O	book_hotel
+1 person, plese.	B-hotel-bookpeople O O	book_hotel
+the da vinci pizzeria matches those qualifications. would you like a reservation or more information?	O B-restaurant-name I-restaurant-name I-restaurant-name O O O O O O O O O O O	book_hotel
+i am staying at the acorn guest house.	O O O O O B-hotel-name I-hotel-name I-hotel-name	book_hotel
+i need it for 18:15 for one person on a tuesday.	O O O O O O O O O O B-hotel-bookday	book_hotel
+that sounds great. i'd like to book it for 2 people. we'll be arriving tuesday and we'd like to stay for 5 nights please.	O O O O O O O O O B-hotel-bookpeople O O O O B-hotel-bookday O O O O O O B-hotel-bookstay O O	book_hotel
+great, either one is fine. i need a reservation for 3 people for 3 nights starting tuesday. if 3 nights is not available try 2 nights and reference number.	O O O O O O O O O O B-hotel-bookstay O O O O O B-hotel-bookday O O O O O O O O O O O O	book_hotel
+sure, i need the reservation to be for 4 people.	O O O O O O O O B-hotel-stars O	book_hotel
+would it be possible to book this for one night?	O O O O O O O O B-hotel-bookstay O	book_hotel
+yes. please book for 8 people for 4 nights starting thursday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i need the address of the hotel, please.	O O O O O O B-hotel-type O	book_hotel
+tuesday, get me the reference number please.	B-hotel-bookday O O O O O O	book_hotel
+yes. i want to book it for 2 nights, 5 people starting on friday.	O O O O O O O B-hotel-bookstay O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+yes, i need the guesthouse starting wednesday for 6 people and 3 nights.	O O O O O O B-hotel-bookday O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+we'll arrive on wednesday and stay 3 nights. there will be 2 of us.	O O O B-hotel-bookday O O B-hotel-bookstay O O O O B-hotel-stars O O	book_hotel
+any area is fine, just something you'd recommend. i need to book 3 people for 4 nights starting friday.	O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i need a train form cambridge on monday arriving at leicester by 12.	O O O O O O O B-hotel-bookday O O O O O	book_hotel
+that sounds good. can i get a room for 6 people, 2 nights, starting thursday?	O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+can you book one for me? i need a room for 5 people starting on monday. we would be staying 3 nights.	O O O O O O O O O O O B-hotel-bookpeople O O O B-hotel-bookday O O O O B-hotel-bookstay O	book_hotel
+i'm also looking for a train. the train should be on the same day as the hotel booking.	O O O O O O O O O O O O O O O O B-hotel-type O	book_hotel
+yes i will take the first choice can you book it for 4 people for 2 nights starting wednesday and i need a reference number	O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O O	book_hotel
+how about one night?	O O B-hotel-bookstay O	book_hotel
+no how about two nights?	O O O B-hotel-bookstay O	book_hotel
+it should be in the north and it should be expensive.	O O O O O O O O O O B-hotel-pricerange	book_hotel
+ok book me one for the same group of people and 4 nights starting from wednesday	O O O O O O O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i booked you a room at the alexander bed and breakfast in centre. the reference number is wa6812s5 . is there anything else i can help you with today?	O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O	book_hotel
+the name is saint johns chop house. what time would you like a taxi for?	O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O O	book_hotel
+yes book for 8 people for 2 nights starting on tuesday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+actually i need the reservation to be for 4 nights, 6 people, starting from wednesday. could you change the reservation for me please?	O O O O O O O O B-hotel-bookstay O B-hotel-bookpeople O O O B-hotel-bookday O O O O O O O O	book_hotel
+the booking for the university arms hotel was successful, and your reference number is 414hus87 .	O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O	book_hotel
+your booking was successful. huntington marriott hotel, 3 days for 5 people. your reference number is: df32qq7o . is there anything else i can help you with today?	O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O	book_hotel
+booking was successful at the ashley hotel. your reference number is : u595dz8a . can i be of any further assistance today?	O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O	book_hotel
+i will be for 3 nights starting this thursday.	O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+okay. your booking at the alexander bed and breakfast was successful. your reference number is 7il8sajv .	O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O	book_hotel
+book for 2 people 3 nights from tuesday. i also want to book a taxi to leave the hotel by 13:30. get contact number and car type	O O B-hotel-bookpeople O B-hotel-bookstay O O O O O O O O O O O O O B-hotel-type O O O O O O O O	book_hotel
+yes i need it for 3 people for 2 night starting monday and i need the reference number	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O O	book_hotel
+just me for one night please	O O O B-hotel-bookstay O O	book_hotel
+acorn guest house is in the north, it has a 4 star rating with free parking. will this work for you?	B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O	book_hotel
+yes, please book me for 4 people 4 nights, starting saturday	O O O O O B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+yes, that would be fine. please book it for 7 people starting tuesday for 2 nights.	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+sure! does it include free parking? if so i am looking for a reservation for 1 starting friday for 3 nights.	O O O O O O O O O O O O O O O B-hotel-bookpeople O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+yes, and may you please book a room in the hotel for 4 nights? it's for one person.	O O O O O O O O O O O O B-hotel-bookstay O O O B-hotel-bookpeople O	book_hotel
+i have alexander bed and breakfast. when were you planning your stay?	O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O	book_hotel
+i have made your reservation for 6 people at 14:00 on thursday for charlie chan. your reference number is 3qudnyhj . is there anything else i may assist you with?	O O O O O O O O O O O O O B-taxi-destination I-taxi-destination O O O O O O O O O O O O O O O	book_hotel
+yes please try for 2 nights instead.	O O O O B-hotel-bookstay O O	book_hotel
+how about wednesday?	O O B-hotel-bookday	book_hotel
+is there another 4 star guest house we can try?	O O O B-hotel-stars O O O O O O	book_hotel
+i have 12 in the moderate price range. would you like me to try the aylesbray lodge guest house?	O O O O O O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name	book_hotel
+can you book one for 4 people for 4 nights starting tuesday please.	O O O O O B-hotel-bookstay O O O O O B-hotel-bookday O	book_hotel
+yes, for four people staying three nights starting friday.	O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+is it available for 4 nights starting from sunday for 6 people?	O O O O B-hotel-bookstay O O O B-hotel-bookday O B-hotel-bookpeople O	book_hotel
+yes, that sounds like a good choice. can you book it for me for 3 people starting saturday? thanks	O O O O O O O O O O O O O O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+i just would like to book it for 2 people, for 5 nights, beginning monday. please give me reference number.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O	book_hotel
+you are booked as requested for arbury lodge guesthouse, the reference number is e54bag41, can i assist with anything else?	O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O O O O O O O O O	book_hotel
+that would be great. two nights please.	O O O O B-hotel-bookstay O O	book_hotel
+i need it on sunday, for 3 nights.	O O O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+great. can you book it for 7 people and 4 nights starting on friday?	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+curry price is located in the east and moderately priced, would you like a reservation?	B-restaurant-name O O O O O O O O O O O O O O	book_hotel
+i need to get from the gonville hotel to the panahar restaurant by my reservation at 16:00.	O O O O O O B-hotel-name I-hotel-name O O O O O O O O O	book_hotel
+friday. there will be 5 people in my party, and i'll need a reservation for 5 nights.	B-hotel-bookday O O O B-hotel-bookstay O O O O O O O O O O O O	book_hotel
+please book for 6 people and 5 nights starting from thursday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i also want to book a taxi leaving the hotel by 20:15 and get contact number and car type	O O O O O O O O O B-hotel-type O O O O O O O O O	book_hotel
+i need it for 4 people, we're staying 2 nights starting thursday.	O O O O B-hotel-bookpeople O O O B-hotel-bookstay O O O	book_hotel
+that sounds great. i would like to book it for 4 people and 2 nights starting from tuesday.	O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes, please, for 4 people, for 3 nights, starting saturday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i have booked you a room at acorn guest house. the reference number is 7x4t9188 .	O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O	book_hotel
+yes please for 5 people for 2 nights starting sunday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i'm looking for somewhere to go in the east part of town. can you help me?	O O O O O O O O B-hotel-area O O O O O O O	book_hotel
+i need the bridge guest house for 3 people. i forgot to include that.	O O O B-hotel-name I-hotel-name I-hotel-name O B-hotel-bookpeople O O O O O O	book_hotel
+there are 3 of us and we're arriving on thursday. we'd like to stay for 4 nights if possible.	O O B-hotel-bookpeople O O O O O O B-hotel-bookday O O O O O B-hotel-bookstay O O O	book_hotel
+price doesn't matter. i need it for 3 people for 2 nights, starting thursday. can i get the reference number?	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O O	book_hotel
+yes, please, for 6 people, for 4 nights, starting wednesday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+could you try 2 nights please?	O O O B-hotel-bookstay O O	book_hotel
+there is one named the nirala. would you like me to book it for you?	O O O O O B-restaurant-name O O O O O O O O O	book_hotel
+that sounds great. can you help me book it for 3 nights please?	O O O O O O O O O O B-hotel-bookstay O O	book_hotel
+yes please for 5 people for 3 nights starting from thursday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i'm looking for a hotel in the centre of town.	O O O O O O O B-hotel-area O O	book_hotel
+can you try for 4 nights?	O O O O B-hotel-bookstay O	book_hotel
+yes i need it booked for our group for 3 nights.	O O O O O O O O O B-hotel-bookstay O	book_hotel
+4 nights, checking in on saturday.	B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+i just need to find a hotel for sunday for 3 people. the stay should be two nights. please give me the reference number too.	O O O O O O O O B-hotel-bookday O B-hotel-bookpeople O O O O O B-hotel-bookstay O O O O O O O O	book_hotel
+yes, that sounds fine. i need it for 4 nights the same day. there will be 7 of us.	O O O O O O O O B-hotel-bookstay O O O O O O O B-hotel-bookpeople O O	book_hotel
+i'd like to book it. can you book it starting sunday night for 5 nights. i need reservations for 6 people.	O O O O O O O O O O B-hotel-bookday O O B-hotel-bookstay O O O O O B-hotel-bookpeople O	book_hotel
+perfect, i need to book it for 5 people, 5 nights starting from monday. if that fails try thursday and i will need the reference number please.	O O O O O O O B-hotel-bookstay O O O O O B-hotel-bookday O O O O O O O O O O O O O	book_hotel
+not worried about parking. i am looking for a hotel that would be available starting monday for 4 nights for 6 people.	O O O O O O O O O O O O O O O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+book it for 3 people and 5 nights for monday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, for person and for 2 nights starting on thursday.	O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes please book for 7 people for 5 nights starting from monday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i do apologize, the lensfield hotel is not a guesthouse. if star rating isn't important, may i suggest bridge guest house? they are fantastic.	O O O O O O O O O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O	book_hotel
+yes. there will be six of us staying for two nights.	O O O O B-hotel-bookpeople O O O O B-hotel-bookstay O	book_hotel
+is there another expensive place to stay?	O O O B-hotel-pricerange O O O	book_hotel
+i have you booked at hamilton lodge. the reference number is tgsva9oc . is there anything else i can help you with?	O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O	book_hotel
+is there any cheap guest house available for arrival on thursday for 2 nights? i still need free parking.	O O O B-hotel-pricerange O O O O O O B-hotel-bookday O B-hotel-bookstay O O O O O O	book_hotel
+yes please book a for the same group of people for 4 nights on the same day.	O O O O O O O O O O O B-hotel-stars O O O O O	book_hotel
+they are all avaliable for monday. shall i book you a reservation with the autumn house?	O O O O O O O O O O O O O O B-hotel-name I-hotel-name	book_hotel
+there wili be 4 of us arriving on saturday, and staying for 3 nights.	O O O B-hotel-bookpeople O O O O B-hotel-bookday O O O B-hotel-bookstay O	book_hotel
+that would be fine. can you book that for the same group of people for 2 nights starting on sunday.	O O O O O O O O O O O O O O O B-hotel-bookstay O O O O	book_hotel
+sure. please book a reservation for two people, saturday, two nights.	O O O O O O B-hotel-bookstay O B-hotel-bookday O O	book_hotel
+i have successfully booked you a room for 1 person and 4 nights starting on wednesday at the archway house. they are located at 52 gilbert road.	O O O O O O O O O O O O O O O O O O B-hotel-name I-hotel-name O O O O O O O	book_hotel
+that doesn't matter. can you book a room for 4 people at your favorite? we'll arrive on friday and stay for 3 nights.	O O O O O O O O O B-hotel-bookpeople O O O O O O O B-hotel-bookday O O O B-hotel-bookstay O	book_hotel
+okay, you're booked at acorn guest house with reference number hk5aycb6 . may i help with anything else?	O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O	book_hotel
+i want to book it for one person, four nights starting on sunday.	O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+nah, i just need it for 4 nights starting from wednesday. maybe look at moderately priced hotels?	O O O O O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O	book_hotel
+try ashley hotel for 6 people, 3 nights, starting monday.	O B-hotel-name I-hotel-name O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, i need a train going to cambridge leaving after 21:15 on tuesday departing from broxbourne.	O O O O O O O O O O O O B-hotel-bookday O O O	book_hotel
+oh, sorry need to go to cambridge and will be traveling on monday.	O O O O O O O O O O O O B-hotel-bookday	book_hotel
+do you have any hotels with free wi-fi and parking in the moderate price range?	O O O O O O O O O O O O B-hotel-pricerange O O	book_hotel
+if it is 4 stars in the moderate price range that sounds fine. i need it for 3 nights for 3 people starting sunday.	O O O B-hotel-stars O O O B-hotel-pricerange O O O O O O O O O B-hotel-bookstay O O O O O B-hotel-bookday	book_hotel
+i'm sorry, your booking was unsuccessful. how about acorn guest house? they also have free internet and parking. shall i try booking that for you?	O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O	book_hotel
+yes, can you book that for friday for 3 nights?	O O O O O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+it does not really matter. it will be just me starting on friday for 3 nights.	O O O O O O O O O O O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+one in the west will be fine. i'll need it for friday, 4 nights, and 2 people.	O O O B-hotel-area O O O O O O O B-hotel-bookday B-hotel-bookstay O O B-hotel-bookpeople O	book_hotel
+for 3 people and for 2 nights, starting on tuesday.	O B-hotel-bookpeople O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+el shaddai will do. can you book me there for wednesday?	B-hotel-name I-hotel-name O O O O O O O O B-hotel-bookday	book_hotel
+can you book for 5 people and 5 nights starting from tuesday for me?	O O O O B-hotel-bookstay O O O O O O B-hotel-bookday O O	book_hotel
+were you able to book it for tuesday?	O O O O O O O B-hotel-bookday	book_hotel
+book it for 6 people and 4 nights starting from tuesday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i want to be pickup at at the hotel by 4:30.	O O O O O O O O B-hotel-type O O	book_hotel
+how about 4 nights?	O O B-hotel-bookstay O	book_hotel
+yes, please. 6 people for 3 nights starting on thursday.	O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+4 nights. 3 people. please include reference number in your response.	B-hotel-bookstay O B-hotel-bookpeople O O O O O O O O	book_hotel
+ok, that sounds great. can you book that for me for 3 nights?	O O O O O O O O O O O B-hotel-bookstay O	book_hotel
+i'd prefer the hotel please.	O O O B-hotel-type O	book_hotel
+yes i need to book it for 2 people and 4 nights starting on friday.	O O O O O O O B-hotel-stars O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i reserved a table for you at frankie's and bennys your confirmation # is heaz99bv, anything else?	O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O	book_hotel
+yes. 1 person, 3 nights from monday on.	O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+shoot. well, okay, how about two nights?	O O O O O B-hotel-bookstay O	book_hotel
+sure, i can be flexible. how about in the north? i need it for 8, for two nights starting saturday. i need a reference number also.	O O O O O O O O O B-hotel-area O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday O O O O O O	book_hotel
+great. can you reserve a room for me for thursday? there will be 2 of us and we would like to stay for 2 nights.	O O O O O O O O O B-hotel-bookday O O O B-hotel-bookstay O O O O O O O O O O O	book_hotel
+there are 2 choices that match. i would recommend finches bed and breakfast as it meets your criteria, is cheap and has 4 stars. shall i book it?	O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O	book_hotel
+i heard of that place from a friend, not sure if i like that one... but it would be for just me for 2 nights starting sunday.	O O O O O O O O O O O O O O O O O O O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+well, is it available for at least 4 nights?	O O O O O O O B-hotel-bookstay O	book_hotel
+ok, i was able to book you at the acorn guest house. your reference number is ybgswxej . can i help you with anything else?	O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O	book_hotel
+yes, i want to book for 7 people, 5 nights starting wednesday.	O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+try either one of the cheap ones, i need one that can hold my group of 7 for 5 nights on tuesday.	O O O O O O O O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i need that train on monday please.	O O O O O B-hotel-bookday O	book_hotel
+that sounds perfect. i need a room for 3 people and 4 nights starting from sunday.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i need a room for 5 people, 4 nights at the acorn guest house. we'll arrive on sunday.	O O O O O B-hotel-bookpeople O B-hotel-bookstay O O O B-hotel-name I-hotel-name I-hotel-name O O O B-hotel-bookday	book_hotel
+it will be 4 people and 3 nights starting from friday.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i needed that for 4 nights, did you get that for me? also i'd like a reference number.	O O O O B-hotel-bookstay O O O O O O O O O O O O O	book_hotel
+i may have been confusing you. could you try and book a 4 star, expensive hotel for 3 nights, starting on saturday? 3 people. wifi please.	O O O O O O O O O O O O B-hotel-stars O B-hotel-pricerange O O B-hotel-bookstay O O O B-hotel-bookday O O O O	book_hotel
+booking was successful at the cambridge belfry, reference number is : tnjxrqr5 . can i assist you with anything further?	O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O	book_hotel
+will it fit 8 people?	O O O B-hotel-bookpeople O	book_hotel
+yes make reservations for 6 people for 5 nights	O O O O B-hotel-bookpeople O O B-hotel-bookstay O	book_hotel
+yes book for 2 people and 3 nights from thursday	O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+do they have rooms available for 5 people for 5 nights starting on sunday?	O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+are there any other cheap guesthouses in the north with free parking? my schedule is inflexible i'm afraid.	O O O O B-hotel-pricerange O O O B-hotel-area O O O O O O O O O	book_hotel
+acorn guest house is the name	B-hotel-name I-hotel-name I-hotel-name O O O	book_hotel
+yes please book that for 2 people and 4 nights starting from tuesday. i will also need the reference number.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O	book_hotel
+no, i am happy with your first suggestion. please reserve acorn guest house for 7 people. arriving sunday for 4 nights.	O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O B-hotel-bookpeople O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+i am needing this for sunday for 5 people, if the booking fails could you please book for 4 nights. also can i have the reference number?	O O O O O B-hotel-bookday O B-hotel-bookpeople O O O O O O O O O O B-hotel-bookstay O O O O O O O O	book_hotel
+i'm so sorry about that. you are booked at the acorn guest lodge. reference number is : r68p0a12 .	O O O O O O O O O O B-taxi-destination I-taxi-destination O O O O O O O	book_hotel
+i have successfully booked a 4 night stay at the alexander bed and breakfast, your reference number is 8bhsgt90 .	O O O O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O	book_hotel
+it'll be for 7 people, 2 nights, starting saturday.	O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i do not have preferences for location, star rating, or parking availability. i need the booking for 3 people for 5 nights starting from sunday.	O O O O O O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i would suggest hobsons house in the west. your booking was successful. reference number is : x5gmntu5 . anything else i can help with?	O O O B-attraction-name I-attraction-name O O O O O O O O O O O O O O O O O O O	book_hotel
+can you book it for 6 people staying 5 nights starting on saturday? i'll need the reference number as well.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O	book_hotel
+great, yes please. there will be 7 of us arriving on wednesday. we'd like to stay for 4 nights.	O O O O O O B-hotel-bookpeople O O O O B-hotel-bookday O O O O O B-hotel-bookstay O	book_hotel
+let's try just one night.	O O O B-hotel-bookpeople O	book_hotel
+yes please make those for 5 nights on the same day for the same people.	O O O O O B-hotel-bookstay O O O O O O O O O	book_hotel
+i have booked you a room at the bridge guest house, located at 151 hills road. your reference number number is zkr6w58z .	O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O O O O O O	book_hotel
+i also need a train that arrives by 17:45 on monday. departing from stevenage and arriving in cambridge	O O O O O O O O O O B-hotel-bookday O O O O O O O	book_hotel
+that's good. book me in for 3 people and 4 nights starting tuesday.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes. please book it for monday. 3 nights, 6 people. i'll also need the reference number.	O O O O O B-hotel-bookday B-hotel-bookstay O B-hotel-bookpeople O O O O O O O	book_hotel
+once you find the hotel you want to book it for 2 people and 4 nights starting from tuesday.	O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i will need to book a room for 6 people and 3 nights starting tuesday please.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O	book_hotel
+i would like free wifi. could you find me rooms at one, four nights for 2 people, beginning saturday?	O O O O O O O O O O O O B-hotel-stars O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i want to take the train on thursday.	O O O O O O O B-hotel-bookday	book_hotel
+are there in hotels in the north with a 2 star rating?	O O O O O O B-hotel-area O O B-hotel-stars O O	book_hotel
+yes i will need that for 2 people for 5 nights for friday please. i also need the reference number.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O O O	book_hotel
+yes, sorry, i'm getting more information from my group just now. if the ashley has wifi, can you please book a stay for 7 for 2 nights, starting friday?	O O O O O O O O O O O O O B-hotel-name O O O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+can you book that for me for 2 nights beginning thursday?	O O O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+gonville hotel is a nice place ,i will book it for you	B-hotel-name I-hotel-name O O O O O O O O O O	book_hotel
+book was unsuccessful. would you like to try the lovell lodge?	O O O O O O O O O B-hotel-name I-hotel-name	book_hotel
+sorry, i am changing my mind. please book cityroomz for 4 nights starting on saturday, for 8 people. thanks.	O O O O O O O O B-hotel-name O B-hotel-bookstay O O O B-hotel-bookday O B-hotel-bookpeople O O	book_hotel
+could you try it for one night only?	O O O O O B-hotel-bookstay O O	book_hotel
+just one please.	O B-hotel-bookstay O	book_hotel
+ok i need another hotel then it must be 4 stars.	O O O O B-hotel-type O O O O O O	book_hotel
+monday would be great.	B-hotel-bookday O O O	book_hotel
+you certainly may. i have you booked at the ashley hotel for two nights, beginning thursday, with a reference number of t65bhm4y .	O O O O O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O	book_hotel
+i tried to book the ashley hotel, but it was unsuccessful. would you like to try another day or a shorter stay?	O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O	book_hotel
+yes, let's try the carolina bed and breakfast for four nights starting thursday.	O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i do not have a price range just need a hotel booked for 7 people.	O O O O O O O O O O B-hotel-type O O B-hotel-bookpeople O	book_hotel
+no, just anywhere that has room for 5 people starting sunday.	O O O O O O O B-hotel-bookpeople O O O	book_hotel
+any price range is fine. i just need a reservation for 3 people for 5 nights starting on saturday.	O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes i need it for 4 nights starting tuesday for 6 people.	O O O O O B-hotel-bookstay O O B-hotel-bookday O B-hotel-bookpeople O	book_hotel
+how about a cheap price range in the north? i need a reservation for 1 for 4 nights starting tuesday.	O O O B-hotel-pricerange O O O O B-hotel-area O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+can you try 1 night instead?	O O O B-hotel-bookstay O O	book_hotel
+can you book the 4-star place? there will be 8 of us staying for 5 nights, and we'll be arriving on wednesday.	O O O O O O O O O B-hotel-bookpeople O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+yes, for one person. i'd like it for 4 nights starting sunday. please provide a reference number.	O O B-hotel-bookpeople O O O O O B-hotel-bookstay O O B-hotel-bookday O O O O O	book_hotel
+wait! i do want the hotel reservation. can you book it for me on thursday for 4 nights for 4 people?	O O O O O O O O O O O O O O B-hotel-bookday O B-hotel-bookstay O O O O	book_hotel
+yes, can you book it for 7 people for 4 nights on thursday?	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, please. for 3 nights, and starting on friday.	O O O B-hotel-bookstay O O O O B-hotel-bookday	book_hotel
+so is the name of the hotel express by holiday inn cambridge or just holiday inn cambridge? want to make sure i go to the right one!	O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O B-hotel-bookpeople	book_hotel
+sure, try for two days?	O O O B-hotel-bookstay O	book_hotel
+then i would like to make a reservation for 6 people for tuesday at 16:00.	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookday O O	book_hotel
+all right, could you book a room for me? there will be 8 people for 4 nights, arriving monday.	O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-stars O O B-hotel-bookday	book_hotel
+yes please book it for four people in 3 nights starting on tuesday	O O O O O B-hotel-bookpeople O O B-hotel-stars O O O B-hotel-bookday	book_hotel
+i am looking to stay for 1 person, 4 nights, starting wednesday.	O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+any will do. i need it for 6 people.	O O O O O O O B-hotel-bookpeople O	book_hotel
+is there another hotel in the same price range that you can book?	O O O B-hotel-type O O O O O O O O O	book_hotel
+arbury lodge guesthouse in the north is great. they are moderately priced, i can book you a room how many people are staying and when are you checking in?	B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+any area would be fine. as long as it's chinese cuisine in the expensive price range. perhaps you could recommend one.	O O O O O O O O O O O O O B-hotel-pricerange O O O O O O B-hotel-bookpeople	book_hotel
+i need to book that hotel for four nights.	O O O O O O O B-hotel-bookstay O	book_hotel
+yes please i need a booking for 4 people and 2 nights starting from friday.	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+sure. i need rooms for 7 people for three nights starting thursday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i do not care book it for 3 people and 3 nights starting from saturday.	O O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+book it for 8 people and 2 nights starting from friday	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+thanks. coulc you book a room for me, just one person. it will be three nights starting sunday.	O O O O O O O O O B-hotel-bookpeople O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i'll do the ashley hotel. i need a room for 5 nights starting on monday.	O O O B-hotel-name I-hotel-name O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i need it for 3 people and 3 nights starting sunday.	O O O O B-hotel-bookstay O O O O O B-hotel-bookday	book_hotel
+it does not need to be a guesthouse. can't you find anything that is east, 4 star with free wifi. that is all i require. please, its important.	O O O O O O O O O O O O O O B-hotel-area B-hotel-stars O O O O O O O O O O O O	book_hotel
+i would like it to have four stars.	O O O O O O B-hotel-stars O	book_hotel
+i suppose i can start out with three nights, if that is available.	O O O O O O O B-hotel-bookstay O O O O O	book_hotel
+i also need a train on tuesday.	O O O O O O B-hotel-bookday	book_hotel
+i would like to start my stay on friday.	O O O O O O O O B-hotel-bookday	book_hotel
+yes. please book for tuesday for 2 people, 2 nights.	O O O O B-hotel-bookday O B-hotel-bookstay O O O	book_hotel
+hotel you want to book it for 7 people and 5 nights starting thursday and need a confirmation number thank you	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O O O	book_hotel
+yes, please book it for 3 people and 2 nights starting from monday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+can i book lodging for 7 people starting on saturday? we're staying for 4 nights.	O O O O O B-hotel-bookpeople O O O B-hotel-bookday O O O B-hotel-bookstay O	book_hotel
+please try 2 nights on friday and see if that works. for a guesthouse, please.	O O B-hotel-bookstay O O B-hotel-bookday O O O O O O O B-hotel-type O	book_hotel
+yes, please. can you reserve a table for friday for 7 people at 13:15?	O O O O O O O O B-hotel-bookday O B-hotel-bookpeople O O O	book_hotel
+i prefer a guesthouse please. i only need it for myself for 2 nights starting from monday.	O O O B-hotel-type O O O O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+please book it for 7 people and 5 nights starting from wednesday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+could you see if they have 2 nights starting on tuesday?	O O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes please. book it for 3 people and 3 nights starting from friday.	O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+no thank you but can you book me a table for 7 at 15:15 on thursday?	O O O O O O O O O O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+yu garden is a good choice. i've booked a table for 3 at 17:30 on sunday. reference number is ft3srq1r . reservations are held for 15 minutes. need anything else today?	B-restaurant-name I-restaurant-name O O O O O O O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+book it for thursday night, 3 nights, and 4 people. thank you!	O O O B-hotel-bookday O B-hotel-bookstay O O B-hotel-bookpeople O O O	book_hotel
+i was able to book a room at alexander bed and breakfast, your reference number is vwf48izm . is there anything else i can help with?	O O O O O O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O	book_hotel
+that sounds great. i need to make a booking for sunday for 4 nights.	O O O O O O O O O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+that sounds great, could you make the reservations for me there then? i will be there sunday with 3 people and we will stay for 2 nights.	O O O O O O O O O O O O O O O O B-hotel-bookday O B-hotel-bookpeople O O O O O O B-hotel-bookstay O	book_hotel
+i will want to start from monday on.	O O O O O O B-hotel-bookday O	book_hotel
+ok, let's get rooms for 7 people for 5 nights. i'll need it from monday please.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O O O B-hotel-bookday O	book_hotel
+just for 1 person, thanks.	O O B-hotel-bookpeople O O	book_hotel
+yes, let's go ahead and book with the avalon.	O O O O O O O O B-hotel-name	book_hotel
+i need it for 8 people for 2 nights starting on wednesday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i have a place called the lovell lodge. i was able to book you successfully. reference number is : mkvvdabx . is there anything else i can help you with?	O O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+yes there will be one guest. i will need the hotel reference number. i also need a train that arrives by 20:30 and leaves on sunday	O O O O B-hotel-bookpeople O O O O O O O O O O O O O O O O O O O O O	book_hotel
+i have booked you at the ashley hotel in the north area. your reference number is 970je5zn . do you need any additional information about this location or any additional help today?	O O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O O O O	book_hotel
+ok, thank you. will you please reserve me a table for 6 people at 17:45 at the nirala on wednesday?	O O O O O O O O O O O B-hotel-bookpeople O O O O O O O B-hotel-bookday	book_hotel
+i was able to book allenbell for you for 1 night on wednesday. the reference number is cs4g5qzo .	O O O O O B-hotel-name O O O O O O O O O O O O O	book_hotel
+yes, could you book a room there for 5 people, 5 nights? we'll arrive on tuesday.	O O O O O O O O B-hotel-bookstay O O O O O O B-hotel-bookday	book_hotel
+great, can i get the area for the hotel as well please. just wonder what part of town it's in?	O O O O O O O O B-hotel-type O O O O O O O O O O O	book_hotel
+i just need it to be cheap and available on tuesday.	O O O O O O B-hotel-pricerange O O O B-hotel-bookday	book_hotel
+book it for 1 people and 2 nights starting from the same day.	O O O B-hotel-bookpeople O O B-hotel-bookstay O O O O O O	book_hotel
+does it have 4 stars? if so, go ahead and book it!	O O O B-hotel-bookstay O O O O O O O O	book_hotel
+perfect! i'll need a room for 5 people on thursday. we'll be staying for 3 nights.	O O O O O O B-hotel-bookpeople O O B-hotel-bookday O O O O B-hotel-bookstay O	book_hotel
+i prefer to stay in a moderate area.	O O O O O O B-hotel-pricerange O	book_hotel
+book a table for 3 at 13:30 on wednesday.	O O O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+alexander is fine. i need to book for 8 people. we'll arrive wednesday and stay 5 nights. i'll also need the reference number, please.	B-hotel-name O O O O O O O B-hotel-bookpeople O O O B-hotel-bookday O O B-hotel-bookstay O O O O O O O O	book_hotel
+check for one in the moderate price range with that criteria. book something for 1 person for 4 nights starting on monday.	O O O O O B-hotel-pricerange O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+yes, for 8 people. 2 nights starting from friday. include reference number.	O O B-hotel-bookpeople O B-hotel-bookstay O O O B-hotel-bookday O O O	book_hotel
+please book that for 6 people staying 3 nights from monday.	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, for 2 nights for 8 people starting on friday.	O O B-hotel-bookstay O O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+actually, whatever you have would be great. i'm not picky. but i will need to reserve a room for sunday.	O O O O O O O O O O O O O O O O O O O B-hotel-bookday	book_hotel
+i want to book for 5 people, 4 nights, starting from sunday.	O O O O O B-hotel-bookstay O B-hotel-bookpeople O O O B-hotel-bookday	book_hotel
+i will be arriving on tuesday.	O O O O O B-hotel-bookday	book_hotel
+starting from sunday, please.	O O B-hotel-bookday O	book_hotel
+please book it for 7 people for 5 nights starting on sunday. could you give me the reference number?	O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday O O O O O O O	book_hotel
+yes, i need to create a booking for 5 people. we will be staying for 5 nights starting from thursday.	O O O O O O O O B-hotel-bookstay O O O O O O O O O O B-hotel-bookday	book_hotel
+okay, i need to book it for 1 person, 2 nights starting friday.	O O O O O O O B-hotel-bookpeople O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes. can you book it for two guests? we will be staying three nights beginning tuesday.	O O O O O O B-hotel-bookpeople O O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+okay, i'd like to book 8 people for 4 nights staring sunday, and i need a reference number. i'd also like a train to broxbourne thursday.	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O O O O O O O O O O O O	book_hotel
+huntingdon marriott hotel and the cambridge belfry are 4 star hotels in the west. the second hotel is cheap & the first is expensive, which would you prefer?	B-hotel-name I-hotel-name I-hotel-name O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O O O	book_hotel
+okay, thank you! will you please book it for 5 people for 4 nights, starting tuesday?	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i'm sorry, allenbell was not in the west. hobsons house meets your needs and i have booked you a room. reference number is : ctysxivu .	O O O O O O O O B-hotel-name I-hotel-name O O O O O O O O O O O O O O O O	book_hotel
+that will work fine. could you make a reservation for 3? i'd like it for 5 nights starting saturday.	O O O O O O O O O O B-hotel-bookpeople O O O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+you have a room booked at the warkworth house (ref# tp8x26la). can i help you with anything else?	O O O O O O O B-hotel-name I-hotel-name O O O O O O O O O	book_hotel
+either one is fine. i want it for 6 people for 2 nights starting wednesday.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+yes, i need a train on sunday to leave after 9:00 and i need to get the price, arrival time and total travel as well, please.	O O O O O O B-hotel-bookday O O O O O O O O O O O O O O O O O O O	book_hotel
+the acorn guest house is available and meets the same criteria. i have booked it for you. your reservation number is li4hvtbm .	O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O O O	book_hotel
+please make a booking for eight people staying for 4 nights from saturday.	O O O O O B-hotel-bookstay O O O B-hotel-bookpeople O O B-hotel-bookday	book_hotel
+i am also looking for a cheap indian place to eat.	O O O O O O B-hotel-pricerange O O O O	book_hotel
+yes, i need a room for 4 nights beginning on sunday.	O O O O O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+i have an express by holiday inn cambridge. would you like me to try to book you there?	O O O B-hotel-name I-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O	book_hotel
+i'm sorry but i have a hard time believing there is no place to stay in the east with either a 3 or 4 star rating.	O O O O O O O O O O O O O O O O O B-hotel-area O O O B-hotel-stars O B-hotel-bookstay O O	book_hotel
+i want a train for tuesday that departs after 09:30	O O O O O B-hotel-bookday O O O O	book_hotel
+i do recommend huntingdon marriott hotel, but it is in the expensive price range. i want to confirm this is okay before booking.	O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O O O O O O O O	book_hotel
+i've booked you at the ashley hotel, and your reference number is 9zkdnrmv .	O O O O O B-taxi-departure I-taxi-departure O O O O O O O	book_hotel
+would you book it for me, please. there are 3 of us staying for 5 nights.	O O O O O O O O O B-hotel-bookpeople O O O O B-hotel-bookstay O	book_hotel
+is the arbury lodge moderately priced? if so, i would like to book a room for 1 person for 3 nights on saturday.	O O B-hotel-name I-hotel-name O O O O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+either of those sounds great. there will be 8 of us for 5 nights starting on sunday. can you book that, please?	O O O O O O O O B-hotel-bookpeople O O O B-hotel-bookstay O O O B-hotel-bookday O O O O O	book_hotel
+instead of 3 nights how about two nights?	O O B-hotel-bookpeople O O O B-hotel-bookstay O	book_hotel
+yes please, for 5 nights starting sunday, there will be 8 people in my party.	O O O B-hotel-bookstay O O B-hotel-bookday O O O B-hotel-bookpeople O O O O	book_hotel
+could you book it for 3 people and 4 nights starting from thursday?	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+perfect. i would like to book it for 3 people for 4 nights starting on friday.	O O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+the booking was successful for 2 nights at the cambridge belfry with check-in on saturday. reference number nccfyy9w . would you like to book that taxi now?	O O O O O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O O O O O O O O	book_hotel
+can you book it for 7 people for 2 nights on friday?	O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday	book_hotel
+i also want to book a stay at alpha-milton guest house. i want to book for 3 people and 2 nights starting from wednesday.	O O O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+can you book it for me for monday for 3 nights?	O O O O O O O B-hotel-bookday O B-hotel-bookstay O	book_hotel
+i need to book it for 2 nights, starting wednesday, for 2 people.	O O O O O O B-hotel-bookstay O O B-hotel-bookday O O O	book_hotel
+can you please book a room for 4 people for 2 nights starting on wednesday?	O O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+sure, could you book it for 7 people for 5 nights starting tuesday? thanks so much.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O B-hotel-bookday O O O	book_hotel
+i would like to stay for 2 nights please.	O O O O O O B-hotel-bookstay O O	book_hotel
+sure. any guesthouse in the same price range would be fine.	O O B-hotel-type O O O O O O O O	book_hotel
+please book one of those for 6 people and 4 nights starting from friday.	O O O O O O B-hotel-bookpeople O O B-hotel-bookstay O O O B-hotel-bookday	book_hotel
+choose one and surprise me. and book it for 6 people on thursday at 13:15. i'll need the reference number	O O O O O O O O O B-hotel-bookpeople O O B-hotel-bookday O O O O O O O	book_hotel

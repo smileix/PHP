@@ -1,0 +1,118 @@
+cheapest fare from nashville to seattle	B-cost_relative O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	B O O B O B
+i'd like to have some information on a ticket from denver to pittsburgh and atlanta	O O O O O O O O O O B-fromloc.city_name O B-toloc.city_name O B-toloc.city_name	atis_airfare	O O O O O O O O O O B O B O B
+okay i just want to know the cheapest fare from atlanta to boston	O O O O O O O B-cost_relative O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O O O B O O B O B
+could you please give me the cost of a round trip flight from denver to pittsburgh	O O O O O O O O O B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O O O O O B I O O B O B
+show me fares leaving on tuesdays from denver to go to dallas	O O O O O B-depart_date.day_name O B-fromloc.city_name O O O B-toloc.city_name	atis_airfare	O O O O O B O B O O O B
+us 3724 baltimore to philadelphia what is the fare	B-airline_code B-flight_number B-fromloc.city_name O B-toloc.city_name O O O O	atis_airfare	B B B O B O O O O
+what is the cost of flight dl 106 from philadelphia to boston	O O O O O O B-airline_code B-flight_number O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O O B B O B O B
+what's the lowest round trip fare from dallas to atlanta	O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O B B I O O B O B
+how much does it cost to fly from columbus to st. louis round trip on twa	O O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name B-round_trip I-round_trip O B-airline_code	atis_airfare	O O O O O O O O B O B I B I O B
+i would like a ticket leaving from denver colorado to atlanta georgia with a stop in pittsburgh	O O O O O O O B-fromloc.city_name B-fromloc.state_name O B-toloc.city_name B-toloc.state_name O O O O B-stoploc.city_name	atis_airfare	O O O O O O O B B O B B O O O O B
+what is the most expensive one way fare between detroit and westchester county	O O O B-cost_relative I-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	O O O B I B I O O B O B I
+first class round trip airfare from indianapolis to memphis	B-class_type I-class_type B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	B I B I O O B O B
+what is the most expensive one way fare from boston to atlanta on american airlines	O O O B-cost_relative I-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name O B-airline_name I-airline_name	atis_airfare	O O O B I B I O O B O B O B I
+cheapest round trip fare from or indianapolis to orlando on december twenty fifth	B-cost_relative B-round_trip I-round_trip O O O B-fromloc.city_name O B-toloc.city_name O B-depart_date.month_name B-depart_date.day_number I-depart_date.day_number	atis_airfare	B B I O O B B O B O B B I
+what does it cost to fly from boston to oakland on united airlines	O O O O O O O B-fromloc.city_name O B-toloc.city_name O B-airline_name I-airline_name	atis_airfare	O O O O O O O B O B O B I
+list first class airfare round trip from indianapolis to memphis	O B-class_type I-class_type O B-round_trip I-round_trip O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O B I O B I O B O B
+show me the cheapest round trip fares from san francisco to salt lake city	O O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name I-toloc.city_name I-toloc.city_name	atis_airfare	O O O B B I O O B I O B I I
+please give me the cheapest round trip airfare from atlanta to philadelphia on august the first	O O O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name O B-depart_date.month_name O B-depart_date.day_number	atis_airfare	O O O O B B I O O B O B O B O B
+what is the price of a one way fare from atlanta to boston	O O O O O O B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O O B I O O B O B
+show me fares from baltimore to philadelphia	O O O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O B O B
+what's the fare from washington to boston	O O O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O B O B
+list the fares of the delta airlines flights from boston to philadelphia	O O O O O B-airline_name I-airline_name O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O B I O O B O B
+what is the cost of a flight from boston to san francisco	O O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	O O O O O O O O B O B I
+show me the cheapest fare from dallas to baltimore	O O O B-cost_relative O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B O O B O B
+list all round trip fares from st. petersburg to washington	O O B-round_trip I-round_trip O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name	atis_airfare	O O B I O O B I O B
+give me the round trip coach fare from dallas to baltimore	O O O B-round_trip I-round_trip B-class_type O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B I B O O B O B
+lowest fare from san francisco to san diego	B-cost_relative O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	B O O B I O B I
+show me fares from miami to new york	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	O O O O B O B I
+i'd like a round trip ticket from los angeles to tacoma washington	O O O B-round_trip I-round_trip O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name B-toloc.state_name	atis_airfare	O O O B I O O B I O B B
+please show me all fares for flights from denver to oakland	O O O O O O O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O O O O B O B
+what is the lowest cost for a one way ticket from boston to washington	O O O B-cost_relative I-cost_relative O O B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B I O O B I O O B O B
+what are the different classes of service and the prices for us air	O O O O O O O O O O O B-airline_name I-airline_name	atis_airfare	O O O O O O O O O O O B I
+show me the one way fares from san diego to miami nonstop	O O O B-round_trip I-round_trip O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name B-flight_stop	atis_airfare	O O O B I O O B I O B B
+hi could i get a one way ticket from milwaukee to orlando	O O O O O B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O B I O O B O B
+what is the cheapest fare between atlanta and san francisco	O O O B-cost_relative O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	O O O B O O B O B I
+show me the prices of first class tickets on us air round trip from cleveland to miami	O O O O O B-class_type I-class_type O O B-airline_name I-airline_name B-round_trip I-round_trip O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O B I O O B I B I O B O B
+show me the cheapest one way fares from san diego to miami	O O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B B I O O B I O B
+i need fare information from denver to pittsburgh	O O O O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O B O B
+show me the most expensive fare	O O O B-cost_relative I-cost_relative O	atis_airfare	O O O B I O
+what is the coach fare between boston and atlanta on delta	O O O B-class_type O O B-fromloc.city_name O B-toloc.city_name O B-airline_name	atis_airfare	O O O B O O B O B O B
+what is the lowest price fare from atlanta to san francisco on flight delta 82 and delta 139	O O O B-cost_relative I-cost_relative O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O O B-airline_name B-flight_number O B-airline_name B-flight_number	atis_airfare	O O O B I O O B O B I O O B B O B B
+could you find me the cheapest fare from boston to san francisco	O O O O O B-cost_relative O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	O O O O O B O O B O B I
+round trip fares from baltimore to philadelphia under 1000 dollars	B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name B-cost_relative B-fare_amount I-fare_amount	atis_airfare	B I O O B O B B B I
+show me the cheapest round trip coach fare on twa from las vegas to detroit	O O O B-cost_relative B-round_trip I-round_trip B-class_type O O B-airline_code O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B B I B O O B O B I O B
+how much is a round trip fare from indianapolis to seattle	O O O O B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O B I O O B O B
+what is the cost of a ticket going from denver to boston july twenty fifth 1991	O O O O O O O O O B-fromloc.city_name O B-toloc.city_name B-depart_date.month_name B-depart_date.day_number I-depart_date.day_number B-depart_date.year	atis_airfare	O O O O O O O O O B O B B B I B
+i'd like the lowest fare from denver to pittsburgh	O O O B-cost_relative O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B O O B O B
+how much does a first class ticket cost from boston to san francisco round trip	O O O O B-class_type I-class_type O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name B-round_trip I-round_trip	atis_airfare	O O O O B I O O O B O B I B I
+can you show me what fares are available from oakland to dallas on december sixteenth one way only	O O O O O O O O O B-fromloc.city_name O B-toloc.city_name O B-depart_date.month_name B-depart_date.day_number B-round_trip I-round_trip O	atis_airfare	O O O O O O O O O B O B O B B B I O
+list the fares of us air flights from boston to philadelphia	O O O O B-airline_name I-airline_name O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O B I O O B O B
+i need a ticket from nashville to seattle	O O O O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O B O B
+can you show me one way economy fares from dallas to atlanta	O O O O B-round_trip I-round_trip B-economy O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O B I B O O B O B
+what is the fare from philadelphia to pittsburgh business class one way	O O O O O B-fromloc.city_name O B-toloc.city_name B-class_type I-class_type B-round_trip I-round_trip	atis_airfare	O O O O O B O B B I B I
+show me the round trip tickets from baltimore to atlanta	O O O B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B I O O B O B
+please give me fares from denver to philadelphia	O O O O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O B O B
+what is the cheapest one way fare between boston and oakland	O O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B B I O O B O B
+show me round trip first class tickets from new york to miami	O O B-round_trip I-round_trip B-class_type I-class_type O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name	atis_airfare	O O B I B I O O B I O B
+show me first class fares from dallas to baltimore	O O B-class_type I-class_type O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O B I O O B O B
+what's the cheapest one way ticket from baltimore to atlanta	O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O B B I O O B O B
+what is the cheapest round trip fare from atlanta to pittsburgh	O O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B B I O O B O B
+what is the least expensive one way ticket from atlanta to denver leaving on october twelfth	O O O B-cost_relative I-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name O O B-depart_date.month_name B-depart_date.day_number	atis_airfare	O O O B I B I O O B O B O O B B
+what is the price of flights from indianapolis to memphis	O O O O O O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O O O B O B
+all fares and flights from philadelphia	O O O O O B-fromloc.city_name	atis_airfare	O O O O O B
+what is the cost of a round trip flight from pittsburgh to atlanta beginning on april twenty fifth and returning on may sixth	O O O O O O B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name O O B-depart_date.month_name B-depart_date.day_number I-depart_date.day_number O O O B-return_date.month_name B-return_date.day_number	atis_airfare	O O O O O O B I O O B O B O O B B I O O O B B
+what are the fares for flights between boston and washington dc	O O O O O O O B-fromloc.city_name O B-toloc.city_name B-toloc.state_code	atis_airfare	O O O O O O O B O B B
+what is the fare going from atlanta to boston one way on november seventh	O O O O O O B-fromloc.city_name O B-toloc.city_name B-round_trip I-round_trip O B-depart_date.month_name B-depart_date.day_number	atis_airfare	O O O O O O B O B B I O B B
+what is the cost of round trip ticket first class between oakland and atlanta	O O O O O B-round_trip I-round_trip O B-class_type I-class_type O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O B I O B I O B O B
+what is the least expensive airfare between boston and baltimore	O O O B-cost_relative I-cost_relative O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B I O O B O B
+can you show me economy class one way fares for flights from oakland to dallas on december sixteenth	O O O O B-economy I-economy B-round_trip I-round_trip O O O O B-fromloc.city_name O B-toloc.city_name O B-depart_date.month_name B-depart_date.day_number	atis_airfare	O O O O B I B I O O O O B O B O B B
+what are the lowest one way fares from atlanta to pittsburgh	O O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B B I O O B O B
+what is the fare on the thrift economy flight from boston to san francisco	O O O O O O B-class_type B-economy O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	O O O O O O B B O O B O B I
+what is the fare on the first flight from atlanta to denver on thursday morning	O O O O O O B-flight_mod O O B-fromloc.city_name O B-toloc.city_name O B-depart_date.day_name B-depart_time.period_of_day	atis_airfare	O O O O O O B O O B O B O B B
+what is the cheapest round trip fare between boston and san francisco	O O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	O O O B B I O O B O B I
+what's the lowest round trip fare from dallas to baltimore	O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O B B I O O B O B
+what are the costs of flights from dallas to boston tomorrow	O O O O O O O B-fromloc.city_name O B-toloc.city_name B-depart_date.today_relative	atis_airfare	O O O O O O O B O B B
+what is the least expensive one way fare from boston to pittsburgh	O O O B-cost_relative I-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B I B I O O B O B
+what is the least expensive fare from baltimore to san francisco leaving on september thirtieth	O O O B-cost_relative I-cost_relative O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O O B-depart_date.month_name B-depart_date.day_number	atis_airfare	O O O B I O O B O B I O O B B
+what is the fare from atlanta to boston on coach one way	O O O O O B-fromloc.city_name O B-toloc.city_name O B-class_type B-round_trip I-round_trip	atis_airfare	O O O O O B O B O B B I
+get fares from washington to montreal	O O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B O B
+how much does flight ua 281 from boston to denver cost	O O O O B-airline_code B-flight_number O B-fromloc.city_name O B-toloc.city_name O	atis_airfare	O O O O B B O B O B O
+what is lowest cost air fare available for a flight from dallas to baltimore arriving on july fourth	O O B-cost_relative I-cost_relative O O O O O O O B-fromloc.city_name O B-toloc.city_name O O B-arrive_date.month_name B-arrive_date.day_number	atis_airfare	O O B I O O O O O O O B O B O O B B
+how much does it cost to fly from boston to baltimore on a saturday	O O O O O O O O B-fromloc.city_name O B-toloc.city_name O O B-depart_date.day_name	atis_airfare	O O O O O O O O B O B O O B
+how much does flight ua 297 from denver to san francisco cost	O O O O B-airline_code B-flight_number O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O	atis_airfare	O O O O B B O B O B I O
+what is the lowest fare from bwi to salt lake city	O O O B-cost_relative O O B-fromloc.airport_code O B-toloc.city_name I-toloc.city_name I-toloc.city_name	atis_airfare	O O O B O O B O B I I
+how much is the cheapest flight from denver to pittsburgh	O O O O B-cost_relative O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O B O O B O B
+show me all the cheapest fares from new york to miami leaving on tuesday	O O O O B-cost_relative O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name O O B-depart_date.day_name	atis_airfare	O O O O B O O B I O B O O B
+show me the fares for delta flights from dallas to san francisco	O O O O O B-airline_name O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	O O O O O B O O B O B I
+what's the lowest round trip fare from atlanta to pittsburgh	O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O B B I O O B O B
+how much is a round trip first class fare between boston and washington	O O O O B-round_trip I-round_trip B-class_type I-class_type O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O B I B I O O B O B
+what is the fare from san francisco to dallas fort worth on delta flight 852	O O O O O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name I-toloc.city_name I-toloc.city_name O B-airline_name O B-flight_number	atis_airfare	O O O O O B I O B I I O B O B
+i would like the least expensive airfare flight on sunday to pittsburgh from san francisco	O O O O B-cost_relative I-cost_relative O O O B-depart_date.day_name O B-toloc.city_name O B-fromloc.city_name I-fromloc.city_name	atis_airfare	O O O O B I O O O B O B O B I
+let's see how much would a direct flight from atlanta to denver be on may seventh	O O O O O O B-connect O O B-fromloc.city_name O B-toloc.city_name O O B-depart_date.month_name B-depart_date.day_number	atis_airfare	O O O O O O B O O B O B O O B B
+i'd like to have some information on a ticket from denver to atlanta with a stop in pittsburgh	O O O O O O O O O O B-fromloc.city_name O B-toloc.city_name O O O O B-stoploc.city_name	atis_airfare	O O O O O O O O O O B O B O O O O B
+what is the fare from boston to oakland on united airlines	O O O O O B-fromloc.city_name O B-toloc.city_name O B-airline_name I-airline_name	atis_airfare	O O O O O B O B O B I
+show me the price of flight ea 212 from atlanta to washington	O O O O O O B-airline_code B-flight_number O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O O B B O B O B
+round trip fares new york to san jose	B-round_trip I-round_trip O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	B I O B I O B I
+what is the fare going from boston to dallas fort worth one way on november seventh	O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name I-toloc.city_name B-round_trip I-round_trip O B-depart_date.month_name B-depart_date.day_number	atis_airfare	O O O O O O B O B I I B I O B B
+what's the lowest round trip fare from denver to atlanta	O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O B B I O O B O B
+show me prices of flights from baltimore to dallas	O O O O O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O O B O B
+get saturday fares from washington to montreal	O B-depart_date.day_name O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O B O O B O B
+what is the fare from boston to san francisco on united airlines flight 21	O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O B-airline_name I-airline_name O B-flight_number	atis_airfare	O O O O O B O B I O B I O B
+round trip fares from denver to philadelphia under 1000 dollars	B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name B-cost_relative B-fare_amount I-fare_amount	atis_airfare	B I O O B O B B B I
+i'd like to find the cheapest one way fare from baltimore to denver	O O O O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O B B I O O B O B
+what are the coach fares for flights from charlotte to newark tuesday evening	O O O B-class_type O O O O B-fromloc.city_name O B-toloc.city_name B-depart_date.day_name B-depart_time.period_of_day	atis_airfare	O O O B O O O O B O B B B
+how much does it cost to fly from atlanta to san francisco	O O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	O O O O O O O O B O B I
+show me round trip fares from baltimore to philadelphia	O O B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O B I O O B O B
+cheapest fare from indianapolis to seattle	B-cost_relative O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	B O O B O B
+what is the cost of a round trip ticket flying from boston to dallas dallas to oakland leaving july first	O O O O O O B-round_trip I-round_trip O O O B-fromloc.city_name O B-toloc.city_name B-fromloc.city_name O B-toloc.city_name O B-depart_date.month_name B-depart_date.day_number	atis_airfare	O O O O O O B I O O O B O B B O B O B B
+what is the cheapest fare one way between pittsburgh and denver	O O O B-cost_relative O B-round_trip I-round_trip O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B O B I O B O B
+what is the cheapest round trip fare from pittsburgh to atlanta	O O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O B B I O O B O B
+i would like your rates between atlanta and boston on september third	O O O O O O B-fromloc.city_name O B-toloc.city_name O B-depart_date.month_name B-depart_date.day_number	atis_airfare	O O O O O O B O B O B B
+show me the fares from washington to oakland	O O O O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O B O B
+all right what i'd like to do is find the cheapest one way fare from boston to denver	O O O O O O O O O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O O O O O O B B I O O B O B
+show me the most expensive fare	O O O B-cost_relative I-cost_relative O	atis_airfare	O O O B I O
+show me fares from houston to las vegas	O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_airfare	O O O O B O B I
+get saturday fares from washington to boston	O B-depart_date.day_name O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O B O O B O B
+cheapest fare round trip from indianapolis to orlando on december twenty seventh	B-cost_relative O B-round_trip I-round_trip O B-fromloc.city_name O B-toloc.city_name O B-depart_date.month_name B-depart_date.day_number I-depart_date.day_number	atis_airfare	B O B I O B O B O B B I
+how much is a flight from washington to boston	O O O O O O B-fromloc.city_name O B-toloc.city_name	atis_airfare	O O O O O O B O B

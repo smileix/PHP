@@ -1,0 +1,45 @@
+what does the abbreviation co mean	O O O O B-airline_code O	atis_abbreviation	O O O O B O
+explain meal codes sd d	O B-meal O B-meal_code I-meal_code	atis_abbreviation	O B O B B
+what does d s stand for for meals	O O B-meal_code I-meal_code O O O B-meal	atis_abbreviation	O O B O O O O B
+what is fare code m	O O O O B-fare_basis_code	atis_abbreviation	O O O O B
+i'd like to see the fare code again qx	O O O O O O O O B-fare_basis_code	atis_abbreviation	O O O O O O O O B
+what does mco stand for	O O B-airport_code O O	atis_abbreviation	O O B O O
+what is a d9s	O O O B-aircraft_code	atis_abbreviation	O O O B
+what does yn stand for	O O B-fare_basis_code O O	atis_abbreviation	O O B O O
+code ff	O B-airline_code	atis_abbreviation	O B
+does dl stand for delta	O B-airline_code O O B-airline_name	atis_abbreviation	O B O O B
+what does ua stand for	O O B-airline_code O O	atis_abbreviation	O O B O O
+what is fare code m	O O O O B-fare_basis_code	atis_abbreviation	O O O O B
+what does restriction ap 57 mean	O O O B-restriction_code I-restriction_code O	atis_abbreviation	O O O B B O
+what is restriction ap 57	O O O B-restriction_code I-restriction_code	atis_abbreviation	O O O B O
+what does fare code h mean	O O O O B-fare_basis_code O	atis_abbreviation	O O O O B O
+what is mco	O O B-airport_code	atis_abbreviation	O O B
+describe fare code qx	O O O B-fare_basis_code	atis_abbreviation	O O O B
+could you tell me what the abbreviation us stands for	O O O O O O O B-airline_code O O	atis_abbreviation	O O O O O O O B O O
+what does fare code bh mean	O O O O B-fare_basis_code O	atis_abbreviation	O O O O B O
+what is the meaning of meal code s	O O O O O B-meal_code I-meal_code I-meal_code	atis_abbreviation	O O O O O B O O
+explain the fare code q	O O O O B-fare_basis_code	atis_abbreviation	O O O O B
+what is ewr	O O B-airport_code	atis_abbreviation	O O B
+what does fare code f mean	O O O O B-fare_basis_code O	atis_abbreviation	O O O O B O
+what does fare code qo mean	O O O O B-fare_basis_code O	atis_abbreviation	O O O O B O
+what does fare code bh mean	O O O O B-fare_basis_code O	atis_abbreviation	O O O O B O
+what does fare code qo mean	O O O O B-fare_basis_code O	atis_abbreviation	O O O O B O
+what does the fare code y mean	O O O O O B-fare_basis_code O	atis_abbreviation	O O O O O B O
+what is mia	O O B-airport_code	atis_abbreviation	O O B
+what does fare code y mean	O O O O B-fare_basis_code O	atis_abbreviation	O O O O B O
+what does us mean	O O B-airline_code O	atis_abbreviation	O O B O
+explain the restriction ap 57	O O O B-restriction_code I-restriction_code	atis_abbreviation	O O O B O
+what are restrictions ap 57	O O O B-restriction_code I-restriction_code	atis_abbreviation	O O O B I
+what is fare code h	O O O O B-fare_basis_code	atis_abbreviation	O O O O B
+what does the meal code s stand for	O O O B-meal O B-meal_code O O	atis_abbreviation	O O O B O O O O
+what is the yn code	O O O B-fare_basis_code O	atis_abbreviation	O O O B O
+what is mco	O O B-airport_code	atis_abbreviation	O O B
+what does the fare code qx mean	O O O O O B-fare_basis_code O	atis_abbreviation	O O O O O B O
+what does m mean	O O B-fare_basis_code O	atis_abbreviation	O O B O
+what does fare code qw mean	O O O O B-fare_basis_code O	atis_abbreviation	O O O O B O
+what does fare code qx mean	O O O O B-fare_basis_code O	atis_abbreviation	O O O O B O
+what does fare code q mean	O O O O B-fare_basis_code O	atis_abbreviation	O O O O B O
+what is fare class h	O O O O B-fare_basis_code	atis_abbreviation	O O O O B
+what is ff	O O B-airline_code	atis_abbreviation	O O B
+explain restriction ap please	O O B-restriction_code O	atis_abbreviation	O O B O
+what is ewr	O O B-airport_code	atis_abbreviation	O O B

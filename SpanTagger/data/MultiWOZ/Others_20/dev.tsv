@@ -1,0 +1,22 @@
+thanks, do they have a children's oncology and haematology department?	O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department O	find_hospital
+can i get the phone number and full mailing address of the cardiology and coronary care unit department at that hospital?	O O O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department O O O O	find_hospital
+the hospital should have the neurology department.	O O O O O B-hospital-department O	find_hospital
+i am looking for the john farman intensive care unit of the addenbrookes hospital.	O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department O O O O	find_hospital
+i am looking for a hospital in town.it should have the intermediate dependency area department.	O O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department O	find_hospital
+does the addenbrookes hospital have a psychiatry department?	O O O O O O B-hospital-department O	find_hospital
+hello, i need a hospital please and make sure it has a medical decisions unit, if you will.	O O O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department O O O	find_hospital
+i'm injured pretty severely and need a hospital with a john farman intensive care unit.	O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department	find_hospital
+i got injured and are looking for the john farman intensive care unit department	O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department O	find_hospital
+i need to find a hospital nearby that has a hepatobillary and gastrointestinal surgery referral center	O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department	find_hospital
+i am looking for a hospital in town with a cardiology and coronary care unit.	O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department	find_hospital
+does addenbrookes hospital have a neurosciences department?	O O O O O B-hospital-department O	find_hospital
+i've been injured and i need a hospital near me, one with a coronary care unit department please!	O O O O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department O O	find_hospital
+am looking for the addenbrookes hospital it should have the respiratory medicine department	O O O O O O O O O O B-hospital-department I-hospital-department O	find_hospital
+i'm looking for the addenbrookes hospital with a haematology day unit.	O O O O O O O O B-hospital-department I-hospital-department I-hospital-department	find_hospital
+i am looking for the addenbrookes hospital with emergency department	O O O O O O O O B-hospital-department I-hospital-department	find_hospital
+do they have a transitional care department? i would also like to know the postcode and phone number.	O O O O B-hospital-department I-hospital-department O O O O O O O O O O O O	find_hospital
+i need a hospital with an antenatal department, please find one for me.	O O O O O O B-hospital-department O O O O O O	find_hospital
+the postcode for addenbrookes hospital is cb20qq.	O O O B-taxi-destination I-taxi-destination O O	find_hospital
+hi, i am looking for a hospital that offers medicine for the elderly	O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department	find_hospital
+does the hospital have the truama and orthopaedics department?	O O O O O O O B-hospital-department O	find_hospital
+i want to find a hospital in town. the hospital should have the hepatobillary and gastrointestinal surgery regional referral centre department	O O O O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department O	find_hospital

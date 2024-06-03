@@ -1,0 +1,500 @@
+find a movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+can i get the movie schedules for speakeasy theaters	O O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O O B O O B I
+i want to get the movie schedule	O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B O
+where is the nearest cinema showing horror films today	O O O B-spatial_relation B-object_location_type O O B-movie_type O	SearchScreeningEvent	O O O B B O B I B
+what is the movie schedules for the harkins theatres	O O O B-object_type I-object_type O O B-location_name I-location_name	SearchScreeningEvent	O O O B O O O B I
+find the schedule for films at century theatres	O O B-object_type O B-movie_type O B-location_name I-location_name	SearchScreeningEvent	O O O O B O B I
+find a movie theatre with rogues and romance that is nearest	O O B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name O O B-spatial_relation	SearchScreeningEvent	O O B I O B I I O O B
+i d like to know the movie times for movies nearby me	O O O O O O B-object_type I-object_type O B-movie_type B-spatial_relation O	SearchScreeningEvent	O O O O O O B B I I B O
+what s the nearest movie theatre showing movies	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_type	SearchScreeningEvent	O O O B B I O B
+i d like to see movie times at santikos theatres	O O O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O O O B I O B I
+what films and movie schedule are in the area	O B-movie_type O B-object_type I-object_type O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O B O O O O O
+movie times at consolidated theatres	B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	B O O B I
+what time is living is easy with eyes closed playing	O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O I I I I I I O
+find the movie schedules for speakeasy theaters	O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O B O O B I
+she me movie times	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+what time is 26 years diary showing in the movie house	O O O B-movie_name I-movie_name I-movie_name O O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O O B I I O O O B I
+what s today s movie schedule	O O O O B-object_type I-object_type	SearchScreeningEvent	O O B O B O
+find the closest movie house that plays animated movies	O O B-spatial_relation B-object_location_type I-object_location_type O O B-movie_type I-movie_type	SearchScreeningEvent	O O B B I O O B I
+where is the closest movie house that s playing the mark	O O O B-spatial_relation B-object_location_type I-object_location_type O O O B-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O O O B I
+what is the movie schedules at for douglas theatre company at 0 p m	O O O B-object_type I-object_type O O B-location_name I-location_name I-location_name O B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O O B O O O B I I O B I I
+show movie times now	O B-object_type I-object_type B-timeRange	SearchScreeningEvent	O B B I
+give me some info on when hands across the border will be laying at the cinema	O O O O O O B-movie_name I-movie_name I-movie_name I-movie_name O O O O O B-object_location_type	SearchScreeningEvent	O O O O O B I I I I O O I O O B
+what films are on the movie schedule around here	O B-movie_type O O O B-object_type I-object_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O O B O B B
+what time is cinema playing the village priest	O O O B-object_location_type O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B O B I I
+find movie times for close by films	O B-object_type I-object_type O B-spatial_relation I-spatial_relation B-movie_type	SearchScreeningEvent	O B I I B I B
+movie schedule  of films around here	B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	B O O B B B
+find time for hendthighelbedi at the nearest cinema	O O O B-movie_name O O B-spatial_relation B-object_location_type	SearchScreeningEvent	O O O B O O O B
+what movie schedules are animated movies close by	O B-object_type I-object_type O B-movie_type I-movie_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O B I B I
+find me the movie schedule for great escape theatres	O O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B O O B I I
+what films are playing now at the general cinema corporation	O B-movie_type O O B-timeRange O O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O O B O O B I I
+find the schedule for rare birds at the nearest movie theatre at noon	O O B-object_type O B-movie_name I-movie_name O O B-spatial_relation B-object_location_type I-object_location_type O B-timeRange	SearchScreeningEvent	O O O O B I O O B B I O B
+what is the nearest movie house showing animated movies	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_type I-movie_type	SearchScreeningEvent	O O O B B I O B I
+what are the local movie times	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+what animated movies are playing at dipson theatres	O B-movie_type I-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B I O O O B I
+give me the morning movie schedules	O O O B-timeRange B-object_type I-object_type	SearchScreeningEvent	O O O B B O
+i want a list of showings of days of fire at harkins theatres	O O O O O O O B-movie_name I-movie_name I-movie_name O B-location_name I-location_name	SearchScreeningEvent	O O O O O O O B I I O B I
+find movie times for close by movies	O B-object_type I-object_type O B-spatial_relation I-spatial_relation B-movie_type	SearchScreeningEvent	O B I I B I I
+she me movie schedules for the movies close by at sunset	O O B-object_type I-object_type O O B-movie_type B-spatial_relation I-spatial_relation O B-timeRange	SearchScreeningEvent	O O B O O O O B I O B
+i want to see love  speed and thrills at the nearest cinema	O O O O B-movie_name I-movie_name I-movie_name I-movie_name O O B-spatial_relation B-object_location_type	SearchScreeningEvent	O O O O B I I I O O B B
+find the good girl at a movie house	O B-movie_name I-movie_name I-movie_name O O B-object_location_type I-object_location_type	SearchScreeningEvent	O B I I I I I I
+i want to know the animated movies playing at malco theatres	O O O O O B-movie_type I-movie_type O O B-location_name I-location_name	SearchScreeningEvent	O O O O O B I O O B I
+what is the nearest movie theatre playing the collaborators	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O B I
+where is white bim black ear	O O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O B I I I
+what time is the corner playing	O O O B-movie_name I-movie_name O	SearchScreeningEvent	O O O B I O
+is the ghost breakers playing at plitt theatres in two hours	O B-movie_name I-movie_name I-movie_name O O B-location_name I-location_name B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O B I I O O B I B I I
+what are the timings for starship troopers 2	O O O O O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O O B I I
+find the nearest animated movies at a movie theatre	O O B-spatial_relation B-movie_type I-movie_type O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O B B I O O B I
+what time are films showing in the neighborhood	O O O B-movie_type O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O B I I
+show me movie times  at harkins theatres	O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O B I I I I
+what is the movie schedule for train	O O O O B-object_type O B-movie_name	SearchScreeningEvent	O O O B O O I
+is the tender years at the nearest movie theatre	O B-movie_name I-movie_name I-movie_name O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O B I I O O B B I
+find the swindlers at the closest movie house	O B-movie_name I-movie_name O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O B I O O B B I
+can i get the showtimes for films in the area	O O O O O O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O O B O B O O I
+what is the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+show me schedules to see a film with me in it	O O B-object_type O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O O O B O I I I
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+find me showtimes for animated movies in the neighbourhood	O O O O B-movie_type I-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B O B I I I I
+which animated movies are playing at megaplex theatres at tea time	O B-movie_type I-movie_type O O O B-location_name I-location_name O B-timeRange O	SearchScreeningEvent	O B I O O O B I O B O
+what are some movies playing in the neighbourhood	O O O B-movie_type O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O B I I
+find animated movies in the area	O B-movie_type I-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B I I I I
+what time is bordertown trail showing	O O O B-movie_name I-movie_name O	SearchScreeningEvent	O O O B I O
+what s the closest movie theatre showing harbour beat	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O B I
+is terminal station at cinemark theatres	O B-movie_name I-movie_name O B-location_name I-location_name	SearchScreeningEvent	O B I O B I
+what time will the amco entertainment  be plying the teeth of the tiger	O O O O B-location_name I-location_name O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O B I O O B I I I I
+find goodrich quality theaters films	O B-location_name I-location_name I-location_name B-movie_type	SearchScreeningEvent	O B I I B
+i d like to watch movies at the closest movie theatre	O O O O O B-movie_type O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O O O O O B B I
+find the schedule for the closest films at a cinema at meal time	O O B-object_type O O B-spatial_relation B-movie_type O O B-object_location_type O B-timeRange O	SearchScreeningEvent	O O O O O B B O O B O B O
+what are the movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B
+there can i find the beggar maid playing	O O O O B-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O O B I I O
+what movies are playing at southern theatres	O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B O O O B I
+when can i see journey to the end of the night	O O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O B I I I I I I
+find close by movies movie times	O B-spatial_relation I-spatial_relation B-movie_type B-object_type I-object_type	SearchScreeningEvent	O B I I B I
+find plitt theatres movie schedules	O B-location_name I-location_name B-object_type I-object_type	SearchScreeningEvent	O B I B O
+for the star theatres is the belles of st  clements playing in 8 minutes	O O B-location_name I-location_name O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O B I O B I I I I O B I I
+find out what films are playing at north american cinemas	O O O B-movie_type O O O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B O O O B I I
+is the wandering detective: black wind in the harbor playing at cinemark theatres	O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O B I I I I I I I O O B I
+what animated movies are playing now in the neighborhood	O B-movie_type I-movie_type O O B-timeRange B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B I O O B O I I
+give me a list of movie times for films in the area	O O O O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O O O B O O B O I I
+what is on the movie schedule for four am at landmark theatres	O O O O B-object_type I-object_type O B-timeRange I-timeRange O B-location_name I-location_name	SearchScreeningEvent	O O O O B O O B I O B I
+give me the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+what is the movie schedule today at neighborhood cinema group	O O O B-object_type I-object_type O O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B O B O B I I
+what are the showings for the natural history of parking lots movie house	O O O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O O B I I I I I B I
+is people of the cumberland playing at landmark theatres now	O B-movie_name I-movie_name I-movie_name I-movie_name O O B-location_name I-location_name B-timeRange	SearchScreeningEvent	O B I I I O O B I B
+find movies around here with movie schedules	O B-movie_type B-spatial_relation I-spatial_relation O B-object_type I-object_type	SearchScreeningEvent	O B B I O B O
+find invisible child at southern theatres	O B-movie_name I-movie_name O B-location_name I-location_name	SearchScreeningEvent	O B I O B I
+find the schedule for the devil diamond at a movie theatre	O O B-object_type O B-movie_name I-movie_name I-movie_name O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O B I I O O B I
+when is beyond my reach scheduled at the nearest cinema	O O B-movie_name I-movie_name I-movie_name O O O B-spatial_relation B-object_location_type	SearchScreeningEvent	O O B I I O O O O B
+find movie times for nine pm	O B-object_type I-object_type O B-timeRange I-timeRange	SearchScreeningEvent	O B B I I I
+which films are playing in the neighborhood one second from now	O B-movie_type O O B-spatial_relation I-spatial_relation I-spatial_relation B-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O B O O O O I B I I I
+give me the schedule for animated movies at the nearest cinema	O O O B-object_type O B-movie_type I-movie_type O O B-spatial_relation B-object_location_type	SearchScreeningEvent	O O O O O B I O O B B
+where is the closest movie theatre that is playing movies now	O O O B-spatial_relation B-object_location_type I-object_location_type O O O B-movie_type B-timeRange	SearchScreeningEvent	O O O B B I O O O B B
+find me a showing of the vanquished that starts nine hours and 1 second from now	O O O O O B-movie_name I-movie_name O O B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O O B O B I O O B I I I I I I
+what time can i see girls to marry	O O O O O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O O B I I
+what are the movie times for the caribbean cinemas	O O O B-object_type I-object_type O O B-location_name I-location_name	SearchScreeningEvent	O O O B B I I I I
+what animated movies are playing nearby	O B-movie_type I-movie_type O O B-spatial_relation	SearchScreeningEvent	O B I O O B
+show me movie times	O O B-object_type I-object_type	SearchScreeningEvent	O O B I
+what s southern theatres movie schedule	O O B-location_name I-location_name B-object_type I-object_type	SearchScreeningEvent	O O B I B O
+what time is in the crosswind playing at marcus corporation	O O O B-movie_name I-movie_name I-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O O O B I I O O B I
+find the movie schedule for animated movies around here	O O B-object_type I-object_type O B-movie_type I-movie_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B O O B I B I
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+where can i find movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+what movies are playing at warren theatres	O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B O O O B I
+find the schedule for kingsman: the secret service at a movie theatre	O O B-object_type O B-movie_name I-movie_name I-movie_name I-movie_name O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O B I I I O O B I
+can i get the showtimes for the man who could talk to kids	O O O O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O B O B I I I I I I
+find the closest movie theatre with films	O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_type	SearchScreeningEvent	O O B B I O B
+what are the movie schedules at the imax corporation	O O O B-object_type I-object_type O O B-location_name I-location_name	SearchScreeningEvent	O O O B O O O B I
+show movie schedules for douglas theatre company	O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O B O O B I I
+show movies at the nearest movie house	O B-movie_type O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O B O O B B I
+what is the films with movie times in the area	O O O B-movie_type O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O B I I I I
+what time is american gun playing	O O O B-movie_name I-movie_name O	SearchScreeningEvent	O O O B I O
+is the missing clerk playing	O B-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O B I I O
+which movies are showing at southern theatres	O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B O O O B I
+find the schedule for the nightmare six hours from now at the nearest cinema	O O B-object_type O B-movie_name I-movie_name B-timeRange I-timeRange I-timeRange I-timeRange O O B-spatial_relation B-object_location_type	SearchScreeningEvent	O O O O B I B I I I O O O B
+show movie times of movies in the neighbourhood	O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B B I I I I I
+what films are playing at marcus corporation	O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B O O O B I
+is happy ghost iii at caribbean cinemas	O B-movie_name I-movie_name I-movie_name O B-location_name I-location_name	SearchScreeningEvent	O B I I O B I
+is a charming man playing at lunch time	O B-movie_name I-movie_name I-movie_name O O B-timeRange O	SearchScreeningEvent	O B I I O O B O
+find a movie theatre with animated movies that is closest to me	O O B-object_location_type I-object_location_type O B-movie_type I-movie_type O O B-spatial_relation O O	SearchScreeningEvent	O O B I O B I O O B O O
+find movies with movie schedules in the neighborhood	O B-movie_type O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O B O O I I
+is the clowns at the nearest cinema	O B-movie_name I-movie_name O O B-spatial_relation B-object_location_type	SearchScreeningEvent	O B I O O B B
+what s the nearest movie theatre playing testament of orpheus	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O B I I
+find movie schedules for nearby films	O B-object_type I-object_type O B-spatial_relation B-movie_type	SearchScreeningEvent	O B O O B B
+show the movie schedules and films in the area	O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B O O B O I I
+what movies are playing in the neighborhood	O B-movie_type O O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O O O I
+what animated movies are at the nearest cinema	O B-movie_type I-movie_type O O O B-spatial_relation B-object_location_type	SearchScreeningEvent	O B I O O O B B
+what movies are scheduled in the neighbourhood	O B-movie_type O O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O O I I
+what are the movie schedule now	O O O B-object_type I-object_type B-timeRange	SearchScreeningEvent	O O O B O B
+find the movie schedules at magic johnson theatres	O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O B O O B I I
+at amc theaters what is the movie schedule	O B-location_name I-location_name O O O B-object_type I-object_type	SearchScreeningEvent	O B I O O O B O
+show me the schedule of movie times in dipson theatres	O O O B-object_type O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O O O B O O B I
+find animated movies nearest at a movie house	O B-movie_type I-movie_type B-spatial_relation O O B-object_location_type I-object_location_type	SearchScreeningEvent	O B I B O O B I
+what time will the movie house be showing on the beat	O O O O B-object_location_type I-object_location_type O O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O B B O O I I I
+what is the movie schedule looking like	O O O B-object_type I-object_type O O	SearchScreeningEvent	O O O B O O O
+find the schedule for across the line at the closest movie house	O O B-object_type O B-movie_name I-movie_name I-movie_name O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O B I I O O B B I
+find movie schedules in warren theatres	O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O B O O B I
+what are the movie times for animated movies in the area	O O O B-object_type I-object_type O B-movie_type I-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B B I I I O O I
+is dishyum at the cinema	O B-movie_name O O B-object_location_type	SearchScreeningEvent	O B O O B
+where is the nearest movie theatre showing movies	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_type	SearchScreeningEvent	O O O B B I O B
+what animated movies are playing at the nearest movie theatre	O B-movie_type I-movie_type O O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O B I O O O O B B I
+find movies playing at the closest movie theatre	O B-movie_type O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O B O O O B B I
+what films are playing at the nearest movie theatre	O B-movie_type O O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O B O O O O B B I
+give me the showtimes for down where the buffalo go at amco entertainment	O O O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O B-location_name I-location_name	SearchScreeningEvent	O O O O O B I I I I O B I
+movie schedule at cinemark theatres	B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	B O O B I
+i d like the movie schedules nearby me for animated movies	O O O O B-object_type I-object_type B-spatial_relation O O B-movie_type I-movie_type	SearchScreeningEvent	O O O O B O B O O B I
+can i get the marine 2 showtimes	O O O B-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O B I I I
+find a movie house nearest for films	O O B-object_location_type I-object_location_type B-spatial_relation O B-movie_type	SearchScreeningEvent	O O B I B O B
+is goodbye mr  chips showing twelve minutes from now	O B-movie_name I-movie_name I-movie_name O B-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O B I I O B I I I
+i need a movie schedule for any films playing close by	O O O B-object_type I-object_type O O B-movie_type O B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O O O O O B I
+she me the movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B
+which animated movies are playing at the nearest movie house	O B-movie_type I-movie_type O O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O B I O O O O B B I
+find movie schedules in the neighborhood for movies	O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation O B-movie_type	SearchScreeningEvent	O B O B I I O B
+what is the movie schedule for the b&b theatres	O O O B-object_type I-object_type O O B-location_name I-location_name	SearchScreeningEvent	O O O B O O O B I
+show movie times for movies in the area	O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O B I I I
+i want the nearest movie house with the debtors	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O B I
+let me see the movie schedule for seed of chucky	O O O O O B-object_type O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O B O O B I I
+what amc theaters is the red dance playing at	O B-location_name I-location_name O B-movie_name I-movie_name I-movie_name O O	SearchScreeningEvent	O B I O B I I O O
+i d like to watch health warning at the closest movie house	O O O O O B-movie_name I-movie_name O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O O B I O O B B I
+i d like to see the showtimes for silly movie 2 0 at the movie house	O O O O O O O O B-movie_name I-movie_name I-movie_name I-movie_name O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O O O B I I I I I O O B I
+show me the movie schedule for nearby movies	O O O B-object_type I-object_type O B-spatial_relation B-movie_type	SearchScreeningEvent	O O O B O O B B
+is storm warning playing	O B-movie_name I-movie_name O	SearchScreeningEvent	O B I O
+what time is wild and wooly playing	O O O B-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O I I I O
+what are the movie times for movies around here	O O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O I I B B
+what film is playing in the neighbourhood	O B-movie_type O O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O B I I
+what movies are playing one hour from now at cooper foundation	O B-movie_type O O B-timeRange I-timeRange I-timeRange I-timeRange O B-location_name I-location_name	SearchScreeningEvent	O B O O B I I I O B I
+what movies are in the area	O B-movie_type O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O O I
+let me have the movie schedules for general cinema corporation	O O O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O O B O O B I I
+what are the movie times for consolidated theatres	O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O B B I I I
+when is the jailbird showing at united paramount theatres	O O B-movie_name I-movie_name O O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O B I O O B I I
+what time is movies playing around here	O O O B-movie_type O B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O B B
+can i get todays movie schedule for the movies that are close by	O O O O B-object_type I-object_type O O B-movie_type O O B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B B O O O B O O B I
+check movie schedules and find which animated movies are being aired in the neighborhood movie halls	O B-object_type I-object_type O O O B-movie_type I-movie_type O O O B-spatial_relation I-spatial_relation I-spatial_relation O O	SearchScreeningEvent	O B O O O O B I O O I O O B B I
+show movie times of films close by	O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O B B I I B I
+what films are playing around here	O B-movie_type O O B-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O B B
+what films are playing now at the closest movie house	O B-movie_type O O B-timeRange O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O B O O B O O B B I
+give me the movie schedules for neighborhood cinema group	O O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B O O B I I
+where can i see the somme starting at 16:01:04	O O O O B-movie_name I-movie_name O O B-timeRange	SearchScreeningEvent	O O O O O B O O B
+where will the blonde from peking be playing	O O B-movie_name I-movie_name I-movie_name I-movie_name O O	SearchScreeningEvent	O O B I I I O O
+what are the movie schedules at loews cineplex entertainment	O O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B O O B I I
+what time is balkan rhapsodies: 78 measures of war playing at malco theatres	O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O O O B I I I I I O O B I
+where and when is polish economy playing	O O O O B-movie_name I-movie_name O	SearchScreeningEvent	O O O O B I O
+where is my dearest enemy playing	O O B-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O B I I O
+what are the movie schedules for animated movies playing in the neighborhood	O O O B-object_type I-object_type O B-movie_type I-movie_type O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O O B I O B O I
+find a movie house showing cage without a key	O O B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O B I O B I I I
+are any films play at the santikos theatres	O O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O O B O O O B I
+where is the country bears playing	O O B-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O B I I O
+when is longwave going to be playing	O O B-movie_name O O O O	SearchScreeningEvent	O O B O O O O
+i d like to watch army at wanda group	O O O O O B-movie_name O B-location_name I-location_name	SearchScreeningEvent	O O O O O B I I I
+what time is utamaro and his five women showing at alamo drafthouse cinema	O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B I I I I O O B I I
+what movie times start in 22 seconds at magic johnson theatres	O B-object_type I-object_type O B-timeRange I-timeRange I-timeRange O B-location_name I-location_name I-location_name	SearchScreeningEvent	O B O O B I I O B I I
+what time is doc savage: the man of bronze playing	O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O B I I I I I O
+can i get the showtimes for films at the closest movie house	O O O O O O B-movie_type O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O B O B O O B B I
+what time is murph the surf playing	O O O B-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O B I I O
+find the movie schedules for nearby movies	O O B-object_type I-object_type O B-spatial_relation B-movie_type	SearchScreeningEvent	O O B O O B B
+what time are movies showing at megaplex theatres	O O O B-movie_type O O B-location_name I-location_name	SearchScreeningEvent	O O O B O O B I
+i want the film for nearest movie theatre	O O O B-movie_type O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O O B O B B I
+list films in the neighborhood	O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B I I I
+find me the showtimes for until death at the nearest movie house	O O O O O B-movie_name I-movie_name O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O O B O B I O O O B I
+please check the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+i want to watch mr  and mrs  bridge at a nearest cinema	O O O O B-movie_name I-movie_name I-movie_name I-movie_name O O B-spatial_relation B-object_location_type	SearchScreeningEvent	O O O O B I I I O O B B
+i d like to watch movies around here  can i see the movie schedules	O O O O O B-movie_type B-spatial_relation I-spatial_relation O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B B B O O O O B O
+find the terror within	O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O B I I
+showtimes for movies currently playing at speakeasy theaters	O O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	B O B O O O B I
+fine movie schedules for speakeasy theaters	O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O B O O B I
+where does the return of the whistler play at the bow tie cinemas at 03:01:48 a m	O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O O B-location_name I-location_name I-location_name O B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O B I I I I O O O B I I O B I I
+when can i catch a screening of shivers in summer	O O O O O O O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O O B O B I I
+i m looking for a movie schedule at the cooper foundation	O O O O O B-object_type I-object_type O O B-location_name I-location_name	SearchScreeningEvent	O O O O O B O O B I I
+what time does tie a yellow ribbon play at magic johnson theatres	O O O B-movie_name I-movie_name I-movie_name I-movie_name O O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B I I I O O B I I
+what time will where the breakers roar be playing	O O O B-movie_name I-movie_name I-movie_name I-movie_name O O	SearchScreeningEvent	O O O B I I I O O
+what animated movies are playing amc theaters	O B-movie_type I-movie_type O O B-location_name I-location_name	SearchScreeningEvent	O B I O O B I
+let me know the movie times for films in the area	O O O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O O B B I I I I I
+please provide me with movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+what time is roy colt & winchester jack playing at movie house	O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O O B I I I I O O B I
+what time is the closet cinema playing movies the closest	O O O O O B-object_location_type O B-movie_type O B-spatial_relation	SearchScreeningEvent	O O O O B I O B O I
+is proudly she marches playing anywhere	O B-movie_name I-movie_name I-movie_name O O	SearchScreeningEvent	O B I B O O
+find time for all about hash	O O O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B I I
+show me the movie times for films nearby	O O O B-object_type I-object_type O B-movie_type B-spatial_relation	SearchScreeningEvent	O O O B B I I I
+can i get the movie schedule for 8 a m	O O O O B-object_type I-object_type O B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O O O B O O B I I
+i d like to watch sherlock holmes à new york at kb theatres	O O O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O B-location_name I-location_name	SearchScreeningEvent	O O O O O B I I I I O B I
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+i d like to watch the slender thread at 6 pm	O O O O O B-movie_name I-movie_name I-movie_name O B-timeRange I-timeRange	SearchScreeningEvent	O O O O O B I I O B I
+whats the movie schedule for movies nearby	O O B-object_type I-object_type O B-movie_type B-spatial_relation	SearchScreeningEvent	O O B O O B B
+what films are going to be playing at harkins theatres at zero a m	O B-movie_type O O O O O O B-location_name I-location_name O B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O B O O O O O O B I O B I I
+can you let me know where i can watch the nest	O O O O O O O O O B-movie_name I-movie_name	SearchScreeningEvent	O O O O O O O O O B I
+is warhead playing at amc theaters	O B-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O B O O B I
+find movie schedules for animated movies in the area	O B-object_type I-object_type O B-movie_type I-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O B I I I I
+find movie schedules for movies around here at nineteen o clock	O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation O B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O B O O B B B O B I I
+when and where is invitation to the waltz playing	O O O O B-movie_name I-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O O B I I I O
+what films are playing at goodrich quality theaters	O B-movie_type O O O B-location_name I-location_name I-location_name	SearchScreeningEvent	O B O O O B O I
+list movie schedules at showcase cinemas	O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O B O O B I
+is tomorrow at dawn at harkins theatres	O B-movie_name I-movie_name I-movie_name O B-location_name I-location_name	SearchScreeningEvent	O B O B O B I
+tell me the movie schedules for mann theatres	O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O B O O B I
+find a movie theatre with beware of bachelors	O O B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O B I O B I I
+show movie schedule at amco entertainment	O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O B O O B I
+find the nearest movies at a movie theatre	O O B-spatial_relation B-movie_type O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O B B O O B I
+give me the movie times at goodrich quality theaters	O O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B B I I I I
+where is the chief cook playing	O O B-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O B I O
+show me movie times	O O B-object_type I-object_type	SearchScreeningEvent	O O B I
+what movie times at megaplex theatres	O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O B O O B I
+what time do the movies play at southern theatres	O O O O B-movie_type O O B-location_name I-location_name	SearchScreeningEvent	O O O O B O O B I
+find movie schedules for dickinson theatres	O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O B O O B I
+what times will the young swordsman be showing at a local cinema	O B-object_type O B-movie_name I-movie_name I-movie_name O O O O O B-object_location_type	SearchScreeningEvent	O O O B I I O O O O O B
+what is the movie schedule at cineplex odeon corporation 12 hours from now	O O O B-object_type I-object_type O B-location_name I-location_name I-location_name B-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O O B O O B I I B I I I
+what are the movie times for films playing in the area	O O O B-object_type I-object_type O B-movie_type O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B B I I O O O I
+what time is mon amour: shesher kobita revisited playing	O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O B I I I I O
+when can i watch alice: a true story at amc theatres	O O O O B-movie_name I-movie_name I-movie_name I-movie_name O B-location_name I-location_name	SearchScreeningEvent	O O O O B I I I O B I
+find a cinema showing the mandrake nearest at one o clock	O O B-object_location_type O B-movie_name I-movie_name B-spatial_relation O B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O B O B B B O B I I
+what time is the night before the premiere playing at the movie house	O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O B I O B O O O B I
+what are the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+what is the wanda group movie schedules	O O O B-location_name I-location_name B-object_type I-object_type	SearchScreeningEvent	O O O B I B O
+show me the schedule of movies in pacific theatres	O O O B-object_type O B-movie_type O B-location_name I-location_name	SearchScreeningEvent	O O O O O B O B I
+what are the movie schedules for movies showing in the neighbourhood	O O O B-object_type I-object_type O B-movie_type O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O O B O B I I
+tell me the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+where and at what time can i see paragraphe 78	O O O O O O O O B-movie_name I-movie_name	SearchScreeningEvent	O O O O O O O O B I
+give me the movie schedule for the great escape theatres	O O O B-object_type I-object_type O O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B O O B I I I
+what time is the wanda group playing the honor of an outlaw	O O O O B-location_name I-location_name O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O B I O B I I I I
+what is the local movie times	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+show me the movie schedule in the area near my home at seven am for animated movies	O O O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation O O O O B-timeRange I-timeRange O B-movie_type I-movie_type	SearchScreeningEvent	O O O B O O O O B O B O B I O B I
+can i get the movie schedules for loews cineplex	O O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O O B O O B I
+check the movie schedules	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+can i get the movie schedule  for films nearby	O O O O B-object_type I-object_type O B-movie_type B-spatial_relation	SearchScreeningEvent	O O O O B O O B B
+which cinema can i go to to see lilly the witch: the dragon and the magic book	O B-object_location_type O O O O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O B O O O O O O B I I I I I I I I
+show me the movie schedule for star theatres	O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O B O O B I
+what is the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+whens the next showing of the game of their lives	O O O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O O B B I I I
+is love is a ball playing right now	O B-movie_name I-movie_name I-movie_name I-movie_name O O B-timeRange	SearchScreeningEvent	O B I I I O O B
+what s the nearest movie house showing their last love affair	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O B I I I
+what s the closest movie house showing the hard way	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O B I I
+what films are at the nearest movie theatre	O B-movie_type O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O B O O O B B I
+where and when can i see the image makers	O O O O O O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O O O O I I
+can i get the movie schedules for megaplex theatres	O O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O O B O O B I
+showtimes for the alamo drafthouse cinema for todays movies	O O O B-location_name I-location_name I-location_name O O B-movie_type	SearchScreeningEvent	B O O B I I O B I
+can you provide me with movie schedules for century theatres	O O O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O O O B O O B I
+find the movie schedule for films in the area	O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B O O B I I I
+what are the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+what movies are on the movie schedules for five hours from now in the neighbourhood	O B-movie_type O O O B-object_type I-object_type O B-timeRange I-timeRange I-timeRange I-timeRange B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O O B O O B I I I O O B
+where is the closest cinema playing soapsuds and sapheads	O O O B-spatial_relation B-object_location_type O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B B O B I I
+i need to see the movie schedules	O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B O
+what is the nearest movie theatre playing kate y leopold	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O B I I
+find a consolidated theatres showing the good old naughty days	O O B-location_name I-location_name O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O B I O B I I I I
+find national amusements with honey  i shrunk the kids	O B-location_name I-location_name O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O B I I I I I I I
+show a movie schedule with bow tie cinemas	O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O B O O B I I
+what is the movie schedule at douglas theatre company	O O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B O O B I I
+i d like to watch three word brand at the cinema	O O O O O B-movie_name I-movie_name I-movie_name O O B-object_location_type	SearchScreeningEvent	O O O O O B I I O O B
+find the nearest movie house showing dangers of the canadian mounted	O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B I O B I I I I
+show me the schedule of letters from a porcupine in alamo drafthouse cinema	O O O B-object_type O B-movie_name I-movie_name I-movie_name I-movie_name O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O O O B I I I O B I I
+show me dombey and son movies	O O B-movie_name I-movie_name I-movie_name B-movie_type	SearchScreeningEvent	O O B I I B
+find the closest cinema for films	O O B-spatial_relation B-object_location_type O B-movie_type	SearchScreeningEvent	O O B B O B
+when will the boys next door be playing at the nearest  movie house	O O B-movie_name I-movie_name I-movie_name I-movie_name O O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O B I I I O O O O O B I
+when is for lovers only playing	O O B-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O B I I O
+fimd films around here	O B-movie_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O B B I
+what is the closest movie theatre showing in pursuit of honor	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O B I I I
+what movies are scheduled at plitt theatres	O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B O O O B I
+is one night surprise at the cinema	O B-movie_name I-movie_name I-movie_name O O B-object_location_type	SearchScreeningEvent	O B I I O O B
+i d like to watch the wedding ring at the movie theatre	O O O O O B-movie_name I-movie_name I-movie_name O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O O B I I O O B I
+find the movie schedule for arclight hollywood	O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O B O O B I
+find a cinema nearest with sulle sathya	O O B-object_location_type B-spatial_relation O B-movie_name I-movie_name	SearchScreeningEvent	O O B B O B I
+what animated movies are showing at loews cineplex	O B-movie_type I-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B I O O O B I
+where is the closest cinema playing good night good morning	O O O B-spatial_relation B-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B B O B I I I
+find the schedule for the tooth will out at sunrise	O O B-object_type O B-movie_name I-movie_name I-movie_name I-movie_name O B-timeRange	SearchScreeningEvent	O O O O B I I I I I
+where is the nearest movie theatre playing the sword of many lovers	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O B I O B I I I I
+show me movies in the area	O O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B B I I
+what time will in the name of the son be playing	O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O	SearchScreeningEvent	O O O B I I I I I O O
+i want to know the films playing at the closest movie house	O O O O O B-movie_type O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O O B O O O B B I
+what time is the glass key playing at caribbean cinemas	O O O B-movie_name I-movie_name I-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O O O B I I O O B I
+i need information on movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+can i get the showtimes for films in the neighbourhood	O O O O O O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O O B O B I I I
+can i get the listings for the film at the nearest movie theatre	O O O O O O O B-movie_type O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O O O O B O O O B I
+which cinemark theatres is playing a is for atom	O B-location_name I-location_name O O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O B I O O B I I I
+which movie house is playing snow in the desert today	O B-object_location_type I-object_location_type O O B-movie_name I-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O B I O O B I I I B
+please tell me what the movie schedule looks like for the amc theatres in twenty one hours	O O O O O B-object_type I-object_type O O O O B-location_name I-location_name B-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O O O O B O O O O O B I B I I I
+where is the closest cinema that features animated movies	O O O B-spatial_relation B-object_location_type O O B-movie_type I-movie_type	SearchScreeningEvent	O O O B B O O B I
+find a movie house for kickboxer 5 – redemption	O O B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O B I I I I I I
+what films are showing at kerasotes theatres	O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B O O O B I
+show me the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+show movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+show me the nearest movie house showing he won a ranch	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O B I O B I I I
+give me movie times	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+when is you walk so softly playing at kerasotes theatres	O O B-movie_name I-movie_name I-movie_name I-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O O I I I I O O B I
+can i get the showtimes for the kitchen toto at cineplex odeon corporation	O O O O O O B-movie_name I-movie_name I-movie_name O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O O B O O B I O B I I
+what animated movies are at the closest movie house near brunch	O B-movie_type I-movie_type O O O B-spatial_relation B-object_location_type I-object_location_type O B-timeRange	SearchScreeningEvent	O B I O O O B B I B B
+i d like to watch films anywhere nearby	O O O O O B-movie_type O B-spatial_relation	SearchScreeningEvent	O O O O O B O B
+is love  marilyn playing	O B-movie_name I-movie_name O	SearchScreeningEvent	O B I O
+can you let me know when talk of the devil is playing at the movie theatre	O O O O O O B-movie_name I-movie_name I-movie_name I-movie_name O O O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O O O B I I I O O O O B I
+find the schedule for screen souvenirs at cinemark theatres	O O B-object_type O B-movie_name I-movie_name O B-location_name I-location_name	SearchScreeningEvent	O O O O B I I B I
+whats the closest cinema that shows movies at 12 a m	O O B-spatial_relation B-object_location_type O O B-movie_type O B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O B B O O B O B I I
+i d like to see the movie schedule for movies in the area	O O O O O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O O O O B O O B O O I
+is fighting with buffalo bill playing at the closest movie house	O B-movie_name I-movie_name I-movie_name I-movie_name O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O B I I I O O O B B I
+can i get the showtimes for fit for a king	O O O O O O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O O B O B I I I
+what is the movie schedule for films that are playing nearby in 15 minutes	O O O B-object_type I-object_type O B-movie_type O O O B-spatial_relation B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O O B O O B O O O B B I I
+what animated movies are showing at star theatres	O B-movie_type I-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B I O O O B I
+find the schedule for movies at the megaplex theatres	O O B-object_type O B-movie_type O O B-location_name I-location_name	SearchScreeningEvent	O O O O B I I I I
+what are the movie times for movies close by	O O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B B I I B I
+where is the yellow star: the persecution of the jews in europe 1933-45 playing	O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O B I I I I I I I I I I O
+is tarzan of the apes playing at cobb theatres	O B-movie_name I-movie_name I-movie_name I-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O B I I I O O B I
+which films are playing at malco theatres	O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B O O O B I
+what is the local movie schedule	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+i need the movie schedules for century theatres	O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O B O O B I
+find the schedule for animated movies in the area	O O B-object_type O B-movie_type I-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O O B I I I I
+give me the showtimes for the rum diary at mjr theatres at meal time	O O O O O B-movie_name I-movie_name I-movie_name O B-location_name I-location_name O B-timeRange O	SearchScreeningEvent	O O O O O O I I O B I O B O
+what are the movie times for the marcus corporation	O O O B-object_type I-object_type O O B-location_name I-location_name	SearchScreeningEvent	O O O B B I I I I
+in the area find some films	B-spatial_relation I-spatial_relation I-spatial_relation O O B-movie_type	SearchScreeningEvent	B O I O O B
+show movie schedules at megaplex theatres	O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O B O O B I
+what is the movie schedule 1 second from now	O O O B-object_type I-object_type B-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O O B O B I I I
+what time are movies showing around here	O O O B-movie_type O B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O B B
+can i get the movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+i d like to watch films in 23 hours in the neighborhood	O O O O O B-movie_type B-timeRange I-timeRange I-timeRange B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O O O B B I I O O B
+what time is summer school playing	O O O B-movie_name I-movie_name O	SearchScreeningEvent	O O O B I O
+what films are playing at kb theatres	O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B O O O B I
+showtimes for butterfly on a wheel	O O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	B O B I I I
+when is blood and ice cream-trilogie playing at the nearest movie theatre	O O B-movie_name I-movie_name I-movie_name I-movie_name O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O B I I I O O O O B I
+find the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+find kerasotes theatres showing animated movies	O B-location_name I-location_name O B-movie_type I-movie_type	SearchScreeningEvent	O B I I B I
+what is playing for movies at b&b theatres	O O O O B-movie_type O B-location_name I-location_name	SearchScreeningEvent	O O O O B O B I
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+i d like to watch a storm in the stars at north american cinemas	O O O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O O O B I I I I O B I I
+what are the movie schedules for movies around here	O O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O O B B B
+which cinema is currently showing the youngest profession	O B-object_location_type O O O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O B O O O B I I
+where is the nearest cinema that is playing films	O O O B-spatial_relation B-object_location_type O O O B-movie_type	SearchScreeningEvent	O O O B B O O O B
+show movie schedules for animated movies in the neighbourhood	O B-object_type I-object_type O B-movie_type I-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O B I I I I
+find a movie schedule in the neighborhood for animated movies	O O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation O B-movie_type I-movie_type	SearchScreeningEvent	O O B O B I I O B I
+what time is the rocketeer showing	O O O B-movie_name I-movie_name O	SearchScreeningEvent	O O O B I O
+is green grass widows playing at the cinema	O B-movie_name I-movie_name I-movie_name O O O B-object_location_type	SearchScreeningEvent	O B I I O O O B
+find time for movies at the closest cinema	O O O B-movie_type O O B-spatial_relation B-object_location_type	SearchScreeningEvent	O O O B O O B B
+find the movie schedules	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+what kind of films are at the closest movie house	O O O B-movie_type O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O O B O O O B B I
+what is the movie schedule for movies in the neighborhood	O O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O O B I I I
+find films available at cooper foundation	O B-movie_type O O B-location_name I-location_name	SearchScreeningEvent	O B O O B I
+what movie theatre is showing manorama six feet under	O B-object_location_type I-object_location_type O O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O B I O O B B I I
+find fish story	O B-movie_name I-movie_name	SearchScreeningEvent	O B I
+what is the movie schedules for the movies nearby playing 23 seconds from now	O O O B-object_type I-object_type O O B-movie_type B-spatial_relation O B-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O O B O O O O B O B I I I
+what are the movie times at goodrich quality theaters	O O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B B I B O I
+please find me the movies playing nearby	O O O O B-movie_type O B-spatial_relation	SearchScreeningEvent	O O O O B O B
+show me the movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B
+show me the movie times for caribbean cinemas in 1 second	O O O B-object_type I-object_type O B-location_name I-location_name B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O O B B I I I B I I
+what time is the count playing	O O O B-movie_name I-movie_name O	SearchScreeningEvent	O O O B I O
+what time is i know that you know that i know lpaying	O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O O I I I I I I I B
+find good night  and good luck at a cinemark theatres	O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O B I I I I O O B I
+can i see the movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+find movie times for animated movies in the area	O B-object_type I-object_type O B-movie_type I-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B I I I I I I I
+where theater is playing the ranger and the lady at 10 am	O O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O B-timeRange I-timeRange	SearchScreeningEvent	O B O O B I I I I O B I
+what movie theatre is playing the missing picture	O B-object_location_type I-object_location_type O O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O B I O O B I I
+i d like to watch glass chin at the movie house at 17:32:30	O O O O O B-movie_name I-movie_name O O B-object_location_type I-object_location_type O B-timeRange	SearchScreeningEvent	O O O O O B I O O B I O B
+is arthur 2 – on the rocks playing at 20:44	O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-timeRange	SearchScreeningEvent	O B I I I I I O O B
+what s the closest movie house showing night in may	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O B I I
+show me movie times for one minute from now	O O B-object_type I-object_type O B-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O B O I B I I I
+what movie schedules start at sunset	O B-object_type I-object_type O O B-timeRange	SearchScreeningEvent	O B O O O B
+show movie schedule at cinemark theatres	O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O B O O B I
+what are the movie schedules for santikos theatres	O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O B O O B I
+need the closest movie house playing the flamingo rising	O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O B B I O B I I
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+what time is crawlspace playing at the caribbean cinemas	O O O B-movie_name O O O B-location_name I-location_name	SearchScreeningEvent	O O O B O O O B I
+find dipson theatres with swiss army man at 8 p m	O B-location_name I-location_name O B-movie_name I-movie_name I-movie_name O B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O B I I I I I O B I I
+find films at alamo drafthouse cinema	O B-movie_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O B I B I I
+what time is the mailman playing	O O O B-movie_name I-movie_name O	SearchScreeningEvent	O O O B I O
+find meal time movie times close by for movies	O B-timeRange O B-object_type I-object_type B-spatial_relation I-spatial_relation O B-movie_type	SearchScreeningEvent	O B O B O B I O B
+what time is scream of stone playing	O O O B-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O B I I O
+find kerasotes theatres movie schedules	O B-location_name I-location_name B-object_type I-object_type	SearchScreeningEvent	O B I B O
+where can i watch wartime romance in the morning	O O O O B-movie_name I-movie_name O O B-timeRange	SearchScreeningEvent	O O O O B I I I I
+what time is the dungeonmaster playing at amc theaters	O O O B-movie_name I-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O O O B I O O B I
+list films at pacific theatres	O B-movie_type O B-location_name I-location_name	SearchScreeningEvent	O B O B I
+find movie schedules at goodrich quality theaters	O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O B O O B I I
+show movie schedules with movies in the neighborhood	O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O B I I I
+can you pull up a movie schedule for me	O O O O O B-object_type I-object_type O O	SearchScreeningEvent	O O O O O B O O O
+which animated movies are showing close by	O B-movie_type I-movie_type O O B-spatial_relation I-spatial_relation	SearchScreeningEvent	O B I O O B I
+tell me the movie schedules for loews cineplex entertainment	O O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B O O B I I
+can i have the local movie times	O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B O
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+in the neighbourhood find movies with movie times	B-spatial_relation I-spatial_relation I-spatial_relation O B-movie_type O B-object_type I-object_type	SearchScreeningEvent	O O B O B I B I
+please check whether any animated movies will be running in the area around 04:34:15 pm	O O O O B-movie_type I-movie_type O O O B-spatial_relation I-spatial_relation I-spatial_relation O B-timeRange I-timeRange	SearchScreeningEvent	O O O O B I O O O O O O O B I
+show movies in the neighborhood	O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B I I I
+is and the ship sails on playing at douglas theatre company 1 minute from now	O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-location_name I-location_name I-location_name B-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O B I I I I O O B I I B I I I
+is the film goodrich quality theaters playing at 12:26 am	O O B-movie_type B-location_name I-location_name I-location_name O O B-timeRange I-timeRange	SearchScreeningEvent	O O B B O I O O B I
+when is lake city playing at dipson theatres	O O B-movie_name I-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O O B I O O B I
+i m wondering if i can watch heyy babyy at a cinema	O O O O O O O B-movie_name I-movie_name O O B-object_location_type	SearchScreeningEvent	O O O O O O O B I O O B
+is i was an american spy playing at 11 a m  at southern theatres	O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-timeRange I-timeRange I-timeRange O B-location_name I-location_name	SearchScreeningEvent	O B I I I I O O B I I O B I
+when is purple heart scheduled at the nearest movie house	O O B-movie_name I-movie_name O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O B I O O O O B I
+find the schedule for movie times	O O B-object_type O B-object_type I-object_type	SearchScreeningEvent	O O O O B I
+what is the movie schedule for films in the neighbourhood	O O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O O B B I I
+what theater is showing from paris with love and when	O O O O B-movie_name I-movie_name I-movie_name I-movie_name O O	SearchScreeningEvent	O B O O O B I I I I
+what time is class playing at amco entertainment	O O O B-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O O O O O O B I
+what movies are showing at fox theatres at 11 am	O B-movie_type O O O B-location_name I-location_name O B-timeRange I-timeRange	SearchScreeningEvent	O B O O O B I O B I
+what time is the graduates of malibu high playing at cobb theatres	O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O O O O I I I I O O B I
+i need movie times in the area for any type of movies	O O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation O O O O B-movie_type	SearchScreeningEvent	O O B O O I I O O O O B
+find movie times for great escape theatres	O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O B B I I I I
+what films are showing at century theatres	O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B O O O B I
+find the movie schedule for animated movies in the area	O O B-object_type I-object_type O B-movie_type I-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B O O B I I I I
+show me movie times for movies in the neighborhood	O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B I I I I I I
+what are the animated movies in the neighbourhood  for the recent movie times	O O O B-movie_type I-movie_type B-spatial_relation I-spatial_relation I-spatial_relation O O O B-object_type I-object_type	SearchScreeningEvent	O O O B I B I I O O B B O
+is lord jim at the movie house	O B-movie_name I-movie_name O O B-object_location_type I-object_location_type	SearchScreeningEvent	O B I O O B I
+can i get the movie schedule for eleven hours from now	O O O O B-object_type I-object_type O B-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O O O B O O B I I I
+find a feather in her hat at magic johnson theatres	O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O B-location_name I-location_name I-location_name	SearchScreeningEvent	O B I I I I O B I I
+show movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+what is the movie schedule for general cinema corporation	O O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O O B O O B I I
+find the movie schedule for pacific theatres	O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O B O O B I
+can i see the movie schedules nineteen minutes from now	O O O O B-object_type I-object_type B-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O O O B O B I I I
+what animated movies are playing at kb theatres	O B-movie_type I-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B I O O O B I
+what time are films showing at kb theatres	O O O B-movie_type O O B-location_name I-location_name	SearchScreeningEvent	O O O B O O B I
+please tell me movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B I
+what movies are playing at cineplex odeon corporation	O B-movie_type O O O B-location_name I-location_name I-location_name	SearchScreeningEvent	O B O O O B I I
+where is my song goes forth playing	O O B-movie_name I-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O B I I O
+what is the movie schedule of animated movies nearby	O O O B-object_type I-object_type O B-movie_type I-movie_type B-spatial_relation	SearchScreeningEvent	O O O B O O B I B
+what s the closest cinema playing chuckys baby now	O O O B-spatial_relation B-object_location_type O B-movie_name I-movie_name B-timeRange	SearchScreeningEvent	O O O B B O B I B
+show movie times for animated movies nearby	O B-object_type I-object_type O B-movie_type I-movie_type B-spatial_relation	SearchScreeningEvent	O B O O B I B
+which movies are playing in the neighborhood	O B-movie_type O O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O B I I
+show the movie schedule for 9 pm  at cobb theatres	O O B-object_type I-object_type O B-timeRange I-timeRange O B-location_name I-location_name	SearchScreeningEvent	O O B O O B I O B I
+what movies are playing at regal entertainment group	O B-movie_type O O O B-location_name I-location_name I-location_name	SearchScreeningEvent	O B O O O B I I
+which movies are playing at amc theaters	O B-movie_type O O O B-location_name I-location_name	SearchScreeningEvent	O B O O O B I
+what films are showing in the area	O B-movie_type O O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O O O I
+is millions in the air playing at the cinema	O B-movie_name I-movie_name I-movie_name I-movie_name O O O B-object_location_type	SearchScreeningEvent	O B I I I O O O B
+find partners in action at dickinson theatres	O B-movie_name I-movie_name I-movie_name O B-location_name I-location_name	SearchScreeningEvent	O B I I O B I
+what is the movie schedule for the cooper foundation	O O O B-object_type I-object_type O O B-location_name I-location_name	SearchScreeningEvent	O O O B O O B I I
+find the movie times at consolidated theatres	O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O B B I I I
+show movie schedules of film nearby	O B-object_type I-object_type O B-movie_type B-spatial_relation	SearchScreeningEvent	O B O O B B
+show nearest movie theatre to watch black jesus	O B-spatial_relation B-object_location_type I-object_location_type O O B-movie_name I-movie_name	SearchScreeningEvent	O B B I O O B I
+give me pacific theatres movie schedules	O O B-location_name I-location_name B-object_type I-object_type	SearchScreeningEvent	O O B I B O
+find the closest cinema playing the st  francisville experiment	O O B-spatial_relation B-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O B B O B I I I
+tell me the closest movie house playing black rage	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O B I
+when is good will evil playing at loews cineplex entertainment	O O B-movie_name I-movie_name I-movie_name O O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O B I I O O B I I
+what animated movies are there nearby	O B-movie_type I-movie_type O O B-spatial_relation	SearchScreeningEvent	O B I O O B
+what is the movie schedules for movies in the area	O O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O O B O O I
+where is the nearest cinema playing compound fracture	O O O B-spatial_relation B-object_location_type O B-movie_name I-movie_name	SearchScreeningEvent	O O O B B O B I
+find endless horizons	O B-movie_name I-movie_name	SearchScreeningEvent	O B I
+movie schedules for animated movies playing in the neighbourhood	B-object_type I-object_type O B-movie_type I-movie_type O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	B O O B I O B I I
+find secret command	O B-movie_name I-movie_name	SearchScreeningEvent	O B I
+what time will the age of success be showing	O O O B-movie_name I-movie_name I-movie_name I-movie_name O O	SearchScreeningEvent	O O O B I I I O O
+show movie schedule and movies in the area	O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O B O O B I I I
+find the movie schedule for national amusements	O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O B B I I I
+find movie schedules at imax corporation	O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O B O O B I
+is the big job playing at the nearest cinema	O B-movie_name I-movie_name I-movie_name O O O B-spatial_relation B-object_location_type	SearchScreeningEvent	O O B O O O O B B
+is live from sturgis 2006 playing at four o clock at the nearest cinema	O B-movie_name I-movie_name I-movie_name I-movie_name O O B-timeRange I-timeRange I-timeRange O O B-spatial_relation B-object_location_type	SearchScreeningEvent	O B I I I O O B I I O O O B
+whats the movie schedules for general cinema corporation	O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O B O O B I I
+what is the movie times at marcus corporation	O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O B B I I I
+what are the current movie schedules for amc theatres	O O O O B-object_type I-object_type O B-location_name I-location_name	SearchScreeningEvent	O O O O B O O B I
+when is youth without youth being shown at the nearest movie house	O O B-movie_name I-movie_name I-movie_name O O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O B I I O O O O B B I
+find a movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+what is the movie schedule like	O O O B-object_type I-object_type O	SearchScreeningEvent	O O O B O O
+find alamo drafthouse cinema with animated movies	O B-location_name I-location_name I-location_name O B-movie_type I-movie_type	SearchScreeningEvent	O B I I I I I
+find the movie schedules for films in the area	O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B O O B I I I
+what movie theatre is playing shed no tears	O B-object_location_type I-object_location_type O O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O B I O O B I I
+find a movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+when is sea of fear being shown at the closest movie theatre	O O B-movie_name I-movie_name I-movie_name O O O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O O B I I O O O O B B I
+what are the time for movies playing at star theatres	O O O O O B-movie_type O O B-location_name I-location_name	SearchScreeningEvent	O O O O O B O O B I
+show the movie schedule at regal entertainment group	O O B-object_type I-object_type O B-location_name I-location_name I-location_name	SearchScreeningEvent	O O B O O B I I
+when is cooper foundation on the movie schedule	O O B-location_name I-location_name O O B-object_type I-object_type	SearchScreeningEvent	O O B I O O B O
+what time is the burning season playing	O O O B-movie_name I-movie_name I-movie_name O	SearchScreeningEvent	O O O B I I O
+what s the closest movie house showing the legend of ben hall	O O O B-spatial_relation B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O B I I I I
+give me showtimes for the tenth woman at the movie house	O O O O B-movie_name I-movie_name I-movie_name O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O B I I I I I I B I
+are there any films around here	O O O B-movie_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B B B
+can you give me the movie schedules for films close by	O O O O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O O O B O O B B I
+what is the closest movie theatre that is playing moment to moment	O O O B-spatial_relation B-object_location_type I-object_location_type O O O B-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O O O B B I O O O B I I
+find the movie schedule for movies close by	O O B-object_type I-object_type O B-movie_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B O O B B I
+is the mystery of betty bonn playing at twelve a m  at the nearest movie house	O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-timeRange I-timeRange I-timeRange O O B-spatial_relation B-object_location_type I-object_location_type	SearchScreeningEvent	O B I I I I O O B I I O O O B I
+is holy matrimony playing at national amusements	O B-movie_name I-movie_name O O B-location_name I-location_name	SearchScreeningEvent	O B I O O B I
+find berlin to the samba beat	O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name	SearchScreeningEvent	O B I I I I
+what time is soul surfer playing	O O O B-movie_name I-movie_name O	SearchScreeningEvent	O O O B I O
+find the movie schedule for animated movies in the area	O O B-object_type I-object_type O B-movie_type I-movie_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B O O B I I I I
+show me movie schedules	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+can i go see cash and curry at a movie theatre	O O O O B-movie_name I-movie_name I-movie_name O O B-object_location_type I-object_location_type	SearchScreeningEvent	O O O O B I I O O B I
+find out what films are being played in the neighbourhood	O O O B-movie_type O O O B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O O I I I I
+give me the movie listings at the closest cinema please	O O O B-movie_type O O O B-spatial_relation B-object_location_type O	SearchScreeningEvent	O O O B O O O I B O

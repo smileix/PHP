@@ -1,0 +1,168 @@
+show me the movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B
+show the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+can i have the movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+please give me the movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+could you please show me movie schedules	O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B O
+show me movie times	O O B-object_type I-object_type	SearchScreeningEvent	O O B I
+what is the movie schedule for today	O O O B-object_type I-object_type O O	SearchScreeningEvent	O O O B O O B
+will you please pull up movie schedules for me	O O O O O B-object_type I-object_type O O	SearchScreeningEvent	O O O O O B O O O
+what time are the movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+find the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+what are the movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B
+please give me movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+find movie schedules for me	O B-object_type I-object_type O O	SearchScreeningEvent	O B O O O
+find the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+what are the movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+show me the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+find a movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+find the movie schedule in the area	O O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B B B I I
+please tell me the movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+show me the current movie times	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B O
+show movie times	O B-object_type I-object_type	SearchScreeningEvent	O B O
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+where can i find the movie schedules	O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B O
+show the movie times	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+what are the movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B
+can i have the movie schedule for right now	O O O O B-object_type I-object_type O O B-timeRange	SearchScreeningEvent	O O O O B O O O B
+fine a movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+where can i find the movie schedules	O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B O
+show me the schedule of movie times	O O O B-object_type O B-object_type I-object_type	SearchScreeningEvent	O O O O O B O
+list movie schedule	O B-object_type I-object_type	SearchScreeningEvent	O B O
+please find movie schedules	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+where can i get movie schedule	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+find the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+find time for movie times now	O O O B-object_type I-object_type B-timeRange	SearchScreeningEvent	O O O B I I
+find a movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+find a movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+show movie times at sunrise	O B-object_type I-object_type O B-timeRange	SearchScreeningEvent	O B B I I
+show me movie schedules	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+find the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+what s the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+show movie schedule	O B-object_type I-object_type	SearchScreeningEvent	O B O
+what is the local movie schedule	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+find the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+let me get the movie schedule for lunch time	O O O O B-object_type I-object_type O B-timeRange O	SearchScreeningEvent	O O O O B O O B O
+she me that movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+give me the movie schedule nearby	O O O B-object_type I-object_type B-spatial_relation	SearchScreeningEvent	O O O B O B
+show me the movie times for what s playing now	O O O B-object_type I-object_type O O O O B-timeRange	SearchScreeningEvent	O O O B B I I I I I
+what is the movie schedule near me	O O O B-object_type I-object_type O O	SearchScreeningEvent	O O O B O B O
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+list movie schedule	O B-object_type I-object_type	SearchScreeningEvent	O B O
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+can i get the movie times	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B B
+please tell me the movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+what is the movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B
+find me the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+what is the local movie schedule	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+what are the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+find the movie schedules	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+where can i find the movie schedule	O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B O
+list movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+i d like to see movie times please	O O O O O B-object_type I-object_type O	SearchScreeningEvent	O O O O O B B O
+show the movie schedules in the neighborhood	O O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B O B I I
+show me movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+show me the movie schedule in the neighbourhood	O O O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B B B I I
+show me movie schedules for today	O O B-object_type I-object_type O O	SearchScreeningEvent	O O B O O B
+i need movie schedules	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+show movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+find a movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+give me some movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+find the movie times now	O O B-object_type I-object_type B-timeRange	SearchScreeningEvent	O O B B I
+please show me the movie schedule for today	O O O O B-object_type I-object_type O O	SearchScreeningEvent	O O O O B O O B
+show me the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+recite the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+what are the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+i need current movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O B B O
+show me some movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+find the movie schedules for me	O O B-object_type I-object_type O O	SearchScreeningEvent	O O B O O O
+can i have the movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+find the movie schedule close by	O O B-object_type I-object_type B-spatial_relation I-spatial_relation	SearchScreeningEvent	O O B B B I
+what movie times	O B-object_type I-object_type	SearchScreeningEvent	O B O
+find the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+can i see the movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+what is the local movie schedule	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+please shoe me the movie schedule for today	O O O O B-object_type I-object_type O O	SearchScreeningEvent	O B O O B O O B
+show movie schedule	O B-object_type I-object_type	SearchScreeningEvent	O B O
+can i see the upcoming movie schedule	O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B O
+what are the movie schedules in the neighborhood	O O O B-object_type I-object_type B-spatial_relation I-spatial_relation I-spatial_relation	SearchScreeningEvent	O O O B O B I I
+show me the movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B
+find the movie schedule for 20:45:24	O O B-object_type I-object_type O B-timeRange	SearchScreeningEvent	O O B B O B
+what are the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+i want to see the local movie times	O O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O O B B
+what movie schedule	O B-object_type I-object_type	SearchScreeningEvent	O B O
+show the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+show me movie schedules	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+what movie times are there for 5 p m	O B-object_type I-object_type O O O B-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O B O O O O B I I
+list movie times with meal	O B-object_type I-object_type O B-timeRange	SearchScreeningEvent	O B O O B
+show the movie times	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+find the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+please give me the movie schedule	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+what are the current movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+find a movie schedule for 12 hours from now	O O B-object_type I-object_type O B-timeRange I-timeRange I-timeRange I-timeRange	SearchScreeningEvent	O O B O O B I I I
+what are the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+please check the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+show the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+find the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+show the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+look up the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+i need to see some movie schedules	O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B O
+show me the current movie times	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B O
+i want to see a list of local movie times	O O O O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O O O B B O
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+show movie times	O B-object_type I-object_type	SearchScreeningEvent	O B O
+find me the movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B
+i m looking for local movie schedules	O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B B O
+find a movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+show me the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+show me the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+give me the local movie times	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+find the movie schedule for 12:53 am	O O B-object_type I-object_type O B-timeRange I-timeRange	SearchScreeningEvent	O O B B O B I
+show movie times	O B-object_type I-object_type	SearchScreeningEvent	O B O
+show movie times	O B-object_type I-object_type	SearchScreeningEvent	O B O
+what are the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+show me the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+give me the movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B B
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+list movie schedule	O B-object_type I-object_type	SearchScreeningEvent	O B O
+can i get the movie times	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B B
+tell me the movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+please tell me the movie times	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B B
+show me movie schedules	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+i d like to see local movie times	O O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B B O
+please tell me the movie schedules	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+show me movie times at my local theater	O O B-object_type I-object_type O O O O	SearchScreeningEvent	O O B O O O O B
+find the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B B
+fine movie times	O B-object_type I-object_type	SearchScreeningEvent	B B O
+can you give me the movie times	O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O B B
+show the schedule of movie times	O O B-object_type O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+find time for the movie schedule	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+show me a movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+provide me the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+what is the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+i want a movie schedule	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+find a movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+please tell me movie times	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B I
+show the movie schedules	O O B-object_type I-object_type	SearchScreeningEvent	O O B O
+show movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+find movie schedules	O B-object_type I-object_type	SearchScreeningEvent	O B O
+can you give me a local and current movie schedule	O O O O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O O O O B B O
+please tell me the current and local movie times	O O O O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O O B O
+give me the local movie times	O O O O B-object_type I-object_type	SearchScreeningEvent	O O O O B O
+find movie times	O B-object_type I-object_type	SearchScreeningEvent	O B I
+find the movie schedule at twelve am	O O B-object_type I-object_type O B-timeRange I-timeRange	SearchScreeningEvent	O O B B I I I
+when are the movie schedules	O O O B-object_type I-object_type	SearchScreeningEvent	O O O B O
+show the movie schedule	O O B-object_type I-object_type	SearchScreeningEvent	O O B O

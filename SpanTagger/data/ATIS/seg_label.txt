@@ -1,0 +1,7 @@
+<pad>
+<start>
+<eos>
+X
+B
+I
+O

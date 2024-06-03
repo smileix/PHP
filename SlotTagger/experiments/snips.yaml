@@ -1,0 +1,92 @@
+dataset:
+  name: SNIPS
+  path: datasets/SNIPS
+#  path: datasets/snips_seen
+#  path: datasets/snips_unseen
+  label_path_sep: '-' # label path separation token
+  use_true_bio_label: False
+#  domain: AddToPlaylist_0
+
+plm:
+  model_name: bert
+  model_path: bert-large-uncased
+#  model_path: bert-base-uncased
+#  model_name: roberta
+#  model_path: roberta-base
+#  model_path: /Work18/2020/weixiao/code/model/roberta/roberta_base
+
+  optimize:
+    freeze_para: False
+    lr: 0.00005
+    weight_decay: 0.01
+    scheduler:
+      type:
+      num_warmup_steps: 500
+
+train:
+  batch_size: 64
+  num_epochs: 25
+  early_stop: 5
+
+test:
+  batch_size: 64
+
+dev:
+  batch_size: 64
+
+#template: manual_template
+template: mixed_template
+#template: soft_template
+
+#verbalizer: manual_verbalizer
+verbalizer: soft_verbalizer
+
+#manual_template:
+#  choice: 0
+#  file_path: scripts/SNIPS/template.txt
+##  file_path: scripts/SNIPS/template_d.txt
+
+mixed_template:
+  choice: 0
+  file_path: scripts/SNIPS/template.txt
+#  file_path: scripts/SNIPS/template_d.txt
+
+soft_template:
+  choice: 0
+#  file_path: scripts/SNIPS/template.txt
+  file_path: scripts/SNIPS/template_d.txt
+  num_tokens: 20
+  initialize_from_vocab: true
+  random_range: 0.5
+  optimize:
+    name: AdamW
+    lr: 0.03
+    adam_epsilon: 1.0e-8
+    scheduler:
+      num_warmup_steps: 500
+
+
+manual_verbalizer:
+  choice: 0
+  file_path: scripts/SNIPS/verbalizer.json
+
+soft_verbalizer:
+  parent_config: verbalizer
+  choice: 0
+  file_path: scripts/SNIPS/verbalizer.json
+#  file_path: scripts/SNIPS/verbalizer_eg.json
+  num_classes: 40
+
+classification:
+  metric: ['seqeval']
+
+environment:
+  num_gpus: 1
+  cuda_visible_devices:
+    - 0
+  local_rank: 0 
+
+learning_setting: full
+
+
+

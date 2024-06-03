@@ -1,0 +1,8 @@
+{"placeholder": "text_a"}. In this sentence, the domain is {"meta":"domain"} and the {"meta": "entity"} is a {"mask"}
+{"placeholder": "text_a"}. {"soft": "In this sentence, the domain is"} {"meta":"domain"} {"soft": "and the"} {"meta": "entity"} {"soft": "is a"} {"mask"}
+
+{"placeholder": "text_a"}. In this sentence, {"meta": "entity"} is a {"mask"}
+In the {"meta":"domain"} domain. {"placeholder": "text_a"}. In this sentence, {"meta": "entity"} is a {"mask"}
+{"placeholder": "text_a"}. {"meta": "domain"} domain, {"meta": "entity"} is a {"mask"}. {"meta":"eg"}
+{"placeholder": "text_a"}. {"meta": "domain"} domain, {"meta": "entity"} is a {"mask"}
+

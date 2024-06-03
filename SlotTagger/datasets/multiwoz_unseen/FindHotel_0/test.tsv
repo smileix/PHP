@@ -1,0 +1,18 @@
+no i just need the price range, address and phone please.	B-hotel-internet O O O O O O O O O O	find_hotel	O O O O O O O O O O O
+no, thank you. that will be all. have a great day!	B-hotel-internet O O O O O O O O O O	find_hotel	O O O O O O O O O O O
+no worries, i can give you three options to choose from	B-hotel-internet O O O O O O O O O O	find_hotel	O O O O O O B O O O O
+no, should have four stars though.	B-hotel-internet O O B-hotel-stars O O	find_hotel	O O O B O O
+yes, i'm also like to get away from it all and stay at a place in the centre with no internet.	O O O O O O O O O O O O O O O O O B-hotel-area O B-hotel-internet O	find_hotel	O O O O O O O O O O O O O O O O O B O O O
+no price preference, whatever you recommend.	B-hotel-internet O O O O O	find_hotel	O O O O O O
+i don't care where but i would also like free parking. oh, and i would prefer a guesthouse.	O O O O O O O O O B-hotel-internet O O O O O O O B-hotel-type	find_hotel	O O O O O O O O O O O O O O O O O B
+no thanks - not yet. does it have free parking?	B-hotel-internet O O O O O O O O O	find_hotel	O O O O O O O O O O
+no thanks, but can i have the postcode and price range for the acorn, please?	B-hotel-internet O O O O O O O O O O O O O O	find_hotel	O O O O O O O O O O O O O B O
+no i need a hotel in the west. can you search again please?	B-hotel-internet O O O O O O B-hotel-area O O O O O	find_hotel	O O O O B O O B O O O O O
+yes, the centre of town please. also, no internet is needed, but i would prefer free parking.	O O B-hotel-area O O O O B-hotel-internet O O O O O O O O O	find_hotel	O O B O O O O O O O O O O O O O O
+no particular pricerange, but i want it to be a type of hotel. it doesn't need to include internet.	B-hotel-internet O O O O O O O O O O O B-hotel-type O O O O O O	find_hotel	O O O O O O O O O O O O B O O O O O O
+no, i don't really have a reference for any of those, i don't even need internet.	B-hotel-internet O O O O O O O O O O O O O O O	find_hotel	O O O O O O O O O O O O O O O O
+are you sure that there are no hotels on the west side of town? with or without internet?	O O O O O O B-hotel-internet O O O B-hotel-area O O O O O O O	find_hotel	O O O O O O O O O O B O O O O O O O
+no, i don't need internet or free parking. could you tell me the star ratings for those?	B-hotel-internet O O O O O O O O O O O O O O O O	find_hotel	O O O O O O O O O O O O O O O O O
+hi, i'm looking for a guesthouse to stay at that provides free wifi, can you help me find one?	O O O O O B-hotel-type O O O O O B-hotel-internet O O O O O O O	find_hotel	O O O O O B O O O O O O O O O O O O O
+no and it doesn't need internet or free parking. i would prefer a moderate price though.	B-hotel-internet O O O O O O O O O O O O B-hotel-pricerange O O	find_hotel	O O O O O O O O O O O O O B O O
+i am also looking for a 4 star place to stay with free wifi	O O O O O O B-hotel-stars O O O O O B-hotel-internet O	find_hotel	O O O O O O B O O O O O O O

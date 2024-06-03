@@ -1,0 +1,108 @@
+how many cities are served by twa with first class flights	O O O O O O B-airline_code O B-class_type I-class_type O	atis_quantity
+what kind of airplane is flight ua 281 from boston to denver	O O O O O O B-airline_code B-flight_number O B-fromloc.city_name O B-toloc.city_name	atis_aircraft
+i need the flight numbers of flights leaving from cleveland and arriving at dallas	O O O O O O O O O B-fromloc.city_name O O O B-toloc.city_name	atis_flight_no
+first flights and fares from pittsburgh to atlanta on a thursday	B-flight_mod O O O O B-fromloc.city_name O B-toloc.city_name O O B-depart_date.day_name	atis_flight#atis_airfare
+what time zone is denver in	O O O O B-city_name O	atis_city
+what type of aircraft leaving philadelphia to dallas	O O O O O B-fromloc.city_name O B-toloc.city_name	atis_aircraft
+how many delta flights leave from washington	O O B-airline_name O O O B-fromloc.city_name	atis_quantity
+what is the capacity of the 73s	O O O O O O B-aircraft_code	atis_capacity
+what city is mco	O O O B-airport_code	atis_city
+please tell me the type of aircraft used from atlanta to denver before 12 o'clock noon	O O O O O O O O O B-fromloc.city_name O B-toloc.city_name B-depart_time.time_relative B-depart_time.time I-depart_time.time I-depart_time.time	atis_aircraft
+list california nevada arizona airports	O B-state_name B-state_name B-state_name O	atis_airport
+when does continental fly from philadelphia to denver on sundays	B-flight_time O B-airline_name O O B-fromloc.city_name O B-toloc.city_name O B-depart_date.day_name	atis_flight_time
+show me all meals on flights from atlanta to washington	O O O B-meal O O O B-fromloc.city_name O B-toloc.city_name	atis_meal
+how many us air flights leave from washington	O O B-airline_name I-airline_name O O O B-fromloc.city_name	atis_quantity
+what city is the airport mco in	O O O O O B-fromloc.airport_code O	atis_city
+list airports in new york	O O O B-city_name I-city_name	atis_airport
+display types of aircraft departing from cleveland to dallas before noon	O O O O O O B-fromloc.city_name O B-toloc.city_name B-depart_time.time_relative B-depart_time.time	atis_aircraft
+how many people fit on a 72s airplane	O O O O O O B-aircraft_code O	atis_capacity
+how many flights does twa have in business class	O O O O B-airline_code O O B-class_type I-class_type	atis_quantity
+all flights and fares from denver to pittsburgh on us air number 1039 on a thursday	O O O O O B-fromloc.city_name O B-toloc.city_name O B-airline_name I-airline_name O B-flight_number O O B-depart_date.day_name	atis_flight#atis_airfare
+how far is it from salt lake city airport to salt lake city	O O O O O B-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name O B-toloc.city_name I-toloc.city_name I-toloc.city_name	atis_distance
+what planes are used by twa	O O O O O B-airline_code	atis_aircraft
+all flights and fares from pittsburgh to dallas round trip after 12 pm less than 1100 dollars	O O O O O B-fromloc.city_name O B-toloc.city_name B-round_trip I-round_trip B-depart_time.time_relative B-depart_time.time I-depart_time.time B-cost_relative O B-fare_amount I-fare_amount	atis_flight#atis_airfare
+what type of aircraft flies from pittsburgh to baltimore	O O O O O O B-fromloc.city_name O B-toloc.city_name	atis_aircraft
+give me the flights and fares on december twenty seventh from indianapolis to orlando	O O O O O O O B-depart_date.month_name B-depart_date.day_number I-depart_date.day_number O B-fromloc.city_name O B-toloc.city_name	atis_flight#atis_airfare
+what is the seating capacity of the 757	O O O O O O O B-aircraft_code	atis_capacity
+what are the costs of car rental in dallas	O O O O O B-transport_type I-transport_type O B-city_name	atis_ground_fare
+how many flights does delta have with a class of service code f	O O O O B-airline_name O O O O O O O B-fare_basis_code	atis_quantity
+what airport is at tampa	O O O O B-city_name	atis_airport
+what is the seating capacity on the aircraft m80	O O O O O O O O B-aircraft_code	atis_capacity
+show me city served both by nationair and canadian airlines international	O O O O O O B-airline_name O B-airline_name I-airline_name I-airline_name	atis_city
+what's the fare for a taxi to denver	O O O O O B-transport_type O B-city_name	atis_ground_fare
+i would like a schedule of flights from denver to san francisco on tuesday	O O O O B-flight_time O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O B-depart_date.day_name	atis_flight_time
+i'm going to leave philadelphia and i want to go to san francisco and i want to fly first class american and i want a stop in dallas can you please tell me what type of aircraft you will be flying	O O O O B-fromloc.city_name O O O O O O B-toloc.city_name I-toloc.city_name O O O O O B-class_type I-class_type B-airline_name O O O O O O B-stoploc.city_name O O O O O O O O O O O O O	atis_aircraft
+list the total number of flights between all airports by delta	O O O O O O O O O O B-airline_name	atis_quantity
+what cities does northwest fly out of	O O O B-airline_name O O O	atis_city
+how many flights does twa have with business class	O O O O B-airline_code O O B-class_type I-class_type	atis_quantity
+i need flight numbers for those flights departing on thursday before 8 am from oakland going to salt lake city	O O O O O O O O O B-depart_date.day_name B-depart_time.time_relative B-depart_time.time I-depart_time.time O B-fromloc.city_name O O B-toloc.city_name I-toloc.city_name I-toloc.city_name	atis_flight_no
+what is the minimum connection time for houston intercontinental	O O O O O O O B-airport_name I-airport_name	atis_flight_time
+what type of aircraft is used on american airline flight 315	O O O O O O O B-airline_name I-airline_name O B-flight_number	atis_aircraft
+what is the schedule for flights between pittsburgh and boston on the evening of july ninth	O O O B-flight_time I-flight_time I-flight_time O B-fromloc.city_name O B-toloc.city_name O O B-depart_time.period_of_day O B-depart_date.month_name B-depart_date.day_number	atis_flight_time
+what are the restrictions on the cheapest one way fare between boston and oakland	O O O O O O B-cost_relative B-round_trip I-round_trip O O B-fromloc.city_name O B-toloc.city_name	atis_restriction
+flight numbers from chicago to seattle	O O O B-fromloc.city_name O B-toloc.city_name	atis_flight_no
+where is general mitchell international located	O O B-airport_name I-airport_name I-airport_name O	atis_city
+show me the airports serviced by tower air	O O O O O O B-airline_name I-airline_name	atis_airport
+list flights and fares from tacoma to orlando round trip leaving saturday returning next saturday	O O O O O B-fromloc.city_name O B-toloc.city_name B-round_trip I-round_trip O B-depart_date.day_name O B-return_date.date_relative B-return_date.day_name	atis_flight#atis_airfare
+how long is a trip from philadelphia airport to downtown philadelphia	O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name	atis_distance
+what kinds of planes are used by midway airlines	O O O O O O O B-airline_name I-airline_name	atis_aircraft
+show me all flights and fares from denver to san francisco	O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_flight#atis_airfare
+how many airlines have flights with service class yn	O O O O O O O O B-fare_basis_code	atis_quantity
+flight numbers from minneapolis to long beach on june twenty six	O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O B-depart_date.month_name B-depart_date.day_number I-depart_date.day_number	atis_flight_no
+how long does it take to fly from boston to atlanta	O O O O O O O O B-fromloc.city_name O B-toloc.city_name	atis_distance
+what cities does northwest fly to	O O O B-airline_name O O	atis_city
+flights and fares from denver to oakland	O O O O B-fromloc.city_name O B-toloc.city_name	atis_flight#atis_airfare
+list the arizona airport	O O B-state_name O	atis_airport
+how much is the ground transportation between atlanta and downtown	O O O O O O O B-fromloc.city_name O O	atis_ground_fare
+how many first class flights does united have leaving from all airports today	O O B-class_type I-class_type O O B-airline_name O O O O O B-depart_date.today_relative	atis_quantity
+names of airports	O O O	atis_airport
+what's the smallest plane that flies from pittsburgh to baltimore on eight sixteen	O O B-mod O O O O B-fromloc.city_name O B-toloc.city_name O B-depart_time.time O	atis_aircraft
+list the distance in miles from toronto international airport to downtown toronto	O O O O O O B-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name O O B-city_name	atis_distance
+which airport is closest to ontario california	O O O B-mod O B-city_name B-state_name	atis_airport
+where is lester pearson airport	O O B-airport_name I-airport_name I-airport_name	atis_city
+can you tell me the time a flight would leave from atlanta to boston in the afternoon	O O O O O B-flight_time O O O O O B-fromloc.city_name O B-toloc.city_name O O B-depart_time.period_of_day	atis_flight_time
+how many flights does each airline have with booking class k	O O O O O O O O O O B-fare_basis_code	atis_quantity
+can you please tell me the type of aircraft used flying from atlanta to denver on eastern flight 825 leaving at 555	O O O O O O O O O O O O B-fromloc.city_name O B-toloc.city_name O B-airline_name O B-flight_number O O B-depart_time.time	atis_aircraft
+list all sunday flights from cleveland to nashville and their fares	O O B-depart_date.day_name O O B-fromloc.city_name O B-toloc.city_name O O O	atis_flight#atis_airfare
+what is the seating capacity of the type of aircraft m80	O O O O O O O O O O B-aircraft_code	atis_capacity
+show me the nonstop flights and fares from toronto to st. petersburg	O O O B-flight_stop O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_flight#atis_airfare
+what time does the flight leave denver going to san francisco on continental airlines	O B-flight_time O O O O B-fromloc.city_name O O B-toloc.city_name I-toloc.city_name O B-airline_name I-airline_name	atis_flight_time
+what is the seating capacity for the f28	O O O O O O O B-aircraft_code	atis_capacity
+what type of aircraft is used on the flight from atlanta to philadelphia before 12 o'clock noon	O O O O O O O O O O B-fromloc.city_name O B-toloc.city_name B-depart_time.time_relative B-depart_time.time I-depart_time.time I-depart_time.time	atis_aircraft
+on united airlines give me the flight times from boston to dallas	O B-airline_name I-airline_name O O O B-flight_time I-flight_time O B-fromloc.city_name O B-toloc.city_name	atis_flight_time
+how expensive is the san francisco limousine service	O O O O B-city_name I-city_name B-transport_type O	atis_ground_fare
+what is the type of aircraft for united flight 21	O O O O O O O B-airline_name O B-flight_number	atis_aircraft
+could you give me the schedule of flights for american and delta to dfw on august fifteenth	O O O O O B-flight_time O O O B-airline_name O B-airline_name O B-toloc.airport_code O B-depart_date.month_name B-depart_date.day_number	atis_flight_time
+how many people fit on a 73s	O O O O O O B-aircraft_code	atis_capacity
+what airplane types fly from pittsburgh to baltimore	O O O O O B-fromloc.city_name O B-toloc.city_name	atis_aircraft
+how far from the airport in the dallas fort worth airport is dallas	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name O B-fromloc.city_name	atis_distance
+what is the flight number for the continental flight which leaves denver at 1220 pm and goes to san francisco	O O O O O O O B-airline_name O O O B-fromloc.city_name O B-depart_time.time I-depart_time.time O O O B-toloc.city_name I-toloc.city_name	atis_flight_no
+how long does it take to get from denver to oakland	O O O O O O O O B-fromloc.city_name O B-toloc.city_name	atis_distance
+flight number from dallas to houston	O O O B-fromloc.city_name O B-toloc.city_name	atis_flight_no
+what time are the flights leaving from denver to pittsburgh on july seventh	O B-flight_time O O O O O B-fromloc.city_name O B-toloc.city_name O B-depart_date.month_name B-depart_date.day_number	atis_flight_time
+what is restriction ap80	O O O B-restriction_code	atis_restriction
+tell me about the m80 aircraft	O O O O B-aircraft_code O	atis_aircraft
+how long does it take to get from atlanta airport into the city of atlanta	O O O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O O O B-toloc.city_name	atis_distance
+what aircraft is used on delta flight 1222 from kansas city to salt lake city	O O O O O B-airline_name O B-flight_number O B-fromloc.city_name I-fromloc.city_name O B-toloc.city_name I-toloc.city_name I-toloc.city_name	atis_aircraft
+how many american airline flights leave denver june tenth	O O B-airline_name I-airline_name O O B-fromloc.city_name B-depart_date.month_name B-depart_date.day_number	atis_quantity
+show me all flights and fares from dallas to san francisco	O O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name	atis_flight#atis_airfare
+i would like a to know the type of aircraft leaving from atlanta bound to boston on friday this week	O O O O O O O O O O O O B-fromloc.city_name O O B-toloc.city_name O B-depart_date.day_name O O	atis_aircraft
+what's the smallest plane flying from pittsburgh to baltimore on december seventeenth	O O B-mod O O O B-fromloc.city_name O B-toloc.city_name O B-depart_date.month_name B-depart_date.day_number	atis_aircraft
+what are the fares for ground transportation in denver	O O O O O O O O B-city_name	atis_ground_fare
+list number of people that can be carried on each type of plane that flies between pittsburgh and baltimore	O O O O O O O O O O O O O O O O B-fromloc.city_name O B-toloc.city_name	atis_capacity
+how far is it from orlando airport to orlando	O O O O O B-fromloc.airport_name I-fromloc.airport_name O B-toloc.city_name	atis_distance
+list the distance in miles from san francisco international airport to san francisco downtown	O O O O O O B-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name O B-toloc.city_name I-toloc.city_name O	atis_distance
+how many seats in a 734	O O O O O B-aircraft_code	atis_capacity
+what's the name of the denver airport	O O O O O B-airport_name I-airport_name	atis_airport
+what time does flight aa 459 depart	O B-flight_time O O B-airline_code B-flight_number O	atis_flight_time
+i would like the time of your earliest flight in the morning from philadelphia to washington on american airlines	O O O O B-flight_time O O B-flight_mod O O O B-depart_time.period_of_day O B-fromloc.city_name O B-toloc.city_name O B-airline_name I-airline_name	atis_flight_time
+how long does a flight from baltimore to san francisco take	O O O O O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name O	atis_distance
+what is the seating capacity of the m80	O O O O O O O B-aircraft_code	atis_capacity
+what is the distance from boston airport to boston	O O O O O B-fromloc.airport_name I-fromloc.airport_name O B-toloc.city_name	atis_distance
+repeating leaving denver to san francisco before 10 am what type of aircraft is used	O O B-fromloc.city_name O B-toloc.city_name I-toloc.city_name B-depart_time.time_relative B-depart_time.time I-depart_time.time O O O O O O	atis_aircraft
+are there any other cities that i can fly from boston to dallas through that i can get a flight earlier than 1017 in the morning	O O O O O O O O O O B-fromloc.city_name O B-toloc.city_name O O O O O O O B-depart_time.time_relative O B-depart_time.time O O B-depart_time.period_of_day	atis_city
+show me the type of aircraft that cp uses	O O O O O O O B-airline_code O	atis_aircraft
+airline and flight number from columbus to minneapolis	O O O O O B-fromloc.city_name O B-toloc.city_name	atis_airline#atis_flight_no
+what is the cost of limousine service in philadelphia	O O O O O B-transport_type O O B-city_name	atis_ground_fare
+is there a plane from boston to washington	O O O O O B-fromloc.city_name O B-toloc.city_name	atis_aircraft
+how many first class flights are provided by american airlines	O O B-class_type I-class_type O O O O B-airline_name I-airline_name	atis_quantity

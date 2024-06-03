@@ -1,0 +1,3 @@
+i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am	O O O O O O O O B-city_name O O O O O O O O B-period_of_day B-time_relative B-time I-time	atis_ground_service	O O O O O O O O B O O O O O O O O B B B I
+what ground transportation is available in dallas tomorrow	O O O O O O B-city_name B-today_relative	atis_ground_service	O O O O O O B B
+what is the transportation time from the airport to boston	O O O O B-time O O O O B-toloc.city_name	atis_ground_service	O O O O I O O B O B

@@ -1,0 +1,609 @@
+i want to arrive by 18:00	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+just need a taxi from gonville to the primavera, i want to leave by 15:45	O O O O O B-taxi-departure O O B-taxi-destination O O O O O B-taxi-leaveat	find_taxi	O O O O O B O O B O O O O O B
+yes i need a taxi from the museum to the hotel. i want to leave by 4:15. can you hook me up?	O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O O	find_taxi	O O O O O O O B O O O O O O O O B O O O O O
+i want to depart from my hotel and arrive at the restaurant in time for my 11:00 reservation. please tell me the car type and contact number for my taxi	O O O O O O O O O O O O O O O O B-taxi-arriveby O O O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O O B O O O O O O O O O O O O O
+i want to arrive at the restaurant by 12:00 on friday please. i will also need their contact number and the car type.	O O O O O O O O B-taxi-arriveby O O O O O O O O O O O O O O	find_taxi	O O O O O O O O B O B O O O O O O O O O O O O
+i don't really care as long as i get to the restaurant by 19:45	O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O B
+i need a taxi that leaves from kettle's yard and leaves after 15:15.	O O O O O O O B-taxi-departure I-taxi-departure O O B-taxi-leaveat I-taxi-leaveat	find_taxi	O O O O O O O B I O O O B
+i'd like to leave milton country park by 10:15 and go to pizza hut cherry hinton.	O O O O B-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat O O O B-taxi-destination I-taxi-destination I-taxi-destination O	find_taxi	O O O O B I B O B O O O B I I O
+i need to get to restaurant two two	O O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O B I I
+alright, i want you to book me a taxi from queen's college to the eraina. i'll be leaving the college at 12:00.	O O O O O O O O O O B-taxi-departure I-taxi-departure O O B-taxi-destination O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O B O O O O O O O O O B
+i'm going to riverboat georgina.	O O O B-taxi-destination I-taxi-destination	find_taxi	O O O B I
+no but i still need the reservation for the hotel and a taxi to arrive at the restaurant by 24:00. need contact number and car type for that as well.	O O O O O O O O O O O O O O O O O O O B-taxi-arriveby O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O O O O O B O O O O O O O O O O
+i want to leave the museum by 03:15, please.	O O O O O B-taxi-departure O B-taxi-leaveat O	find_taxi	O O O O O B O O O
+yes, the cambridge punter and i will be departing from the city stop restaurant.	O O B-taxi-destination I-taxi-destination O O O O O O O O O O	find_taxi	O O B I O O O O O O O B I I
+the restauarant by 15:45, please.	O O O B-taxi-arriveby O	find_taxi	O O O B O
+i would like to book a taxi to the gandhi.	O O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O B I
+i have you leaving at 16:15 and arriving at 16:45. it'll be a white volvo and the number is 07193127325	O O O O O B-taxi-leaveat O O O O O O O O O O O O O O	find_taxi	O O O O O B O O O B O O O O O O O O O O
+i'm headed to tandoori palace from the college.	O O O B-taxi-destination I-taxi-destination O O O	find_taxi	O O O B I O O B
+saint johns chop shop house.	B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	B I I I I
+thanks i also need a taxi that will leave the man on the moon by 07:00	O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O O O O O B I I I I O B
+i need a taxi leaving after 11:15 going to kohinoor	O O O O O O B-taxi-leaveat O O B-taxi-destination	find_taxi	O O O O O O B O O B
+i'm looking for a taxi to museum of archaelogy and anthropology.	O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O B I I I I
+i would like to leave old schools by 19:00.	O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O B I O B
+i need to go from the hobson house to whale of a time. i need to leave the hotel at 23:30.	O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B I O B I I I O O O O O O O B
+will the red tesla get me to the restaurant for my 16:15 reservation?	O O O O O O O O O O O B-taxi-arriveby O	find_taxi	O O O I O O O O O O O B O
+leaving jesus college.	O B-taxi-departure I-taxi-departure	find_taxi	O B B
+i'm sorry, i forgot to mention that i need the taxi to arrive by 12:15.	O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O B
+actually i'll be at the cambridge punter, pick me up there.	O O O O O B-taxi-departure I-taxi-departure O O O O	find_taxi	O O O O O B I O O O O
+yes, a taxi, i want to leave the attraction and go to the hotel by 22:00	O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O B O B
+i need to arrive by 11:15.	O O O O O B-taxi-leaveat	find_taxi	O O O O O B
+i am at ballare. i need a taxi to take me to hobsons house.	O O O B-taxi-departure O O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O B O O O O O O O O B I
+i want to get to the college by 02:00.	O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B O O
+i am traveling between the two places. i need to leave the restaurant by 23:15.	O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O B O O O O O O O O B
+i need a taxi to commute from the hotel to the college, leaving the hotel at 22:15.	O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O B O O O O B
+um what? i need to arrive by 23:00. can you help or not?	O O O O O O O B-taxi-arriveby O O O O O	find_taxi	O O O O O O O B O O O O O
+can i also get a taxi from the hotel to the restaurant? i'd like to leave the hotel by 5:30, please.	O O O O O O O O O O O O O O O O O O O B-taxi-leaveat O	find_taxi	O O O O O O O O B O O O O O O O O O O B O
+i would like to arrive by 03:15 and go to ali baba please.	O O O O O O B-taxi-arriveby O O O B-taxi-destination I-taxi-destination O	find_taxi	O O O O O O B O O O B I O
+i'll be heading to restaurant two two	O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O B I I
+i will be departing from christ's college and need to leave by 06:15 please.	O O O O O O O O O O O O B-taxi-leaveat O	find_taxi	O O O O O O B O O O O O B O
+i am heading to restaurant one seven.	O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O B I I
+i also need a taxi from the worth house to the adc theatre. i want to leave the hotel by 20:15.	O O O O O O O B-taxi-departure I-taxi-departure O O B-taxi-destination I-taxi-destination O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O B O O O O O O O O
+i am leaving from the aylesbray lodge guest house to get to the gourmet burger kitchen by my reservation at 11:45. please book	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O O O B-taxi-destination I-taxi-destination I-taxi-destination O O O O B-taxi-arriveby O O	find_taxi	O O O O O B I I I O O O O B I I O O O O B O O
+it's important that i arrive no later than 23:30.	O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O B
+i will be departing from finches bed and breakfast to la mimosa restaurant.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination O	find_taxi	O O O O O B I I I O B I I
+i'm going to be headed from the cambridge punter back to the hotel.	O O O O O O O B-taxi-departure I-taxi-departure O O O O	find_taxi	O O O O O O O B I O O O O
+i would like to arrive at 10:45.	O O O O O O B-taxi-arriveby	find_taxi	O O O O O O B
+i need to book a taxi to pembroke college from prezzo.	O O O O O O O B-taxi-destination I-taxi-destination O B-taxi-departure	find_taxi	O O O O O O O B B O O
+i want to leave the hotel by 19:00.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O B O B
+thank you. can you schedule a taxi pickup from el shaddai to the nightclub. i want to leave the room by 12:30.	O O O O O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O B I O O B O O O O O O O B
+yes, i'll also need a taxi to commute between the two places. i'll need to be at the restaurant by 13:30, of course.	O O O O O O O O O O O O O O O O O O O O B-taxi-arriveby O O	find_taxi	O O O O O O O O O O B O O O O O O O O O B O O
+i'd like to leave by 6:30 am.	O O O O O B-taxi-leaveat I-taxi-leaveat	find_taxi	O O O O O B I
+yes i need a taxi going from the hotel by 14:45 to the nightclub.	O O O O O O O O O O B-taxi-leaveat O O O	find_taxi	O O O O O O O O O O B O O B
+i need a taxi from bedouin that will leave after 20:00	O O O O O B-taxi-departure O O O O B-taxi-leaveat	find_taxi	O O O O O B O O O O B
+yes, i'll need a taxi from the restaurant to the hotel. i want to leave the restaurant by 18:30.	O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O O O B
+i don't care about the departure time but the taxi should arrive by 07:15.	O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O B
+i want to leave the restaurant and i want to leave by 10:15.	O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O B
+i would like to arrive by 19:00 if possible.	O O O O O O B-taxi-arriveby O O	find_taxi	O O O O O O B O O
+help me arrange for a taxi to tandoori palace	O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B I
+great, thanks! also, will you please book me a taxi from the attraction to the restaurant, leaving the attraction at 05:45?	O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O O O O O B
+i want to leave the hotel by 12:15, get contact number and car type	O O O O O O O B-taxi-leaveat O O O O O O	find_taxi	O O O O O B O B O O O O O O
+i don't care about that, i just need to arrive by 06:00 please.	O O O O O O O O O O O B-taxi-arriveby O	find_taxi	O O O O O O O O O O O B O
+i'd like to arrive by 21:30.	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+i will also need a taxi to take me between the two place. leaving from the restaurant at 24:30	O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O B O O O O O O B
+i need to be at the avalon by 21:00. the taxi will have to arrive slightly earlier to get me to my destination on time.	O O O O O O B-taxi-destination O B-taxi-arriveby O O O O O O O O O O O O O O O O	find_taxi	O O O O O O B O B O O O O O O O O O O O O O O O O
+i'd like to picked up from cafe jello gallery after 12:30.	O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O O B I I O B
+i need to be at restaurant by 17:15	O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O B
+i need a taxi to take me to finches bed and breakfast	O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O B I I I
+i'd like to leave the college by 7:00.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O B O B
+we need a taxi from club salsa that will get us to kohinoor in time to eat. can you make that happen?	O O O O O B-taxi-departure I-taxi-departure O O O O O B-taxi-destination O O O O O O O O O	find_taxi	O O O O O B I O O O O O B O O O O O O O O O
+i need a taxi to take me to fitzbillies restaurant	O O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O B I
+the taxi should leave by 3:15.	O O O O O B-taxi-leaveat	find_taxi	O O O O O B
+the restaurant and the swimming pool of course. i want to leave the restaurant by 5:15 sharp	O O O O O O O O O O O O O O O B-taxi-leaveat O	find_taxi	O O O O O O O O O O O O O O O B O
+i would like to leave after 5:15.	O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B
+i'd like to arrive by 07:00.	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+the destination is holy trinity church. i need to get to the restaurant by 16:45.	O O O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O O B-taxi-leaveat	find_taxi	O O O B I I O O O O O O O O B
+leave the attraction by 19:15	O O O O B-taxi-leaveat	find_taxi	O O O O B
+i'll be leaving from vue cinema.	O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O B I
+i want to leave the hotel by 4:30	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O B O B
+the junction, please.	B-taxi-departure I-taxi-departure O	find_taxi	B I O
+i want to be sure and leave after 24:00	O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O B
+can i book a taxi from acorn guest house to aylesbray lodge? it needs to get there by 19:45 tuesday.	O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination O O O O O O B-taxi-arriveby O	find_taxi	O O O O O O B I I O B I O O O O O O B B
+i also need a taxi and would like to leave the hotel by 9:30.	O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O B O B
+hughes hall college postal code cb12ew	B-taxi-departure I-taxi-departure O O O O	find_taxi	B I I O O O
+no i'll take care of that later. but can you arrange a taxi for me? going from the hotel to the oak bistro.	O O O O O O O O O O O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O O O O O O O O O O O O B I I
+i need a taxi that will take me from the riverboat to the hotel. i want to leave the riverboat at 04:00.	O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O B O O O O O O O O O O O
+i need a taxi to pick us up in centre at 11:45	O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O B O B
+i want to arrive to the college by 12:30. i'll be departing from the guesthouse. please give me car type and contact info	O O O O O O O O B-taxi-arriveby O O O O O O O O O O O O O O	find_taxi	O O O O O O B O B O O O O O B O O O O O O O O
+i'd like to leave castle galleries by 05:15.	O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O B I O B
+i want the taxi to get me to the restaurant by 18:30.	O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O B
+i will be departing from jesus college.	O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O B B
+i am eager to visit cambridge university botanic gardens.	O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O B I I I
+i just want to make sure it'll arrive in time for the restaurant reservation at 19:45. can i get a contact number and type of car the taxi would be?	O O O O O O O O O O O O O O O B-taxi-arriveby O O O O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O B O O O O O O O O O O O O O O
+i need a taxi to pick me up at ashley hotel to leave after 10:45.	O O O O O O O O O B-taxi-departure I-taxi-departure O O O B-taxi-leaveat	find_taxi	O O O O O O O O O B I O O O B
+i am departing from the junction and going to gallery at twelve.	O O O O B-taxi-departure I-taxi-departure O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O B I O O O B O B
+thanks, again. finally, i need a taxi between the hotel and the old school attraction, please.	O O O O O O O O O O O O B-taxi-destination I-taxi-destination O O	find_taxi	O O O O O O O O O O O O B I O O
+no. but i also need help booking a taxi to leave the restaurant by 20:00. could you provide a contact number and car type with my taxi booking please?	O O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O B O O O O O O O O O O O O O O
+i need to be picked up from pizza hut city centre after 04:30	O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O O O B I I B O B
+i need a taxi to pick me up from saigon city please	O O O O O O O O O B-taxi-departure I-taxi-departure O	find_taxi	O O O O O O O O O B I O
+i would like to leave the restaurant by 19:15. i will need the contact number and car type as well.	O O O O O O O O B-taxi-leaveat O O O O O O O O O O O	find_taxi	O O O O O O O O B O O O O O O O O O O O
+i'll be leaving from cambridge arts theatre.	O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O B I B
+i would like the taxi to leave the restaurant by 14:45.	O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O B
+in summary, i am leaving la margherita restaurant by 03:45 to go to camboats.	O O O O O B-taxi-departure I-taxi-departure O O B-taxi-leaveat O O O B-taxi-destination	find_taxi	O O O O O B I O O O O O O B
+yes, could you help me book a taxi from jinling noodle bar to adc please? i would like it to arrive at the restaurant by 10:45.	O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-destination O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O B I I O O O O O O O O O O O O O B
+i'm leaving from primavera.	O O O B-taxi-departure	find_taxi	O O O B
+i want to be picked up from allenbell after 16:45 and taken to mumford theatre	O O O O O O O B-taxi-departure O B-taxi-leaveat O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B O B O O O B B
+can any of them do a time at 18:00? i'll also need a taxi to travel inbetween two locations.	O O O O O O O O B-taxi-arriveby O O O O O O O O O O	find_taxi	O O O O O O O O B O O O O O O O O O O
+i want to visit the museum of archaelogy and anthropology and need a taxi to take me	O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O	find_taxi	O O O O O B I I I I O O O O O O O
+i can book it myself, thanks. however, i will need a taxi from great saint mary's church to the lucky star.	O O O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O O O O O B I I I O B I I
+i want to leave the hotel at 11:15 and go to the restaurant. please give me car type and contact number too.	O O O O O O O B-taxi-leaveat O O O O O O O O O O O O O O	find_taxi	O O O O O O O B O O O O O O O O O O O O O O
+i'd like to leave after 16:30, please.	O O O O O B-taxi-leaveat O	find_taxi	O O O O O B O
+i will need a taxi from the hotel to the restaurant. i want to leave the hotel by 7:15.	O O O O O O B-taxi-destination I-taxi-destination O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B O O O O O O O O O O B
+i want to leave the hotel after 7:00, please.	O O O O O O O B-taxi-leaveat O	find_taxi	O O O O O B O B O
+i also need a taxi that will pick me up by by 8:15 from the guest house to the restaurant. i will appreciate to have the car type and the number.	O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O B O O O O O O O O O O O O O O O O O O
+i am at club salsa and i need to book a taxi to leave after 06:15.	O O O B-taxi-departure I-taxi-departure O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O B I O O O O O O O O O O B
+i want to get there by 13:00.	O O O O O O B-taxi-arriveby	find_taxi	O O O O O O B
+i would like the taxi to arrive in tenpin by 21:45.	O O O O O O O O B-taxi-destination O B-taxi-arriveby	find_taxi	O O O O O O O O B O B
+i will be traveling from the guesthouse to rajmahal.	O O O O O O O O B-taxi-destination	find_taxi	O O O O O O B O B
+i also need a taxi to leave the museaum and arrive at the restaurant by 19:00	O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O O B
+it should be there by 11:45.	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+can you book the taxi for me at 24:30 leaving from the museum please. i will need the contact number and the car type.	O O O O O O O O B-taxi-leaveat O O O O O O O O O O O O O O O	find_taxi	O O O O O O O O B O O O B O O O O O O O O O O O
+i need a taxi to take me to my hotel today from saint catharine's college	O O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O O O O B I B
+the junction is the theater i chose.	B-taxi-departure I-taxi-departure O O O O O	find_taxi	B I O O O O O
+i'd like to leave the restaurant at 21:00.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B
+i will be leaving from the cafe jello gallery.	O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O B I I
+i need to arrive by 14:15	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+help me get a taxi to darrys cookhouse and wine shop	O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O B I I I I
+i want it to take me from alexander b&b to pizza express fen ditton to get me there by 14:30.	O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O I O B I I I O O O O O B
+thank you. i need a taxi to leave my hotel at 16:15 to go to the museum please.	O O O O O O O O O O O B-taxi-leaveat O O O O O O	find_taxi	O O O O O O O O O O O B O O O O B O
+i want to depart from sidney sussex college.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O B I B
+lastly, i need a taxi between the two places, i would liek to get to the kohinoor restaurant by the booked time of 19:45.	O O O O O O O O O O O O O O O O B-taxi-destination O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O O O B O O O O O O B
+i'm leaving from the missing sock.	O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O B I I
+great, thanks so much! can you please book me a taxi from the restaurant to the marriott, leaving the restaurant by 17:00?	O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O O O O O O B
+yes, please. i'd like a taxi between the two places to arrive by 17:00.	O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O B
+i'd like to leave my hotel by 1:15.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B
+i need to book a taxi from kings college to pizza express fen ditton sometime after 17:15. i need the car type and contact number please.	O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O B-taxi-leaveat O O O O O O O O O	find_taxi	O O O O O O O O B O B I I I O O B O O O O O O O O O
+i would like to leave by 11:15 please.	O O O O O O B-taxi-leaveat O	find_taxi	O O O O O O B O
+i'm departing from golden wok.	O O O B-taxi-departure I-taxi-departure	find_taxi	O O O B I
+i need to be at club salsa by 6:00 leaving la tasca.	O O O O O B-taxi-destination I-taxi-destination O B-taxi-arriveby O B-taxi-departure I-taxi-departure	find_taxi	O O O O O B I O B O B I
+i'll need to be picked up at holy trinity church, heading to byard art.	O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B I I O O B I
+i could also use a taxi that can get me from the allenbell to rajmahal. i need to get to the restaurant by 18:45.	O O O O O O O O O O O O B-taxi-departure O B-taxi-destination O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O B O B O O O O O O O O B
+i will also need a taxi leaving the hotel by 23:00. i will need the car type and contact number.	O O O O O O O O O O B-taxi-arriveby O O O O O O O O O	find_taxi	O O O O O O O O B O B O O O O O O O O O
+please reserve for me a taxi that will pick me up at cambridge arts theatre after 09:30	O O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O B I I O B
+i want to leave the attraction by 14:00, so book the taxi for 10:00.	O O O O O O O B-taxi-leaveat O O O O O B-taxi-arriveby	find_taxi	O O O O O O O B O O O O O B
+at the church going to the restaurant, would like to get there before the reserved time of 13:00	O O O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O B O O O O O O O O O O O O O O B
+can you please book a taxi to take me to the hospital? i am not able to get there on my own.	O O O O O O O O O O B-taxi-destination I-taxi-destination O O O O O O O O O O	find_taxi	O O O O O O O O O O O B O O O O O O O O O O
+the same day, i want it to take me between the two places. i'll need to leave the hotel by 10:30.	O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O B O O O O O O O O B
+i need to arrive before our reservation time.	O O O O B-taxi-arriveby I-taxi-arriveby I-taxi-arriveby I-taxi-arriveby	find_taxi	O O O O O O O O
+i want to leave the hotel by 14:15.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O B O B
+i want to go to the cambridge punter.	O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O B I
+can you help me book a taxi between the broughton house gallery and the hotel? i want to leave the gallery by 20:15	O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O B I I O O O O O O O O O O B
+whale of a time is where i want to get to.	B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O	find_taxi	B I I I O O O O O O O
+how many stars, also the postcode and address? i will also need a taxi and want it to arrive by 17:00. contact number and car type.	O O O O O O O O O O O O O O O O O O O O B-taxi-arriveby O O O O O	find_taxi	O O O O O O O O O O O O O O O O O O O O B O O O O O
+thanks. i'd like to get a taxi as well leaving the restaurant by 08:15. can i get the contact number and the car type for that please?	O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O B O O O O O O O O O O O O O
+i will be traveling to sidney sussex college today.	O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O	find_taxi	O O O O O B I B O
+i need to arrive at the chop house by 22:30.	O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O B I O B
+i want to get to anatoilia by 09:15.	O O O O O B-taxi-destination O B-taxi-arriveby	find_taxi	O O O O O B O B
+i want to leave the college by 24:00, and can i get the contact number and car type please so i don't get in the wrong car?	O O O O O O O B-taxi-leaveat O O O O O O O O O O O O O O O O O O O	find_taxi	O O O O O B O O O O O O O O O O O O O O O O O O O O O
+from pembroke college. please give me the car type, and contact number as well please.	O B-taxi-departure I-taxi-departure O O O O O O O O O O O O	find_taxi	O B B O O O O O O O O O O O O
+can you help me book a taxi from rosa's b&b to the restaurant that will get me there by 14:45 when my table is ready?	O O O O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O B-taxi-arriveby O O O O O	find_taxi	O O O O O O O O B O O O O O O O O O O B O O O O O
+i need to schedule a taxi to da vinci pizzeria from tandoori palace.	O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O B I I O B I
+good morning! can you help me get a taxi to take me from clare college to cambridge that gets there by 18:00?	O O O O O O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O B B O B O O O O B
+i actually need a taxi from little saint marys church to the kirkwood house. i'll need to leave the church by 3:30.	O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O B-taxi-destination I-taxi-destination O O O O O O O O	find_taxi	O O O O O O O O O O O O B I O O O O O O O O
+that's fine. can i also book a taxi from the funky fun house to the hotel?	O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O	find_taxi	O O O O O O O O O O B I I O O O
+i need a taxi going from christ college and the meze bar restaurant. i want to leave christ college at 06:30.	O O O O O O B-taxi-departure I-taxi-departure O O B-taxi-destination I-taxi-destination O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B O O O I O O O O O O O O O
+i'm leaving from birmingham new street train station.	O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O B I I O O
+i need to arrive by 14:00.	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+by 02:00 please.	O B-taxi-arriveby O	find_taxi	O B O
+i need to leave after 14:45	O O O O O B-taxi-leaveat	find_taxi	O O O O O B
+yes, i need a taxi to take me from the hotel you just booked to fitzbillies restaurant, arriving by 13:30. please give me a car type and contact info	O O O O O O O O O O O O O O O B-taxi-destination I-taxi-destination O O B-taxi-arriveby O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O B I O O B O O O O O O O O O
+it's going to be from the restaurant to the hotel. i want to leave the restaurant by 4:45. can you tell me what type of car and contact number?	O O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O O O B O O O O O O O O O O O
+it will depart from the place.	O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O B I
+a taxi that should leave by 05:30	O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B
+i'd like to get the postcode for the museum first, please. i'll need the taxi to get from the museum to lucky star in time for my booking.	O O O O O O O O O O O O O O O O O O O O O B-taxi-destination I-taxi-destination O O O O O	find_taxi	O O O O O O O O B O O O O O O O O O O O O O I O O O O O
+okay i also need a taxi that will leave the attraction by 08:45.	O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O B
+i need to leave the attraction by 21:00 please.	O O O O O O O B-taxi-leaveat O	find_taxi	O O O O O O O B O
+how about 15:30? please send me the reference number once booked. i am also going to need a taxi that will get us to the restaurant by booking time.	O O B-taxi-arriveby O O O O O O O O O O O O O O O O O O O O O O O O O O	find_taxi	O O B O O O O O O O O O O O O O O O O O O O O O O O O O O
+i really need to get there by 16:30 please.	O O O O O O O B-taxi-arriveby O	find_taxi	O O O O O O O B O
+i will be going to lynne strover gallery.	O O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O B I I
+don't you have access to my previous requests? it would be from kettle's yard to the acorn guest house and i need to leave by 16:00.	O O O O O O O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O B I O O B I I O O O O O O B
+send a taxi to the parkside police station to go to little seoul	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O B I O O O O B I
+vue cinema. i will be leaving from ballare.	B-taxi-destination I-taxi-destination O O O O O B-taxi-departure	find_taxi	B I O O O O O B
+i need the taxi to commute between the restaurant and attraction. i need to leave the attraction by 04:30.	O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O O O B
+great, thanks! now i'd just like a taxi to take me from lovell lodge to saffron brasserie by 20:00. please give me the car and contact info	O O O O O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination O B-taxi-arriveby O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O B I O B O O O O O O O O
+i want to get there by 1:30.	O O O O O O B-taxi-arriveby	find_taxi	O O O O O O B
+i also need to book a taxi when i got from the hotel to cambridge punter. i'd like to leave the hotel by 01:00.	O O O O O O O O O O O O O O B-taxi-destination I-taxi-destination O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O B I O O O O O O O O
+i would like to leave the hotel by 10:00 once booked, can you give me the contact number and type of car to look out for?	O O O O O O O O B-taxi-leaveat O O O O O O O O O O O O O O O O O	find_taxi	O O O O O O B O B O O O O O O O O O O O O O O O O O
+i want to leave the attraction by 11:45.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B
+yes, i need a taxi from the museum by 11:30 to the restaurant.	O O O O O O O O O B-taxi-leaveat O O O	find_taxi	O O O O O O O B O B O O O
+i want to book a taxi. the taxi should leave after 05:45 and should depart from the missing sock.	O O O O O O O O O O O B-taxi-leaveat O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O O O B O O O O B I I
+i am staying at the acorn guest house.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O B I I
+great! thanks. i also need a taxi to take me between the two. i want to leave the restaurant by 08:30	O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O O O O O B
+yes, just a taxi form the hotel to the park. i want a really early morning to find a spot for the sunrise, so leaving at 02:15.	O O O O O O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O B O O O O O O O O O O O O O O O O B
+i want to book a taxi. the taxi should leave after 21:15 and should depart from backstreet bistro.	O O O O O O O O O O O B-taxi-leaveat O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O O O B O O O O B I
+i need to go to st john's chop house. i would like a contact number and car type for my booking query.	O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O O O O O O O	find_taxi	O O O O O B I I I O O O O O O O O O O O O O
+i would like to go to citi stop restaurant	O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O B I I
+thank you! can you please book me a taxi from the theatre to the restaurant, leaving the theatre at 16:30?	O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O B O O O O O O O B
+i will be at parkside pools.	O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O B I
+i want to go from the alpha-milton to bangkok city by 14:15.	O O O O O O O O B-taxi-destination I-taxi-destination O B-taxi-arriveby	find_taxi	O O O O O O O O B I O B
+i'd like to book a taxi between saint john's college and the hotel, leaving the hotel at 4:15.	O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O B O O O O O O O O
+ok, your taxi will pick you up at kettle's yard at 15:25. it is a yellow bmw. their contact number is 07748651061.	O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O O	find_taxi	O O O O O O O O B I O B O O O O O O O O O O
+yes, i will also need to book a taxi to leave the restaurant by 22:15.	O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O B
+i need a taxi from thanh binh.	O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O B I
+is it possible to arrange a taxi to take me from the hotel to the restaurant by 16:00?	O O O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O O O O B
+i'm going to de luca cucina and bar	O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O B I I I I
+yes, i'll need to book a taxi to commute between old schools and the hotel. i'd like to leave be picked up at old schools by 8:15.	O O O O O O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O B I O O O O O O O O O O O O I O B
+i am getting into birmingham new street train station and will be needing a taxi to take me to my hotel	O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O O O O O O	find_taxi	O O O O B I I O O O O O O O O O O O O O O
+yes please, i'll need a taxi from the pool to the hotel. i'd like to leave the pool by 05:15.	O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O O O O B
+yes, i want to book so i can get to kohinoor by 01:30.	O O O O O O O O O O B-taxi-destination O B-taxi-arriveby	find_taxi	O O O O O O O O O O B O B
+actually, i'd like to go from the hotel to the restaurant at 13:45.	O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O B
+just want to make sure that the taxi will go to avalon. thank you very much, goodbye.	O O O O O O O O O O O B-taxi-departure O O O O O	find_taxi	O O O O O O O O O O O B O O O O O
+i'd like to leave aylesbray lodge guest house by 12:15	O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O B I I I O B
+so sorry, i want to leave cafe jello gallery after 12:30 going to the junction.	O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O B I I O B O O O I
+i'd like to leave the church by 12:00, please.	O O O O O O O B-taxi-leaveat O	find_taxi	O O O O O B O B O
+i need to book a taxi to arrive by 09:00.	O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O B
+i need to go to travellers rest. is that ok?	O O O O O B-taxi-destination I-taxi-destination O O O	find_taxi	O O O O O B I O O O
+anytime after 21:30 is fine for me, thanks.	O O B-taxi-leaveat O O O O O	find_taxi	O O B O O O O O
+help me get a taxi to the cambridge museum of technology please	O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O	find_taxi	O O O O O O O B B I I O
+i would like to leave from the gallery at twelve a high street.	O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O O B O B I I I
+i need a taxi to commute to the restaurant and will need it until i leave at 02:15 and after, can you give me a contact number for the taxi and what car type?	O O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O O O B O O O O O O O O O O O O O O O O
+i'm going to the nirala restaurant from the hotel	O O O O B-taxi-destination O O O O	find_taxi	O O O O B O O O O
+i'm going to saint johns chop house.	O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O B I I I
+i would like to get to the jinling noodle bar.	O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B I I
+as i said, i want to be picked up from lan hong house and taken to great saint mary's church please. i would like to arrive by 20:15.	O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O B I I O O O B I I I O O O O O O O B
+i would like it to arrive by my booked time at the restaurant which is 14:15.	O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O O B
+i also need to get a taxi to go from the hotel to the restaurant. i need it to arrive at 16:45. i'd like the contact number and the car type.	O O O O O O O O O O O O O O O O O O O O O B-taxi-arriveby O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O O O O O O O B O O O O O O O O O
+i also need a taxi to pick me up from the attraction by 22:30	O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O B
+i want to get to the ghandi.	O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O B
+yes i do, i'd like to leave the restaurant by 04:45.	O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O B
+could you also get me a taxi between the two that leaves the hotel by 6:15?	O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O B O B
+i'm leaving the la margherita.	O O O B-taxi-departure I-taxi-departure	find_taxi	O O O B I
+i will need a taxi to commute between thanh binh and old schools. i need to leave thanh binh by 02:00.	O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O B I O B I O O O O O O O O
+i need a taxi to leave the hotel by 14:30.	O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B O B
+i'll be leaving from the cambridge chop house.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O B I I
+yes, i'll be leaving from nusha.	O O O O O B-taxi-departure	find_taxi	O O O O O B
+pizza hut city centre and i need car type and contact number	B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O O O O O O O	find_taxi	B I I I O O O O O O O O
+sure, will you be going back to lovell lodge, and at what time?	O O O O O O O B-taxi-destination I-taxi-destination O O O O	find_taxi	O O O O O O O B I O O O O
+just a taxi leaving the theatre by 10:45 and going to the hotel.	O O O O O O O B-taxi-leaveat O O O O O	find_taxi	O O O O O B O B O O O O O
+from a and b guest house at 01:00 to whale of a time, please.	O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O	find_taxi	O B I I I I O O O B I I I O
+great, and can you book a taxi for me to castle galleries?	O O O O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O O B I
+hi i need a taxi to pick me up at the hamilton lodge and take me to the funky fun house.	O O O O O O O O O O O B-taxi-departure I-taxi-departure O O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O O O B I O O O O O B I I
+nee to go from the hotel and the restaurant. i should leave by 2:15.	O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O B
+i'm at sheep's green and lammas land park fen causeway.	O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O B I I I I I I I
+i need a taxi leaving after 10:30.	O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B
+i want to leave the restaurant by 1:15.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B
+i need to leave from lynne strover gallery.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O B I I
+i need it to pick me up from gourmet burger kitchen.	O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O B I I
+i would like to leave christ college by 15:15.	O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O B B O B
+i want to go to the lensfield hotel and depart from the fez club. could you please give me the contact number and car type of the driver?	O O O O O O B-taxi-destination I-taxi-destination O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O O O O O O O O O O O O	find_taxi	O O O O O O B I O O O B I I O O O O O O O O O O O O O O
+i want to leave from city centre north b and b to arrive at the eraina restaurant in time for my 17:15 reservation.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O O O B-taxi-destination O O O O O B-taxi-arriveby O	find_taxi	O O O O O B I I I I I O O O O B O O O O O B O
+i would like to leave by 21:45 please.	O O O O O O B-taxi-leaveat O	find_taxi	O O O O O O B O
+i will need a taxi to take me from the funky fun house to my hotel.	O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O	find_taxi	O O O O O O O O O O B I I O O O
+i'd like to leave by 16:15.	O O O O O B-taxi-leaveat	find_taxi	O O O O O B
+i would prefer to take a taxi. id like one to pick me up around 1 pm.	O O O O O O O O O O O O O O O B-taxi-leaveat I-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O B I
+yes, can we book a taxi to get between those? i'll want to leave the hotel by 09:45.	O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O B O B
+i want a taxi to the varsity. it should depart my hotel by 19:15. please give me car type and contact info.	O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O	find_taxi	O O O O O O O O O O O O O B O O O O O O O O
+i'd like a taxi from junction theatre to our restaurant. please make sure it will arrive in time for our reservations.	O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O O O O O O	find_taxi	O O O O O O B O O O O O O O O O O O O O O
+that sounds great. can i also have a taxi leaving at 11:45 from the museum to the hotel?	O O O O O O O O O O O B-taxi-leaveat O O O O O O	find_taxi	O O O O O O O O O O O B O O B O O O
+i would like to leave after 3:45.	O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B
+i want to leave the hotel by 22:00 to go to the museum you mentioned.	O O O O O O O B-taxi-leaveat O O O O O O O	find_taxi	O O O O O O O O O O O O B O O
+i'd like a taxi to the cafe jello gallery please.	O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O	find_taxi	O O O O O O B I I O
+thank you, i also need a taxi. i want to leave gonville hotel by 19:45 and go to the cambridge contemporary art museum.	O O O O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat O O O O B-taxi-destination I-taxi-destination I-taxi-destination O	find_taxi	O O O O O O O O O O O B I O B O O O O B I I O
+i need a taxi to pick me up at trinity college.	O O O O O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O B B
+as i said, i am departing from the city stop restaurant.	O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O B I I
+i am coming from arbury lodge guesthouse.	O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O B I I
+i am departing from hakka.	O O O O B-taxi-departure	find_taxi	O O O O B
+arrival doesn't matter. i just need to leave after 19:15 from ashley hotel, and i want to go to bridge guest house.	O O O O O O O O O B-taxi-leaveat O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O B O B I O O O O O O B I I
+let's go with the alexander bed and breakfast.	O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O B I I I
+yes, please. i need a taxi from the restaurant to the gallery, please. i'd like to leave the restaurant by 07:00. i guess i'm staying there all night or something!	O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O	find_taxi	O O O O O O O O O O O B O O O O O O O O B O O O O O O O O O
+i need to be picked up at all saints church, please.	O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O	find_taxi	O O O O O O O B I I O
+i need picked up at saffron brasserie after 1:30.	O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O B I O B
+i'll be going from the hotel to the cinema. i need to leave by 22:45.	O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O B O O O O O B
+i want to book a taxi. the taxi should depart from broxbourne train station	O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O O O B O O
+i will be departing from saint catharine's college.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O B I B
+i'm leaving from pizza express fen ditton	O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O B I I I
+hi! i'd like to book a taxi from kettle's yard to old schools.	O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O B I O B I
+hi, i'd like to book a taxi from the golden wok to the golden curry please.	O O O O O O O O O B-taxi-departure I-taxi-departure O O B-taxi-destination I-taxi-destination O	find_taxi	O O O O O O O O O B I O O O I O
+i am going to the junction.	O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O B I
+i need to get to the parkside police station. my boyfriend got himself arrested, again!	O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O O	find_taxi	O O O O O O B I O O O O O O O
+nando's city centre restaurant please	B-taxi-destination I-taxi-destination I-taxi-destination O O	find_taxi	B O B O O
+doesn't matter, but i need to leave after 14:15	O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O B
+i need a taxi at ian hong house to leave by 14:45.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O B-taxi-leaveat	find_taxi	O O O O O B I I O O O B
+yes i need a taxi leaving the hotel for the restaurant a little before 14:00.	O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O B
+yes, please. can you book a taxi for me? i'll be heading from clare hall to tandoori palace, and i'd like to be picked up at 18:15.	O O O O O O O O O O O O O B-taxi-departure O O B-taxi-destination I-taxi-destination O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O B I O B I O O O O O O O O B
+i forgot something. i need to arrive by 21:00.	O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O B
+i need to get a taxi from emmanuel college	O O O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O B B
+i am looking for a taxi from yu garden arriving by 14:30	O O O O O O O B-taxi-departure I-taxi-departure O O B-taxi-arriveby	find_taxi	O O O O O O O B I O O B
+i would like to leave the hotel by 02:45.	O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B O O
+is 9:00 good? do you think forty-five minutes is enough time to get to the college?	O B-taxi-leaveat O O O O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O B
+the emergency department's number is 0122327118. would you like me to contact them for you?	O B-hospital-department I-hospital-department O O O O O O O O O O O O	find_taxi	O B I O O O O O O O O O O O O
+i'd like for a taxi to take me to gonville hotel today	O O O O O O O O O B-taxi-destination I-taxi-destination O	find_taxi	O O O O O O O O O B I O
+i need a taxi to come to the place by 07:30.	O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O O O O O O B
+i'm going to need a taxi as well from the hotel to the restaurant that arrives at 16:45. could i get the contact number and car type for that?	O O O O O O O O O O O O O O O O O B-taxi-arriveby O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O O O B O O O O O O O O O O O
+can you book me a taxi to riverside brasserie?	O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B I
+i'd like to book a taxi to take me to cineworld cinema from gonville hotel	O O O O O O O O O O B-taxi-destination I-taxi-destination O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O O B I O B I
+great! i also want to book a taxi from the cambridge and county folk museum going to riverside brasseri by 18:30.	O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O B-taxi-destination O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O I I I O O O B I O B
+i need a taxi to go to cambridge punter.	O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B I
+i'd like to reserve a taxi to take me to jesus green outdoor pool today	O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O	find_taxi	O O O O O O O O O O B I I I O
+i need to book a taxi leaving from the oak bistro please.	O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O	find_taxi	O O O O O O O O B I I O
+i'm leaving from gonville hotel.	O O O B-taxi-departure I-taxi-departure	find_taxi	O O O B I
+i need to be there by three forty five p.m.	O O O O O O B-taxi-arriveby I-taxi-arriveby I-taxi-arriveby I-taxi-arriveby	find_taxi	O O O O O O B I I I
+i also need a taxi from the hotel to the museum, please. i'd like to leave the hotel by 01:00.	O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O B O O O O O O O O O
+actually, i need to go from the hotel to dinner. i want to arrive at the restaurant by 14:45.	O O O O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O O O O O B
+the hotel you just booked for me, the alexander bed and breakfast and restaurant you booked, the portugese restaurant.	O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O B I I I O O O O O B O
+i need to arrive by 18:45	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+i need to leave from lovell lodge	O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O B I
+yes i would like a taxi to arrive at the restaurant by 17:00. i would need the phone number and the type of car.	O O O O O O O O O O O O B-taxi-arriveby O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O B O O O O O O O O O O O
+i would like to be picked up by 01:15 if at all possible, thanks.	O O O O O O O O B-taxi-arriveby O O O O O	find_taxi	O O O O O O O O B O O O O O
+i want to book a taxi. the taxi should go to saigon city and should arrive by 24:45.	O O O O O O O O O O O B-taxi-destination I-taxi-destination O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O B I O O O O B
+i will also need a taxi to from old schools to cote. i need to make sure they arrive soon enough for me to make it to dinner on time.	O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination O O O O O O O O O O O O O O O O O O	find_taxi	O O O O O O O O O I O B O O O O O O O O O O O O O O O O O O
+thank you. i will need a taxi to get from christ's college to the restaurant.	O O O O O O O O O O B-taxi-departure I-taxi-departure O O O	find_taxi	O O O O O O O O O O O B O O O
+i'd like a taxi to pick me up at 23:15 at my hotel, then take me to the attraction. please give me the car type and contact number.	O O O O O O O O O B-taxi-leaveat O O O O O O O O O O O O O O O O O O	find_taxi	O O O O O O O O O B O O O O O O O O O O O O O O O O O O
+i want to leave the hotel by 11:15.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O B O B
+i would like to leave by 21:15. could you provide a contact number and car type?	O O O O O O B-taxi-leaveat O O O O O O O O O	find_taxi	O O O O O O B O O O O O O O O O
+sounds great. i don't need a reservation but can i get a taxi from restaurant one seven to the gardens?	O O O O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O	find_taxi	O O O O O O O O O O O O O O B I I O O O
+i need to go to avalon and could you give me the car type and contact number once it is booked?	O O O O O B-taxi-destination O O O O O O O O O O O O O O O	find_taxi	O O O O O B O O O O O O O O O O O O O O O
+i want to leave after 18:30 please	O O O O O B-taxi-leaveat O	find_taxi	O O O O O B O
+i want to leave my hotel no later than 17:15.	O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O B
+i also need a taxi from vue cinema to curry garden. i need to leave curry garden by 14:45	O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O B I O O O O O O O B
+i will be leaving from avalon.	O O O O O B-taxi-departure	find_taxi	O O O O O B
+how about all saints church? it has free admission.	O O B-attraction-name I-attraction-name I-attraction-name O O O O	find_taxi	O O B I I O O O O
+i need to arrive by 22:00.	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+i'm leaving the college to the hotel by 24:45.	O O O O O O O O B-taxi-leaveat	find_taxi	O O O B O O O O O
+i would like to book a taxi that should leave at 12:45 and depart from the museum of classical archaeology.	O O O O O O O O O O O B-taxi-leaveat O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O O O B O O O O B I I I
+great, i will also need a taxi to leave the hotel by 20:15. i will need the car type and contact number.	O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O	find_taxi	O O O O O O O O O O B O B O O O O O O O O O
+i would like to get a taxi from the museum of archaeology and anthropology to the soul tree nightclub	O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O B I I I I O O B I O
+yes, one more thing. i will need a taxi to pick me up from the abbey pool and astroturf pitch at 20:00 and take me to the hotel.	O O O O O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat O O O O O O	find_taxi	O O O O O O O O O O O O O O O B I I I I O B O O O O O O
+i am leaving from kohinoor.	O O O O B-taxi-departure	find_taxi	O O O O B
+i need a taxi that leaves from funky fun house and arrives by 06:15	O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O B-taxi-arriveby	find_taxi	O O O O O O O B I I O O O B
+i am at sidney sussex college. i need to book a taxi to take me to ely train station.	O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O B I I O O O O O O O O O O B O O
+i need to make sure i leave by 17:00.	O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O B
+i'd like to book a taxi from the hotel at 18:30 to the restaurant.	O O O O O O O O O O B-taxi-leaveat O O O	find_taxi	O O O O O O O O O O B O O O
+i will be leaving from limehouse.	O O O O O B-taxi-departure	find_taxi	O O O O O B
+i'd also like to book a taxi to go between the two. i'd like to leave byard art by 21:30.	O O O O O O O O O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O B I O B
+yes i also need a taxi to arrive there by 18:00 from the theater.	O O O O O O O O O O B-taxi-arriveby O O O	find_taxi	O O O O O O O O O O B O O O
+great! i'll need a taxi that will take me from the museum to the restaurant by 11:30. can you book one for me?	O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O O O	find_taxi	O O O O O O O O O O O B O O O O B O O O O O O
+ok i would like to book a taxi from the restaurant to the regent street city centre?	O O O O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O	find_taxi	O O O O O O O O O O O O O O O O B
+i'll need to leave the hotel by 3:00.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O B O B
+i need the taxi to commute and i have to leave the hotel by 14:00, can i get their contact number and car type please.	O O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O B O O O O O O O O O O
+please have a taxi come pick me up at whale of a time after 16:00 today	O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat O	find_taxi	O O O O O O O O O B I I I O B O
+i am leaving from the junction.	O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O B I
+yes, my pick-up point will be the hotel. i need to be at the restaurant by 17:45. can you book the taxi for me, please?	O O O O O O O O O O O O O O O O B-taxi-arriveby O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O O B O O O O O O O O
+i also need a taxi. ill need to leave club salsa by 15:45 and go to bridge guest house.	O O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O B I O B O O O B I I
+i want to leave the hotel by 21:15 to get to cineworld cinema, please.	O O O O O O O B-taxi-leaveat O O O B-taxi-departure I-taxi-departure O	find_taxi	O O O O O O O B O O O B I O
+i would like to be taken to tenpin	O O O O O O O B-taxi-destination	find_taxi	O O O O O O O B
+how about cambridge arts?	O O B-taxi-departure I-taxi-departure	find_taxi	O O B I
+i need the taxi to arrive by 12:30 on wednesday to the restaurant i booked. .	O O O O O O O B-taxi-arriveby O O O O O O O O	find_taxi	O O O O O O O B O B O O O O O O
+i will be leaving from there and going to primavera	O O O O O O O O O B-taxi-destination	find_taxi	O O O O O O O O O B
+thank you. i also need a taxi to pick me up from the wandlebury country park to make it to my reservation.	O O O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O O O O	find_taxi	O O O O O O O O O O O O O B I B O O O O O O
+thanks. yes, i will need a taxi from the hotel to the lucky star restaurant.	O O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O	find_taxi	O O O O O O O O O O O B I I O
+i need a taxi from the attraction to the hotel, i want to leave the attraction by 06:15.	O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O O B
+i also need a taxi to get me between the gallery and restaurant, i want to leave the restaurant by 13:15	O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O B O O O O O O O O O B
+i also need a taxi to take me from the hotel to the museum. i need to leave the hotel by 11:30	O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O B O O O O O O O B
+can you have a taxi pick me up at vue cinema and bring me to the restaurant, arriving by 18:00?	O O O O O O O O O B-taxi-departure I-taxi-departure O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O B I O O O O O O O O B
+i'd like to arrive at restaurant two two by 21:00 please.	O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O B-taxi-arriveby O	find_taxi	O O O O O B I I O B O
+that sounds wonderful. can you book me a taxi from alexander to all saints church? i need to leave the hotel by 1:45.	O O O O O O O O O O B-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O B I I O O O O O O O O
+i'm leaving from the marriott hotel in downtown cambridge next to the theatre.	O O O O B-taxi-departure I-taxi-departure O O O O O O O	find_taxi	O O O O O O O O O O O O B
+i also need a taxi from the park to nandos. want to get there by 12:00. thanks	O O O O O O O O O B-taxi-destination O O O O O B-taxi-arriveby O	find_taxi	O O O O O O O B O B O O O O O B O
+i would like a taxi for the hotel by 13:45 to get to the restaurant please.	O O O O O O O O O B-taxi-leaveat O O O O O O	find_taxi	O O O O O O O O O B O O O O O O
+i will be departing from christ's college	O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O B B
+hi. can you book me a taxi to the ugly duckling from dojo noodle bar?	O O O O O O O O O B-taxi-destination I-taxi-destination O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O B I O B I I
+thank you. i would also like to book a taxi to get from the guesthouse to the restaurant. i would like to arrive by 17:30.	O O O O O O O O O O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O B O O O O O O O O O B
+i would like to go to alexander bed and breakfast	O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O B I I I
+i need a taxi to arrive by 17:30 at the cambridge punte.	O O O O O O O B-taxi-arriveby O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B O O B I
+yes. i must arrive there by 15:45	O O O O O O B-taxi-arriveby	find_taxi	O O O O O O B
+thanks. yes, please reserve a taxi for me from the alexander b & b to the restaurant. i need to leave the hotel by 3:45 at the very latest.	O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O O O O O O O O O B-taxi-leaveat O O O O	find_taxi	O O O O O O O O O O B O O O O O O O O O O O O O B O O O O
+i need to leave from the vue cinema to get to charlie chan by 12:15.	O O O O O O B-taxi-departure I-taxi-departure O O O B-taxi-destination I-taxi-destination O B-taxi-arriveby	find_taxi	O O O O O O O I O O O B I O B
+i need a taxi. i am going to avalon and i need to leave after 16:15	O O O O O O O O B-taxi-destination O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O B O O O O O O B
+you know what i change my mind. i'll book later. i still need a taxi from university arms hotel leaving at 14:15 to the ugly duckling.	O O O O O O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O B-taxi-leaveat O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O O O O O O O O B I I O O B O O B I
+i need a taxi to come after 19:30.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B
+i'm going to trinity college.	O O O B-taxi-destination I-taxi-destination	find_taxi	O O O B B
+well, i also need to book a taxi. i want to leave the hotel by 19:30.	O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O B O B
+yes i'd need to arrive by 3:00 at cambridge arts theatre.	O O O O O O B-taxi-arriveby O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O B O B I I
+i want to leave after 16:45	O O O O O B-taxi-leaveat	find_taxi	O O O O O B
+i'll be leaving from the warkworth house to the curry garden for my reservation.	O O O O O B-taxi-departure I-taxi-departure O O B-taxi-destination I-taxi-destination O O O	find_taxi	O O O O O B I O O B I O O O
+i want a car to get me to cambridge, arriving by 14:00.	O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O B O O B
+i need a taxi at cambridge museum of technology to go to the museum of classical archaeology.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O B I I I O O O O O I I I
+jesus green outdoor pool and i want to leave after 23:00	B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O O O O O B-taxi-leaveat	find_taxi	B I I I O O O O O O B
+i'm departing from anatolia.	O O O B-taxi-departure	find_taxi	O O O B
+i want a taxi after 24:45 please	O O O O O B-taxi-leaveat O	find_taxi	O O O O O B O
+i'd like to leave after 3:30 please.	O O O O B-taxi-leaveat I-taxi-leaveat O	find_taxi	O O O O O B O
+yes, i would like the taxi to arrive by 19:30. in addition, i would like the car type and its contact number.	O O O O O O O O O B-taxi-arriveby O O O O O O O O O O O O	find_taxi	O O O O O O O O O B O O O O O O O O O O O O
+i would like to get there by 13:00.	O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O B
+no, but can you get me a taxi to the guesthouse? i should finish sightseeing at 2:30.	O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O B O O O O O B
+i would like to book a taxi departing from leverton house and arriving by 07:30.	O O O O O O O O O B-taxi-departure I-taxi-departure O O O B-taxi-arriveby	find_taxi	O O O O O O O O O B I O O O B
+thanks. can you book me a taxi to take me from acorn guesthouse to the riverboat georgina by 20:15?	O O O O O O O O O O O B-taxi-departure I-taxi-departure O O B-taxi-destination I-taxi-destination O B-taxi-arriveby	find_taxi	O O O O O O O O O O O B O O O B I O B
+terrific! i also need a taxi that will get me from byard to my restaurant by the reservation time, please.	O O O O O O O O O O O B-taxi-departure O O O O O O O O	find_taxi	O O O O O O O O O O O B O O O O O O O O
+i would like to book a taxi that will depart from rice boat and should leave at 9:30.	O O O O O O O O O O O B-taxi-departure I-taxi-departure O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O B O O O O O B
+i will be leaving from saigon city.	O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O B I
+may i please get a taxi to go from both places? as well as their number and car type? i wish to leave the hotel by 4:45 am. thanks.	O O O O O O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat I-taxi-leaveat O	find_taxi	O O O O O O O O O O O O O O O O O O O O O O O O B O B O O
+i want to book a taxi to leave after 09:15 at old schools.	O O O O O O O O O B-taxi-leaveat O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O B O B I
+actually, can i change the destination to christ's college?	O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B B
+i need to get to the restaurant by 18:30	O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O B
+i would like to leave st mary's church by 12:30.	O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O B I I O B
+yeah, can you have a taxi pick me up at the acorn and take me to the artworks, say around 24:45?	O O O O O O O O O O O B-taxi-departure O O O O O B-taxi-destination O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O B O O O O O O O O B
+i want to arrive by 02:45.	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+i'd also like to get a taxi from the hotel to pizza hut, to get there in time for my reservation.	O O O O O O O O O O O B-taxi-destination I-taxi-destination O O O O O O O O	find_taxi	O O O O O O O O O O O B I O O O O O O O O
+cambridge museum of technology.	B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	B I I I
+can you help me get to zizzi cambridge after 22:45?	O O O O O O B-taxi-destination I-taxi-destination O B-taxi-leaveat	find_taxi	O O O O O O B I O B
+i need a 16:30 taxi.	O O O B-taxi-leaveat O	find_taxi	O O O B O
+i would like to leave in time to arrive at the restaurant for my reservation at 11:30.	O O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O O O B
+i want to book a taxi. the taxi should go to the lensfield hotel and should depart from christ's college.	O O O O O O O O O O O O B-taxi-destination I-taxi-destination O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O O O O O I O O O O O B
+i need a taxi departing from golden wok.	O O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O B I
+i am going to yu garden.	O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O B I
+great thanks i also need a taxi leaving the hotel by 05:00	O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O B O B
+i would like to commute between graffiti and whale of a time. i will be heading to the attraction after eating.	O O O O O O B-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O O O	find_taxi	O O O O O O B O B I I I O O O O O O O O O
+thank you, can i get a taxi as well? i need to leave the hotel by 16:45 and go the restaurant.	O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O	find_taxi	O O O O O O O O O O O O O O O O B O O O O
+i'd like a taxi to riverboat georgina	O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O B I
+yes, i would like a reserve a taxi to commute between the allenbell and royal spice. i really want to be on time for our dinner reservation.	O O O O O O O O O O O O B-taxi-departure O B-taxi-destination I-taxi-destination O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O B O B I O O O O O O O O O O O
+oh, i'm sorry i need to get to gallery at twelve a high street.	O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O B O B I I I
+i will be leaving from pembroke college.	O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O B B
+that time is 20:00.	O O O B-taxi-arriveby	find_taxi	O O O B
+i want to go from wandlebury country park to huntingdon marriott hotel	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O B I B O B I I
+i would like a taxi to curry king please.	O O O O O O B-taxi-destination I-taxi-destination O	find_taxi	O O O O O O B I O
+i will be departing from abbey pool and astroturf pitch. in addition, i would like the car type and its contact number.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O O O O O O O O O O O	find_taxi	O O O O O B I I I I O O O O O O O O O O O O
+i want to leave by 01:30.	O O O O O B-taxi-leaveat	find_taxi	O O O O O B
+oh, i'm sorry. i would like to travel to gallery at twelve a high street. i actually need to be there by 15:00.	O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O B O O I I I O O O O O O O B
+can you book me a taxi to bring me between the two? i am wanting to leave the hotel by 16:45. also can i have the contact number and car type?	O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O O O O O O B O O O O O O O O O O
+can you book me a taxi to get me from the cinema to the hotel?	O O O O O O O O O O O O O O B-taxi-destination	find_taxi	O O O O O O O O O O O B O O O
+i am looking to find a train. it needs to go to cambridge and it has to leave on monday.	O O O O O O O O O O O O B-taxi-destination O O O O O O O	find_taxi	O O O O O O O O O O O O B O O O O O O B
+i would love to book a taxi to commute between the two places. i want to leave the attraction by 08:45. i need contact number and car type please.	O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O	find_taxi	O O O O O O O O O O O B O O O O O O O O B O O O O O O O O
+i'm looking to book a taxi to pembroke college for this evening.	O O O O O O O B-taxi-destination I-taxi-destination O O O	find_taxi	O O O O O O O B B O O O
+thank you. i'd also like to book a taxi. i need to leave the hotel by 10:15.	O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O B O B
+well, i need the taxi to pick me up at the restaurant by 09:15. i need the contact number and car type please.	O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O	find_taxi	O O O O O O O O O O O O O B O O O O O O O O O
+from the hotel to the museum, leaving by 22:00.	O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O B O O B
+i would like to book a taxi from stevenage train station and go to cineworld cinema.	O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O B O O O O O B I
+hi. i would like to book a taxi to the chiquito restaurant bar. i will need to be picked up at the ely train station.	O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O O B I I O O O O O O O O O B O O
+need a taxi from the restaurant to the theater, i want to leave the restaurant by 06:15	O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O B O O O O O O O B
+i need to arrive by 04:45.	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+i'd like to be picked up from don pasquale pizzeria. please also provide the car type and contact number, one the booking is made?	O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O O O O O O O O O O O O O	find_taxi	O O O O O O O B I I O O O O O O O O O O O O O O
+yes. i'd like a taxi to pick me up at christ's college and take me to the restaurant. i'd like to leave the attraction by 19:00.	O O O O O O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O O O B-taxi-destination O B-taxi-leaveat	find_taxi	O O O O O O O O O O O B O O O O O O O O O O O O O B
+i need a taxi to pick me up after 21:25 at the cambridge belfry.	O O O O O O O O O B-taxi-leaveat O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O B O O B I
+i need to arrive by 19:45 on saturday.	O O O O O B-taxi-arriveby O O	find_taxi	O O O O O B O B
+i'm leaving from tandoori palace.	O O O B-taxi-departure I-taxi-departure	find_taxi	O O O B I
+i want to leave the hotel by 24:45, so it will be from lovell lodge to byard art	O O O O O O O B-taxi-leaveat O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O O O O O O O O B I
+i'm at saint john's college. i need a taxi to pick me up at 18:45.	O O B-taxi-departure I-taxi-departure I-taxi-departure O O O O O O O O O B-taxi-leaveat	find_taxi	O O B I I O O O O O O O O O B
+wait, i want it to go to the restaurant by 15:30.	O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O B
+i would like to go from the whipple museum to the archway house. i want to leave the museum by 02:45.	O O O O O O O O O O O B-taxi-destination I-taxi-destination O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O B O O O I O O O O O O O O
+can you also find me a train? i need it departing from bishops stortford.	O O O O O O O O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O O O O B I
+that sounds good. i will also need a taxi to get between the hotel and the pool. i'd like to leave the pool at 04:30 please.	O O O O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat O	find_taxi	O O O O O O O O O O O O O O O O O O O O O O O O B O
+please book a taxi. i want to depart the hotel at 06:30 and go to the restaurant. give me car type and contact info	O O O O O O O O O O O B-taxi-leaveat O O O B-taxi-destination I-taxi-destination O O O O O O O	find_taxi	O O O O O O O O O O O B O O O O O O O O O O O O
+i am leaving from the cambridge cineworld cinema.	O O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O B B I
+at 17:00 hours please	O B-taxi-leaveat O O	find_taxi	O B O O
+oh great. can i also get you to book me a taxi from the college to my hotel? i want to leave by 22:30.	O O O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O B O O O O O O O O B
+a taxi that arrives by 15:00, the taxi is just for me	O O O O O B-taxi-arriveby O O O O O O	find_taxi	O O O O O B O O O O O O
+i need a taxi to leave at 03:45 and get me from the cambridge belfry	O O O O O O O B-taxi-leaveat O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O B O O O O O B I
+can you book me a taxi to go from the restaurant to riverboat? i want to leave the restaurant by 22:45.	O O O O O O O O O O O O B-taxi-destination O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O B O O O O O O O B
+i also want to book a taxi to leave rosa's bed and breakfast by 15:45. i would like the contact number and car type.	O O O O O O O O O B-taxi-departure O O O O B-taxi-leaveat O O O O O O O O O	find_taxi	O O O O O O O O O B O O O O B O O O O O O O O O
+leaving from travelers rest	O O O B-taxi-departure	find_taxi	O O B I
+i need to go to worth house from stevenage train station.	O O O O O B-taxi-destination I-taxi-destination O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O B I O B O O
+i'll be departing from j restaurant.	O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O B I
+could you also please book me a taxi from the museum to golden wok? i really don't want to miss my reservation, so it'll have to get there by 17:15.	O O O O O O O O O O O O B-taxi-destination I-taxi-destination O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O B O B I O O O O O O O O O O O O O O O B
+i want want to leave the hotel by 02:45.	O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B O O
+i need to be at the restaurant by 18:30 for my reservation, the pick up time doesn't matter to me.	O O O O O O O O B-taxi-arriveby O O O O O O O O O O O	find_taxi	O O O O O O O O B O O O O O O O O O O O
+i need to get to bangkok city by 12:00 today. can you help?	O O O O O B-taxi-destination I-taxi-destination O B-taxi-arriveby O O O O	find_taxi	O O O O O B I O B O O O O
+i need to leave by astroturf pitch by 09:30.	O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O B I O B
+i'll be heading to huntingdon marriott hotel.	O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O B I I
+i need a taxi to get there and will leave the restaurant by 16:15. can you get me the contact number and car type?	O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O B O O O O O O O O O O
+i would like to leave my hotel by 22:00. would you mind getting the college address for me?	O O O O O O O O B-taxi-leaveat O O O O O O O O O	find_taxi	O O O O O O O O B O O O O O B O O O
+yes, i'd also like to book a taxi to take me to the hotel from the church, to leave by 22:45.	O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O B O O O B
+i also need a taxi between the two places, i need to arrive by at the restaurant 11:15.	O O O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O O O O B
+i will also need a taxi to go from the restaurant to the hotel, i want to leave the restaurant at 02:15	O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O B O O O O O O O B
+can you arrange for a taxi that will take me from ugly duckling to ely train station?	O O O O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O O O B I O B O O
+i am departing from la tasca.	O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O B I
+i just need to arrive in time for my reservation at 11:15.	O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O B
+i need to go from the college to the hotel, and i want to leave the college by 20:45, please.	O O O O O O O O O O O O O O O O O O B-taxi-leaveat O	find_taxi	O O O O O O B O O O O O O O O O O O B O
+i need to leave the hotel and arrive at the reestaurant by 12:45	O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O B
+it doesn't matter, at long as i arrive at the restaurant by 11:15.	O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O B
+yeah. i also need a taxi to go between the theatre and the hotel. i want to leave the theatre by 10:15	O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O B O O O O O O O O O O O
+actually i need to go from the restaurant to the college. i'd like to leave by 7:15.	O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O B O O O O O B
+okay, now i'd like a taxi to take me from the hotel to tenpin. i want to leave at 07:30. please send the car type and contact number	O O O O O O O O O O O O O B-taxi-destination O O O O O B-taxi-leaveat O O O O O O O O	find_taxi	O O O O O O O O O O O O O B O O O O O B O O O O O O O O
+hi, i need to book a taxi, please? i need to leave sometime after 10:30.	O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O B
+yes, can you get me a taxi from the bridge guest house to restaurant alimentum. i would need to arrive by 11:30.	O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O B I I O B I O O O O O O B
+i need a 19:15 taxi to take me to avalon.	O O O B-taxi-leaveat O O O O O B-taxi-destination	find_taxi	O O O B O O O O O B
+i'd like to go between all saints church and tang chinese by 2:30.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination O B-taxi-leaveat	find_taxi	O O O O O B I I O O O O B
+i need a taxi to leave after 03:00	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B
+i'd like a taxi please to pick me up at the junction at 06:45 and then take me to rosa's. give me the car type and contact number	O O O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat O O O O O B-taxi-destination O O O O O O O O	find_taxi	O O O O O O O O O O B I O B O O O O O B O O O O O O O O
+i need to book a taxi to take me to williams art and antiques. i need to leave after 24:30.	O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O B I I I O O O O O B
+can you book a taxi for 13:45 from the royal spice.	O O O O O O B-taxi-leaveat O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O B O O B I
+i also need a taxi. it should arrive at the restaurant by 16:45	O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O B
+from alexander bed and breakfast	O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O B I I I
+i am also going to need a taxi that goes from ballare to meghan and gets me to meghan by 13:15 for my reservation.	O O O O O O O O O O O B-taxi-departure O B-taxi-destination O O O O O O B-taxi-arriveby O O O	find_taxi	O O O O O O O O O O O O O B O O O O O O B O O O
+i need a taxi arriving by 23:30.	O O O O O O B-taxi-arriveby	find_taxi	O O O O O O B
+it will need to take me to sitar tandoori	O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B I
+i need a train to get to stansted airport by 17:30	O O O O O O O B-taxi-destination I-taxi-destination O O	find_taxi	O O O O O O O B I O B
+yes, it's going to be one of the college...i need a suggestion for that. i need to leave the attraction by 2:00 to go to the restaurant.	O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O O	find_taxi	O O O O O O O O B O O O O O O O O O O O O B O O O O O
+i'd like to leave after 21:15.	O O O O O B-taxi-leaveat	find_taxi	O O O O O B
+i would like to leave the church by 24:30.	O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B O B
+i will be departing from frankie and bennys.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O B I I
+i will leave from the rice house.	O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O B I
+i would prefer to leave after 06:45	O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B
+i would like for the taxi arrive by 19:00 please. can you give me a contact number and the car type for the taxi as well?	O O O O O O O O B-taxi-arriveby O O O O O O O O O O O O O O O O O	find_taxi	O O O O O O O O B O O O O O O O O O O O O O O O O O
+thank you, the taxi should get me from the pool to the restaurant by 15:00, right?	O O O O O O O O O O O O O O B-taxi-arriveby O	find_taxi	O O O O O O O O O O O O O O B O
+i need to book a taxi to leave after 12:45 to go to yippee noodle bar.	O O O O O O O O O B-taxi-leaveat O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O B O O O B I I
+i'm going to the hotel du vin and bistro	O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O B I I I I
+thanks! i'm going to hanging out at the college late tonight, could you get me a taxi back to the hotel at 2:45?	O O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O B O O O O O O O O O O O O O B
+to clare college around 15:00, please	O B-taxi-destination I-taxi-destination O B-taxi-leaveat O	find_taxi	O B B O B O
+i would like to leave the hotel by 7:00. also, can you give me the contact number and car type once you have booked it?	O O O O O O O O B-taxi-leaveat O O O O O O O O O O O O O O O O	find_taxi	O O O O O O B O B O O O O O O O O O O O O O O O O
+i'm leaving from cambridge and county folk museum.	O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O B I I I B
+i want to arrive there by 07:00	O O O O O O B-taxi-arriveby	find_taxi	O O O O O O B
+yes, i just need to leave yu garden by 5:45.	O O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O O B I O B
+sorry, i misspoke. i need a taxi from the attraction to the restaurant, please, leaving by 06:30.	O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O B
+yes, i will be leaving from the hotel. i will need to arrive at the restaurant by 18:15 on wednesday.	O O O O O O O O O O O O O O O O O B-taxi-arriveby O O	find_taxi	O O O O O O O O O O O O O O O O O B O B
+hi! i'd like to book a taxi to travellers rest, please, and i need to get there absolutely no later than 11:45 from cambridge train station.	O O O O O O O O B-taxi-destination I-taxi-destination O O O O O O O O O O O B-taxi-arriveby O B-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O B I O O O O O O O O O O O B O B O O
+yes, i need to be at the restaurant by 12:30.	O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O B
+it should leave by 08:15	O O O O B-taxi-leaveat	find_taxi	O O O O B
+i want to leave the college by 07:00 so please go ahead and book that taxi for me	O O O O O O O B-taxi-leaveat O O O O O O O O O O	find_taxi	O O O O O B O O O O O O O O O O O O
+i need a restaurant to commute between the attraction and restaurant. i want to leave the attraction by 9:15 and i need car type and contact number please. thank you, bye..	O O O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O O O O B O O O O O O O O O O O O
+ok, we want to be at the tall monument.	O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B I
+i need to book a taxi to come to express by holiday inn cambridge to take me to the oak bistro.	O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O B I I I I O O O O B I I
+yes i need the taxi to depart from the cherry hinton village and go to la raza. leaving after 10:15. please give me the contact number and car type.	O O O O O O O O O O O O O O O B-taxi-destination I-taxi-destination O O B-taxi-leaveat O O O O O O O O O	find_taxi	O O O O O O O O O O I I O O O B I O O B O O O O O O O O O
+i need a taxi from the cinema to the hotel, i want to leave the cinema by 08:15.	O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B O O O O O O O O O O B
+i also need a taxi between whale of a time and lan hong house that arrives by are reservation time at the restaurant	O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O O O	find_taxi	O O O O O O B I I I O B I I O O O O O O O O O
+i want to leave by 05:00.	O O O O O B-taxi-leaveat	find_taxi	O O O O O B
+you are in luck, i have managed to get you a table for 6 at 12:00 friday at thanh binh. 9n8m4hq9 is the reference. would you still like a taxi?	O O O O O O O O O O O O O O O B-taxi-arriveby O O O O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O B O O B I O O O O O O O O O O
+please book me a taxi to take me from aylesbray lodge guest house to the london liverpool street train station.	O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O B I I I O O B I I O O
+i'm sorry, i'm going to tenpin.	O O O O O B-taxi-destination	find_taxi	O O O O O B
+i want to book a taxi. the taxi should go to little saint mary's church and should leave after 05:45.	O O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O B I I I O O O O B
+i will be leaving from hamilton lodge and heading to the restaurant.	O O O O O B-taxi-departure I-taxi-departure O O O O O	find_taxi	O O O O O B I O O O O O
+great! i also need a taxi to get there. i want to leave caffe uno at 12:30. can you give me the contact number & car type for the taxi?	O O O O O O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat O O O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O B I O B O O O O O O O O O O O O O
+i'm coming from royal spice.	O O O B-taxi-departure I-taxi-departure	find_taxi	O O O B I
+can i book a taxi from christ's college to don pasquale pizzeria?	O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B O B I I
+can you arrange a taxi to get me from the alexander b&b to the botanic gardens? i want to leave the alexander by 05:00.	O O O O O O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O I O O O O O O O O
+great. thanks so much. can you also get me a taxi from the alexander b&b to dojo noodle bar and get me there by 11:00?	O O O O O O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O O O B I I O O O O O B
+i'm going to need a taxi at the hotel first, i'll be leaving the hotel at 19:45.	O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O B
+i would like to go to christ's college, please.	O O O O O O B-taxi-destination I-taxi-destination O	find_taxi	O O O O O O B B O
+clowns cafe, please.	B-taxi-departure I-taxi-departure O	find_taxi	B I O
+i'll be going from the museum to the hotel. i'll need to leave by 09:30 please.	O O O O O O O O O O O O O O B-taxi-leaveat O	find_taxi	O O O O O B O O O O O O O O B O
+i need a taxi by 8:15 going to the golden hous	O O O O O B-taxi-leaveat O O O B-taxi-destination O	find_taxi	O O O O O B O O O B I
+i need to book a taxi from kirkwood house.	O O O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O B I
+i also need to arrange for a taxi to leave from the hotel and get to cambridge punter.	O O O O O O O O O O O O O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O O O O O O O O B I
+i'm heading to the river bar steakhouse and grill. i am so hungry!	O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O	find_taxi	O O O B I I I I I O O O O
+i need a taxi,from darrys cookhouse and wine shop and go to restaurant two two and leave at 9 00	O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O O B-taxi-destination I-taxi-destination I-taxi-destination O O O B-taxi-leaveat O	find_taxi	O O O O B I I I I O O O B I I O O O B O
+is bridge guest house in the south? if so, i will also need a taxi to take me from the restaurant to the guesthouse.	O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O O O O O O O O O O O O O O	find_taxi	O B I I O O B O O O O O O O O O O O O O O O O O
+no thank you. i would like a taxi, leaving the junction by 17:30.	O O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O O O O O B I O B
+okay i need to leave the attraction by 08:45 and i would like a contact number and a description of the car picking me up please.	O O O O O O O O B-taxi-leaveat O O O O O O O O O O O O O O O O O	find_taxi	O O O O O O O O B O O O O O O O O O O O O O O O O O
+i need a taxi to help me get around between the two areas. i want to leave the restaurant at 12:00.	O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O O O O O B
+i need to arrive by 19:00.	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+yes. i'd like to book a taxi between both places. i want to leave the hotel by 20:00. please provide me with a contact number and car type.	O O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O B O B O O O O O O O O O O
+i'm going to warworth house.	O O O B-taxi-destination I-taxi-destination	find_taxi	O O O B I
+hello. i would like for a taxi to bring me to the cow pizza kitchen and bar by 04:30 please	O O O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O B-taxi-arriveby O	find_taxi	O O O O O O O O O O O O B I I I I O B O
+i'd like to arrive by 21:30 please.	O O O O O B-taxi-arriveby O	find_taxi	O O O O O B O
+allen bell guesthouse	B-taxi-destination I-taxi-destination O	find_taxi	B I B
+i need to be picked up from curry prince. please let me know what kind of car to expect and a number they can be reached at.	O O O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O O O O O O O O O O	find_taxi	O O O O O O O B I O O O O O O O O O O O O O O O O O O
+can you set up a taxi to loch fyne from hakka for me?	O O O O O O O B-taxi-destination I-taxi-destination O B-taxi-departure O O	find_taxi	O O O O O O O B I O B O O
+would you be able to get me a taxi from cotto to christ's college? i need to leave cotto by 17:45.	O O O O O O O O O O B-taxi-departure O B-taxi-destination I-taxi-destination O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O B O O O O O O B
+i would like to go to great saint mary's church.	O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O B I I I
+can you book a taxi to pick me up from cityroomz and take me to anatolia, arriving by 20:00? give me car type and contact info	O O O O O O O O O O B-taxi-departure O O O O B-taxi-destination O O B-taxi-arriveby O O O O O O O	find_taxi	O O O O O O O O O O B O O O O B O O B O O O O O O O
+thank you. i will be looking for the taxi to arrive by 20:15.	O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O B
+i want to leave the attraction by 7:15.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B
+i want to leave the riverboat georgina at 5:30 to go to the ashley hotel	O O O O O B-taxi-departure I-taxi-departure O B-taxi-leaveat O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O B I O O O O O O B I
+i need a taxi to arrive at the hotspot by 05:15. i need to leave from the junction. i also need the contact number and car type.	O O O O O O O B-taxi-destination I-taxi-destination O B-taxi-arriveby O O O O O B-taxi-departure I-taxi-departure O O O O O O O O O	find_taxi	O O O O O O O O O O B O O O O O B I O O O O O O O O O
+yes, i am going to need a taxi for transport fro the restaurant by 04:00 please.	O O O O O O O O O O O O O O B-taxi-leaveat O	find_taxi	O O O O O O O O O O O O O O B O
+i would like to arrive by 24:00.	O O O O O O B-taxi-arriveby	find_taxi	O O O O O O B
+i need a taxi from london kings cross train station to the gonville hotel.	O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O B I I O O O O B I
+great, thank you! also, can you please book me a taxi between the restaurant and funky fun house? i want to leave the restaurant by 01:30.	O O O O O O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O B I I O O O O O O O O
+i would like to leave the hotel at 24:30.	O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B O B
+i need to be up from williams art and antiques.	O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O O O O B I I I
+your booking is completed. a red honda, contact number 07441837045 will pick you up in front of the restaurant at 17:30. does this time work for you?	O O O O O O O O O O O O O O O O O O O O B-taxi-arriveby O O O O O O	find_taxi	O O O O O O O O O O O O O O O O O O O O B O O O O O O
+i need to be picked up by 15:00. could you provide me the car type and contact number, please?	O O O O O O O B-taxi-leaveat O O O O O O O O O O O	find_taxi	O O O O O O O B O O O O O O O O O O O
+can you find me a taxi to jesus green outdoor pool? i need to be there by 02:15.	O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O B I I I O O O O O O B
+i would like to leave the restaurant by 19:00.	O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O B
+my destination will be ugly duckling	O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O B I
+i'm headed to churchill college	O O O B-taxi-destination I-taxi-destination	find_taxi	O O O B B
+can you have a taxi pick me up from el shaddai?	O O O O O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O B I
+i'm departing from sheep's green and lammas land park fen causeway.	O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure	find_taxi	O O O B I I I I I I I
+i need to arrive at the river bar steakhouse and grill at 16:30. i am coming from the lovell lodge.	O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O B-taxi-arriveby O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O B I I I I I O B O O O O O O O
+i also need a taxi to get to the restaurant by 15:15.	O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O B
+please take me to sidney sussex college.	O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O B I B
+i need to leave from the hotel by 9:15.	O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B O B
+no, that was all i needed. but i could use a taxi from the junction to pipasha restaurant by 16:30.	O O O O O O O O O O O O O B-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O B I O B I O B
+i need a cab to get between both places, and i need to leave the hotel by 3:45	O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O B O B
+i would like to be picked up at the cambridge belfy and go to the cambridge shop.	O O O O O O O O O B-taxi-departure I-taxi-departure O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O O O B I O O O O O I
+i would like to arrive at one o'clock p.m. because i am meeting my husband there when he goes on his lunch break.	O O O O O O B-taxi-arriveby I-taxi-arriveby I-taxi-arriveby O O O O O O O O O O O O O O	find_taxi	O O O O O O B I I O O O O O O O O O O O O O O
+i need to book a taxi from the junction and i need to arrive by 04:00.	O O O O O O O B-taxi-departure I-taxi-departure O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O B I O O O O O O B
+i'd like to book a taxi from the hotel to the restaurant to get there by 15:15.	O O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O O O B
+i need to leave the attraction by 9:15.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B
+i now need a taxi to get to the church from the hotel. i would like to leave the hotel by 15:45. can you book that for me?	O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat O O O O O O	find_taxi	O O O O O O O O O B O O O O O O O O O O O B O O O O O O
+i must arrive there by 23:30	O O O O O B-taxi-arriveby	find_taxi	O O O O O B
+i would like to leave by 6:30.	O O O O O O B-taxi-leaveat	find_taxi	O O O O O O B
+great! can i book a taxi? i need to leave the hotel by 17:30.	O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O B O B
+we will go from the vue cinema to the galleria restaurant. we will leave vue cinema at 14:45. please provide the contact number and car type after you book, please.	O O O O O B-taxi-departure I-taxi-departure O O B-taxi-destination O O O O O O O B-taxi-leaveat O O O O O O O O O O O O	find_taxi	O O O O O B I O O O O O O O O O O B O O O O O O O O O O O O
+hi. i would like to have a taxi arrive for me at the arbury lodge guesthouse by 15:00. can you reserve that for me?	O O O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat O O O O O O	find_taxi	O O O O O O O O O O O O O B I I O B O O O O O O
+can i get a taxi from the place to the restaurant, i would like to arrive by the booked time of 15:30.	O O O O O O O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O O O O O O O O B
+i want to leave the restaurant by 02:15.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B
+i would like to arrive by 11:45 on thursday if possible.	O O O O O O B-taxi-arriveby O O O O	find_taxi	O O O O O O B O B O O
+i will be leaving from leverton house arriving by 06:45.	O O O O O B-taxi-departure I-taxi-departure O O B-taxi-arriveby	find_taxi	O O O O O B I O O B
+i would like to also book a taxi and it should arrive at the restaurant by 14:45. could you also please give me its contact number and car type?	O O O O O O O O O O O O O O O O B-taxi-arriveby O O O O O O O O O O O O	find_taxi	O O O O O O O O O O O O O O O O B O O O O O O O O O O O O
+i'm going to el shaddai	O O O B-taxi-destination I-taxi-destination	find_taxi	O O O B I
+i want to leave the museum by 23:00.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O B O O
+i want to leave the attraction by 14:00.	O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O B
+i want to book a taxi from the hotel to the restaurant, that arrives at 11:30.	O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O O O O O O O B
+i also need a taxi between the scott polar museum and the curry garden	O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B I O O O O I
+thank you, i also need a taxi to communte between the two places. i'll need to leave the kings hedges learner pool by 3:45.	O O O O O O O O O O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O O O O O O B I I I O O
+i want to leave the restaurant by 11:45. going to clare hall.	O O O O O O O B-taxi-leaveat O O B-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B O O B I
+my destination is stazione restaurant and coffee bar. i need to arrive by 20:00.	O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O O B-taxi-arriveby	find_taxi	O O O B I I I I O O O O O B
+hi, i would like to get a taxi from whale of a time. i'll need to leave after 22:45.	O O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O B I I I O O O O O B
+that's ok. i need a taxi to take me to and from the hotel and pool. i want to leave the pool by 02:15.	O O O O O O O O O O O O O O O O O O O O O O O B-taxi-leaveat	find_taxi	O O O O O O O O O O O O O B O O O O O O O O O O
+i would like to go to prezzo	O O O O O O B-taxi-destination	find_taxi	O O O O O O B
+i am headed to gonville hotel.	O O O O B-taxi-destination I-taxi-destination	find_taxi	O O O O B I
+i also need a taxi to get from the museum to the restaurant. i need to get to the restaurant by 17:00.	O O O O O O O O O O O O O O O O O O O O O B-taxi-arriveby	find_taxi	O O O O O O O O O B O O O O O O O O O O O B
+sounds great. can i also get info on a taxi leaving from queen's college	O O O O O O O O O O O O B-taxi-departure I-taxi-departure	find_taxi	O O O O O O O O O O O O B B
+i need a taxi to arrive by 16:45 to take me to the parkside police station.	O O O O O O O B-taxi-arriveby O O O O O B-taxi-destination I-taxi-destination I-taxi-destination	find_taxi	O O O O O O O B O O O O O B I O
+i would like for a taxi to take me to london liverpool street train station, arriving no later than 17:45 please	O O O O O O O O O O B-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination I-taxi-destination O O O O B-taxi-arriveby O	find_taxi	O O O O O O O O O O B I I O O O O O O B O
+i'd also like a taxi to go from the man on the moon to frankie and benny's, arriving by 17:30. i will need the contact number and car type, please.	O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination I-taxi-destination O O B-taxi-arriveby O O O O O O O O O O	find_taxi	O O O O O O O O B I I I I O O O O O O B O O O O O O O O O O
+great, thanks! can you also book a taxi for me? i'd like to leave cocum by 17:00 to head to the theatre.	O O O O O O O O O O O O O O B-taxi-departure O B-taxi-leaveat O O O O O	find_taxi	O O O O O O O O O O O O O O B O B O O O O B
+well i want to leave the attraction by 11:00 and i need the contact # and car type	O O O O O O O O B-taxi-leaveat O O O O O O O O O	find_taxi	O O O O O O O O B O O O O O O O O O
+i apologize. i need to go from the cherry hinton water play to backstreet bistro by 15:15 please.	O O O O O O O O B-taxi-departure I-taxi-departure I-taxi-departure I-taxi-departure O B-taxi-destination I-taxi-destination O B-taxi-arriveby O	find_taxi	O O O O O O O O O I I I O B I O B O
+yes actually. i will need a taxi to leave the hotel at 4:45 to head to the nusha.	O O O O O O O O O O O O B-taxi-leaveat O O O O B-taxi-destination	find_taxi	O O O O O O O O O O O O B O O O O B
+i will be departing from rajmahal.	O O O O O B-taxi-departure	find_taxi	O O O O O B

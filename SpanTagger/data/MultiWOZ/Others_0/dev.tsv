@@ -1,0 +1,27 @@
+i am looking in town for a hospital with a paediatric clinic	O O O O O O O O O O B-hospital-department I-hospital-department	find_hospital
+i need a hospital with a intermediate dependancy area department	O O O O O O B-hospital-department I-hospital-department I-hospital-department O	find_hospital
+i am in need of a local hospital please. and it must have a oral and maxillofacial surgery and ent department!	O O O O O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department O	find_hospital
+please connect me to a hospital with an emergency department.	O O O O O O O O B-hospital-department I-hospital-department	find_hospital
+i am injured and need to get to a hospital that has a pediatric clinic.	O O O O O O O O O O O O O O B-hospital-department	find_hospital
+the postcode for addenbrookes hospital is cb20qq.	O O O B-taxi-destination I-taxi-destination O O	find_hospital
+i am injured and need a hospital with a cardiology department.	O O O O O O O O O B-hospital-department O	find_hospital
+i am trying to find info for the addenbrookes hospital gastroenterology department.	O O O O O O O O O O B-hospital-department O	find_hospital
+i need to find a hospital with a teenage cancer trust unit.	O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department	find_hospital
+could i get the phone and postal for the emergency department?	O O O O O O O O O B-hospital-department I-hospital-department	find_hospital
+yes, i need a hospital with a hepatology department please.	O O O O O O O B-hospital-department O O	find_hospital
+i am looking for the addenbrookes hospital with neurology department	O O O O O O O O B-hospital-department O	find_hospital
+can you verify that the hospital has a transplant high dependency unit?	O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department	find_hospital
+i need the paediatric clinic please.	O O O B-hospital-department I-hospital-department O	find_hospital
+i will be traveling to london.	O O O O O B-bus-destination	find_bus
+i am looking for a hospital with a clinical research facility department. i need the phone number and postcode.	O O O O O O O O B-hospital-department I-hospital-department I-hospital-department O O O O O O O O	find_hospital
+i want to find a hospital in town. the hospital should have the hepatobillary and gastrointestinal surgery regional referral centre department	O O O O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department O	find_hospital
+am injured and are looking for a hospital nearby it should have the neurology neurosurgery department	O O O O O O O O O O O O O B-hospital-department O O	find_hospital
+i want to find a hospital in town. the hospital should have the neurology neurosurgery department	O O O O O O O O O O O O O B-hospital-department I-hospital-department O	find_hospital
+just to clarify; the hospital does have an infectious diseases department, correct?	O O O O O O O O B-hospital-department I-hospital-department O O	find_hospital
+i am looking for the addenbrookes hospital with hepatology department	O O O O O O O O B-hospital-department O	find_hospital
+do they have a transitional care department? i would also like to know the postcode and phone number.	O O O O B-hospital-department I-hospital-department O O O O O O O O O O O O	find_hospital
+i am looking for the addenbrookes hospital with acute medical assessment unit department	O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department O	find_hospital
+does the addenbrookes hospital have a psychiatry department?	O O O O O O B-hospital-department O	find_hospital
+yes i need to know if they have a gastroenterology department.	O O O O O O O O O B-hospital-department O	find_hospital
+i need to find a hospital please with a infusion service department.	O O O O O O O O O B-hospital-department I-hospital-department O	find_hospital
+is there a hospital in cambridge that has a plastic and vascular surgery department?	O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department O	find_hospital

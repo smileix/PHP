@@ -1,0 +1,650 @@
+thanks, and i'll need 2 tickets on a train. i'll be heading from norwich to cambridge on friday, and i need to arrive by 09:00.	O O O O B-train-bookpeople O O O O O O O O B-train-departure O B-train-destination O B-train-day O O O O O O B-train-arriveby	book_train
+yes please, book it for 7 people.	O O O O O B-train-bookpeople O	book_train
+arrival doesnt matter, but it should leave after 13:00. whatever you recommend. please book 1 seat. i'll need a reference number as well.	O O O O O O O O B-train-leaveat O O O O O O O O O O O O O O	book_train
+yes, can you book that for 7?	O O O O O O B-train-bookpeople	book_train
+la raza sounds great. can i book a table for 3 on friday at 19:15?	O O O O O O O O O O B-train-bookpeople O B-train-day O O	book_train
+try either one of the cheap ones, i need one that can hold my group of 7 for 5 nights on tuesday.	O O O O O O O O O O O O O O O O B-train-bookpeople O O O O B-train-day	book_train
+i prefer to depart after 16:45. just choose the first train you see listed and book tickets for 7 people. then give me the reference number.	O O O O O B-train-leaveat O O O O O O O O O O O O B-train-bookpeople O O O O O O O	book_train
+i would like to leave on tuesday and arrive by 13:15.	O O O O O O B-train-day O O O B-train-arriveby	book_train
+yes, please. i need 6 tickets.	O O O O B-train-bookpeople O	book_train
+for two people please. i will need the reference number. i also want to stay at the lensfield hotel.	O B-train-bookpeople O O O O O O O O O O O O O O O O O	book_train
+yes, whichever train has seats available for 7 people.	O O O O O O O B-train-bookpeople O	book_train
+yes, the same party. i'd like the reservation for 10:00 that same tuesday.	O O O O O O O O O O O O B-train-day	book_train
+that will work. i will need tickets for 3 people.	O O O O O O O O B-train-bookpeople O	book_train
+any that leave after 08:00 would be fine. i'll need a booking for 5 people, please.	O O O O B-train-leaveat O O O O O O O O B-train-bookpeople O O	book_train
+yes. please select the first train available after 14:30 and book 3 tickets. then provide me the reference number	O O O O O O O O B-train-leaveat O O O O O O O O O O	book_train
+i would like to depart sometime after 13:45 on friday, please.	O O O O O O O B-train-leaveat O B-train-day O	book_train
+yes, book me one ticket for that.	O O O B-train-bookpeople O O O	book_train
+yes please, for all seven of us.	O O O O B-train-bookpeople O O	book_train
+yes please book that for 5 people please.	O O O O O B-train-bookpeople O O	book_train
+just need the four tickets.	O O O B-train-bookpeople O	book_train
+for one please.	O B-train-bookpeople O	book_train
+would you please? i would like 5 tickets.	O O O O O O B-train-bookpeople O	book_train
+yes 2 tickets please and i need the reference #	O B-train-bookpeople O O O O O O O O	book_train
+yes, my apologies, but can you confirm that the tr4003 train leaves after 13:00?	O O O O O O O O O O O O O B-train-leaveat	book_train
+oh, sorry about that! same as the restaurant, so just 1.	O O O O O O O O O O B-train-bookpeople	book_train
+i would suggest the funk fun house.	O O O O B-attraction-name I-attraction-name I-attraction-name	book_train
+please book that one for 7 people.	O O O O O B-train-bookpeople O	book_train
+sure, please book 6 tickets for me and give me the reference number	O O O B-train-bookpeople O O O O O O O O O	book_train
+it will arrive at 17:23.	O O O O B-train-arriveby	book_train
+yes please i need a booking for 8 people and i need a reference number for the booking.	O O O O O O O B-train-bookpeople O O O O O O O O O O	book_train
+i want to leave at 19:30 and need two tickets. please send me the reference number and telephone number to the train company.	O O O O O B-train-arriveby O O B-train-bookpeople O O O O O O O O O O O O O O	book_train
+yes, please. 7 people for 3 nights on monday.	O O B-train-bookpeople O O O O O B-train-day	book_train
+that should be great can i book it for 2 nights for 7 people starting thursday please?	O O O O O O O O O O O O B-train-bookpeople O O B-train-day O	book_train
+can you book me on the first train at 13:01. i need 4 people to be reserved for. if i can get a reference number that would be great!	O O O O O O O O O O O O B-train-bookpeople O O O O O O O O O O O O O O O O	book_train
+i want to go from cambridge to ely, no preference for time but i need to book for 8 people.	O O O O O B-train-departure O B-train-destination O O O O O O O O O O B-train-bookpeople O	book_train
+yes. i need to book tickets for 8 people.	O O O O O O O B-train-bookpeople O	book_train
+yep, for 5 people at 13:09	O O B-train-bookpeople O O O	book_train
+just one other thing. can you clarify the travel time for the train? i need to make sure i am prepared. tr0254 i believe.	O B-train-bookpeople O O O O O O O O O O O O O O O O O O O O O O	book_train
+yes, book that for 6 people. i would also like the reference number.	O O O O B-train-bookpeople O O O O O O O O	book_train
+perfect. can you book that for me for 3 people?	O O O O O O O O B-train-bookpeople O	book_train
+it doesn't matter, as long as i can book it for 6 people. i will need the reference number please.	O O O O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+i'll be traveling tuesday, and need it booked for 8. could i also get the reference number for that as well?	O O O B-train-day O O O O O B-train-bookpeople O O O O O O O O O O O	book_train
+i will be departing from cambridge and i'll need 7 tickets total. can i have the reference number after you book the tickets,please?	O O O O O B-train-departure O O O B-train-bookpeople O O O O O O O O O O O O O	book_train
+there are 7 people in my party and we'd like to leave after 16:15 on tuesday. i'll need a reference number, please.	O O B-train-bookpeople O O O O O O O O O O B-train-leaveat O B-train-day O O O O O O	book_train
+great! can you book 2 tickets on that train, please?	O O O O B-train-bookpeople O O O O O	book_train
+yes. that works. i need 3 tickets, please.	O O O O O B-train-bookpeople O O	book_train
+yes. i will need 8 tickets for the train.	O O O O B-train-bookpeople O O O O	book_train
+please book it for two people and send the reference number. we are also looking for a moderately priced place to dine in the town center.	O O O O B-train-bookpeople O O O O O O O O O O O O O O O O O O O O O	book_train
+yes, for 2 people, please.	O O B-train-bookpeople O O	book_train
+i need it for 2 people.	O O O O B-train-bookpeople O	book_train
+yes. could you book that for 7 people and give me the reference number please?	O O O O O O B-train-bookpeople O O O O O O O O	book_train
+as long it arrives by 08:45 going to cambridge i should be good yes ticket for 1 please.	O O O O O O O O O O O O O O O O B-train-bookpeople O	book_train
+i would actually like to book a table at the clowns cafe that you mentioned. i need a table for 6 on saturday at 19:15.	O O O O O O O O O O O O O O O O O O O O B-train-bookpeople O B-train-day O O	book_train
+that sounds perfect. i would like to book two seats.	O O O O O O O O B-train-bookpeople O	book_train
+actually i need a train for sunday leaving from cambridge, going to birmingham new street departing after 10:00.	O O O O O O B-train-day O O B-train-departure O O B-train-destination I-train-destination I-train-destination O O B-train-leaveat	book_train
+yes, please. i need a booking for 4 people and will need the reference number.	O O O O O O O B-train-bookpeople O O O O O O O	book_train
+the train should go to cambrige and depart from ely. i also need a restaurant booking on the same day and would like to arrive by 10:30	O O O O O O O O O B-train-departure O O O O O O O O O O O O O O O O B-train-arriveby	book_train
+that train would work well, but i really need 2 tickets and the reference number please.	O O O O O O O O O B-train-bookpeople O O O O O O	book_train
+yes i would like this train booked. i need ticket for 4 people. i also need the reference number please.	O O O O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+awesome, book me one ticket please	O O O B-train-bookpeople O O	book_train
+doesn't matter for arrival time. i need it for 4 people though.	O O O O O O O O O B-train-bookpeople O O	book_train
+yes, i need a booking for 7 people and the reference number.	O O O O O O B-train-bookpeople O O O O O	book_train
+on monday please.	O B-train-day O	book_train
+we will be checking in on wednesday. and make that 3 nights.	O O O O O O B-train-day O O O O O	book_train
+make reservation for 1 person and give me reference number	O O O B-train-bookpeople O O O O O O	book_train
+wait, this is for 3 people. are there enough available seats?	O O O O B-train-bookpeople O O O O O O	book_train
+just one ticket, please!	O B-train-bookpeople O O	book_train
+yes, for eight people, please. and may i please get the reference number for that booking.	O O B-train-bookpeople O O O O O O O O O O O O O	book_train
+you know what? i would like to book the limehouse for 2 nights on saturday.	O O O O O O O O O O O O O O B-train-day	book_train
+yes, that sounds perfect. i would like a booking for 4 people.	O O O O O O O O O O B-train-bookpeople O	book_train
+that is perfect. please book it for 3 tickets.	O O O O O O O B-train-bookpeople O	book_train
+what are the other 4 times of departure for saturday. i'll need bookings for 5 people and a reference number.	O O O O O O O O O B-train-day O O O O B-train-bookpeople O O O O O	book_train
+cambridge and it will be early unless it rains	B-train-destination O O O O O O O O	book_train
+it should be for wednesday at 17:45 and 7 people please	O O O O B-train-day O O O O O O	book_train
+yes, i need to book that for 8 people. can i have the reference number?	O O O O O O O B-train-bookpeople O O O O O O O	book_train
+did you book for 5 people? is there a train that arrives closer to but before 14:45? thanks.	O O O O B-train-bookpeople O O O O O O O O O O O B-train-arriveby O	book_train
+yes that would be fine please book for 6 people.	O O O O O O O O B-train-bookpeople O	book_train
+yes that will work. i need to book it for 2 people.	O O O O O O O O O O B-train-bookpeople O	book_train
+great. i would also like to find a museum to go to in centre cambridge.	O O O O O O O O O O O O O O B-train-destination	book_train
+i would need 5 tickets. can you provide me with the reference number once it is booked? thanks.	O O O B-train-bookpeople O O O O O O O O O O O O O O	book_train
+yes, please i will need 5 tickets.	O O O O O B-train-bookpeople O	book_train
+i am specifically looking for a restaurant called fitzbillies restaurant. i am wanting to book a table for 10:15 for 7 people on sunday.	O O O O O O O O O O O O O O O O O O O O B-train-bookpeople O O B-train-day	book_train
+yeah that works for me. could you book that train for 6 people and then give me the reference number?	O O O O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+i need the train to arrive to arrive by 13:45. there will be 3 of us. can i get a reference number?	O O O O O O O O O B-train-arriveby O O O O O O O O O O O O	book_train
+it should depart cambridge to peterborough. i need to be there by 21:30. i need reservations for 8. can i get a reference number please?	O O O B-train-departure O B-train-destination O O O O O O B-train-arriveby O O O O B-train-bookpeople O O O O O O O	book_train
+yes! make a booking for 2 people right this instant!	O O O O O B-train-bookpeople O O O O	book_train
+that's fine as long as you can book it for four people	O O O O O O O O O O B-train-bookpeople O	book_train
+yes, please. i would like to book tickets for 8 people on that train - how much will that cost?	O O O O O O O O O B-train-bookpeople O O O O O O O O O O	book_train
+i need to travel monday and arrive by 20:45	O O O O B-train-day O O O B-train-arriveby	book_train
+no, book the 11:35 train, please.	O O O B-train-leaveat O O	book_train
+okay, i booked you a table at prezzo. your table will be reserved for 15 minutes and the reference number is 12slbu92 .	O O O O O O O B-restaurant-name O O O O O O O O O O O O O O O	book_train
+i need to arrive by 19:30.	O O O O O B-train-arriveby	book_train
+great, can you help with trains, too? all 7 of us need to get there from stevenage.	O O O O O O O O B-train-bookpeople O O O O O O O B-train-departure	book_train
+that doesn't matter. the 18:16 will do. book it for 4.	O O O O O O O O O O B-train-bookpeople	book_train
+yes could i have the address, telephone number and postcode of the cambridge museum of technology?	O O O O O O O O O O O O B-train-departure O O O	book_train
+yes please for 6 people.	O O O B-train-bookpeople O	book_train
+just the one	O O B-train-bookpeople	book_train
+can you book be there for 8 people at 18:30 on thursday?	O O O O O O B-train-bookpeople O O O O B-train-day	book_train
+i'm also looking for a cool college to visit in cambridge. do you have any recommendations?	O O O O O O O O O O B-train-destination O O O O O	book_train
+yes, can you book 2 tickets please and also could i get a reference number when you are done? thank you.	O O O O B-train-bookpeople O O O O O O O O O O O O O O O O	book_train
+just 1 for the train please	O B-train-bookpeople O O O O	book_train
+the booking will be for only one person, and can i please have a reference number as well?	O O O O O O B-train-bookpeople O O O O O O O O O O O	book_train
+yes, that works. please book for two people. thanks for checking again.	O O O O O O B-train-bookpeople O O O O O	book_train
+before that, i need a booking for 3 people. does that narrow it down?	O O O O O O O B-train-bookpeople O O O O O O	book_train
+the tr0277 will get you there by 18:07. i can book you 2 tickets on that if you would like?	O O O O O O O B-train-arriveby O O O O O O O O O O O O	book_train
+yes, that sounds good. please book a table for 1 at 20:00 on friday.	O O O O O O O O O B-train-bookpeople O O O B-train-day	book_train
+yes please book me on the train that arrives in cambridge on wednesday as closest to 12:30.	O O O O O O O O O O B-train-destination O B-train-day O O O B-train-arriveby	book_train
+yes, for five please.	O O B-train-bookpeople O	book_train
+yes, for 6 people.	O O B-train-bookpeople O	book_train
+sounds great. i need tickets for 2.	O O O O O O B-train-bookpeople	book_train
+i'm looking to book a ticket for a train that leaves stevenage after 09:45.	O O O O O O O O O O O B-train-departure O B-train-leaveat	book_train
+yes, please book that for 7 people.	O O O O O B-train-bookpeople O	book_train
+yes i need to book for 1 please	O O O O O O B-train-bookpeople O	book_train
+yes please make a reservation for 5 people and give the phone number	O O O O O O B-train-bookpeople O O O O O O	book_train
+yes i'm sure. i need to book that for 5 people.	O O O O O O O O O B-train-bookpeople O	book_train
+i only need one ticket for myself.	O O O B-train-bookpeople O O O	book_train
+please modify the booking for three people please.	O O O O O B-train-bookpeople O O	book_train
+great can you make that reservation on the train for 7 people and send me the reference number? can you also send me the phone number for the cinema?	O O O O O O O O O O B-train-bookpeople O O O O O O O O O O O O O O O O O O	book_train
+yes, book for 2 people. and i need the reference number too pleases.	O O O B-train-bookpeople O O O O O O O O O	book_train
+great please looking for seven people and give me the reference number	O O O O B-train-bookpeople O O O O O O O	book_train
+yes, can you book 4 tickets for me?	O O O O B-train-bookpeople O O O	book_train
+yes i would like to book it for 8 people and i will need the reference number.	O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+that sounds perfect! can you book me 6 tickets for that train please?	O O O O O O O B-train-bookpeople O O O O O	book_train
+yes. please book for 6 people.	O O O O B-train-bookpeople O	book_train
+yes please. i need reservations for two people.	O O O O O O B-train-bookpeople O	book_train
+hmm could you try again maybe? 8 people at 15:30 on saturday. and if that doesn't work, then thursday.	O O O O O O B-train-bookpeople O O O O B-train-day O O O O O O O	book_train
+yes. i need 3 tickets and the reference number.	O O O B-train-bookpeople O O O O O	book_train
+i need 7 tickets.	O O B-train-bookpeople O	book_train
+yes please, for 4 people. how about the tr8167 please.	O O O B-train-bookpeople O O O O O O	book_train
+i actually need 8, i'm taking my family with me.	O O O B-train-bookpeople O O O O O O	book_train
+i will be traveling on thursday.	O O O O O B-train-day	book_train
+yes, i will need tickets for 5 people please and a reference number.	O O O O O O B-train-bookpeople O O O O O O	book_train
+that would be great. i will need 7 tickets booked please.	O O O O O O O B-train-bookpeople O O O	book_train
+there will be 2 people.	O O O B-train-bookpeople O	book_train
+yeah, just get 1 ticket please and tell me the reference number	O O O B-train-bookpeople O O O O O O O O	book_train
+i need to book for two people and i need the reference number.	O O O O O B-train-bookpeople O O O O O O O	book_train
+that sounds great. please make a booking for 8 people, please.	O O O O O O O O B-train-bookpeople O O	book_train
+i just want to verify that train leaves from cambridge correct? if so, can you book it for 6 people and provide the reference number.	O O O O O O O O O B-train-departure O O O O O O O O B-train-bookpeople O O O O O O	book_train
+sure, i can be flexible. how about in the north? i need it for 8, for two nights starting saturday. i need a reference number also.	O O O O O O O O O O O O O O B-train-bookpeople O O O O B-train-day O O O O O O	book_train
+aylesbray lodge guest house meets all those requirements, would you like to stay there?	B-hotel-name I-hotel-name I-hotel-name I-hotel-name O O O O O O O O O O	book_train
+ok, thank you. one more thing. what was the price of the train ticket?	O O O B-train-bookpeople O O O O O O O O O O	book_train
+yes please, for 8 people at 11:00 on sunday.	O O O B-train-bookpeople O O O O B-train-day	book_train
+ok, i need rooms for 7 people for 4 nights, starting on wednesday. can you tell me which of the two hotels are available then?	O O O O O O O O O O O O B-train-day O O O O O O O O O O O O	book_train
+can you cancel that and get me 5 tickets instead of 1 please?	O O O O O O O B-train-bookpeople O O O O O	book_train
+i need to make a booking for two. how can i do that?	O O O O O O O B-train-bookpeople O O O O O	book_train
+yes please book it for 8 people and give me the reference number	O O O O O B-train-bookpeople O O O O O O O	book_train
+i'll be departing from birmingham new street and need to arrive by 13:45.	O O O O B-train-departure I-train-departure I-train-departure O O O O O B-train-arriveby	book_train
+okay, i've booked you 6 tickets on train tr2515, which leaves at 05:21 and arrives at 06:10 in stevenage. your reference number is 1rmgsh2b . can i help you with anything else?	O O O O O O O O O O O O B-train-leaveat O O O O O O O O O O O O O O O O O O O	book_train
+i'm so sorry. i need to leave cambridge after 13:00 on tuesday and i'm going to ely. i need 6 tickets.	O O O O O O O B-train-departure O B-train-leaveat O B-train-day O O O O B-train-destination O O B-train-bookpeople O	book_train
+yes please. i need one ticket.	O O O O B-train-bookpeople O	book_train
+yes can you please book that for 8 people and give me the reference number?	O O O O O O O B-train-bookpeople O O O O O O O	book_train
+yes please make a booking for 1 people.	O O O O O O B-train-bookpeople O	book_train
+yes, whichever train has seats available for 7 people.	O O O O O O O B-train-bookpeople O	book_train
+yes, please! i need 6 seats.	O O O O B-train-bookpeople O	book_train
+yes. please book me 2 tickets and provide me a reference number.	O O O O B-train-bookpeople O O O O O O O	book_train
+that one will work, can you get me 7 tickets please?	O O O O O O O O B-train-bookpeople O O	book_train
+just one ticket, please.	O B-train-bookpeople O O	book_train
+please book 10 round trip tickets for wednesday at 21.39. please send me the confirmation number along with the total cost of everything.	O O B-train-bookpeople O O O O B-train-day O O O O O O O O O O O O O O O	book_train
+please book for 6 people.	O O O B-train-bookpeople O	book_train
+great, if you could book that one for 2 people and provide me with the reference number, i would appreciate it.	O O O O O O O O B-train-bookpeople O O O O O O O O O O O O	book_train
+yes for 4 people please. i will need the reference number.	O O B-train-bookpeople O O O O O O O O	book_train
+yes, that will be fine. please book the train for 4 people.	O O O O O O O O O O B-train-bookpeople O	book_train
+i want you to book it for 5 nights, starting wednesday. 2 people.	O O O O O O O O O O B-train-day B-train-bookpeople O	book_train
+no, i need to leave cambridge after 18:00.	O O O O O B-train-departure O B-train-leaveat	book_train
+yeah, i need eight tickets.	O O O B-train-bookpeople O	book_train
+please book two seats on that train, and send me the reference number.	O O B-train-bookpeople O O O O O O O O O O	book_train
+book it for 3 people.	O O O B-train-bookpeople O	book_train
+that would work. can you book me 3 tickets for that train?	O O O O O O O B-train-bookpeople O O O O	book_train
+yes that sounds great, i need a table for 8 at 20:45 on monday please.	O O O O O O O O O O O O O B-train-day O	book_train
+thanks. again, it is for wednesday.	O O O O O B-train-day	book_train
+yes that works. i need a booking for 6 people.	O O O O O O O O B-train-bookpeople O	book_train
+yes i would like a booking for 5 people.	O O O O O O O B-train-bookpeople O	book_train
+yes. make booking for 3 people and can i have a refernce number?	O O O O B-train-bookpeople O O O O O O O O	book_train
+yes, for six people, please. and i'd like the reference number.	O O B-train-bookpeople O O O O O O O O	book_train
+yes, can you book it for 1 person, please?	O O O O O O B-train-bookpeople O O	book_train
+yes please get me 5 tickets for that	O O O O B-train-bookpeople O O O	book_train
+actually i'd like to book that hotel for two nights, starting sunday for 6 people for two nights. i'll need a reference number as well.	O O O O O O O O O O O B-train-day O B-train-bookpeople O O O O O O O O O O O	book_train
+the arrival time does not matter, but it should leave on sunday after 15:15.	O O O O O O O O O O O B-train-day O B-train-leaveat	book_train
+yes please. i need that booked for 8 people.	O O O O O O O B-train-bookpeople O	book_train
+yes please do book the 15:39	O O O O O B-train-leaveat	book_train
+yes, 3 seats in fact.	O B-train-bookpeople O O O	book_train
+just one, please.	O B-train-bookpeople O	book_train
+4 people leaving cambridge and going to london liverpool street on friday, departing after 11:00. please give me the travel and arrival time as well as the price.	B-train-bookpeople O O B-train-departure O O O B-train-destination I-train-destination I-train-destination O B-train-day O O B-train-leaveat O O O O O O O O O O O O O	book_train
+yes for 1 person. i'll also need the reference number.	O O B-train-bookpeople O O O O O O O	book_train
+yes please book a table for me at 18:30 on the same day , wednesday. i will need the reference number please.	O O O O O O O O O O O O O O B-train-day O O O O O O O	book_train
+i am not particular about departure time, please book 6 seats on the one arriving earliest and let me know the reference number.	O O O O O O O O O B-train-bookpeople O O O O O O O O O O O O O	book_train
+i also need a hotel for 3 people starting sunday and for 4 nights.	O O O O O O B-train-bookpeople O O B-train-day O O O O	book_train
+yes please, any of them will do. i just need the booking for 8 people.	O O O O O O O O O O O O O B-train-bookpeople O	book_train
+that would be great can you get me 4 tickets for that?	O O O O O O O O B-train-bookpeople O O O	book_train
+i need tickets for 4 people. i need something that leaves after 10:45 as well.	O O O O B-train-bookpeople O O O O O O O B-train-leaveat O O	book_train
+yes, please book me for 3 people, and can i get the reference number?	O O O O O B-train-bookpeople O O O O O O O O	book_train
+yes for 5. all i would need is the reference number.	O O B-train-bookpeople O O O O O O O O	book_train
+no arrival preference but it will need to leave after 15:00. any one is fine. i'll need a booking for 3 people.	O O O O O O O O O O B-train-leaveat O O O O O O O O O B-train-bookpeople O	book_train
+yes, can i get 6 tickets please and i'll need the reference number too	O O O O B-train-bookpeople O O O O O O O O O	book_train
+two seats, please.	B-train-bookpeople O O	book_train
+just one person please.	O B-train-bookpeople O O	book_train
+can you book 2 tickets for me please?	O O O B-train-bookpeople O O O O	book_train
+yes, actually i'd like to book 7 seats on it.	O O O O O O B-train-bookpeople O O O	book_train
+yes, that does work. could you book it for 1 person please?	O O O O O O O O O B-train-bookpeople O O	book_train
+yes can you book two please?	O O O O B-train-bookpeople O	book_train
+i will need 6 tickets.	O O O B-train-bookpeople O	book_train
+there are 8 riders, and i need a reference number please.	O O B-train-bookpeople O O O O O O O O	book_train
+just one person	O B-train-bookpeople O	book_train
+could i get a reservation for 5 people at 16:00 on friday?	O O O O O O B-train-bookpeople O O O O B-train-day	book_train
+yes, can you please make a booking for 4 people?	O O O O O O O O B-train-bookpeople O	book_train
+i would like to go on thursday evening.	O O O O O O B-train-day O	book_train
+yeah, choose one and book it for 8 people. then give me the reference number	O O O O O O O B-train-bookpeople O O O O O O O	book_train
+alright, i'd like to book for 5 people and 2 nights on the same day as the train.	O O O O O O B-train-bookpeople O O O O O O O O O O O	book_train
+yes, that would be great. it will be only one person.	O O O O O O O O O B-train-bookpeople O	book_train
+yes, please book that for 5 people.	O O O O O B-train-bookpeople O	book_train
+yes, for 7 people please. if i could have the reference number that would be great.	O O B-train-bookpeople O O O O O O O O O O O O O	book_train
+i need a booking on the train for 7 people to go to cambridge. is that doable?	O O O O O O O O B-train-bookpeople O O O O B-train-destination O O O	book_train
+will you please book me one ticket?	O O O O O B-train-bookpeople O	book_train
+3 of us	B-train-bookpeople O O	book_train
+that would be perfect. book it for 5 people please and send me the reference number.	O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+like i said, i need four tickets.	O O O O O B-train-bookpeople O	book_train
+yes, please book it for 8 tickets for me and pleases give me the reference number.	O O O O O B-train-bookpeople O O O O O O O O O O	book_train
+could you make a booking for one person and provide the reference number please?	O O O O O O B-train-bookpeople O O O O O O O	book_train
+no, the first train leaving after 14:45 would be fine. i want to book tickets for 8 people.	O O O O O O B-train-leaveat O O O O O O O O O B-train-bookpeople O	book_train
+i'll take the huntingdon marriott. will you please book a room for 2 nights starting on sunday for four people?	O O O O O O O O O O O O O O O O B-train-day O B-train-bookpeople O	book_train
+that sounds great. will you make a booking for 5 people please? and i'd like the reference number for my records.	O O O O O O O O O B-train-bookpeople O O O O O O O O O O O	book_train
+yes please can you book me one seat on that train and let me know the reference number?	O O O O O O B-train-bookpeople O O O O O O O O O O O	book_train
+5 people	B-train-bookpeople O	book_train
+the departure does not matter. i just need 6 tickets.	O O O O O O O O B-train-bookpeople O	book_train
+i need to arrive by 15:15 and will need to book for 5 people.	O O O O O B-train-arriveby O O O O O O O O	book_train
+that sounds great, can i please get 6 tickets?	O O O O O O O B-train-bookpeople O	book_train
+i've got a group of 8 people in all.	O O O O O B-train-bookpeople O O O	book_train
+yes, i will need seats for 5 people. please provide me with a reference number. thank you for your assistance.	O O O O O O B-train-bookpeople O O O O O O O O O O O O O	book_train
+yes, that would be fine. i'll need it booked for 3 people. i'll also need the reference number, please.	O O O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+yes, i'd like to book for three people please.	O O O O O O B-train-bookpeople O O	book_train
+i would like to leave after 20:45	O O O O O O B-train-leaveat	book_train
+yes please. i need the booking for 8 people, and i would like a reference number.	O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+i'd like you begin my stay on wednesday.	O O O O O O O B-train-day	book_train
+i need 8 tickets.	O O B-train-bookpeople O	book_train
+yes please. get me 8 tickets for my party as well as a reference number.	O O O O B-train-bookpeople O O O O O O O O O O	book_train
+i would like to go ahead and book the tr7360 train for 5 people if avaliable. can i please get a reference number for the booking when complete?	O O O O O O O O O O O O B-train-bookpeople O O O O O O O O O O O O O O O	book_train
+yes please. i need tickets for 2 people.	O O O O O O B-train-bookpeople O	book_train
+yes, i would for 6 people on monday at 17:30. what is their phone number and food type?	O O O O O O O B-train-day O O O O O O O O O O	book_train
+sounds good. i need 4 tickets.	O O O O B-train-bookpeople O	book_train
+yes. can you please book 2 seats?	O O O O O B-train-bookpeople O	book_train
+yes please book it for 7 people and provide the reference number.	O O O O O B-train-bookpeople O O O O O O	book_train
+just one, thank you! please provide me with a reference number.	O B-train-bookpeople O O O O O O O O O	book_train
+yes. i need two tickets, please.	O O O B-train-bookpeople O O	book_train
+that's perfect. could you book it for 8 people?	O O O O O O O B-train-bookpeople O	book_train
+i need 6 tickets please.	O O B-train-bookpeople O O	book_train
+yes, please. i'll need tickets for 5 people.	O O O O O O B-train-bookpeople O	book_train
+price doesn't matter. can you recommend one that you love?	O O O O O O B-train-bookpeople O O O	book_train
+that's perfect. i need to book the train for 3 people. once it is booked, can i have the reference number?	O O O O O O O O O B-train-bookpeople O O O O O O O O O O O	book_train
+yes please get me 7 tickets for that.	O O O O B-train-bookpeople O O O	book_train
+5 tickets. can you please also provide the reference number?	B-train-bookpeople O O O O O O O O O	book_train
+ok, can i get one ticket please?	O O O O B-train-bookpeople O O	book_train
+yes please, for the same 3 people. and can i have the reference number?	O O O O O B-train-bookpeople O O O O O O O O	book_train
+just need the four tickets.	O O O B-train-bookpeople O	book_train
+i need to book that for 6 people.	O O O O O O B-train-bookpeople O	book_train
+yes, please book 8 tickets on the last train to arrive before 8:30.	O O O B-train-bookpeople O O O O O O O O B-train-arriveby	book_train
+perfect. then i'd like to reserve an expensive indian restaurant for myself on tuesday, as well.	O O O O O O O O O O O O O B-train-day O O	book_train
+that will work for me. can you book 5 tickets for me?	O O O O O O O O B-train-bookpeople O O O	book_train
+i will take the later arrival, and i just need 1 ticket. i also will need the reference number.	O O O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+yes please, for 7 people.	O O O B-train-bookpeople O	book_train
+no, tr2266 will work, could you get me tickets for 5 people and a reference number?	O O O O O O O O O O B-train-bookpeople O O O O O	book_train
+yes please book the train for 1 person and make sure you give me the reference number.	O O O O O O B-train-bookpeople O O O O O O O O O O	book_train
+please book one for the same group of people, just choose one and remember it must arrive by 12:45	O O O O O O O O O O O O O O O O O O B-train-arriveby	book_train
+yes, please book the tr0638. i need 7 tickets.	O O O O O O O B-train-bookpeople O	book_train
+i need it for eight people, please.	O O O O B-train-bookpeople O O	book_train
+yes please for 1 person.	O O O B-train-bookpeople O	book_train
+i would like to leave after 19:30 and arrive at london kings cross.	O O O O O O B-train-leaveat O O O B-train-destination I-train-destination I-train-destination	book_train
+i'm going to cambridge, leaving after 13:00. i'll need to book for 7 people. can i get a reference number too please?	O O O B-train-destination O O B-train-leaveat O O O O O B-train-bookpeople O O O O O O O O O	book_train
+i am leaving from broxbourne and it should leave after 19:30. i would also like a booking for 6 people.	O O O O B-train-departure O O O O O B-train-leaveat O O O O O O O B-train-bookpeople O	book_train
+yes, that would be find. i'll need to book tickets for 7 people. can i have the reference number please?	O O O O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+1. please also get me z restaurant called city stop restaurant.and give me phone number and postcode	B-train-bookpeople O O O O O O O O O O O O O O O O	book_train
+no, i need to leave from leicester.	O O O O O O B-train-departure	book_train
+i am leaving thurtsday at 2pm and need three tickets	O O O O O B-train-leaveat O O B-train-bookpeople O	book_train
+great, can i get 2 tickets on that train?	O O O O B-train-bookpeople O O O O	book_train
+yes, i'll need 6 tickets. when you book it can you get me a reference number?	O O O B-train-bookpeople O O O O O O O O O O O O	book_train
+can i make a reservation for 2 people and get a confirmation number?	O O O O O O B-train-bookpeople O O O O O O	book_train
+yes, that would be fine. i'll need tickets for 7 people.	O O O O O O O O O B-train-bookpeople O	book_train
+i only need one ticket please.	O O O B-train-bookpeople O O	book_train
+i also need a restaurant in the moderate price range in the centre. i need a reservation for 3 at 20:30 on sunday and please provide the reference number.	O O O O O O O O O O O O O O O O O O B-train-bookpeople O O O B-train-day O O O O O O	book_train
+does the train depart on friday? does it go to stevenage?	O O O O O O O O O O B-train-destination	book_train
+yes, please book this for 8 people. i will also need the reference number.	O O O O O B-train-bookpeople O O O O O O O O	book_train
+yes. i need it for 8 people.	O O O O O B-train-bookpeople O	book_train
+i need it for 8 people	O O O O B-train-bookpeople O	book_train
+yes please book for 6 people	O O O O B-train-bookpeople O	book_train
+can you get me the area and postcode for a cinema in cambridge?	O O O O O O O O O O O O B-train-destination	book_train
+sounds great. please book it for 8 peoople.	O O O O O O B-train-bookpeople O	book_train
+sure, please book it for saturday at 17:15, for 2 people. and tell me the reference number	O O O O O O O O O B-train-bookpeople O O O O O O O	book_train
+yes, please. i'd like a room for 5 people on wednesday for 3 nights.	O O O O O O O B-train-bookpeople O O B-train-day O O O	book_train
+sure, thanks! will you please book it for the same group of 4 for 5 nights, starting sunday?	O O O O O O O O O O O O O O O O O B-train-day	book_train
+yes, that will be fine. i would like to book the train for 2 people please.	O O O O O O O O O O O O O B-train-bookpeople O O	book_train
+just one. can i get the reference number for that?	O B-train-bookpeople O O O O O O O O	book_train
+yes, that sounds fine. can you get tickets for our whole group of five?	O O O O O O O O O O O O O B-train-bookpeople	book_train
+that sounds great. i would like to book it for 7 people. i will also need the reference number	O O O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+ok please book that for 3 people.	O O O O O B-train-bookpeople O	book_train
+yes. please reserve seats for 8 people	O O O O O B-train-bookpeople O	book_train
+i actually need 3 tickets. please provide a reference number.	O O O B-train-bookpeople O O O O O O	book_train
+yes, for 7 people.	O O B-train-bookpeople O	book_train
+i also need a hotel for 3 people starting sunday and for 4 nights.	O O O O O O B-train-bookpeople O O B-train-day O O O O	book_train
+yes, please, for 3 people.	O O O B-train-bookpeople O	book_train
+yes i would. there are 3 of us traveling. could we get a private area on the train?	O O O O O B-train-bookpeople O O O O O O O O O O O O	book_train
+ok, i also want to find a train from cambridge to peterborough on sunday please i want to be there by 13:00.	O O O O O O O O O B-train-departure O B-train-destination O B-train-day O O O O O O O B-train-arriveby	book_train
+i'm departing from leicester on wednesday. please book it for 3 people.	O O O B-train-departure O B-train-day O O O O B-train-bookpeople O	book_train
+yes, please book it for 7 people.	O O O O O B-train-bookpeople O	book_train
+i will be leaving bishops stortford going to cambridge, i need 6 tickets and the conf. # too please	O O O O B-train-departure I-train-departure O O B-train-destination O O B-train-bookpeople O O O O O O O	book_train
+could you book that for 3 people please? i'd also like to get the reference number.	O O O O O B-train-bookpeople O O O O O O O O O O	book_train
+yes i would like to book for 3 people, please.	O O O O O O O B-train-bookpeople O O	book_train
+i need 3 tickets.	O O B-train-bookpeople O	book_train
+i need to book 3 seats. can you do that?	O O O O B-train-bookpeople O O O O O	book_train
+please book that for 4 people. can i get the reference number please?	O O O O B-train-bookpeople O O O O O O O O	book_train
+thank you. i also want to book a train for the same day, departing from birmingham new street and arriving in cambridge by 9:30.	O O O O O O O O O O O O O O O B-train-departure I-train-departure I-train-departure O O O B-train-destination O B-train-arriveby	book_train
+yes, please select one and book it for 6 people. i'll need the reference number.	O O O O O O O O B-train-bookpeople O O O O O O	book_train
+yes please! i'd like a table for one person at 20:30 on tuesday	O O O O O O O B-train-bookpeople O O O O B-train-day	book_train
+the 11:09 train would be fine. i need 3 tickets and a reference number, please.	O O O O O O O O B-train-bookpeople O O O O O O	book_train
+i need to book the train fro 5 people. are there enough seats available?	O O O O O O O B-train-bookpeople O O O O O O	book_train
+i think i forgot to add that i will need the booking for 3 people please. will you modify the booking for me?	O O O O O O O O O O O O O B-train-bookpeople O O O O O O O O O	book_train
+on saturday please	O B-train-day O	book_train
+yes please, for 2 people.	O O O B-train-bookpeople O	book_train
+yes, i want to book for 7 people.	O O O O O O B-train-bookpeople O	book_train
+saturday after 20:00. how much will this cost?	B-train-day O B-train-leaveat O O O O O	book_train
+there will be three of us dining on sunday at 12:15.	O O O B-train-bookpeople O O O O B-train-day O O	book_train
+just one. may i have the reference number for that? i would also like information for visiting a park in the town center.	O B-train-bookpeople O O O O O O O O O O O O O O O O O O O O O	book_train
+yes, that would be great. i'll need three tickets, please?	O O O O O O O B-train-bookpeople O O	book_train
+7 tickets please and i'll also need to get a reference number from you, just in case	B-train-bookpeople O O O O O O O O O O O O O O O O	book_train
+7 tickets please. can i also have the reference number for the booking?	B-train-bookpeople O O O O O O O O O O O O	book_train
+yes please. for 1 person.	O O O B-train-bookpeople O	book_train
+no thanks. go ahead and book the train for 4 people and please provide the reference number.	O O O O O O O O O B-train-bookpeople O O O O O O O	book_train
+yes, please. i'll need 7 seats.	O O O O B-train-bookpeople O	book_train
+just one ticket please and thank you	O B-train-bookpeople O O O O O	book_train
+as for now, just one please.	O O O O B-train-bookpeople O	book_train
+actually i need a booking for 2 people total not just me.	O O O O O O B-train-bookpeople O O O O O	book_train
+please book 6 tickets and send me the reference number.	O O B-train-bookpeople O O O O O O O	book_train
+yes, please, for 6 people!	O O O B-train-bookpeople O	book_train
+yes, please. i need 7 tickets.	O O O O B-train-bookpeople O	book_train
+the train should leave on saturday and arrive by 15:15.	O O O O O B-train-day O O O B-train-arriveby	book_train
+just one, please	O B-train-bookpeople O	book_train
+are there tickets available for four people?	O O O O O B-train-bookpeople O	book_train
+yes please, just for one person.	O O O O B-train-bookpeople O	book_train
+i'll take the train that arrives closest to 20:30 for 4 people please.	O O O O O O O O B-train-arriveby O B-train-bookpeople O O	book_train
+yes, please make a booking for 3 people.	O O O O O O B-train-bookpeople O	book_train
+the one with wifi will work. i need to book it for friday, 5 nights, 4 people.	O O O O O O O O O O O O B-train-day O O B-train-bookpeople O	book_train
+great. please book it for 4 people.	O O O O O B-train-bookpeople O	book_train
+yes, that would be great! i'll need to book tickets for 8 people, please? also, can i have the reference number?	O O O O O O O O O O O B-train-bookpeople O O O O O O O O O	book_train
+yes, that works - could you book 3 tickets please. also, what is the reference number.	O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+book for one person please.	O O B-train-bookpeople O O	book_train
+well i need it to leave after 19:30 and i would like to make a booking for 5 people on tuesday and i will need a reference number.	O O O O O O O B-train-leaveat O O O O O O O O O B-train-bookpeople O O B-train-day O O O O O O O	book_train
+nope, would just like it to leave after 15:45	O O O O O O O O B-train-leaveat	book_train
+after 15:45, please. and i'll need tickets for 6 people.	O B-train-leaveat O O O O O O B-train-bookpeople O	book_train
+i am heading to the stansted airport, just myself, and i need to leave after 17:00. go ahead and book it and give me the reference number.	O O O O O B-train-destination I-train-destination O O O O O O O O B-train-leaveat O O O O O O O O O O O	book_train
+i also need a train leaving sunday after 12:00	O O O O O O B-train-day O B-train-leaveat	book_train
+yes please can you book seats for 4 people and give me the reference number?	O O O O O O O B-train-bookpeople O O O O O O O	book_train
+yes, can i book it for 4 people.	O O O O O O B-train-bookpeople O	book_train
+i need 8 tickets, please.	O O B-train-bookpeople O O	book_train
+yes that is fine please make a booking for 7 people.	O O O O O O O O O B-train-bookpeople O	book_train
+okay great. can you help me make a booking for 6 people please?	O O O O O O O O O O B-train-bookpeople O O	book_train
+i'd like to arrive by 13:00. i'd also like to book seats for 6 people. can you provide a reference number please?	O O O O O B-train-arriveby O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+yes, that's broxbourne to cambridge on thursday, leaving after 17:45.	O O B-train-destination O B-train-departure O B-train-day O O B-train-leaveat	book_train
+that sounds great, i'll need 4 seats please and a reference number.	O O O O O B-train-bookpeople O O O O O O	book_train
+4 people please.	B-train-bookpeople O O	book_train
+ok great. i highly suggest the acorn guest house. would you like for me to book a room?	O O O O O O B-hotel-name I-hotel-name I-hotel-name O O O O O O O O O	book_train
+yes could you please book that for me for 8 people and provide a reference number for the booking.	O O O O O O O O O B-train-bookpeople O O O O O O O O O	book_train
+that works, can you book 2 seats for me please?	O O O O O B-train-bookpeople O O O O	book_train
+yes, please. i am also looking for the cambridge and county folk museum.	O O O O O O O O B-train-departure O O O O	book_train
+yes, sorry. tuesday, leaving ely and getting to cambridge by 11:30.	O O B-train-day O B-train-departure O O O B-train-destination O B-train-arriveby	book_train
+yes, i need to book tickets for 7 people please.	O O O O O O O B-train-bookpeople O O	book_train
+perfect, can i get 8 tickets?	O O O O B-train-bookpeople O	book_train
+yes, please book the train for 4 people.	O O O O O O B-train-bookpeople O	book_train
+arriving at 10:10 is fine.can i get six tickets?	O O O O O O O B-train-bookpeople O	book_train
+there will be 6 people traveling.	O O O B-train-bookpeople O O	book_train
+can you pick one and get me 8 tickets please?	O O O O O O O B-train-bookpeople O O	book_train
+yes, it would. can you book me 6 tickets for that for friday please?	O O O O O O O B-train-bookpeople O O O O B-train-day O	book_train
+i need a booking for 2 people.	O O O O O B-train-bookpeople O	book_train
+tr0904 has been booked for 2 people on thursday at 14:48, cost is 33 gbp and reference number is u120dufh . is there anything else i can help you with today?	O O O O O O O O O O B-train-leaveat O O O O O O O O O O O O O O O O O O O O	book_train
+that sounds great, can you book passage for 7, please?	O O O O O O O O B-train-bookpeople O	book_train
+yes, 7 tickets, please. and i'll need the reference number.	O B-train-bookpeople O O O O O O O O	book_train
+yes, i just need one though. please provide the reference number.	O O O O B-train-bookpeople O O O O O O	book_train
+yes, can you please make me a booking for 4 people on that train, and give me the reference number? thanks!	O O O O O O O O O B-train-bookpeople O O O O O O O O O O O	book_train
+no, i do not have a time preference. also, can you book that train for 2 passengers?	O O O O O O O O O O O O O O O B-train-bookpeople O	book_train
+great. let's book it for 6 people. give me the reference number.	O O O O O B-train-bookpeople O O O O O O	book_train
+sounds great! can i get tickets for 3 people?	O O O O O O O B-train-bookpeople O	book_train
+yes, that will work. please book a table for 1 person at 20/15 on thursday.	O O O O O O O O O B-train-bookpeople O O O O O	book_train
+just double checking. the restaurant reservation is for saturday at 15:15, correct?	O O O O O O O O B-train-day O O O	book_train
+i apologize, i forgot to mention that i'll be needing 6 tickets, not just 1.	O O O O O O O O O O B-train-bookpeople O O O O	book_train
+i want to book that train for 6 people.	O O O O O O O B-train-bookpeople O	book_train
+on monday, please. i want a place to stay when i get there.	O B-train-day O O O O O O O O O O O	book_train
+tuesday please. thanks	B-train-day O O	book_train
+yes, i need to book it for 8 people and i need the reference number.	O O O O O O O B-train-bookpeople O O O O O O O	book_train
+yes, please for 8 people.	O O O B-train-bookpeople O	book_train
+yes, please i need tickets for all 6 of us and i need a reference number	O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+yes, i need 7 tickets.	O O O B-train-bookpeople O	book_train
+yes that's fine a booking for 3 please.	O O O O O O B-train-bookpeople O	book_train
+yes, for 7 people please.	O O B-train-bookpeople O O	book_train
+yes, could you book me tickets for 7 people on that train?	O O O O O O O B-train-bookpeople O O O O	book_train
+yes but can you make a booking for 6 people? i would like a reference number too.	O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+i also need train tickets for my group. i need it to leave by 8:30 from norwich to cambridge. same day please.	O O O O O O O O O O O O O O B-train-leaveat O B-train-departure O B-train-destination O O O	book_train
+you book for 5 people please.	O O O B-train-bookpeople O O	book_train
+yes please and make them three tickets	O O O O O B-train-bookpeople O	book_train
+yes, please make a reservation for 6 people. i'll need the reference number.	O O O O O O B-train-bookpeople O O O O O O	book_train
+yes, 3 tickets please.	O B-train-bookpeople O O	book_train
+i need 5 tickets and the reference number. i would like to go to a museum attraction in town. please provide a area, phone number, and postcode. thank you.	O O B-train-bookpeople O O O O O O O O O O O O O O O O O O O O O O O O O O	book_train
+for 5 people starting on saturday.	O B-train-bookpeople O O O B-train-day	book_train
+i need for 5 people please.	O O O B-train-bookpeople O O	book_train
+yes please book the closest one to my preferred time for 7 people. i would also appreciate a reference number.	O O O O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+that would be perfect! please make a booking for 8 people.	O O O O O O O O O B-train-bookpeople O	book_train
+yes, please book for 3 people. i will need a reference number also.	O O O O B-train-bookpeople O O O O O O O O	book_train
+yeah that works. can you book train reservations on that train for the same group of 4 people?	O O O O O O O O O O O O O O O O B-train-bookpeople O	book_train
+yeah. i need to book for 7 people.	O O O O O O B-train-bookpeople O	book_train
+yes, i'm also interested in going to the theatre. can you help me find one?	O O O O O O O O O O O O O O B-train-bookpeople	book_train
+yes! book for 8 people, please.	O O O B-train-bookpeople O O	book_train
+where is the restaurant located? i would like to book a table for 6, around 10:45 on monday.	O O O O O O O O O O O O O B-train-bookpeople O O O B-train-day	book_train
+ok, could you book me 7 tickets for the tr6982?	O O O O O B-train-bookpeople O O O O	book_train
+that sounds great! i need to book that for three people.	O O O O O O O O O B-train-bookpeople O	book_train
+i need to arrive by 19:45. i need to book for 5 people.	O O O O O B-train-arriveby O O O O O O O	book_train
+that will be fine. book for 3 people	O O O O O O B-train-bookpeople O	book_train
+i apologize this train is going to broxbourne from cambridge. for 3 people are you able to book that?	O O O O O O O B-train-destination O B-train-departure O B-train-bookpeople O O O O O O O	book_train
+yes, for 2 people.	O O B-train-bookpeople O	book_train
+yeah could i get three tickets please?	O O O O B-train-bookpeople O O	book_train
+no, the arrival time does not matter. i need to book 4 tickets.	O O O O O O O O O O O B-train-bookpeople O	book_train
+yes please. i will have a party of 7. may i please get the reference number as well?	O O O O O O O O B-train-bookpeople O O O O O O O O O	book_train
+4 people please.	B-train-bookpeople O O	book_train
+that should be fine. please make a booking for one person.	O O O O O O O O O B-train-bookpeople O	book_train
+yes, i'd lie to book it for 7 people for 4 nights starting saturday. may i have the reference number please?	O O O O O O O B-train-bookpeople O O O O O B-train-day O O O O O O O	book_train
+yes, that will work out great. can you please book me 7 tickets for that train?	O O O O O O O O O O O B-train-bookpeople O O O O	book_train
+yes, please! the one at 8:24 please. 1 person. give me the reference number.	O O O O O O O B-train-bookpeople O O O O O O	book_train
+that would be great. i need to reserve seats for 4 people on that train.	O O O O O O O O O O B-train-bookpeople O O O O	book_train
+perfect. please book that train for one person.	O O O O O O B-train-bookpeople O	book_train
+as long as it is departing from cambridge and arriving before 14:00, i am good with that train. i am needing to book for 7 people please.	O O O O O O O B-train-departure O O O B-train-arriveby O O O O O O O O O O O O B-train-bookpeople O O	book_train
+yes, please book that train for 4 people and give me the reference number.	O O O O O O B-train-bookpeople O O O O O O O	book_train
+that'll work. please book it for 6 people for 5 nights. we'll check in on thursday	O O O O O O B-train-bookpeople O O O O O O O O B-train-day	book_train
+yes, two tickets please	O B-train-bookpeople O O	book_train
+i also need a train for friday departing from ely to cambridge for 5 people and arriving by 16:30. can you book this and get a reference number for me?	O O O O O O B-train-day O O B-train-departure O B-train-destination O B-train-bookpeople O O O O B-train-arriveby O O O O O O O O O O O	book_train
+there will be 2 of us. can you please provide the reference number after you create the booking?	O O O B-train-bookpeople O O O O O O O O O O O O O O	book_train
+whichever gets me there closest to 12:45 please. i need to book 1 ticket and i also need the reference number, please.	O O O O O O B-train-arriveby O O O O O O O O O O O O O O O	book_train
+let's book the earliest train, to give us more time to enjoy the city. please book seats for two and let me know the reference number.	O O O O O O O O O O O O O O O O O O B-train-bookpeople O O O O O O O	book_train
+yes. i'd like to book that for two. could i get the reference number please?	O O O O O O O B-train-bookpeople O O O O O O O	book_train
+yes, i would like to book for 3 people.	O O O O O O O B-train-bookpeople O	book_train
+yes please. can you book 7 tickets on that train? i'd like a reference number if possible.	O O O O O B-train-bookpeople O O O O O O O O O O O	book_train
+for wednesday, please.	O B-train-day O	book_train
+yes, for 3 people, please.	O O B-train-bookpeople O O	book_train
+that will work, can you book me seats for 7 and let me know the reference number?	O O O O O O O O O B-train-bookpeople O O O O O O O	book_train
+i need 5 tickets for that one.	O O B-train-bookpeople O O O O	book_train
+i need to arrive by 16:15 and i want to book it for 6 people.	O O O O O B-train-arriveby O O O O O O O O O	book_train
+yes, please. a total of 4 tickets are needed. thanks.	O O O O O B-train-bookpeople O O O O	book_train
+yes, i would like to book for 3 people please. let me know the reference number, thank you.	O O O O O O O B-train-bookpeople O O O O O O O O O O	book_train
+on thursday i need to book it for 3 people.	O B-train-day O O O O O O B-train-bookpeople O	book_train
+yes, please book for 7 people, and give me the reference number.	O O O O B-train-bookpeople O O O O O O O	book_train
+yes, that sounds perfect. i'll need 4 seats.	O O O O O O B-train-bookpeople O	book_train
+i need 6 tickets for the same day.	O O B-train-bookpeople O O O O O	book_train
+yes, go ahead and book either of those for 2 people and 3 nights beginning on tuesday.	O O O O O O O O O O O O O O O O B-train-day	book_train
+i'll be traveling on saturday. please choose a train and tell me the price, departure time, and train id.	O O O O B-train-day O O O O O O O O O O O O O O	book_train
+yes for two please.	O O B-train-bookpeople O	book_train
+yes, that's wonderful! i need 5 tickets please.	O O O O O B-train-bookpeople O O	book_train
+that sounds good, i will need a reservation for eight people and give me a reference number also please.	O O O O O O O O O B-train-bookpeople O O O O O O O O O	book_train
+yes, i need 7 tickets, please.	O O O B-train-bookpeople O O	book_train
+the first train to leave stevenage after 09:45 leaves at 09:54 and costs 12.80 pounds. would you like me to book that for you?	O O O O O O O O O O B-train-leaveat O O O O O O O O O O O O O	book_train
+is that departing from birmingham new street to cambridge on sunday? if so then yes book that for two tickets and i need the reference number as well.	O O O O B-train-departure I-train-departure I-train-departure O B-train-destination O B-train-day O O O O O O O B-train-bookpeople O O O O O O O O O	book_train
+actually i only need it for 5 people and i will need a reference number.	O O O O O O B-train-bookpeople O O O O O O O O	book_train
+yes please, for 6 people.	O O O B-train-bookpeople O	book_train
+yes, please choose the earliest one after 09:30 and book it for 7 people. and don't forget to send the reference number!	O O O O O O O B-train-leaveat O O O O B-train-bookpeople O O O O O O O O O	book_train
+that train is fine can you book it for 8 people?	O O O O O O O O O B-train-bookpeople O	book_train
+that's perfect i think. please reserve 7 tickets for my group, and let me know the reference number when you have one.	O O O O O O B-train-bookpeople O O O O O O O O O O O O O O O	book_train
+ok, great. then it will get me there in time. can you book me 8 tickets please?	O O O O O O O O O O O O O O B-train-bookpeople O O	book_train
+like i mentioned previously, it'll be for the same 6 people, on the same day (saturday), at 11:45 please.	O O O O O O O O O B-train-bookpeople O O O O O O O O O	book_train
+book that for me please. i need it for 5 people.	O O O O O O O O O B-train-bookpeople O	book_train
+please do. i'll need a table for 1 person on saturday at 10:45. and give me the reference number too.	O O O O O O O B-train-bookpeople O O B-train-day O O O O O O O O O	book_train
+yes please, for 5 people.	O O O B-train-bookpeople O	book_train
+yes, please book 2 tickets and then give me the reference number	O O O B-train-bookpeople O O O O O O O O	book_train
+yes but i need that to be booked for 3 people. i would like the reference number please. i also need a place to stay as well.	O O O O O O O O O B-train-bookpeople O O O O O O O O O O O O O O O O O	book_train
+i need 2 tickets and a reference number please	O O B-train-bookpeople O O O O O O	book_train
+okay can you make a booking for 4 nights from friday for 7 people.	O O O O O O O O O O B-train-day O B-train-bookpeople O	book_train
+that'd be perfect, i need three tickets on sunday.	O O O O O B-train-bookpeople O O B-train-day	book_train
+the restaurant fitzbillies is available, and i've made you a reservation. your reference number is 4wgdgosa .	O O B-restaurant-name O O O O O O O O O O O O O O	book_train
+no, don't book it. can you look for a train that leaves cambridge on wednesday?	O O O O O O O O O O O O B-train-departure O B-train-day	book_train
+2 tickets on the 21:01, please. and can you give me the reference number once that's booked?	B-train-bookpeople O O O O O O O O O O O O O O O O	book_train
+yes, i'd like a booking for 2 people, please.	O O O O O O B-train-bookpeople O O	book_train
+yes please for 1 person.	O O O B-train-bookpeople O	book_train
+i'd like to stay in cambridge, but no area or star rating preference. just the free wifi. any suggestions?	O O O O O B-train-destination O O O O O O O O O O O O O	book_train
+let's try the lan hong house. i'll need a table for 5 at 14:45 friday.	O O O O O O O O O O O B-train-bookpeople O O B-train-day	book_train
+yes please, i'll need a reservation for the same 6 people for 2 nights starting on sunday.	O O O O O O O O O B-train-bookpeople O O O O O O B-train-day	book_train
+try it for 18:45 on the same day wednesday, and please give me the reference number. it will be for 6 people.	O O O O O O O O B-train-day O O O O O O O O O O O B-train-bookpeople O	book_train
+the train should leave on thursday.	O O O O O B-train-day	book_train
+i need it for 8 people at 10:30 on saturday	O O O O B-train-bookpeople O O O O B-train-day	book_train
+yes that sounds great. i need to book one for 4 people.	O O O O O O O O O O B-train-bookpeople O	book_train
+i am booking for one person.	O O O O B-train-bookpeople O	book_train
+that sounds good. i will need 4 tickets.	O O O O O O B-train-bookpeople O	book_train
+there will be 8 people.	O O O B-train-bookpeople O	book_train
+actually, i need to depart from kings lynn, not kings cross. can you change that please?	O O O O O O B-train-departure I-train-departure O O O O O O O O	book_train
+i'm looking to leave cambridge on sunday. what are nearby destinations if any to the east?	O O O O B-train-destination O B-train-day O O O O O O O O O	book_train
+i just need one ticket. can you book that for me please?	O O O B-train-bookpeople O O O O O O O O	book_train
+yes please book it for 1 person and provide the reference number	O O O O O B-train-bookpeople O O O O O O	book_train
+yes, please book 8 tickets and provide me with a reference number	O O O B-train-bookpeople O O O O O O O O	book_train
+i prefer a guesthouse please. i only need it for myself for 2 nights starting from monday.	O O O O O O O O O O O O O O O O B-train-day	book_train
+yes i also need to book a train for 3 people on thursday between bishops stortford and cambridge arriving by 09:00.	O O O O O O O O O B-train-bookpeople O O B-train-day O B-train-departure I-train-departure O B-train-destination O O B-train-arriveby	book_train
+yes, can you book that train for 2 people please?	O O O O O O O B-train-bookpeople O O	book_train
+the 15:35 will be fine. please book that for four people.	O O O O O O O O O B-train-bookpeople O	book_train
+yes please make reservations for sunday for 3 people.	O O O O O B-train-day O B-train-bookpeople O	book_train
+yes please make a booking for 3 people.	O O O O O O B-train-bookpeople O	book_train
+leaving on monday after 9:15. i would like a booking for 3 people and the reference number as well.	O O B-train-day O B-train-leaveat O O O O O O B-train-bookpeople O O O O O O O	book_train
+i actually need 3 tickets. please provide a reference number.	O O O B-train-bookpeople O O O O O O	book_train
+yes i need it booked for 4 people.	O O O O O O B-train-bookpeople O	book_train
+yes please make the booking for me for one.	O O O O O O O O B-train-bookpeople	book_train
+i'll need tickets for 4 people. can i have the reference number please?	O O O O B-train-bookpeople O O O O O O O O	book_train
+i need it for 6 people.	O O O O B-train-bookpeople O	book_train
+yes please book just one ticket for me.	O O O O B-train-bookpeople O O O	book_train
+i'll need it booked for 8 people.	O O O O O B-train-bookpeople O	book_train
+i would like that to be for wednesday and i will need tickets for 3 people please.	O O O O O O O B-train-day O O O O O O B-train-bookpeople O O	book_train
+depart from ely and would like to arrive by 13:00 in cambridge. i need to book it for 2 people i also need a reference number. thanks	O O B-train-departure O O O O O O B-train-arriveby O B-train-destination O O O O O O B-train-bookpeople O O O O O O O O	book_train
+yes, for eight please.	O O B-train-bookpeople O	book_train
+that will work. can you book 7 tickets for that one please?	O O O O O O B-train-bookpeople O O O O O	book_train
+yes choose the arrival time closest to 13:15 and book that train for 5 people. then give me the reference number	O O O O O O O B-train-arriveby O O O O O O O O O O O O O	book_train
+that is perfect, please book me for 5 people and can i have a reference number?	O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+book 4 seats for me please.	O B-train-bookpeople O O O O	book_train
+yes, please. i'll need it booked for 5 people. can i please have the reference number?	O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+sounds great. i will need a booking for 2 people.	O O O O O O O O B-train-bookpeople O	book_train
+yes, please. i need 7 tickets.	O O O O B-train-bookpeople O	book_train
+yes, that would be great. i'll need tickets for 8 people. do you have a reference number?	O O O O O O O O O B-train-bookpeople O O O O O O O	book_train
+i will be leaving from cambridge. i will need 4 seats.	O O O O O B-train-departure O O O B-train-bookpeople O	book_train
+ok, how about bedouin which serves african food and is in the center of town?	O O O B-restaurant-name O O O O O O O O O O O	book_train
+as long as i'm there by 18:00 it doesn't matter.	O O O O O O B-train-arriveby O O O	book_train
+one ticket, please.	B-train-bookpeople O O	book_train
+what attraction type is the cambridge and county folk museum.	O O O O O B-train-departure O O O O	book_train
+i would like to arrive by 11:00. can you choose the train with the closest arrival time to 11:00 and book it for 7 people? then give me the reference number	O O O O O O B-train-arriveby O O O O O O O O O O O O O O O O B-train-bookpeople O O O O O O O	book_train
+yes, please for 6 people starting tuesday night.	O O O B-train-bookpeople O O B-train-day O	book_train
+did you book that for my whole group? 3 people?	O O O O O O O O B-train-bookpeople O	book_train
+yes, can you book three tickets on it, please?	O O O O B-train-bookpeople O O O O	book_train
+okay, i need a hotel for same group of people for two nights starting friday, and i'll need reference number, please.	O O O O O O O O O O O O O O B-train-day O O O O O O	book_train
+yes, please. i need a table for 8 at 11:30 on sunday. and may i please have the reference number?	O O O O O O O B-train-bookpeople O O O B-train-day O O O O O O O O	book_train
+can you book me a table there for monday at 14:30?	O O O O O O O O B-train-day O O	book_train
+i would like it for friday, please. can you please provide a reference number as well?	O O O O O B-train-day O O O O O O O O O O	book_train
+i would like to book a total of 6 tickets. and can i please get the reference number.	O O O O O O O O B-train-bookpeople O O O O O O O O O	book_train
+yes, could i get 3 tickets for that?	O O O O B-train-bookpeople O O O	book_train
+book the earliest one for 4 people.	O O O O O B-train-bookpeople O	book_train
+does tr0188 leave on tuesday? i need a booking for 2 people on tuesday.	O O O O B-train-day O O O O O B-train-bookpeople O O O	book_train
+yes. please book for 1 person.	O O O O B-train-bookpeople O	book_train
+yes, i'll actually need 2 tickets please.	O O O O B-train-bookpeople O O	book_train
+yes lets finish booking the train. i need to book for 4 people.	O O O O O O O O O O O B-train-bookpeople O	book_train
+yes for 3 people please, and do you mind providing me the reference number?	O O B-train-bookpeople O O O O O O O O O O O	book_train
+yes i would like a ticket for one.	O O O O O O O B-train-bookpeople	book_train
+please, i'll need 6 tickets.	O O O B-train-bookpeople O	book_train
+i do not care, i just need to get the restaurant for 8 people, at 16:00, on wednesday as well, do any of them fit that?	O O O O O O O O O O O O B-train-bookpeople O O O O B-train-day O O O O O O O O	book_train
+that sounds great. can you please book 5 tickets?	O O O O O O O B-train-bookpeople O	book_train
+no just choose another type of expensive place to dine for me and book a table at 13:15 for 8 people from monday.	O O O O O O O O O O O O O O O O O O O B-train-bookpeople O O B-train-day	book_train
+yes, that will work. can i make a booking for 7 people please? i will need a reference number.	O O O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+yes please. please book for 2 people and can i get the reference number after you book?	O O O O O B-train-bookpeople O O O O O O O O O O O	book_train
+yes, that will be good! i need eight tickets, please.	O O O O O O O B-train-bookpeople O O	book_train
+great. can you book for five people and give me the reference number for that?	O O O O O B-train-bookpeople O O O O O O O O O	book_train
+sure book 1 ticket from kings lynn to cambridge	O O B-train-bookpeople O O B-train-departure I-train-departure O B-train-destination	book_train
+i am leaving from cambridge.	O O O O B-train-departure	book_train
+that sounds good. i need it for 4 people on thursday, please.	O O O O O O O B-train-bookpeople O O B-train-day O	book_train
+i appreciate your help. i am also interested in looking at a college while i am in cambridge. could you help me?	O O O O O O O O O O O O O O O O O B-train-departure O O O O	book_train
+please, book for 7 people at 20:30 pm on saturday. i need the reference number.	O O O B-train-bookpeople O O O O O B-train-day O O O O O	book_train
+would you like to visit museum of archaelogy and anthropology, they are in the centre of town.	O O O O O B-attraction-name I-attraction-name I-attraction-name I-attraction-name I-attraction-name O O O O O O O	book_train
+i'd like to stay on friday, 4 nights, 3 people. i also need a reference number.	O O O O O B-train-day O O B-train-bookpeople O O O O O O O	book_train
+hm, i'll take any train that will let me arrive by or before 12:30.	O O O O O O O O O O O O O B-train-arriveby	book_train
+well lets try again and book me in what you choose for 2 nights from friday for 6 people.	O O O O O O O O O O O O O O O B-train-day O B-train-bookpeople O	book_train
+yes. for friday, i'd like to book 4 people for 2 nights at the cityroomz. please give me a reference number.	O O B-train-day O O O O B-train-bookpeople O O O O O O O O O O O O O	book_train
+may i make a booking for six people?	O O O O O O B-train-bookpeople O	book_train
+i'll take the third train. for one person, and i need the reference number.	O O O O O O B-train-bookpeople O O O O O O O	book_train
+can you book that train for five people?	O O O O O O B-train-bookpeople O	book_train
+yes i'll need 4 tickets please.	O O O B-train-bookpeople O O	book_train
+yes, i need 4 tickets and the reference number.	O O O B-train-bookpeople O O O O O	book_train
+nevermind, i'm going to cambridge not from it. i'm leaving from norwich	O O O O B-train-destination O O O O O O B-train-departure	book_train
+yes, that's perfect. can you book that for 8 people?	O O O O O O O O B-train-bookpeople O	book_train
+yes please book for 3 and provide reference number	O O O O B-train-bookpeople O O O O	book_train
+yes, please book for 1 person the train that departs at 17:50.	O O O O B-train-bookpeople O O O O O O O	book_train
+perfect. i need 3 tickets. please provide the reference number	O O O B-train-bookpeople O O O O O O	book_train
+i need booking for eight people if there is room. if so, book it and send a reference number.	O O O O B-train-bookpeople O O O O O O O O O O O O O O	book_train
+why did i ask this? of course it would be cambridge sorry, my mistake. please book me for 1 person and i need a reference number.	O O O O O O O O O O B-train-departure O O O O O O O B-train-bookpeople O O O O O O O	book_train
+that sounds great. please book for 7 people for 5 nights starting on friday.	O O O O O O B-train-bookpeople O O O O O O O	book_train
+sometime after 8:30, please.	O O B-train-leaveat O	book_train
+i need to be in broxbourne by 2:00. what time does the 05:01 get in? i'm thinking that might be a little early.	O O O O O B-train-destination O O O O O O O O O O O O O O O O O	book_train
+i will take the one that arrives at 15:08. can you make me a booking for 8 people on wednesday? i will need a reference number.	O O O O O O O O O O O O O O O O O O O B-train-day O O O O O O	book_train
+yes, go ahead and book this. i will need accommodations for 7 people. we need to book for 2 nights, starting on sunday.	O O O O O O O O O O O B-train-bookpeople O O O O O O O O O O B-train-day	book_train
+yes, two tickets please.	O B-train-bookpeople O O	book_train
+oh, i need to leave on tuesday and need to arrive in broxbourne by 18:30. i need to book for 5, with a reference number please.	O O O O O O B-train-day O O O O O B-train-destination O B-train-arriveby O O O O O B-train-bookpeople O O O O O	book_train
+yes please. i need six tickets.	O O O O B-train-bookpeople O	book_train
+i will go with the earlier departure, and i would like 2 seats please. i will also need a reference number.	O O O O O O O O O O O B-train-bookpeople O O O O O O O O O	book_train
+i need to go to cambridge.	O O O O O B-train-destination	book_train
+yes i'd like to book that train for 5 and i'd like the reference number as well please.	O O O O O O O O B-train-bookpeople O O O O O O O O O	book_train
+i'd like passage for 5, please. oh, and the reference number, too. thanks.	O O O O B-train-bookpeople O O O O O O O O	book_train
+yes please. for 5 people on thursday at 21:00. can i get the reference number after you book it?	O O O B-train-bookpeople O O B-train-day O O O O O O O O O O O O	book_train
+yes, please, just one ticket.	O O O B-train-bookpeople O	book_train
+yes, let's book a table for four there at 13:00 on the same saturday.	O O O O O O B-train-bookpeople O O O O O O B-train-day	book_train
+yes please, i'll need a booking for one ticket.	O O O O O O O B-train-bookpeople O	book_train
+yes, please book tickets for 7 people on that train and absolutely do remember to send me the reference number too	O O O O O B-train-bookpeople O O O O O O O O O O O O O O O	book_train
+yes please. for 4 people as well.	O O O B-train-bookpeople O O O	book_train
+i need a train leaving from london liverpool street on friday.	O O O O O O B-train-departure I-train-departure I-train-departure O B-train-day	book_train
+one ticket, please.	B-train-bookpeople O O	book_train
+please book it for wednesday for 5 people and 5 nights, please.	O O O O B-train-day O B-train-bookpeople O O O O O	book_train
+that will work, i just need 1 ticket please and also the reference number.	O O O O O O B-train-bookpeople O O O O O O O	book_train
+that should be perfect. can i get reservations for 2?	O O O O O O O O O B-train-bookpeople	book_train
+no just the one. thank you.	O O O B-train-bookpeople O O	book_train
+could you book a trip for five people, and give me the reference number?	O O O O O O B-train-bookpeople O O O O O O O	book_train
+yes, book it for 5 people on tuesday at 17:00. do not forget to send my reference number!	O O O O B-train-bookpeople O O B-train-day O O O O O O O O O O	book_train
+yes, please. i'll need a booking for 6 and the reference number.	O O O O O O O B-train-bookpeople O O O O	book_train
+yes, that would be great. i'd like to book two tickets and i'll need a reference number, please?	O O O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+i only need one ticket.	O O O B-train-bookpeople O	book_train
+yes, that would work just fine. can i get 1 ticket please?	O O O O O O O O O B-train-bookpeople O O	book_train
+yes, please. i need three tickets.	O O O O B-train-bookpeople O	book_train
+yes. could you make a booking for 2 people? i need a reference number as well.	O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+the 16:11 train would be fine. i'll need the booking for four people. can i also have the reference number please?	O O O O O O O O O O O B-train-bookpeople O O O O O O O O O	book_train
+yes please. book it for 2 tickets. also include the reference number.	O O O O O B-train-bookpeople O O O O O O	book_train
+yes, could you please book that for me. i need one ticket.	O O O O O O O O O O B-train-bookpeople O	book_train
+i apologize about that. the closest i can get you there is on train tr4992 which will arrive at 13:52. would you like me to book it for 5 people?	O O O O O O O O O O O O O O O O O O O B-train-arriveby O O O O O O O O O O	book_train
+me and 6 of my friends want to leave sometime after 8:30.	O O O O O O O O O O O B-train-leaveat	book_train
+actually, i am traveling on tuesday. i need to leave after norwich after 15:45. i need a booking for 7 people.	O O O O O B-train-day O O O O O B-train-departure O O O O O O O B-train-bookpeople O	book_train
+i just need to leave after 9:00. can you book for 7 people?	O O O O O O O O O O O B-train-bookpeople O	book_train
+yes, that would be great. please make a booking for 4 people and send me a copy of the reference number.	O O O O O O O O O O B-train-bookpeople O O O O O O O O O O	book_train
+yes i would like to book for 4 people and i need the reference number.	O O O O O O O B-train-bookpeople O O O O O O O	book_train
+can we increase the amount of people to 8?	O O O O O O O O B-train-bookpeople	book_train
+could you please make a reservation on sunday for 7 people at 21:00? i would like a reference number.	O O O O O O O B-train-day O O O O O O O O O O O	book_train
+yes, a train to cambridge from london kings cross on thursday by 18:30. if you can get a table for 1 at graffiti that day at 20:00 or 21:00 too, great.	O O O O O O B-train-departure I-train-departure I-train-departure O B-train-day O B-train-arriveby O O O O O O O O O O O O O O O O O O	book_train
+yes, please book 8 seats on tr7878 leaving from leicester to cambridge on friday at 16:09. can i have a reference number please?	O O O B-train-bookpeople O O O O O B-train-departure O B-train-destination O B-train-day O O O O O O O O O	book_train
+that sounds great. can i book one seat for that train?	O O O O O O B-train-bookpeople O O O O	book_train
+yes, please book a table for 5 at 13:30 on saturday.	O O O O O O B-train-bookpeople O O O B-train-day	book_train
+yes please book that for one person and give me the reference number.	O O O O O B-train-bookpeople O O O O O O O	book_train
+i would like you to book me four tickets.	O O O O O O O B-train-bookpeople O	book_train
+ok, can you book that for 8 people, please?	O O O O O O B-train-bookpeople O O	book_train
+yes please book the the train for 7 people and can i get the reference number.	O O O O O O O B-train-bookpeople O O O O O O O O	book_train
+book for me that for one person	O O O O O B-train-bookpeople O	book_train
+great can you get me a booking for 3 people?	O O O O O O O O B-train-bookpeople O	book_train
+yes. book for 4 people.	O O O B-train-bookpeople O	book_train
+as long as it arrives by 8:30 that sounds good. i'll need 7 seats please.	O O O O O O O O O O O O B-train-bookpeople O O	book_train
+that seems to work. i need 6 tickets.	O O O O O O B-train-bookpeople O	book_train
+one ticket is all i need. thank you.	B-train-bookpeople O O O O O O O	book_train
+i will be leaving on monday, anytime. the train will need to be booked for 2 people also.	O O O O O B-train-day O O O O O O O O O B-train-bookpeople O O	book_train
+yes, 5 people, please. reference number, please.	O B-train-bookpeople O O O O O	book_train
+great, can you book it for 2 people?	O O O O O O B-train-bookpeople O	book_train
+great. can you book me 7 seats on that train?	O O O O O B-train-bookpeople O O O O	book_train
+leaving cambridge on saturday. i need to book for 4 people, and i'll also need the reference number please.	O B-train-departure O B-train-day O O O O O B-train-bookpeople O O O O O O O O O	book_train
+great, i want to go on sunday and i need 8 tickets please.	O O O O O O B-train-day O O O B-train-bookpeople O O	book_train
+yes, please, i need a booking for 7 people.	O O O O O O O B-train-bookpeople O	book_train
+monday would be best please.	B-train-day O O O O	book_train
+yes please make a booking for 4 people.	O O O O O O B-train-bookpeople O	book_train
+yes that will work. can we book for 5 people?	O O O O O O O O B-train-bookpeople O	book_train
+yes please book that for 2 people.	O O O O O B-train-bookpeople O	book_train
+can you book that for two people and then give me the reference number?	O O O O O B-train-bookpeople O O O O O O O O	book_train
+i booked 8 tickets on tr1058 leaving cambridge at 07:00. the reference number is vbkuua4s and the total fee is 188.8 gbp payable at the station.	O O O O O O O O O B-train-leaveat O O O O O O O O O O O O O O O O	book_train
+yes book for me fo 3 people and provide me with reference number	O O O O O B-train-bookpeople O O O O O O O	book_train
+yes please book for 8 people. i need the reference number. also, i want information on a restaurant called bangkok city.	O O O O B-train-bookpeople O O O O O O O O O O O O O O O O	book_train
+yes, that sounds perfect. i'll need 4 seats.	O O O O O O B-train-bookpeople O	book_train
+the train ticket is for 1 person. the hotel is in the east.	O O O O O B-train-bookpeople O O O O O O O	book_train
+monday. as i said before, 2 tickets for monday.	B-train-day O O O O B-train-bookpeople O O O	book_train
+please. i'll need 7 tickets.	O O O B-train-bookpeople O	book_train
+yes, that would be fine. i need to make the booking for 8 people, please.	O O O O O O O O O O O O B-train-bookpeople O O	book_train
+i need it to arrive by 6:30 and i need it for 3 people.	O O O O O O B-train-arriveby O O O O O O O	book_train
+i need 6 tickets.	O O B-train-bookpeople O	book_train
+yes please book for 5 people	O O O O B-train-bookpeople O	book_train
+is that train leaving from cambridge?	O O O O O B-train-departure	book_train
+yes, on thursday. can you book me a train for 3 people please?	O O B-train-day O O O O O O O B-train-bookpeople O O	book_train
+i would like to travel on tuesday.	O O O O O O B-train-day	book_train
+yes, i would like a booking for one person.	O O O O O O O B-train-bookpeople O	book_train

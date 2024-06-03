@@ -1,0 +1,254 @@
+{
+    "arrive_date.month_name": [
+        "month name of arrive date like july or may"
+    ],
+    "depart_date.date_relative": [
+        "date relative of depart date like next or same"
+    ],
+    "stoploc.airport_name": [
+        "airport name of stop location like hartfield"
+    ],
+    "fromloc.city_name": [
+        "city name of from location like boston or denver"
+    ],
+    "class_type": [
+        "class type like first class or coach"
+    ],
+    "flight_stop": [
+        "flight stop like nonstop or one stop"
+    ],
+    "day_name": [
+        "day name like wednesday or monday"
+    ],
+    "depart_date.today_relative": [
+        "today relative of depart date like tomorrow or today"
+    ],
+    "fromloc.state_code": [
+        "state code of from location like dc"
+    ],
+    "stoploc.state_code": [
+        "state code of stop location like dc"
+    ],
+    "fromloc.airport_code": [
+        "airport code of from location like jfk or bwi"
+    ],
+    "flight_mod": [
+        "flight mod like earliest or latest"
+    ],
+    "arrive_time.start_time": [
+        "start time of arrive time like 4 or 8"
+    ],
+    "toloc.city_name": [
+        "city name of to location like san francisco or denver"
+    ],
+    "arrive_time.time": [
+        "time of arrive time like noon or 5 pm"
+    ],
+    "arrive_date.today_relative": [
+        "today relative of arrive date like tomorrow"
+    ],
+    "depart_time.start_time": [
+        "start time of depart time like 10 am or 12"
+    ],
+    "depart_time.end_time": [
+        "end time of depart time like 2 pm or 4"
+    ],
+    "arrive_date.date_relative": [
+        "date relative of arrive date like next"
+    ],
+    "return_date.day_name": [
+        "day name of return date like sunday or thursday"
+    ],
+    "time_relative": [
+        "time relative like around"
+    ],
+    "state_code": [
+        "state code like dc"
+    ],
+    "stoploc.airport_code": [
+        "airport code of stop location like dtw"
+    ],
+    "booking_class": [
+        "booking class like q"
+    ],
+    "days_code": [
+        "days code like sa"
+    ],
+    "flight": [
+        "flight like flight"
+    ],
+    "depart_date.day_name": [
+        "day name of depart date like wednesday or monday"
+    ],
+    "return_date.today_relative": [
+        "today relative of return date like the following day"
+    ],
+    "meal": [
+        "meal like meal or meals"
+    ],
+    "return_date.day_number": [
+        "day number of return date like sixth or twelve"
+    ],
+    "arrive_date.day_number": [
+        "day number of arrive date like seventh or second"
+    ],
+    "or": [
+        "or like or"
+    ],
+    "transport_type": [
+        "transport type like limousine or rental car"
+    ],
+    "toloc.country_name": [
+        "country name of to location like canada"
+    ],
+    "depart_time.period_of_day": [
+        "period of day of depart time like morning or afternoon"
+    ],
+    "arrive_time.end_time": [
+        "end time of arrive time like 9 pm or 1245 pm"
+    ],
+    "meal_code": [
+        "meal code like s or sd d"
+    ],
+    "airline_code": [
+        "airline code like twa or dl"
+    ],
+    "round_trip": [
+        "round trip like round trip or one way"
+    ],
+    "day_number": [
+        "day number like sixth or seventh"
+    ],
+    "depart_date.month_name": [
+        "month name of depart date like august or july"
+    ],
+    "return_time.period_of_day": [
+        "period of day of return time like evening"
+    ],
+    "time": [
+        "time like time or 9 am"
+    ],
+    "state_name": [
+        "state name like california or arizona"
+    ],
+    "depart_time.period_mod": [
+        "period mod of depart time like early or late"
+    ],
+    "fromloc.airport_name": [
+        "airport name of from location like love field or la guardia"
+    ],
+    "flight_days": [
+        "flight days like daily"
+    ],
+    "toloc.state_name": [
+        "state name of to location like california or north carolina"
+    ],
+    "depart_time.time": [
+        "time of depart time like noon or 6 pm"
+    ],
+    "toloc.airport_name": [
+        "airport name of to location like love field or general mitchell international"
+    ],
+    "airport_code": [
+        "airport code like ewr or mco"
+    ],
+    "connect": [
+        "connect like direct or connecting"
+    ],
+    "economy": [
+        "economy like economy or economy class"
+    ],
+    "stoploc.city_name": [
+        "city name of stop location like denver or dallas"
+    ],
+    "period_of_day": [
+        "period of day like morning or evening"
+    ],
+    "toloc.state_code": [
+        "state code of to location like dc"
+    ],
+    "mod": [
+        "mod like smallest or most"
+    ],
+    "toloc.airport_code": [
+        "airport code of to location like bwi or dfw"
+    ],
+    "arrive_time.period_of_day": [
+        "period of day of arrive time like afternoon or morning"
+    ],
+    "compartment": [
+        "compartment like coach"
+    ],
+    "cost_relative": [
+        "cost relative like cheapest or less"
+    ],
+    "arrive_time.time_relative": [
+        "time relative of arrive time like before or around"
+    ],
+    "month_name": [
+        "month name like july"
+    ],
+    "depart_date.year": [
+        "year of depart date like 1991 or 1992"
+    ],
+    "arrive_date.day_name": [
+        "day name of arrive date like wednesday or tuesday"
+    ],
+    "city_name": [
+        "city name like denver or dallas"
+    ],
+    "fare_basis_code": [
+        "fare basis code like f or h"
+    ],
+    "meal_description": [
+        "meal description like breakfast or dinner"
+    ],
+    "aircraft_code": [
+        "aircraft code like m80 or 757"
+    ],
+    "return_time.period_mod": [
+        "period mod of return time like late"
+    ],
+    "fromloc.state_name": [
+        "state name of from location like california or florida"
+    ],
+    "airport_name": [
+        "airport name like general mitchell international or boston airport"
+    ],
+    "flight_number": [
+        "flight number like 281 or 825"
+    ],
+    "restriction_code": [
+        "restriction code like ap 57 or ap57"
+    ],
+    "depart_date.day_number": [
+        "day number of depart date like twenty seventh or first"
+    ],
+    "arrive_time.period_mod": [
+        "period mod of arrive time like early or earliest"
+    ],
+    "fare_amount": [
+        "fare amount like 1000 dollars or 466 dollars"
+    ],
+    "airline_name": [
+        "airline name like american airlines or united airlines"
+    ],
+    "flight_time": [
+        "flight time like time or schedule"
+    ],
+    "today_relative": [
+        "today relative like the day after tomorrow or tomorrow"
+    ],
+    "depart_time.time_relative": [
+        "time relative of depart time like after or before"
+    ],
+    "return_date.month_name": [
+        "month name of return date like may or august"
+    ],
+    "return_date.date_relative": [
+        "date relative of return date like day or next"
+    ],
+    "O": [
+        "none"
+    ]
+}

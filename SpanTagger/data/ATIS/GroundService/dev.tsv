@@ -1,0 +1,72 @@
+what kind of ground transportation is available in las vegas	O O O O O O O O B-city_name I-city_name	atis_ground_service
+what ground transportation is available from the denver airport to downtown denver	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name	atis_ground_service
+show me boston ground transportation	O O B-city_name O O	atis_ground_service
+is there ground transportation from the milwaukee airport to the downtown area	O O O O O O B-airport_name I-airport_name O O O O	atis_ground_service
+what ground transportation is there in denver	O O O O O O B-city_name	atis_ground_service
+in denver what kind of ground transportation is there from the airport to downtown	O B-city_name O O O O O O O O O O O O	atis_ground_service
+what ground transportation is available in boston	O O O O O O B-city_name	atis_ground_service
+what transportation is available from the dallas airport to downtown	O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O	atis_ground_service
+show me all ground transportation in washington dc	O O O O O O B-city_name B-state_code	atis_ground_service
+can i get a rental car in dallas	O O O O B-transport_type I-transport_type O B-city_name	atis_ground_service
+is ground transportation available in philadelphia	O O O O O B-city_name	atis_ground_service
+ground transportation in oakland	O O O B-city_name	atis_ground_service
+i need ground transportation in dallas please show me what's available	O O O O O B-city_name O O O O O	atis_ground_service
+fine can you give me information on ground transportation in washington dc to downtown	O O O O O O O O O O B-city_name B-state_code O O	atis_ground_service
+could you tell me if there is ground transportation between the boston airport and boston downtown	O O O O O O O O O O O B-fromloc.airport_name I-fromloc.airport_name O B-toloc.city_name O	atis_ground_service
+list ground transportation in baltimore	O O O O B-city_name	atis_ground_service
+i would like to know the types of ground transportation from the airport to las vegas	O O O O O O O O O O O O O O B-city_name I-city_name	atis_ground_service
+is there ground transportation in boston from the airport	O O O O O B-city_name O O O	atis_ground_service
+ground transportation in dallas and boston	O O O B-city_name O B-city_name	atis_ground_service
+what ground transportation is available in san francisco	O O O O O O B-city_name I-city_name	atis_ground_service
+what ground transportation is available in denver	O O O O O O B-city_name	atis_ground_service
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	O O O O O O B-day_name B-month_name B-day_number O B-day_name B-month_name B-day_number O B-city_name I-city_name	atis_ground_service
+what ground transportation is available in dallas	O O O O O O B-city_name	atis_ground_service
+what about a car rental in denver	O O O B-transport_type I-transport_type O B-city_name	atis_ground_service
+what does ground transportation look like in oakland	O O O O O O O B-city_name	atis_ground_service
+do you have ground transportation between airport and downtown in boston	O O O O O O O O O O B-toloc.city_name	atis_ground_service
+what ground transportation is available at the boston airport	O O O O O O O B-airport_name I-airport_name	atis_ground_service
+what ground transportation is available between dca and downtown washington	O O O O O O B-airport_code O O B-city_name	atis_ground_service
+show me ground transportation in baltimore	O O O O O B-city_name	atis_ground_service
+show me the ground transportation in denver	O O O O O O B-city_name	atis_ground_service
+and how can i get to the boston airport from downtown boston	O O O O O O O B-toloc.airport_name I-toloc.airport_name O O B-fromloc.city_name	atis_ground_service
+i need to get downtown from the denver airport	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name	atis_ground_service
+are there any limousines or taxi services available at the boston airport	O O O B-transport_type B-or B-transport_type O O O O B-airport_name I-airport_name	atis_ground_service
+what ground transportation is available in atlanta	O O O O O O B-city_name	atis_ground_service
+please list available ground transportation in pittsburgh	O O O O O O B-city_name	atis_ground_service
+i'll need a rental car at the atlanta airport can you show me what's available	O O O B-transport_type I-transport_type O O B-airport_name I-airport_name O O O O O O	atis_ground_service
+i need information on ground transportation from the airport in atlanta	O O O O O O O O O O B-fromloc.city_name	atis_ground_service
+ground transportation between airport and downtown in boston	O O O O O O O B-toloc.city_name	atis_ground_service
+train to newark	B-transport_type O B-city_name	atis_ground_service
+what ground transportation is available at the baltimore airport	O O O O O O O B-airport_name I-airport_name	atis_ground_service
+what type of ground transportation is available at logan airport	O O O O O O O O B-airport_name I-airport_name	atis_ground_service
+what kind of ground transportation is there in dallas	O O O O O O O O B-city_name	atis_ground_service
+tell me about ground transportation at toronto	O O O O O O B-city_name	atis_ground_service
+what ground transportation is there in atlanta	O O O O O O B-city_name	atis_ground_service
+and now show me ground transportation that i could get in boston late night	O O O O O O O O O O O B-city_name B-period_of_day B-period_of_day	atis_ground_service
+ground transport phoenix	O O B-city_name	atis_ground_service
+is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning	O O O O O O B-airport_name I-airport_name O O O O O O O O O O B-period_of_day	atis_ground_service
+what ground transportation is there in oakland	O O O O O O B-city_name	atis_ground_service
+what ground transportation is available from the pittsburgh airport	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name	atis_ground_service
+is there ground transportation in oakland	O O O O O B-city_name	atis_ground_service
+is there ground transportation available in denver	O O O O O O B-city_name	atis_ground_service
+how long does the ground transportation take from the salt lake city airport	O O O O O O O O O B-airport_name I-airport_name I-airport_name I-airport_name	atis_ground_service
+is there ground transportation from lga into new york city	O O O O O B-airport_code O B-city_name I-city_name I-city_name	atis_ground_service
+what kind of ground transportation is there in philadelphia	O O O O O O O O B-city_name	atis_ground_service
+what ground transportation can i take into boston	O O O O O O O B-city_name	atis_ground_service
+is there ground transportation from san diego airport to the downtown area	O O O O O B-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name O O O O	atis_ground_service
+what kind of ground transportation is there in denver	O O O O O O O O B-city_name	atis_ground_service
+can i have a rental car in houston	O O O O B-transport_type I-transport_type O B-city_name	atis_ground_service
+what ground transport is available in charlotte	O O O O O O B-city_name	atis_ground_service
+show me ground transportation in westchester county	O O O O O B-city_name I-city_name	atis_ground_service
+show me the car rentals in baltimore	O O O B-transport_type I-transport_type O B-city_name	atis_ground_service
+show me the ground transportation in denver	O O O O O O B-city_name	atis_ground_service
+what ground transportation is available in newark	O O O O O O B-city_name	atis_ground_service
+what ground transportation is available at the atlanta airport	O O O O O O O B-airport_name I-airport_name	atis_ground_service
+what ground transportation is there from the airport in atlanta to downtown	O O O O O O O O O B-fromloc.city_name O O	atis_ground_service
+what are the ground transportation services in philadelphia	O O O O O O O B-city_name	atis_ground_service
+could you tell me about ground transportation arrangements from the dallas airport to downtown dallas	O O O O O O O O O O B-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name	atis_ground_service
+what ground transportation is available in baltimore for the day after tomorrow	O O O O O O B-city_name O B-today_relative I-today_relative I-today_relative I-today_relative	atis_ground_service
+what ground transportation is available at baltimore	O O O O O O B-city_name	atis_ground_service
+show me the ground transportation schedule in philadelphia in the morning on wednesday	O O O O O O O B-city_name O O B-period_of_day O B-day_name	atis_ground_service
+what's the ground transportation in westchester county	O O O O O B-city_name I-city_name	atis_ground_service
+tell me about ground transportation between the dallas fort worth airport and downtown dallas	O O O O O O O B-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name I-fromloc.airport_name O O B-toloc.city_name	atis_ground_service

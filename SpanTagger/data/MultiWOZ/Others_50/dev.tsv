@@ -1,0 +1,14 @@
+i'm looking for the addenbrookes hospital and need to contact the haematology and haematological oncology department.	O O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department O	find_hospital
+hi, i'm trying to find addenbrookes hospital and they're supposed to have a medical decisions unit department, right?	O O O O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department O O	find_hospital
+i've been injured and i need a hospital near me, one with a coronary care unit department please!	O O O O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department O O	find_hospital
+i need to find a hospital with a teenage cancer trust unit.	O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department	find_hospital
+i need a hospital with an antenatal department, please find one for me.	O O O O O O B-hospital-department O O O O O O	find_hospital
+i need to find a hospital in town with a cardiology and coronary care unit.	O O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department I-hospital-department	find_hospital
+i need the paediatric clinic please.	O O O B-hospital-department I-hospital-department O	find_hospital
+could i get the phone and postal for the emergency department?	O O O O O O O O O B-hospital-department I-hospital-department	find_hospital
+i am looking for a hospital with a clinical research facility department. i need the phone number and postcode.	O O O O O O O O B-hospital-department I-hospital-department I-hospital-department O O O O O O O O	find_hospital
+just to clarify; the hospital does have an infectious diseases department, correct?	O O O O O O O O B-hospital-department I-hospital-department O O	find_hospital
+i am looking for a hospital with a eurology department	O O O O O O O O B-hospital-department O	find_hospital
+i am looking for a nearby hospital with the neurosciences critical care unit department	O O O O O O O O O B-hospital-department I-hospital-department I-hospital-department I-hospital-department O	find_hospital
+which department should i contact for a sprained ankle?	O B-hospital-department O O O O O O O	find_hospital
+i am looking for the addenbrookes hospital with emergency department	O O O O O O O O B-hospital-department I-hospital-department	find_hospital

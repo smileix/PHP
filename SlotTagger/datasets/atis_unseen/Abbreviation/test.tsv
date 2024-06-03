@@ -1,0 +1,8 @@
+what class is fare code q	O O O O O B-booking_class	atis_abbreviation	O O O O O B
+what is meal code sb	O O O O B-meal_code	atis_abbreviation	O O B O B
+what is sa	O O B-days_code	atis_abbreviation	O O B
+what is sa	O O B-days_code	atis_abbreviation	O O B
+what does s designate as a meal	O O B-meal_code O O O B-meal	atis_abbreviation	O O B O O O B
+what does ls stand for	O O B-meal_code O O	atis_abbreviation	O O B O O
+what is sa	O O B-days_code	atis_abbreviation	O O B
+what does not sa mean	O O B-mod B-days_code O	atis_abbreviation	O O O B O

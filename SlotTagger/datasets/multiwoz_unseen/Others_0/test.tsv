@@ -1,0 +1,4 @@
+how much does it cost to take the bus in cambridge?	O O O O O O O O O O B-bus-departure	find_bus	O O O O O O O O O O B
+i will be traveling to london.	O O O O O B-bus-destination	find_bus	O O O O O O
+i am looking for information in cambridge	O O O O O O B-bus-destination	find_bus	O O O O O O O
+how much does it cost to take the bus in cambridge?	O O O O O O O O O O B-bus-departure	find_bus	O O O O O O O O O O B

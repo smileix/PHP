@@ -1,0 +1,500 @@
+what s the weather like in north brunswick township virginia	O O O O O O B-city I-city I-city B-state	GetWeather	O O O O O O B I I B
+what is the forecast for a day from now in liechtenstein	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-country	GetWeather	O O O O O B I I I O B
+what is the weather going to be like in epleys in south georgia and the south sandwich islands in 11 months	O O O O O O O O O B-city O B-country I-country I-country I-country I-country I-country I-country B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O O O O B O B I I O B I I B I I
+give me weather information for porcupine mountains	O O O O O B-geographic_poi I-geographic_poi	GetWeather	O O B O O B I
+check the forecast for natchaug state forest	O O O O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O B I I
+what is the forecast for warm weather in carl	O O O O O B-condition_temperature O O B-city	GetWeather	O O O O O B O O B
+will it be cloudy in tatamy	O O O B-condition_description O B-city	GetWeather	O O O B O B
+tell me the weather forecast 1 hour from now in big thicket national preserve	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O B I I I O B I I I
+what is the random lake forecast for hot temps	O O O B-city I-city O O B-condition_temperature O	GetWeather	O O O B I O O B O
+what is the forecast for sanilac petroglyphs historic state park	O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O B I I I I
+what s the weather forecast for coats	O O O O O O B-city	GetWeather	O O O O O O B
+is it supposed to get chilly in dewey	O O O O O B-condition_temperature O B-city	GetWeather	O O O O O B O B
+what will the weather be like on january the twenty-third  2034 in ga	O O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-state	GetWeather	O O O O O O O B I I I O B
+how cold is it in martinique	O B-condition_temperature O O O B-country	GetWeather	O B O O O B
+is it going to be cloudy in my current spot for dinner	O O O O O B-condition_description O O B-current_location I-current_location O B-timeRange	GetWeather	O O O O O B O O B I O B
+is it chilly in nightmute	O O B-condition_temperature O B-city	GetWeather	O O B O B
+what will the the weather be like close to bailey s crossroads at 05:00:34 am	O O O O O O O B-spatial_relation O B-city I-city I-city O B-timeRange I-timeRange	GetWeather	O O O O O O O B O B I I O B I
+weather in bashkirsky nature reserve 20 days from now	O O B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O B I I B I I I
+what is the weather in current location on december the 23rd  2027	O O O O O B-current_location I-current_location O B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O B I O B I I I
+forecast for wisconsin at 10 pm	O O B-state O B-timeRange I-timeRange	GetWeather	O O B O B I
+is there a storm in the weather forecast for baraga oregon	O O O B-condition_description O O O O O B-city B-state	GetWeather	O O O B O O O O O B B
+what s the weather in close by my current position	O O O O O B-spatial_relation I-spatial_relation O B-current_location I-current_location	GetWeather	O O O O O B I O B I
+will it get cold in nevada seven weeks and a half from now	O O O B-condition_temperature O B-state B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O B O B B I I I I I I
+tell me the forecast for rogers city  ms	O O O O O B-city I-city B-state	GetWeather	O O O O O B I B
+what s the weather forecast for the northern mariana islands on 8/4/2024	O O O O O O O B-state I-state I-state O B-timeRange	GetWeather	O O O O O O O B I I O B
+weather in radnor township  wv	O O B-city I-city B-state	GetWeather	O O B I B
+how much rain in montana 12 months from now	O O B-condition_description O B-state B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O B O B B I I I
+will it be windy in breaux bridge  turks and caicos islands eleven hours from now	O O O B-condition_description O B-city I-city B-country I-country I-country I-country B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O B O B I B I I I B I I I
+is it hotter in vernon	O O B-condition_temperature O B-city	GetWeather	O O B O B
+what is the weather of ludowici at 4 am	O O O O O B-city O B-timeRange I-timeRange	GetWeather	O O O O O B O B I
+what is the weather forecast for july 20  2020 in dachigam-nationalpark	O O O O O O B-timeRange I-timeRange I-timeRange O B-geographic_poi	GetWeather	O O O O O O B I I O B
+what is the forecast for tschetter colony on ascension day in oregon	O O O O O B-city I-city O B-timeRange I-timeRange O B-state	GetWeather	O O O O O B I O B I O B
+i need to know if its humid in greenback in mongolia	O O O O O O B-condition_description O B-city O B-country	GetWeather	O O O O O O B O B O B
+what is the weather here	O O O O B-current_location	GetWeather	O O O O B
+what will it be like in six pm at the current place	O O O O O O B-timeRange I-timeRange O O B-current_location I-current_location	GetWeather	O O O O O B B I O O B I
+is it freezing at jasmund national park	O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O B O B I I
+what s the weather like at sunset hills	O O O O O O B-city I-city	GetWeather	O O O O O O B I
+show cloud forcast in 1 hour in ia	O B-condition_description O B-timeRange I-timeRange I-timeRange O B-state	GetWeather	O B I B I I O B
+tell me the weather forecast for mokena	O O O O O O B-city	GetWeather	O O O O O O B
+what is the weather forecast in six weeks in la	O O O O O B-timeRange I-timeRange I-timeRange O B-state	GetWeather	O O O O O B I I O B
+is it hotter now in hicks	O O B-condition_temperature B-timeRange O B-city	GetWeather	O O B B O B
+in california will it be cold in east trenton heights	O B-state O O O B-condition_temperature O B-city I-city I-city	GetWeather	O B O O O B O B I I
+what s the weather forecast for east berlin  al	O O O O O O B-city I-city B-state	GetWeather	O O O O O O B I B
+tell me the weather forecast for murone kōgen prefectural natural park at elevenses	O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange	GetWeather	O O O O O O B I I I I O B
+what will the weather be for hooksett	O O O O O O B-city	GetWeather	O O O O O O B
+what is the weather like at basaseachic falls national park	O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O B I I I
+need weather forecast for stacy in vanuatu	O O O O B-city O B-country	GetWeather	O O O O B O B
+is it chilly in ecola state park at 2 pm	O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange	GetWeather	O O B O B I I O B I
+what s the weather in burns	O O O O O B-city	GetWeather	O O O O O B
+what s the humidity right now in aguila	O O O B-condition_description O B-timeRange O B-city	GetWeather	O O O B O B O B
+what is the weather forecast for midnight in dc	O O O O O O B-timeRange O B-state	GetWeather	O O O O O O B O B
+i need the forecast for mamaroneck in six weeks	O O O O O B-city B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O B B I I
+will the sun come out today in houston	O O B-condition_description O O B-timeRange O B-city	GetWeather	O O B O I B O B
+check the forecast for keene	O O O O B-city	GetWeather	O O O O B
+show freezing forcast now within the same area in north dakota	O B-condition_temperature O B-timeRange B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state I-state	GetWeather	O B O B B I I I O B I
+what is the midday weather forecast for chalkyitsik  palestine	O O O B-timeRange O O O B-city B-country	GetWeather	O O O B O O O B B
+will it be freezing in seven minutes in nora fiji	O O O B-condition_temperature B-timeRange I-timeRange I-timeRange O B-city B-country	GetWeather	O O O B B I I O B B
+will it be getting warmer in rainbow falls provincial park	O O O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O B O B I I I
+will it be nice in reager mp	O O O O O B-city B-state	GetWeather	O O O B O B B
+how is the humidity near my current place	O O O B-condition_description B-spatial_relation O B-current_location I-current_location	GetWeather	O O O B B O B I
+how cold is it in my current position	O B-condition_temperature O O O O B-current_location I-current_location	GetWeather	O B O O O O B I
+is it freezing in vega alta	O O B-condition_temperature O B-city I-city	GetWeather	O O B O B I
+will it be hotter in conception junction  moldova	O O O B-condition_temperature O B-city I-city B-country	GetWeather	O O O B O B I B
+will it be hot in dongola cameroon	O O O B-condition_temperature O B-city B-country	GetWeather	O O O B O B B
+is it going to be windy faraway from the valley of fire	O O O O O B-condition_description B-spatial_relation O O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O B B O O B I I
+what s the weather forecast for my current spot in eight hours	O O O O O O O B-current_location I-current_location B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O O B I B I I
+what s the forecast for walker bay nature reserve for next year	O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange	GetWeather	O O O O O B I I I O B I
+what s the weather in 10 months in nam kading national protected area	O O O O B-timeRange I-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O B I I O B I I I I
+is it going to be humid in helix	O O O O O B-condition_description O B-city	GetWeather	O O O O O B O B
+what is the weather forecast in the country of chile fifteen hours from now	O O O O O O O O O B-country B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O O O O B B I I I
+how will the weather be in 11 years from now in the same area of florida	O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state	GetWeather	O O O O O O B I I I B I I I O B
+how s the weather going to be at fourteen o clock in falkland islands	O O O O O O O O B-timeRange I-timeRange I-timeRange O B-country I-country	GetWeather	O O O O O O O O B I I O B I
+how chilly will it be at 09:32:06 am in moncove lake state park	O B-condition_temperature O O O O B-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O B O O O O B I O B I I I
+weather for july 1 in ut	O O B-timeRange I-timeRange O B-state	GetWeather	O O B I O B
+will it get chillier here	O O O B-condition_temperature B-current_location	GetWeather	O O O B B
+how is weather here	O O O B-current_location	GetWeather	O O O B
+what will the weather be in montevallo on july ninth  2018	O O O O O O B-city O B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B O B I I
+what s the weather in twenty five days in hagerman national wildlife refuge	O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O B I I I O B I I I
+will it hail in villa	O O B-condition_description O B-city	GetWeather	O O B O B
+what will the weather be like in arizona on october the 3rd	O O O O O O O B-state O B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O O B O B I I
+weather for marshall	O O B-city	GetWeather	O O B
+tell me the forecast for elderton  indiana in 19 hours	O O O O O B-city B-state B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O B B B I I
+is saint robert hotter than turkmenistan	O B-city I-city B-condition_temperature O B-country	GetWeather	O B I B O B
+what s the weather forecast for aug  8  2020 at my current location	O O O O O O B-timeRange I-timeRange I-timeRange O O B-current_location I-current_location	GetWeather	O O O O O O B I I O O B I
+is it going to get colder at my current location by 10 am	O O O O O B-condition_temperature O O B-current_location I-current_location O B-timeRange I-timeRange	GetWeather	O O O O O B O O B I O B I
+what is the weather in pendleton center	O O O O O B-city I-city	GetWeather	O O O O O B I
+what will the weather be in catahoula national wildlife refuge	O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O B I I I
+book a restaurant 1 hour from now in dorchester shores reservation	O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O B B I I I O B I O
+is it going to be warm in palmview	O O O O O B-condition_temperature O B-city	GetWeather	O O O O O B O B
+what is the weather forecast for my current position	O O O O O O O B-current_location I-current_location	GetWeather	O O O O O O O B I
+what will be the wind speed at the current place	O O O O B-condition_description O O O B-current_location I-current_location	GetWeather	O O O O B I O O B I
+what is the weather forecast for shasha forest reserve in 43 weeks	O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B I I B I I
+what is the weather forecast in canfield at 22:23:22	O O O O O O B-city O B-timeRange	GetWeather	O O O O O O B O B
+give me the weather forecast for nationaal park garphyttan	O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O B I I
+tell me the weather forecast for my current spot	O O O O O O O B-current_location I-current_location	GetWeather	O O O O O O O B I
+what is the forecast in bearmouth in virgin islands in 3 months	O O O O O B-city O B-state I-state B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O B O B I B I I
+united states has warm weather on next wed	B-country I-country O B-condition_temperature O O B-timeRange I-timeRange	GetWeather	B I O B O O B I
+will it be foggy now close to jolley	O O O B-condition_description B-timeRange B-spatial_relation O B-city	GetWeather	O O O B B B O B
+tell me if it will rain on 4/19/2030 in angola	O O O O O B-condition_description O B-timeRange O B-country	GetWeather	O O O O O B O B O B
+will there be cloud action in saint bernard  virgin islands	O O O B-condition_description O O B-city I-city B-state I-state	GetWeather	O O O B I O B I B I
+will it be foggy in the same area of parc provincial kettle lakes on february the thirteenth  2018	O O O B-condition_description B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O B B I I I O B I I I O B I I I
+what s the forecast for this month in apple grove  dc	O O O O O B-timeRange I-timeRange O B-city I-city B-state	GetWeather	O O O O O B I O B I B
+will it be snowy at the current position by march 3	O O O B-condition_description O O B-current_location I-current_location O B-timeRange I-timeRange	GetWeather	O O O B O O B I O B I
+is there going to be any cloud cover today at mccracken in az	O O O O O O B-condition_description O B-timeRange O B-city O B-state	GetWeather	O O O O O O B I B O B O B
+will it be colder in colorado nine months from now	O O O B-condition_temperature O B-state B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O B O B B I I I
+what s the cloud forecast now for sierra leone	O O O B-condition_description O B-timeRange O B-country I-country	GetWeather	O O O B O B O B I
+what s the weather forecast for the dominican republic	O O O O O O O B-country I-country	GetWeather	O O O O O O O B I
+is it going to be temperate at six am in washington	O O O O O B-condition_temperature O B-timeRange I-timeRange O B-state	GetWeather	O O O O O B O B I O B
+what s the weather forecast for north wolcott  alabama on october 12  2032	O O O O O O B-city I-city B-state O B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B I B O B I I
+what are the weather conditions in noel	O O O O O O B-city	GetWeather	O O O O O O B
+what is the weather supposed to be like on sep  20 in maltby  russia	O O O O O O O O O B-timeRange I-timeRange O B-city B-country	GetWeather	O O O O O O O O O B I O B B
+will it rain in deersville	O O B-condition_description O B-city	GetWeather	O O B O B
+weather on croatan national forest on jan  21	O O B-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange	GetWeather	O O B I I O B I
+what s the weather forecast for here in august	O O O O O O B-current_location O B-timeRange	GetWeather	O O O O O O B O B
+what s the weather like today in sierra blanca	O O O O O B-timeRange O B-city I-city	GetWeather	O O O O O B O B I
+what s the weather going to be like here at ten am	O O O O O O O O B-current_location O B-timeRange I-timeRange	GetWeather	O O O O O O O O B O B I
+what will the weather be nineteen seconds from now from the little manatee river state park	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O B I I I I B I I I I I
+will it be warm in chicamocha national park	O O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B O B I I
+what is the weather forecast for wolin national park three seconds from now	O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B I I B I I I
+is it foggy in shelter island	O O B-condition_description O B-city I-city	GetWeather	O O B O B I
+will there be wind on january 24  2019 in ransom	O O O B-condition_description O B-timeRange I-timeRange I-timeRange O B-city	GetWeather	O O O B O B I I O B
+what will the weather be in virginia	O O O O O O B-state	GetWeather	O O O O O O B
+will there be a lot of sun in dry prong somalia at 5 pm	O O O O O O B-condition_description O B-city I-city B-country O B-timeRange I-timeRange	GetWeather	O O O O O O B O B I B O B I
+show me the forecast for anatone louisiana on november 7th	O O O O O B-city B-state O B-timeRange I-timeRange	GetWeather	O O O O O B B O B I
+give me the weather forecast for here	O O O O O O B-current_location	GetWeather	O O O O O O B
+will it get hotter in hext	O O O B-condition_temperature O B-city	GetWeather	O O O B O B
+please let me know the weather forecast in louisiana state	O O O O O O O O B-state B-geographic_poi	GetWeather	O O O O O O O O B I
+ho warm is it in arcola	O B-condition_temperature O O O B-city	GetWeather	O B O O O B
+weather forecast for snowstorm on feb  fourth in virgin islands	O O O B-condition_description O B-timeRange I-timeRange O B-state I-state	GetWeather	O O O B O B I O B I
+will it be hot three minutes from now faraway from saint croix state park	O O O B-condition_temperature B-timeRange I-timeRange I-timeRange I-timeRange B-spatial_relation O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B B I I I B O B I I I
+will mondamin be hot on july 20  2021	O B-city O B-condition_temperature O B-timeRange I-timeRange I-timeRange	GetWeather	O B O B O B I I
+what will the humidity be in ar in 49 weeks and a half from now	O O O B-condition_description O O B-state O B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O B O O B O B I I I I I I
+give me the weather forecast in pleasant dale  alaska starting in 19:52	O O O O O O B-city I-city B-state O O B-timeRange	GetWeather	O O O O O O B I B O O B
+on may the thirteenth  2037 what will it be like in wilderville  montenegro	O B-timeRange I-timeRange I-timeRange I-timeRange O O O O O O B-city B-country	GetWeather	O B I I I O O O O O O B B
+will it get warmer in holy cross wilderness	O O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B O B I I
+how is faraway cloudy at 02:45 am in brumley	O O B-spatial_relation B-condition_description O B-timeRange I-timeRange O B-city	GetWeather	O O B B O B I O B
+what is the forecast in kearneysville	O O O O O B-city	GetWeather	O O O O O B
+what is the weather forecast for sep  the 14th  2038 in north dakota	O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-state I-state	GetWeather	O O O O O O B I I I O B I
+will it be temperate near neylandville	O O O B-condition_temperature B-spatial_relation B-city	GetWeather	O O O B B B
+what s the weather this summer in djibouti	O O O O B-timeRange I-timeRange O B-country	GetWeather	O O O O B I O B
+what is the weather forecast for papua new guinea	O O O O O O B-country I-country I-country	GetWeather	O O O O O O B I I
+i need to know is it freezing in mn at 01:27 pm	O O O O O O B-condition_temperature O B-state O B-timeRange I-timeRange	GetWeather	O O O O O O B O B O B I
+is it freezing in kelso	O O B-condition_temperature O B-city	GetWeather	O O B O B
+what s the forecast for al twenty one minutes from now	O O O O O B-state B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O B B I I I I
+i need to know the weather at the queen elizabeth national park	O O O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O O O B I I I
+please tell me the forecast for guinea-bissau	O O O O O O B-country	GetWeather	O O O O O O B
+is it going to be temperate in farallon islands now	O O O O O B-condition_temperature O B-geographic_poi I-geographic_poi B-timeRange	GetWeather	O O O O O B O B I B
+what s the weather for this year in oregon	O O O O O B-timeRange I-timeRange O B-state	GetWeather	O O O O O B I O B
+what s the weather like at powers lake	O O O O O O B-city I-city	GetWeather	O O O O O O B I
+what will the weather be like tonight at greenfoot quarry	O O O O O O B-timeRange O B-geographic_poi I-geographic_poi	GetWeather	O O O O O O B O B I
+what is the forecast for dr  julian g  bruce st  george island state park for rainy weather	O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-condition_description O	GetWeather	O O O O O B B I I B I I I I O B O
+is agnew united states has chilly weather	O B-city B-country I-country O B-condition_temperature O	GetWeather	O B B I O B O
+what will the weather be like in russia in one hour from now	O O O O O O O B-country O B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O O B O B I I I
+on oct  26  i will need to make reservations to eat in halibut point state park	O B-timeRange I-timeRange O O O O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O B I O O O O O O O O O B I I I
+will it be windy at 7 am in dong phou vieng national protected area	O O O B-condition_description O B-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B O B I O B I I I I I
+when is sunrise in american samoa	O O B-timeRange O B-country I-country	GetWeather	O O B O B I
+what is mo forecast for hotter temps in kalkaska	O O B-state O O B-condition_temperature O O B-city	GetWeather	O O B O O B O O B
+will there be a storm nearby	O O O O B-condition_description B-spatial_relation	GetWeather	O O O O B B
+what s the weather forecast for elida  rhode island	O O O O O O B-city B-state I-state	GetWeather	O O O O O O B B I
+in bon secour national wildlife refuge at twelve pm will it be chilly	O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange O O O B-condition_temperature	GetWeather	O B I I I I O B I O O O B
+what is the forecast for the current place for sun on january sixth  2028 within walking distance	O O O O O O B-current_location I-current_location O B-condition_description O B-timeRange I-timeRange I-timeRange B-spatial_relation I-spatial_relation I-spatial_relation	GetWeather	O O O O O O B I O B O B I I B I I
+tell me the weather for comertown	O O O O O B-city	GetWeather	O O O O O B
+show the forecast for tanintharyi nature reserve	O O O O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O B I I
+in taiwan will there be rainfall in willimantic	O B-country O O O B-condition_description O B-city	GetWeather	O B O O O B O B
+whats the weather in blythewood louisiana	O O O O B-city B-state	GetWeather	O O O O B B
+show me the forecast for wisconsin	O O O O O B-state	GetWeather	O O O O O B
+check the forecast for fernwood  mt	O O O O B-city B-state	GetWeather	O O O O B B
+show weather forecast in west wildwood south carolina	O O O O B-city I-city B-state I-state	GetWeather	O O O O B I B I
+what is the weather in richardson tanzania	O O O O O B-city B-country	GetWeather	O O O O O B B
+show me the forecast for the distant area of me at three pm	O O O O O O B-spatial_relation I-spatial_relation O B-state O B-timeRange I-timeRange	GetWeather	O O O O O O B O O B O B I
+how cloudy is it in morrisonville  kentucky	O B-condition_description O O O B-city B-state	GetWeather	O B O O O B B
+will it be freezing at 1 am in balko	O O O B-condition_temperature O B-timeRange I-timeRange O B-city	GetWeather	O O O B O B I O B
+tell me if it ll be colder in steptoe battlefield state park in one minute	O O O O O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B O B I I I B I I
+what s the weather forecast for walsenburg  vermont for july 13th	O O O O O O B-city B-state O B-timeRange I-timeRange	GetWeather	O O O O O O B B O B I
+is it cold now in carlos  il	O O B-condition_temperature B-timeRange O B-city B-state	GetWeather	O O B B O B B
+what is the weather in åland 4 seconds from now	O O O O O B-country B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O B B I I I
+will it be colder in oaklawn zambia	O O O B-condition_temperature O B-city B-country	GetWeather	O O O B O B B
+is it chillier at narew national park	O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O B O B I I
+is it cold in breckenridge  colorado	O O B-condition_temperature O B-city B-state	GetWeather	O O B O B B
+will the sky be overcast around jan  28 in ok	O O O O B-condition_description O B-timeRange I-timeRange O B-state	GetWeather	O O B O B O B I O B
+what s the weather like nearby in rhode island	O O O O O B-spatial_relation O B-state I-state	GetWeather	O O O O O B O B I
+which day this week will it get chilly in palmetto  in	O B-timeRange O B-timeRange O O O B-condition_temperature O B-city B-state	GetWeather	O B B I O O O B O B B
+what s the weather in meherrin	O O O O O B-city	GetWeather	O O O O O B
+tell me the weather forecast for carmichaels  gambia at one am	O O O O O O B-city B-country O B-timeRange I-timeRange	GetWeather	O O O O O O B B O B I
+will the weather be stormy on january the 15th  2026 in the federated states of micronesia	O O O O B-condition_description O B-timeRange I-timeRange I-timeRange I-timeRange O O B-state I-state I-state I-state	GetWeather	O O O O B O B I I I O O B I I I
+tell me if it will be hotter in seven hours in doyle  united states	O O O O O O B-condition_temperature B-timeRange I-timeRange I-timeRange O B-city B-country I-country	GetWeather	O O O O O O B B I I O B B I
+is it nice now in madawaska	O O O B-timeRange O B-city	GetWeather	O O B B O B
+what will the weather be in post falls on feb  17	O O O O O O B-city I-city O B-timeRange I-timeRange	GetWeather	O O O O O O B I O B I
+what will the weather be in east new market antarctica	O O O O O O B-city I-city I-city B-country	GetWeather	O O O O O O B I I B
+what s the weather forecast near to fern creek this winter	O O O O O B-spatial_relation O B-city I-city B-timeRange I-timeRange	GetWeather	O O O O O B O B I B I
+what s the weather forecast for togo on april the 24th	O O O O O O B-country O B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B O B I I
+what s the weather at zero pm in papeton montserrat	O O O O O B-timeRange I-timeRange O B-city B-country	GetWeather	O O O O O B I O B B
+is it hot in zephyrhills	O O B-condition_temperature O B-city	GetWeather	O O B O B
+will it be colder at five o clock at the apolobamba integrated management natural area	O O O B-condition_temperature O B-timeRange I-timeRange I-timeRange O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B O B I I O O B I I I I
+is there a depression in weather at my current spot	O O O B-condition_description O O O O B-current_location I-current_location	GetWeather	O O O B O O O O B I
+what will the weather be a nine in willow river state park	O O O O O O B-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O B O B I I I
+will it be foggy on the town meeting day vermont in angola	O O O B-condition_description O O B-timeRange I-timeRange I-timeRange I-timeRange O B-country	GetWeather	O O O B O O B I I B O B
+what s the weather in the current place	O O O O O O B-current_location I-current_location	GetWeather	O O O O O O B I
+will it rain today in french southern territories of highland beach	O O B-condition_description B-timeRange O B-country I-country I-country O B-city I-city	GetWeather	O O B B O B I I O B I
+what is the forecast for the wildreservaat ithala in the distant future will it be colder	O O O O O O B-geographic_poi I-geographic_poi O O B-spatial_relation O O O O B-condition_temperature	GetWeather	O O O O O O B I O O B O O O O B
+what s the weather in lime ridge dc	O O O O O B-city I-city B-state	GetWeather	O O O O O B I B
+weather for turtle river state park	O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O B I I I
+will it be hot near calakmul biosphere reserve 3 seconds from now	O O O B-condition_temperature B-spatial_relation B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O B B B I I B I I I
+is it going to be chilly at nine am in doolittle	O O O O O B-condition_temperature O B-timeRange I-timeRange O B-city	GetWeather	O O O O O B O B I O B
+what is the weather like right now for fort adams	O O O O O O B-timeRange O B-city I-city	GetWeather	O O O O O O B O B I
+will it be chilly around oregonia in 9 months	O O O B-condition_temperature B-spatial_relation B-city B-timeRange I-timeRange I-timeRange	GetWeather	O O O B B B B I I
+how chilly will it get here	O B-condition_temperature O O O B-current_location	GetWeather	O B O O O B
+what is the forecast in texas	O O O O O B-state	GetWeather	O O O O O B
+what will the weather be in peru	O O O O O O B-country	GetWeather	O O O O O O B
+will there be snowfall in ky	O O O B-condition_description O B-state	GetWeather	O O O B O B
+what s the weather in singapore	O O O O O B-country	GetWeather	O O O O O B
+is cape mount nature conservation unit has storm weather	O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-condition_description O	GetWeather	O B I I I I O B O
+tell me if it will it be windy in grizzled squirrel wildlife sanctuary	O O O O O O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O O B O B I I I
+is the forecast windy now in fort myers shores arizona	O O O B-condition_description B-timeRange O B-city I-city I-city B-state	GetWeather	O O O B B O B I I B
+is there a blizzard coming to north bonneville  oh around 10 o clock	O O O B-condition_description O O B-city I-city B-state O B-timeRange I-timeRange I-timeRange	GetWeather	O O O B O O B I B O B I I
+what is the weather forecast for latvia strasburg	O O O O O O B-country B-city	GetWeather	O O O O O O B B
+is it snowy in fort ross state historic park	O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O B O B I I I I
+what s the weather going to be like in pr at nineteen o clock	O O O O O O O O O B-state O B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O O O O B O B I I
+is it chillier here	O O B-condition_temperature B-current_location	GetWeather	O O B B
+is it going to be rainy in kings valley  kosovo next mon	O O O O O B-condition_description O B-city I-city B-country B-timeRange I-timeRange	GetWeather	O O O O O B O B I B B I
+what will the weather be like in three weeks faraway in sompio strict nature reserve	O O O O O O B-timeRange I-timeRange I-timeRange B-spatial_relation O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O B I I B O B I I I
+is it going to be chilly today in abo  wi	O O O O O B-condition_temperature B-timeRange O B-city B-state	GetWeather	O O O O O B B O B B
+will it be stormy in deposit	O O O B-condition_description O B-city	GetWeather	O O O B O B
+what s the forecast for castolon in french southern territories around seven pm	O O O O O B-city O B-country I-country I-country O B-timeRange I-timeRange	GetWeather	O O O O O B O B I I O B I
+how will the weather be five weeks from now in moneta	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city	GetWeather	O O O O O B I I I O B
+what will the weather be in federated states of micronesia at 00:17 am	O O O O O O B-state I-state I-state I-state O B-timeRange I-timeRange	GetWeather	O O O O O O B I I I O B I
+is it forecast to be chillier around texas	O O O O O B-condition_temperature B-spatial_relation B-state	GetWeather	O O O O O B B B
+what is the weather forecast for sunset in bouvet island	O O O O O O B-timeRange O B-country I-country	GetWeather	O O O O O O B O B I
+what s the forecast for pipe spring national monument	O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O B I I I
+will it get chillier in sinclair in 8 hours	O O O B-condition_temperature O B-city B-timeRange I-timeRange I-timeRange	GetWeather	O O O B O B B I I
+is it freezing this evening in maunabo united states	O O B-condition_temperature O B-timeRange O B-city B-country I-country	GetWeather	O O B O B O B B I
+what is the afternoon forecast for shannon and pitcairn islands	O O O B-timeRange O O B-city O B-country I-country	GetWeather	O O O B O O B I I I
+is it humid in caddo mills  ky	O O B-condition_description O B-city I-city B-state	GetWeather	O O B O B I B
+will it be colder in tallgrass prairie national preserve	O O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B O B I I I
+will there be a snowstorm at my current place	O O O O B-condition_description O O B-current_location I-current_location	GetWeather	O O O O B O O B I
+what will the weather forecast be during the kent state shootings remembrance in el cocuy national park	O O O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O O O B I I I O B I I I
+what is the twenty one o clock forecast for the current spot	O O O B-timeRange I-timeRange I-timeRange I-timeRange O O O B-current_location I-current_location	GetWeather	O O O B I I I O O O B I
+what is the weather forecast in va	O O O O O O B-state	GetWeather	O O O O O O B
+tell me the weather forecast for equatorial guinea	O O O O O O B-country I-country	GetWeather	O O O O O O B I
+weather within the same area as qatar at four	O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-country O B-timeRange	GetWeather	O B I I I O B O B
+give me the forecast for the weather in citrus springs	O O O O O O O O B-city I-city	GetWeather	O O O O O O O O B I
+tell me if it ll be chilly 1 second from now here	O O O O O O B-condition_temperature B-timeRange I-timeRange I-timeRange I-timeRange B-current_location	GetWeather	O O O O O O B B I I I I
+is there a blizzard in tennessee colony  ks	O O O B-condition_description O B-city I-city B-state	GetWeather	O O O B O B B B
+what is the bethany beach forecast	O O O B-city I-city O	GetWeather	O O O B I B
+how cold is it in princeton junction	O B-condition_temperature O O O B-city I-city	GetWeather	O B O O O B I
+will it get foggy in spring hill	O O O B-condition_description O B-city I-city	GetWeather	O O O B O B I
+will there be a fog here this week	O O O O O B-current_location O B-timeRange	GetWeather	O O O O B B B I
+is it going to be cold once i get within walking distance of my home in new caledonia	O O O O O B-condition_temperature O O O B-spatial_relation I-spatial_relation I-spatial_relation O O O O B-country I-country	GetWeather	O O O O O B O O O B I I O O B O B I
+what was the weather like last may at altai tavan bogd national park	O O O O O B-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O B I O B I I I I
+what will the weather be in uzbekistan at 4 am	O O O O O O B-country O B-timeRange I-timeRange	GetWeather	O O O O O O B O B I
+what will the weather be like at ten am in austria	O O O O O O O B-timeRange I-timeRange O B-country	GetWeather	O O O O O O O B I O B
+will the weather be temperate 22 minutes from now in alba	O O O O B-condition_temperature B-timeRange I-timeRange I-timeRange I-timeRange O B-city	GetWeather	O O O O B B I I I O B
+what s the weather in guatemala	O O O O O B-country	GetWeather	O O O O O B
+is it freezing in tira	O O B-condition_temperature O B-city	GetWeather	O O B O B
+will it get warmer in centenary around the evening	O O O B-condition_temperature O B-city O O B-timeRange	GetWeather	O O O B O B B O B
+will it be colder in holladay saint kitts and nevis	O O O B-condition_temperature O B-city B-country I-country I-country I-country	GetWeather	O O O B O B B I I I
+is there a depression in delta junction	O O O B-condition_description O B-city I-city	GetWeather	O O O B O B I
+what is the weather forecast for strong city	O O O O O O B-city I-city	GetWeather	O O O O O O B I
+is there expected of rainfall in horton of connecticut	O O O O B-condition_description O B-city O B-state	GetWeather	O O O O B O B I I
+what s the forecast for gamaliel	O O O O O B-city	GetWeather	O O O O O B
+will it be hotter netherlands antilles flats on april the 27th	O O O B-condition_temperature B-country I-country B-city O B-timeRange I-timeRange I-timeRange	GetWeather	O O O B B I I O B I I
+what s the weather forecast for my current location on jun  2	O O O O O O O B-current_location I-current_location O B-timeRange I-timeRange	GetWeather	O O O O O O O B I O B I
+will it get chillier in 12 years  in greenland	O O O B-condition_temperature B-timeRange I-timeRange I-timeRange O B-country	GetWeather	O O O B B I I O B
+at my current spot is it going to be hotter on nov  the eighth	O O B-current_location I-current_location O O O O O B-condition_temperature O B-timeRange I-timeRange I-timeRange	GetWeather	O O B I O O O O O B O B I I
+will there be a blizzard in egypt	O O O O B-condition_description O B-country	GetWeather	O O O O B O B
+what is the weather forecast for israel	O O O O O O B-country	GetWeather	O O O O O O B
+what kind of weather is forecast around seven pm here	O O O O O O O B-timeRange I-timeRange B-current_location	GetWeather	O O O O O O O B I B
+is it supposed to be chilly in kuwait	O O O O O B-condition_temperature O B-country	GetWeather	O O O O O B O B
+what will the humidity be like in vi on june the fourteenth  2020	O O O B-condition_description O O O B-state O B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O B O O O B O B I I I
+what s the weather going to be like in mi on august twenty-eighth  2033	O O O O O O O O O B-state O B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O O O O B O B I I
+give me the forecast for here on february the sixteenth  2022	O O O O O B-current_location O B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O B O B I I I
+what does it feel like in alloway	O O O O O O B-city	GetWeather	O O O O O O B
+tell me if it ll blizzard in ks	O O O O O B-condition_description O B-state	GetWeather	O O O O O B O B
+i want to book a restaurant in 40 weeks in iowa	O O O O O O B-timeRange I-timeRange I-timeRange O B-state	GetWeather	O O O O O B B I I O B
+what is the 7 day for cheat canyon wildlife management area	O O O B-timeRange B-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B I O B I I I I
+what is the weather at the current position	O O O O O O B-current_location I-current_location	GetWeather	O O O O O O B I
+is rainfall forecast for flying hills	O B-condition_description O O B-city I-city	GetWeather	O O O O B I
+book me a restaurant in aransas pass in seventeen hours	O O O O O B-city I-city B-timeRange I-timeRange I-timeRange	GetWeather	O O O B O B I B I I
+will it be colder in litchfield	O O O B-condition_temperature O B-city	GetWeather	O O O B O B
+what is the forecast for colder conditions within the same area of this current place	O O O O O B-condition_temperature O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O O B-current_location I-current_location	GetWeather	O O O O O B O B I I I O O B I
+what s the weather far away in estonia	O O O O B-spatial_relation O O B-country	GetWeather	O O O O B O O B
+can you tell me the weather forecast for six am in grenada	O O O O O O O O B-timeRange I-timeRange O B-country	GetWeather	O O O O O O O O B I O B
+what s the forecast for little silver	O O O O O B-city I-city	GetWeather	O O O O O B I
+what s the weather going to be like at 10:21:20 close by id	O O O O O O O O O B-timeRange B-spatial_relation I-spatial_relation B-state	GetWeather	O O O O O O O O O B B I B
+is it overcast in south carolina	O O B-condition_description O B-state I-state	GetWeather	O O B O B I
+what will be the night temperate in indiana	O O O O B-timeRange B-condition_temperature O B-state	GetWeather	O O O O B I O B
+is temperature in hanksville freezing	O O O B-city B-condition_temperature	GetWeather	O B O B B
+what is the weather in kernersville greece	O O O O O B-city B-country	GetWeather	O O O O O B B
+weather for douthat state park on mar  10	O O B-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange	GetWeather	O O B I I O B I
+what s the weather forecast for new zealand	O O O O O O B-country I-country	GetWeather	O O O O O O B I
+will it be cloudy one hour from now in my current position	O O O B-condition_description B-timeRange I-timeRange I-timeRange I-timeRange O O B-current_location I-current_location	GetWeather	O O O B B I I I O O B I
+will it be snowy in the current place	O O O B-condition_description O O B-current_location I-current_location	GetWeather	O O O B O O B I
+forecast in layhigh	O O B-city	GetWeather	O O B
+show fog conditions at 7 am in nh	O B-condition_description O O B-timeRange I-timeRange O B-state	GetWeather	O B O O B I O B
+how far from quebeck will it be hot	O B-spatial_relation O B-city O O O B-condition_temperature	GetWeather	O B O B O O O B
+is the weather going to be colder in gu in 11 years	O O O O O O B-condition_temperature O B-state B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B O B B I I
+is it humid in kuwait	O O B-condition_description O B-country	GetWeather	O O B O B
+will there be snowfall in coxs mills vatican	O O O B-condition_description O B-city I-city B-country	GetWeather	O O O B O B I B
+will the weather be temperate on jan  the thirteenth  2028 at christmas island	O O O O B-condition_temperature O B-timeRange I-timeRange I-timeRange I-timeRange O B-country I-country	GetWeather	O O O O B O B I I I O B I
+will it be snowy in florewood state park	O O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B O B I I
+how is the weather going to be in pearblossom	O O O O O O O O B-city	GetWeather	O O O O O O O O B
+will the weather be the same here in one week in the same area	O O O O O B-spatial_relation B-current_location B-timeRange I-timeRange I-timeRange B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation	GetWeather	O O O O O I B B I I B I I I
+what is the weather of nebraska	O O O O O B-state	GetWeather	O O O O O B
+weather for now in cape romain national wildlife refuge	O O B-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O B O B I I I I
+what s the weather close to harmar heights this afternoon	O O O O B-spatial_relation O B-city I-city O B-timeRange	GetWeather	O O O O B O B I O B
+how is the forecast for ok	O O O O O B-state	GetWeather	O O O O O B
+is it hot in bolivia	O O B-condition_temperature O B-country	GetWeather	O O B O B
+what is the weather forecast for piqua on pearl harbor remembrance day	O O O O O O B-city O B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B O B I I I
+is it going to be sunny at five pm in chatyrkul wildlife refuge	O O O O O B-condition_description O B-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O B O B I O B I I
+is it getting colder in leonard harrison state park	O O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B O B I I I
+what s the weather like in big delta	O O O O O O B-city I-city	GetWeather	O O O O O O B I
+what is the weather going to be like in flint hill in 9 years	O O O O O O O O O B-city I-city B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O O O O B I B I I
+will it be cold close-by iowa on september twenty-first  2025	O O O B-condition_temperature B-spatial_relation B-state O B-timeRange I-timeRange I-timeRange	GetWeather	O O O B B B O B I I
+weather at stanford at six am	O O B-city O B-timeRange I-timeRange	GetWeather	O O B O B I
+will it be rainy at 8 in dans mountain state park	O O O B-condition_description O B-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B O B O B I I I
+what is the weather like in detroit lakes	O O O O O O B-city I-city	GetWeather	O O O O O O B I
+what is the current temperature here	O O O B-current_location O B-current_location	GetWeather	O O O B I B
+will there be wind in me	O O O B-condition_description O B-state	GetWeather	O O O B I B
+what s the forecast for missouri around elevenses	O O O O O B-state O B-timeRange	GetWeather	O O O O O B O B
+is it supposed to hail in rosenberg in the french polynesia	O O O O B-condition_description O B-city O O B-country I-country	GetWeather	O O O O O O B O O B I
+what is the weather in forêt nationale davy crockett today	O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi B-timeRange	GetWeather	O O O O O B I I I B
+will it rain 17 weeks from now in teide national park	O O B-condition_description B-timeRange I-timeRange I-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O B B I I I O B I I
+what will the weather be here 14 minutes from now within walking distance	O O O O O B-current_location B-timeRange I-timeRange I-timeRange I-timeRange B-spatial_relation I-spatial_relation I-spatial_relation	GetWeather	O O O O O O B I I I B I I
+is it going to be sunny at 21 o clock close-by district of columbia	O O O O O B-condition_description O B-timeRange I-timeRange I-timeRange B-spatial_relation B-state I-state I-state	GetWeather	O O O O O B O B I I B B I I
+give me a forecast for carol city	O O O O O B-city I-city	GetWeather	O O O O O B I
+will it be overcast at 18 o clock in id	O O O B-condition_description O B-timeRange I-timeRange I-timeRange O B-state	GetWeather	O O O B O B I I O B
+what will the weather be in rutherfordton rhode island on september 22nd  2017	O O O O O O B-city B-state I-state O B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B B I O B I I
+what is the weather going to be like in twenty three minutes in parksdale  in	O O O O O O O O O B-timeRange I-timeRange I-timeRange O B-city B-state	GetWeather	O O O O O O O O B I I I O B B
+is there going to be snowfall in alton	O O O O O B-condition_description O B-city	GetWeather	O O O O O B O B
+what will the weather be in the flight park state recreation area	O O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O O B I I I I
+is az has chilly weather	O B-state O B-condition_temperature O	GetWeather	O B O B O
+what will the weather be like on august 1  2026 in maryland	O O O O O O O B-timeRange I-timeRange I-timeRange O B-state	GetWeather	O O O O O O O B I I O B
+will it be chillier in suwannee	O O O B-condition_temperature O B-city	GetWeather	O O O B O B
+is it cold in the current location more than it was in 3 years	O O B-condition_temperature O O B-current_location I-current_location O O O O B-timeRange I-timeRange I-timeRange	GetWeather	O O B O O B I O O O O B I I
+is it supposed to be chilly in de tonight	O O O O O B-condition_temperature O B-state B-timeRange	GetWeather	O O O O O B O B B
+tell me the weather forecast for northern mariana islands one second from now	O O O O O O B-country I-country I-country B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B I I B I I I
+is it going to be freezing in mahwah missouri on december the fifth  2025	O O O O O B-condition_temperature O B-city B-state O B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O B O B B O B I I I
+whats the forecast for january 21  2035 in dubach	O O O O B-timeRange I-timeRange I-timeRange O B-city	GetWeather	O O O O B I I O B
+forecase for ohio in twenty one hours and one second	O O B-state B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	B O B B I I I I I I
+will it be hotter at nine am in serbia	O O O B-condition_temperature O B-timeRange I-timeRange O B-country	GetWeather	O O O B O B I O B
+what will the weather be in one minute in tanzania	O O O O O B-timeRange I-timeRange I-timeRange O B-country	GetWeather	O O O O O B I I O B
+will it get chilly 1 minute from now in carterville	O O O B-condition_temperature B-timeRange I-timeRange I-timeRange I-timeRange O B-city	GetWeather	O O O B B I I I O B
+what is the storm forecast in the same area of honduras	O O O B-condition_description O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-country	GetWeather	O O O B O B I I I O B
+will it be freezing in 5 weeks from now in nh	O O O B-condition_temperature O B-timeRange I-timeRange I-timeRange I-timeRange O B-state	GetWeather	O O O B B B I I I O B
+what s the forecast in klamath marsh national wildlife refuge	O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O B I I I I
+is it going to be rainy here one second from now	O O O O O B-condition_description B-current_location B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O B B B I I I
+is it cold in brian head	O O B-condition_temperature O B-city I-city	GetWeather	O O B O B I
+what will be the weather like close by kackley	O O O O O O B-spatial_relation O B-city	GetWeather	O O O O O O B I B
+will it get colder in cape fair	O O O B-condition_temperature O B-city I-city	GetWeather	O O O B O B I
+what is the weather forecast in saint vincent and the grenadines	O O O O O O B-country I-country I-country I-country I-country	GetWeather	O O O O O O B I I I I
+what will be the humidity 5 years from now  in bradbury mountain state park	O O O O B-condition_description B-timeRange I-timeRange I-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O B B I I I O B I I I
+what s the weather in koontz lake	O O O O O B-city I-city	GetWeather	O O O O O B I
+what is the weather forecast for tennessee for warm temps	O O O O O O B-state O B-condition_temperature O	GetWeather	O O O O O O B O B O
+tell me the weather forecast for missouri	O O O O O O B-state	GetWeather	O O O O O O B
+what s the forecast for east sonora qatar	O O O O O B-city I-city B-country	GetWeather	O O O O O B I B
+tell me the weather forecast for korona	O O O O O O B-city	GetWeather	O O O O O O B
+is it warm in new jersey in 23 minutes and fourteen seconds	O O B-condition_temperature O B-state I-state B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O B O B I B I I I I I
+what s the weather forecast for here	O O O O O O B-current_location	GetWeather	O O O O O O B
+what is the weather forecast for friona	O O O O O O B-city	GetWeather	O O O O O O B
+is it snowy in audra state park or within the same area	O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation	GetWeather	O O B O B I I O B I I I
+will it be freezing nearby thap lan national park at 4 pm	O O O B-condition_temperature B-spatial_relation B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange	GetWeather	O O O B B B I I I O B I
+how snowy will it be in this current place on feb  first  2034	O B-condition_description O O O O O B-current_location I-current_location O B-timeRange I-timeRange I-timeRange	GetWeather	O B O O O O O B I O B I I
+is it humid in charenton	O O B-condition_description O B-city	GetWeather	O O B O B
+tell me if it ll be temperate three hours from now in bonaire	O O O O O O B-condition_temperature B-timeRange I-timeRange I-timeRange I-timeRange O B-country	GetWeather	O O O O O O B B I I I O B
+what s the weather on bird island burkina at shavuot	O O O O O B-city I-city B-country O B-timeRange	GetWeather	O O O O O B I B O B
+i need to know the weather seven weeks from now in morgan–monroe state forest	O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O B I I I O B I I
+will it be windy at 4 pm in ny	O O O B-condition_description O B-timeRange I-timeRange O B-state	GetWeather	O O O B O B I O B
+what is the forecast for the current position	O O O O O O B-current_location I-current_location	GetWeather	O O O O O O B I
+how much wind will there be in nm on november 11th	O O B-condition_description O O O O B-state O B-timeRange I-timeRange	GetWeather	O O O O O O O B O B I
+will there be cloud coverage at zero am in minami alps koma prefectural natural park	O O O B-condition_description O O B-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B O O B I O B I B I I I
+what s the weather forecast for central  north dakota	O O O O O O B-city B-state I-state	GetWeather	O O O O O O B I I
+what will the weather be like in 1 minute in my current position	O O O O O O B-timeRange I-timeRange I-timeRange O O B-current_location I-current_location	GetWeather	O O O O O O B I I O O B I
+how warm is it in darnestown	O B-condition_temperature O O O B-city	GetWeather	O B O O O B
+what is the weather in galena park oklahoma	O O O O O B-city I-city B-state	GetWeather	O O O O O B I B
+is the weather freezing in ak	O O O B-condition_temperature O B-state	GetWeather	O O O B O B
+tell me if it ll be chillier now in engadine	O O O O O O B-condition_temperature B-timeRange O B-city	GetWeather	O O O O O O B B O B
+will it be chilly 17 hours from now in cold creek conservation area	O O O B-condition_temperature B-timeRange I-timeRange I-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B B I I I O B I I I
+what is the weather of sri lanka	O O O O O B-country I-country	GetWeather	O O O O O B I
+what will the weather be in totowa guernsey	O O O O O O B-city B-country	GetWeather	O O O O O O B B
+weather for frankfort	O O B-city	GetWeather	O O B
+what is the forecast for swain	O O O O O B-city	GetWeather	O O O O O B
+is there any fog warning in dauset trails nature center now	O O O B-condition_description O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi B-timeRange	GetWeather	O O O B I O B I I I B
+can you give me the weather for here	O O O O O O O B-current_location	GetWeather	O O O O O O O B
+tell me if it ll be temperate in 8 seconds in guatemala	O O O O O O B-condition_temperature B-timeRange I-timeRange I-timeRange O B-country	GetWeather	O O O O O O B B I I O B
+is it warm faraway in niger	O O B-condition_temperature B-spatial_relation O B-country	GetWeather	O O B B O B
+what s the weather in wisconsin on national maritime day	O O O O O B-state O B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O B O B I I
+what s the weather next week in somis	O O O O B-timeRange I-timeRange O B-city	GetWeather	O O O O B I O B
+will it be hotter in san valley landscape park on june 24  2024	O O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange I-timeRange	GetWeather	O O O B O B I I I O B I I
+what is the 00:00 pm forecast for blizzard conditions in cameroon	O O O B-timeRange I-timeRange O O B-condition_description O O B-country	GetWeather	O O O B I O O B O O B
+what s the weather looking like right now in croatia	O O O O O O O B-timeRange O B-country	GetWeather	O O O O O O O B O B
+will there be hail in dean creek wildlife area on feb  25  2031	O O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange I-timeRange	GetWeather	O O O B O B I I I O B I I
+is it humid in otsego réunion	O O B-condition_description O B-city B-country	GetWeather	O O B O B B
+what s the weather in castle at 17:43	O O O O O B-city O B-timeRange	GetWeather	O O O O O B O B
+weather for faroe islands	O O B-country I-country	GetWeather	O O B I
+check the forecast for hulmeville  wv	O O O O B-city B-state	GetWeather	O O O O B B
+will it be warmer in ct	O O O B-condition_temperature O B-state	GetWeather	O O O B O B
+in 1 week is there going to be a depression in washington	B-timeRange I-timeRange I-timeRange O O O O O O B-condition_description O B-state	GetWeather	B I I O O O O O O B O B
+is it cloudy in tingley	O O B-condition_description O B-city	GetWeather	O O B O B
+will it be sunny in spain on 3/26/2023	O O O B-condition_description O B-country O B-timeRange	GetWeather	O O O B O B O B
+is there snow in jan  in castle dale mayotte	O O B-condition_description O B-timeRange O B-city I-city B-country	GetWeather	O O B O B O B I B
+what s the forecast for right here	O O O O O O B-current_location	GetWeather	O O O O O O B
+tell me the weather forecast for lecanto  georgia	O O O O O O B-city B-state	GetWeather	O O O O O O B B
+let me get the forecast for tea time in el salvador	O O O O O O B-timeRange O O B-country I-country	GetWeather	O O O O O O B O O B I
+what is the weather like in great bay national wildlife refuge	O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O B I I I I
+warren island state park distant weather forecast for 11 am	B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi B-spatial_relation O O O B-timeRange I-timeRange	GetWeather	B I I I B O O O B I
+is there a depression in solromar on december 7  2033	O O O B-condition_description O B-city O B-timeRange I-timeRange I-timeRange	GetWeather	O O O B O B O B I I
+will it get warmer by 5 am in washington	O O O B-condition_temperature O B-timeRange I-timeRange O B-state	GetWeather	O O O B O B I O B
+will it get windy in ocean breeze park	O O O B-condition_description O B-city I-city I-city	GetWeather	O O O B O B I I
+is it going to be hotter in d lo	O O O O O B-condition_temperature O B-city I-city	GetWeather	O O O O O B O B I
+weather near california	O B-spatial_relation B-state	GetWeather	O B B
+can you get the weather forecast for new baden	O O O O O O O B-city I-city	GetWeather	O O O O O O O B I
+is it foggy in phinizy swamp nature park	O O B-condition_description O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O B O B I I I
+what is the forecast for 6 am in aruba	O O O O O B-timeRange I-timeRange O B-country	GetWeather	O O O O O B I O B
+weather for south williamsport	O O B-city I-city	GetWeather	O O B I
+what is the weather forecast here	O O O O O B-current_location	GetWeather	O O O O O B
+she me the weather in the current place for nov  the 9th	O O O O O O B-current_location I-current_location O B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B I O B I I
+show me a forecast for french polynesia	O O O O O B-country I-country	GetWeather	O O O O O B I
+what s the weather going to be like in fort point  san francisco tomorrow	O O O O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi B-timeRange	GetWeather	O O O O O O O O O B I B I B
+is it going to be sunny on oct  twenty-seventh  2031 within the same area of this current place	O O O O O B-condition_description O B-timeRange I-timeRange I-timeRange B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O O B-current_location I-current_location	GetWeather	O O O O O B O B I I B I I I O O B I
+what will the weather forecast be in mount victory  delaware in 1 second	O O O O O O O B-city I-city B-state B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O O B I B B I I
+what is the forecast for colder in anston	O O O O O B-condition_temperature O B-city	GetWeather	O O O O O B O B
+how will the weather be in kentucky this week	O O O O O O B-state B-timeRange I-timeRange	GetWeather	O O O O O O B B I
+what will the weather be like 1 second from now in pugu hills forest reserve	O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O B I I I O B I I I
+i need to know the forecast for two am in grand lake towne	O O O O O O O B-timeRange I-timeRange O B-city I-city I-city	GetWeather	O O O O O O O B I O B I I
+what is the predicted weather for wells in indiana	O O O O O O B-city O B-state	GetWeather	O O O O O O B O B
+i want to book a restaurant in neshanic station nigeria for 06:18:13 pm	O O O O O O O B-city I-city B-country O B-timeRange I-timeRange	GetWeather	O O O O O B O B I B O B I
+will it get hotter in the city of ashford	O O O B-condition_temperature O O O O B-city	GetWeather	O O O B O O O O B
+will there be depression on mar  the twenty-eighth in saint pierre and miquelon	O O O B-condition_description O B-timeRange I-timeRange I-timeRange O B-country I-country I-country I-country	GetWeather	O O O B O B I I O B I I I
+is it going to be colder in queen anne on mon	O O O O O B-condition_temperature O B-city I-city O B-timeRange	GetWeather	O O O O O B O B I O B
+will it be colder in delaware	O O O B-condition_temperature O B-state	GetWeather	O O O B O B
+will it be snowy in pillow indiana	O O O B-condition_description O B-city B-state	GetWeather	O O O B O B B
+will it be chillier in ruskin	O O O B-condition_temperature O B-city	GetWeather	O O O B O B
+what s the weather here at three pm	O O O O B-current_location O B-timeRange I-timeRange	GetWeather	O O O O B O B I
+forecast for guatemala	O O B-country	GetWeather	O O B
+will it be freezing 5 seconds from now  in patmos	O O O B-condition_temperature B-timeRange I-timeRange I-timeRange I-timeRange O B-city	GetWeather	O O O B B I I I O B
+what s the weather look like for mh	O O O O O O O B-state	GetWeather	O O O O O O O B
+what is the temperate in seattle heights and slovenia at seven pm	O O O B-condition_temperature O B-city I-city O B-country O B-timeRange I-timeRange	GetWeather	O O O B O B I O B O B I
+tell me when there will be a snowstorm in clifton forge	O O O O O O O B-condition_description O B-city I-city	GetWeather	O O O O O O O B O B I
+is it going to be freezing in one hour in puerto rico	O O O O O B-condition_temperature B-timeRange I-timeRange I-timeRange O B-country I-country	GetWeather	O O O O O B B I I O B I
+what will the weather be in double oak at 12 am	O O O O O O B-city I-city O B-timeRange I-timeRange	GetWeather	O O O O O O B I O B I
+tell me if it ll be freezing 333 days from now in caplinger mills  florida	O O O O O O B-condition_temperature B-timeRange I-timeRange I-timeRange I-timeRange O B-city I-city B-state	GetWeather	O O O O O O B B I I I O B I B
+what is the forecast in mer rouge and palestine	O O O O O B-city I-city O B-country	GetWeather	O O O O O B I O B
+tell me the weather forecast 1 hour from now for town west  nevada	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city I-city B-state	GetWeather	O O O O O B I I I O B I B
+what is weather in azerbaijan 16 seconds from now	O O O O B-country B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O B B I I I
+is there hail forecast for hale center on 7/22/2030	O O B-condition_description O O B-city I-city O B-timeRange	GetWeather	O O B O O B I O B
+will it be hot on december 28 in ayr  mi	O O O B-condition_temperature O B-timeRange I-timeRange O B-city B-state	GetWeather	O O O B O B I O B B
+what s the forecast for georgia	O O O O O B-state	GetWeather	O O O O O B
+what is the weather forecast for åland	O O O O O O B-country	GetWeather	O O O O O O B
+tell me the weather forecast for eight am in reminderville  fl	O O O O O O B-timeRange I-timeRange O B-city B-state	GetWeather	O O O O O O B I O B B
+tell me when it will be warmer in my current position	O O O O O O B-condition_temperature O O B-current_location I-current_location	GetWeather	O O O O O O B O O B I
+is it forecast to be chilly in iowa	O O O O O B-condition_temperature O B-state	GetWeather	O O O O O B O B
+what is the forecast for cloudy weather here	O O O O O B-condition_description O B-current_location	GetWeather	O O O O O B O B
+what is the forecast for mar  8th in friesland  tennessee	O O O O O B-timeRange I-timeRange O B-city B-state	GetWeather	O O O O O B I O B B
+what will the weather be in the current spot on 12/14/2023	O O O O O O O B-current_location I-current_location O B-timeRange	GetWeather	O O O O O O O B I O B
+will there be a lot of cloud activity next summer in nellieburg  arkansas	O O O O O O B-condition_description O B-timeRange I-timeRange O B-city B-state	GetWeather	O O O O O O B O B I O B B
+is it chilly in fm	O O B-condition_temperature O B-state	GetWeather	O O B O B
+will there be a blizzard at a 4 am  in sky valley	O O O O B-condition_description O O B-timeRange I-timeRange O B-city I-city	GetWeather	O O O O B O O B I O B I
+weather for 9/3/2034 at bridle trails state park	O O B-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O B O B I I I
+is it supposed to be sunny here	O O O O O B-condition_description B-current_location	GetWeather	O O O O O B B
+will it be warm neighboring here in whitehouse	O O O B-condition_temperature B-spatial_relation B-current_location O B-city	GetWeather	O O O B B B O B
+is there a snowstorm in the forecast for saint helena	O O O B-condition_description O O O O B-country I-country	GetWeather	O O O B O O O O B I
+what will the weather be within the same area in minnesota on june 27th  2023	O O O O O B-spatial_relation I-spatial_relation I-spatial_relation I-spatial_relation O B-state O B-timeRange I-timeRange I-timeRange	GetWeather	O O O O O B I I I O B O B I I
+tell me the weather for next week at cathedral state park	O O O O O B-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O B I O B I I
+what s the weather like in kaltag	O O O O O O B-city	GetWeather	O O O O O O B
+show weather forecast for dovre-nationalpark	O O O O B-geographic_poi	GetWeather	O O O O B
+is it forecast to be rainy in winchell  mississippi	O O O O O B-condition_description O B-city B-state	GetWeather	O O O O O B O B B
+what is the weather forecast close-by bermuda	O O O O O B-spatial_relation B-country	GetWeather	O O O O O B B
+i need a weather forecast for tallahassee-st  marks historic railroad state trail	O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O O B I I I I I
+will there be fog not far from mexico on apr  27	O O O B-condition_description B-spatial_relation I-spatial_relation O B-country O B-timeRange I-timeRange	GetWeather	O O O B B I O B O B I
+check the weather for kenedy  vanuatu for around nine am	O O O O B-city B-country O O B-timeRange I-timeRange	GetWeather	O O O O B B O O B I
+what s the weather like in wyandotte netherlands antilles	O O O O O O B-city B-country I-country	GetWeather	O O O O O O B B I
+will it be chilly in two hundred thirteen days at dochū-kōtsu prefectural natural park	O O O B-condition_temperature B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B B I I I I O B I I I
+is it going to be hotter within walking distance of ohio on 3/22/2038	O O O O O B-condition_temperature B-spatial_relation I-spatial_relation I-spatial_relation O B-state O B-timeRange	GetWeather	O O O O O B B I I O B O B
+what will the weather be 1 minute from now in garrochales	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city	GetWeather	O O O O O B I I I O B
+what is the forecast at four am in zambia	O O O O O B-timeRange I-timeRange O B-country	GetWeather	O O O O O B I O B
+tell me if it ll be chillier in 3 minutes here	O O O O O O B-condition_temperature B-timeRange I-timeRange I-timeRange B-current_location	GetWeather	O O O O O O B B I I B
+what is the nine am weather forecast for nationalpark midongy du sud	O O O B-timeRange I-timeRange O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O B I O O O B I I I
+tell me the weather forecast in 4 years and a half in ga	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange O B-state	GetWeather	O O O O O B I I I I I O B
+what s the weather like in calpella	O O O O O O B-city	GetWeather	O O O O O O B
+will there be a storm on christmas day in my current place	O O O O B-condition_description O B-timeRange I-timeRange O O B-current_location I-current_location	GetWeather	O O O O B O B I O O B I
+is it going to be warmer in central cebu protected landscape	O O O O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi	GetWeather	O O O O O B O B B B I
+how will the weather be in bettles  aruba on may the tenth  2026	O O O O O O B-city B-country O B-timeRange I-timeRange I-timeRange I-timeRange	GetWeather	O O O O O O B I O B I I I
+what is the weather at my current location	O O O O O O B-current_location I-current_location	GetWeather	O O O O O O B I
+will it be cold here in one hour	O O O B-condition_temperature B-current_location B-timeRange I-timeRange I-timeRange	GetWeather	O O O B B B I I
+will the weather be warm in the nationaal park band-e amir at twelve am	O O O O B-condition_temperature O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange	GetWeather	O O O O B O O B I I I O B I
+what s the weather going to be in jun  in burkina	O O O O O O O O B-timeRange O B-country	GetWeather	O O O O O O O O B O B
+what is the forecast for dec  1st  2036 in keeneland	O O O O O B-timeRange I-timeRange I-timeRange O B-city	GetWeather	O O O O O B I I O B
+what is the weather not far from current position	O O O O B-spatial_relation I-spatial_relation O B-current_location I-current_location	GetWeather	O O O O B I O B I
+is it humid in my current spot	O O B-condition_description O O B-current_location I-current_location	GetWeather	O O B O O B I
+what is the baotianman national nature reserve forecast	O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O	GetWeather	O O O B I I I O
+whats the weather in irma	O O O O B-city	GetWeather	O O O O B
+is it supposed to be hotter today in il	O O O O O B-condition_temperature B-timeRange O B-state	GetWeather	O O O O O B B O B
+is it supposed to gt colder in or	O O O O O B-condition_temperature O B-state	GetWeather	O O O O O B O B
+what is the weather in the falkland islands	O O O O O O B-country I-country	GetWeather	O O O O O O B I
+how temperate will it be in blyde river canyon nature reserve on jul  the 18th	O B-condition_temperature O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange I-timeRange	GetWeather	O B O O O O B I I I I O B I I
+will it get chillier within walking distance of pw	O O O B-condition_temperature B-spatial_relation I-spatial_relation I-spatial_relation O B-state	GetWeather	O O O B B I I O B
+check the weather forecast for pineridge	O O O O O B-city	GetWeather	O O O O O B
+how s the weather in brookdale zimbabwe	O O O O O B-city B-country	GetWeather	O O O O O B B
+what s the weather going to be one hour from now in taiwan	O O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-country	GetWeather	O O O O O O O B I I I O B
+tell me the weather forecast one year from now in kulpsville  togo	O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city B-country	GetWeather	O O O O O B I I I O B B

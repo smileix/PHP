@@ -1,0 +1,254 @@
+{
+    "arrive_date.month_name": [
+        "month name of arrive date"
+    ],
+    "depart_date.date_relative": [
+        "date relative of depart date"
+    ],
+    "stoploc.airport_name": [
+        "airport name of stoploc"
+    ],
+    "fromloc.city_name": [
+        "city name of fromloc"
+    ],
+    "class_type": [
+        "class type"
+    ],
+    "flight_stop": [
+        "flight stop"
+    ],
+    "day_name": [
+        "day name"
+    ],
+    "depart_date.today_relative": [
+        "today relative of depart date"
+    ],
+    "fromloc.state_code": [
+        "state code of fromloc"
+    ],
+    "stoploc.state_code": [
+        "state code of stoploc"
+    ],
+    "fromloc.airport_code": [
+        "airport code of fromloc"
+    ],
+    "flight_mod": [
+        "flight mod"
+    ],
+    "arrive_time.start_time": [
+        "start time of arrive time"
+    ],
+    "toloc.city_name": [
+        "city name of toloc"
+    ],
+    "arrive_time.time": [
+        "time of arrive time"
+    ],
+    "arrive_date.today_relative": [
+        "today relative of arrive date"
+    ],
+    "depart_time.start_time": [
+        "start time of depart time"
+    ],
+    "depart_time.end_time": [
+        "end time of depart time"
+    ],
+    "arrive_date.date_relative": [
+        "date relative of arrive date"
+    ],
+    "return_date.day_name": [
+        "day name of return date"
+    ],
+    "time_relative": [
+        "time relative"
+    ],
+    "state_code": [
+        "state code"
+    ],
+    "stoploc.airport_code": [
+        "airport code of stoploc"
+    ],
+    "booking_class": [
+        "booking class"
+    ],
+    "days_code": [
+        "days code"
+    ],
+    "flight": [
+        "flight"
+    ],
+    "depart_date.day_name": [
+        "day name of depart date"
+    ],
+    "return_date.today_relative": [
+        "today relative of return date"
+    ],
+    "meal": [
+        "meal"
+    ],
+    "return_date.day_number": [
+        "day number of return date"
+    ],
+    "arrive_date.day_number": [
+        "day number of arrive date"
+    ],
+    "or": [
+        "or"
+    ],
+    "transport_type": [
+        "transport type"
+    ],
+    "toloc.country_name": [
+        "country name of toloc"
+    ],
+    "depart_time.period_of_day": [
+        "period of day of depart time"
+    ],
+    "arrive_time.end_time": [
+        "end time of arrive time"
+    ],
+    "meal_code": [
+        "meal code"
+    ],
+    "airline_code": [
+        "airline code"
+    ],
+    "round_trip": [
+        "round trip"
+    ],
+    "day_number": [
+        "day number"
+    ],
+    "depart_date.month_name": [
+        "month name of depart date"
+    ],
+    "return_time.period_of_day": [
+        "period of day of return time"
+    ],
+    "time": [
+        "time"
+    ],
+    "state_name": [
+        "state name"
+    ],
+    "depart_time.period_mod": [
+        "period mod of depart time"
+    ],
+    "fromloc.airport_name": [
+        "airport name of fromloc"
+    ],
+    "flight_days": [
+        "flight days"
+    ],
+    "toloc.state_name": [
+        "state name of toloc"
+    ],
+    "depart_time.time": [
+        "time of depart time"
+    ],
+    "toloc.airport_name": [
+        "airport name of toloc"
+    ],
+    "airport_code": [
+        "airport code"
+    ],
+    "connect": [
+        "connect"
+    ],
+    "economy": [
+        "economy"
+    ],
+    "stoploc.city_name": [
+        "city name of stoploc"
+    ],
+    "period_of_day": [
+        "period of day"
+    ],
+    "toloc.state_code": [
+        "state code of toloc"
+    ],
+    "mod": [
+        "mod"
+    ],
+    "toloc.airport_code": [
+        "airport code of toloc"
+    ],
+    "arrive_time.period_of_day": [
+        "period of day of arrive time"
+    ],
+    "compartment": [
+        "compartment"
+    ],
+    "cost_relative": [
+        "cost relative"
+    ],
+    "arrive_time.time_relative": [
+        "time relative of arrive time"
+    ],
+    "month_name": [
+        "month name"
+    ],
+    "depart_date.year": [
+        "year of depart date"
+    ],
+    "arrive_date.day_name": [
+        "day name of arrive date"
+    ],
+    "city_name": [
+        "city name"
+    ],
+    "fare_basis_code": [
+        "fare basis code"
+    ],
+    "meal_description": [
+        "meal description"
+    ],
+    "aircraft_code": [
+        "aircraft code"
+    ],
+    "return_time.period_mod": [
+        "period mod of return time"
+    ],
+    "fromloc.state_name": [
+        "state name of fromloc"
+    ],
+    "airport_name": [
+        "airport name"
+    ],
+    "flight_number": [
+        "flight number"
+    ],
+    "restriction_code": [
+        "restriction code"
+    ],
+    "depart_date.day_number": [
+        "day number of depart date"
+    ],
+    "arrive_time.period_mod": [
+        "period mod of arrive time"
+    ],
+    "fare_amount": [
+        "fare amount"
+    ],
+    "airline_name": [
+        "airline name"
+    ],
+    "flight_time": [
+        "flight time"
+    ],
+    "today_relative": [
+        "today relative"
+    ],
+    "depart_time.time_relative": [
+        "time relative of depart time"
+    ],
+    "return_date.month_name": [
+        "month name of return date"
+    ],
+    "return_date.date_relative": [
+        "date relative of return date"
+    ],
+    "O": [
+        "none"
+    ]
+}

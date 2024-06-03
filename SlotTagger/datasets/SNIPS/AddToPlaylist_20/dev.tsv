@@ -1,0 +1,500 @@
+i want maximilian mutzke added to acoustic concentration	O O B-artist I-artist O O B-playlist I-playlist	AddToPlaylist	O O B I O O B I
+add parempi mies to the café con leche playlist	O B-entity_name I-entity_name O O B-playlist I-playlist I-playlist O	AddToPlaylist	O B I O O B I I O
+this tune should go on my coffee table jazz playlist	O B-music_item O O O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	B B O O O O B I I O
+add the man who never lied to my current comedy top tracks	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner O B-playlist I-playlist I-playlist	AddToPlaylist	O B I I I I O O B B I I
+add the current artist to my top 100 pop tracks on spotify playlist	O O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B B O B B I I I O B O
+add a track to my classical feast playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add this tune to my wine & dine playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I O
+ad czarna dziewczyna to instrumental madness playlist	O B-entity_name I-entity_name O B-playlist I-playlist O	AddToPlaylist	O I I O B I O
+add lisa dalbello to my 2015 cma awards nominees list	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B B I O O
+put this track on my infinite indie folk playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I O
+i want harris to be added to my latin dance cardio playlist	O O B-artist O O O O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O O O O B B I I O
+add a track to my hands up playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+put joseph utsler on all out 70s	O B-artist I-artist O B-playlist I-playlist I-playlist	AddToPlaylist	O B I O B I B
+add this tune to my road trip playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+put this song on the chips and salsa playlist	O O B-music_item O O B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O O B I I O
+add twin peaks fire walk with me to the night out playlist	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O O B-playlist I-playlist O	AddToPlaylist	O B I I I I I O O B I O
+add joe gibbs to my the bachelor party playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I O
+add the track to the best metal of the new millennium playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B I I I I I I O
+add this tune by shagrath to black sabbath the ozzy years	O O B-music_item O B-artist O B-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O B O B O B I I I I
+add buddy tate to just dance by aftercluv list	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B I O I O
+add the artist to my 31 minutos playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add track to todo latino	O B-music_item O B-playlist I-playlist	AddToPlaylist	O B O B I
+please put the album onto fresh folk	O O O B-music_item O B-playlist I-playlist	AddToPlaylist	O O O B O B I
+add this song to my crossroad blues playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add jason webley to classical intimate dinner playlist	O B-artist I-artist O B-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B I I O
+put this album on my conexiones list	O O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O B O B B O
+put kids of the black hole onto my 90s por siempre playlist	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I I I O B B I I O
+add the current tune to my evening groove list	O O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B B O B B I O
+add por una cabeza to my playlist called this is new edition	O B-entity_name I-entity_name I-entity_name O B-playlist_owner O O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I O B O O B I I I
+add a track to my alok house party playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I O
+put kan mikami on pre-party r&b jams	O B-artist I-artist O B-playlist I-playlist I-playlist	AddToPlaylist	O B I O B I I
+add curse song to my playlist guest list engadget	O B-artist B-music_item O B-playlist_owner O B-playlist I-playlist I-playlist	AddToPlaylist	O B I O B O O O B
+add a kj 52 track to the te quiero playlist	O O B-artist I-artist B-music_item O O B-playlist I-playlist O	AddToPlaylist	O O B O B O O B I O
+put this song in the playlist trap land	O O B-music_item O O O B-playlist I-playlist	AddToPlaylist	O O B O O O B I
+put hugh masekela onto my music on ibiza guest list playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I I I O
+add candlelight to my house afterwork playlist	O B-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B O B B I O
+add this album to sheri s playlist journey	O O B-music_item O B-playlist_owner I-playlist_owner O B-playlist	AddToPlaylist	O O B O B I O B
+add testifying to  donna s tokyo rising palylist	O B-entity_name O B-playlist_owner I-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B O B I B I I
+add josephine wiggs to my kickass metal playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+put more unbelievable in my grandes unplugged playlist	O O B-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add munawar ali khan to my mujeres y hombres y fiesta	O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I O B I I I I I
+add family tree to conexiones	O B-entity_name I-entity_name O B-playlist	AddToPlaylist	O B I O B
+add a song to playlist chill hits	O O B-music_item O O B-playlist I-playlist	AddToPlaylist	O O B O O B I
+add exit to i love my 80 s rollerdisco list	O B-entity_name O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B O B I I I I I O
+add a song to my playlist impulso creativo	O O B-music_item O B-playlist_owner O B-playlist I-playlist	AddToPlaylist	O O B O B O B I
+add ajoy chakrabarty to women of country playlist	O B-artist I-artist O B-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B I I O
+add song in playlist metal monday	O B-music_item O O B-playlist I-playlist	AddToPlaylist	O B O O B I
+napoleon xiv should be added to sharlene s playlist transatlantic lullaby	B-artist I-artist O O O O B-playlist_owner I-playlist_owner O B-playlist I-playlist	AddToPlaylist	B I O O O O B I O B I
+put this lidell townsell track on esenciales	O O B-artist I-artist B-music_item O B-playlist	AddToPlaylist	O O B I B O B
+put united abominations onto my rare groove playlist	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add falling stars to my intense studying	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist	AddToPlaylist	O B I O B B B
+add javine hylton to my evening playlist	O B-artist I-artist O B-playlist_owner B-playlist O	AddToPlaylist	O B I O B B O
+put this album on my wine & dine playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I O
+add a track to my dinner playlist	O O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O B O B B O
+put frank farian on lydia s playlist called the black power mixtape 1967 to 1975	O B-artist I-artist O B-playlist_owner I-playlist_owner O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I O B I O O O B I I I I I
+add deuce to my listas de éxitos playlist	O B-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B O B B I I O
+put jim fairchild onto spotlight spain 2016	O B-artist I-artist O B-playlist I-playlist I-playlist	AddToPlaylist	O B I O B I I
+put molly and tenbrooks in the french n  heavy playlist	O B-entity_name I-entity_name I-entity_name O O B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O O B I I O
+add yameen to the uncharted 4 nathan drake playlist	O B-artist O O B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B O O B I I I O
+add this track by brian welch to the spring music playlist	O O B-music_item O B-artist I-artist O O B-playlist I-playlist O	AddToPlaylist	O O B O B I O O B I O
+add darkest angels to my sos 48 2016	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist	AddToPlaylist	O B I O B O I B
+add the tune to my chill hits playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add angela au to the playlist radar latino	O B-artist I-artist O O O B-playlist I-playlist	AddToPlaylist	O B I O O O B I
+put perfecting loneliness onto primavera sound 2016 barcelona	O B-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I O B I I B
+add beijing huanying ni to my workday lounge playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I O B B I O
+add yoshiki to the 35 soul classics 1970 to 1975 playlist	O B-artist O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B O O B I I I I I O
+add this album to trotamundos	O O B-music_item O B-playlist	AddToPlaylist	O O B O B
+put this album on my playlist titled dance hits	O O B-music_item O B-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O O B O B O O B I
+add a-hunting we will go to the emily dickinson playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O O B-playlist I-playlist O	AddToPlaylist	O B I I I O O B I O
+add track to hit remix	O B-music_item O B-playlist I-playlist	AddToPlaylist	O B O B I
+add don sebesky song to the refugee playlist	O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O B I B O O B O
+add sarah vaughan to the spa treatment playlist	O B-artist I-artist O O B-playlist I-playlist O	AddToPlaylist	O B I O O B I O
+add name me & the rhythm to my chill out music	O O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist	AddToPlaylist	O B I I I I O B B I O
+add steve winwood to my playlist old school metal	O B-artist I-artist O B-playlist_owner O B-playlist I-playlist I-playlist	AddToPlaylist	O B I O B O B I I
+add a tune to rare groove	O O B-music_item O B-playlist I-playlist	AddToPlaylist	O O B O B I
+add another track to my catch  em all playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I O
+add magnifico to michele s playlist called 88 keys	O B-artist O B-playlist_owner I-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O B O B I O O B I
+include kunnon syy in my trap land playlist	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add artist to my phunkadelic playlist	O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O B O B B O
+add artist to todo edm	O B-music_item O B-playlist I-playlist	AddToPlaylist	O B O B I
+add blood guts & glory to my this is chopin	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist	AddToPlaylist	O B I I I O B B I I
+add od mene se odvikavaj to my laundry	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist	AddToPlaylist	O B I I I O B B
+add karin dreijer andersson in escapada album	O B-artist I-artist I-artist O B-playlist B-music_item	AddToPlaylist	O B I I O B B
+add troy andrews to my pop punk powerhouses	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist	AddToPlaylist	O B I O B B I I
+add judge jules to instrumental study	O B-artist I-artist O B-playlist I-playlist	AddToPlaylist	O B I O B I
+include laarni lozada on endorphin rush playlist	O B-artist I-artist O B-playlist I-playlist O	AddToPlaylist	O B I O B I O
+add hemanta kumar mukhopadhyay album in funky jams	O B-artist I-artist I-artist B-music_item O B-playlist I-playlist	AddToPlaylist	O B I I B O B I
+add a tune to the this is animal collective playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O O B I I I O
+add milas poli to my indie bluegrass	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist	AddToPlaylist	O B I O B B I
+can ten green bottles be added to brooklyn beat	O B-entity_name I-entity_name I-entity_name O O O B-playlist I-playlist	AddToPlaylist	O B B I O O O B I
+want to add this nick mason tune to the sylvia plath playlist	O O O O B-artist I-artist B-music_item O O B-playlist I-playlist O	AddToPlaylist	O O O O B I B O O B I O
+add this tune to my list jazz vibes	O O B-music_item O B-playlist_owner O B-playlist I-playlist	AddToPlaylist	O O B O B O B I
+add tune to my is it new wave	O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B O B B I I I
+add paul wright album to 90s smash hits playlist	O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist O	AddToPlaylist	O B I B O B I I O
+add connee boswell to the relaxing playlist	O B-artist I-artist O O B-playlist O	AddToPlaylist	O B I O O B O
+add the track by josh kear to myra s playlist with the name highway 61	O O B-music_item O B-artist I-artist O B-playlist_owner I-playlist_owner O O O O B-playlist I-playlist	AddToPlaylist	O O B O B I O B I O O O O B I
+add new wave blues to my push button funk playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O B B I I O
+add bert mccracken tune lo que suena new york playlist	O B-artist I-artist B-music_item B-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I B B I I I I O
+add song to my pure rock & roll	O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B O B B I I I
+add opus de funk to my list acoustic blues	O B-entity_name I-entity_name I-entity_name O B-playlist_owner O B-playlist I-playlist	AddToPlaylist	O B I I O B O B I
+add ik tara to laundry playlst	O B-entity_name I-entity_name O B-playlist O	AddToPlaylist	O B I O B O
+add the second three years to my workout twerkout playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O I I I I O B B I O
+add billy strayhorn to my highway 61 playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add artist post metal to playlist	O B-music_item B-playlist I-playlist O O	AddToPlaylist	O O B I O O
+add this artist to my the road to punk rock playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I I I O
+add some beatmaster v to the this is nicky jam playlist	O O B-artist I-artist O O B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B I O O B I I I O
+please add this rex griffin tune to the steampunk playlist	O O O B-artist I-artist B-music_item O O B-playlist O	AddToPlaylist	O O O B I B O O B O
+add party with friends by constructs of the state to juliana s playlist	O B-playlist I-playlist I-playlist O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner I-playlist_owner O	AddToPlaylist	O B I I O B I I I O B I O
+add tune to cleaning the house	O B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O B O B I I
+please add checkmate to my irish folk – jigs & reels playlist	O O B-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I I I I O
+the road trip playlist needs justin utley in it	O B-playlist I-playlist O O B-artist I-artist O O	AddToPlaylist	O B I O O B I O I
+find focus now list and add eylem to my playlist	O B-playlist I-playlist O O O B-artist O B-playlist_owner O	AddToPlaylist	O B I O O O B O B O
+add cj snare to my indie mim playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+i want to add a song by w c clark to my nerding around playlist	O O O O O B-music_item O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O O O B O B I I O B B I O
+add an album to my sylvia plath playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add this song to my love hurts playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add dr know to my todo alternativo playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add another album to my friendesemana playlist	O O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O B O B B O
+add partners in crime to joann s lo que suena los angeles	O B-entity_name I-entity_name I-entity_name O B-playlist_owner I-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I O B I B I I I I
+i want the turbonegro album to go on the playlist called genuine r&b	O O O B-artist B-music_item O O O O O O B-playlist I-playlist	AddToPlaylist	O O O I B O O O O O O B I
+add songs tune in reggae infusions	O O B-music_item O B-playlist I-playlist	AddToPlaylist	O O B O B I
+add this song to my list trabajo relax	O O B-music_item O B-playlist_owner O B-playlist I-playlist	AddToPlaylist	O O B O B O B I
+put the bill berry track on elrow guest list	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O O B I B O B I O
+i want another artist on my atmospheric black metal playlist	O O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O O B O O B I I O
+add slave to the rhythm to the playlist massive soca hits	O B-entity_name I-entity_name I-entity_name I-entity_name O O O B-playlist I-playlist I-playlist	AddToPlaylist	O B I I I O O O B I I
+add song to my el mejor pop en español	O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B O B B I I I I
+add this tune by hart wand on this is wagner	O O B-music_item O B-artist I-artist O B-playlist I-playlist I-playlist	AddToPlaylist	O O B O B I O B I I
+add this song onto hip hop gaming playlist	O O B-music_item O B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B I I O
+add francesco de gregori to my classical new releases spotify picks playlist	O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O B B I I B I O
+add metal gear solid 2 sons of liberty soundtrack 2 the other side to edna st vincent millay	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I I I I I B I I I I O B I I I
+add steve albini album to my psychedelic rock playlist	O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I B O B B I O
+add album to this is trey songz playlist	O B-music_item O B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B O B I I I O
+add some martine mccutcheon to my original columbia jazzmasters list	O O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B I O B B I I O
+add an album to my playlist bachata lovers	O O B-music_item O B-playlist_owner O B-playlist I-playlist	AddToPlaylist	O O B O B O B I
+please put live with me onto my playlist named carácter latino	O O B-entity_name I-entity_name I-entity_name O B-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O O B I I O B O O B I
+add artist to my 80 s party	O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist	AddToPlaylist	O B O B B I O
+add this song to brooklyn beat	O O B-music_item O B-playlist I-playlist	AddToPlaylist	O O B O B I
+add hot house to have you met miss jones	O B-playlist I-playlist O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name	AddToPlaylist	O B I O I I I I I
+i want to add this bon scott song to my post-grunge list	O O O O O B-artist I-artist B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O O O O B I B O B B O
+add roger nichols to punk rock workout	O B-artist I-artist O B-playlist I-playlist I-playlist	AddToPlaylist	O B I O B I I
+add vera to my 80 s jam session playlist	O B-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B O B B I I I O
+add the song to the pure seduction playlists	O O B-music_item O O B-playlist I-playlist O	AddToPlaylist	O O B O O B I O
+put al jarreau on the concentración playlist	O B-artist I-artist O O B-playlist O	AddToPlaylist	O B I O O B O
+add the artist joseph meyer to my mad cool festival 2017 playlist	O O B-music_item B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O O B I O B B I I I O
+add album to mellow bars	O B-music_item O B-playlist I-playlist	AddToPlaylist	O B O B I
+add paul young to my retrovisor	O B-artist I-artist O B-playlist_owner B-playlist	AddToPlaylist	O B I O B I
+add this tune to the heavy gamer playlist	O O B-music_item O O B-playlist I-playlist O	AddToPlaylist	O O B O O B I O
+add as i was going to st ives to the fantasía playlist	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O O B-playlist O	AddToPlaylist	O B I I I I I I O O B O
+add the artist ruby to my digging now list	O O B-music_item B-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B B O B B B O
+put horace silver and the jazz messengers on my running to rock 170 to 190 bpm playlist	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I I I I I O B B I I I I I I O
+put frank farian on my deep dark indie folk playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I I O
+play used to love her to my this is animal collective playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I I I O O B I I I O
+add album to bajo las estrellas	O B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O B O B I I
+add joan wasser to running playlist	O B-artist I-artist O B-playlist O	AddToPlaylist	O B I O B O
+add please  please  please  let me get what i want to my crate diggers anonymous	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist	AddToPlaylist	O O O O O O O O O O O O B I I
+add split the difference to my women s lit playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O B B I I O
+add album to all out 00s	O B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O B O B I I
+add the open door to autumn music	O B-entity_name I-entity_name I-entity_name O B-playlist I-playlist	AddToPlaylist	O B I I I I O
+add heresy and the hotel choir to the evening acoustic playlist	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O O B-playlist I-playlist O	AddToPlaylist	O B I I I I O O B I O
+can you add honey hush to hits of the 60s	O O O B-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O O B I O O O O B
+add olga souza to virginia s femme fatale playlist	O B-artist I-artist O B-playlist_owner I-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B I B I O
+put edwyn collins onto my trabajo relax playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+put this dave abbruzzese tune on family road trip	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O O B I B O B I I
+add ashley mcisaac to my r&b party classics playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I O
+add this track to my party playlist	O O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O B O B B O
+add a song by takahito eguchi to my guest list polygon playlist	O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B I O B B I I O
+can you add esquivando charcos to my playlist entitled the piano bar	O O O B-entity_name I-entity_name O B-playlist_owner O O B-playlist I-playlist I-playlist	AddToPlaylist	O O O B I O B O O B I I
+add an artist to the décadas playlist	O O B-music_item O O B-playlist O	AddToPlaylist	O O B O O B O
+add natasha to my all things post playlist	O B-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B O B B I I O
+add this artist to disco fever playlist	O O B-music_item O B-playlist I-playlist O	AddToPlaylist	O O B O B I O
+add the lady bunny album to décadas	O O B-artist I-artist B-music_item O B-playlist	AddToPlaylist	O O I I B O B
+add the tune to my jazz vibes playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add the artist to my spooning playlist	O O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O B O B B O
+add this track by flesh n bone to cherry s spa treatment playlist	O O B-music_item O B-artist I-artist I-artist O B-playlist_owner I-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B I I O B I B I O
+please put david van tieghem onto my throwback party playlist	O O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B I I O B B I O
+add a tune in chill vibes	O O B-music_item O B-playlist I-playlist	AddToPlaylist	O O B O B I
+add artist danny carey to my classic jazz singers playlist	O B-music_item B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B B I O B B I I O
+add maria magdalena to my poetry in their own voices playlist	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I I I O
+add hallucinations of despair to my this is trey songz playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O B B I I I O
+put this track on alok house party playlist	O O B-music_item O B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B I I O
+add chamberlain waits to my picnic in the park	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I I I I I I
+add this tune by frankie laine to my playlist kitchen swagger	O O B-music_item O B-artist I-artist O B-playlist_owner O B-playlist I-playlist	AddToPlaylist	O O B O B I O B O B I
+add already over  pt 2 to hip hop 2017 new school	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I I O B I I I I
+can you put this track onto the playlist the selektor	O O O O B-music_item O O O B-playlist I-playlist	AddToPlaylist	O O O O B O O O B I
+i want global top 50 to have marit bergman added to it	O O B-playlist I-playlist I-playlist O O B-artist I-artist O O O	AddToPlaylist	O O B I I O O B I O O O
+add scott putesky to concentración indie rock playlist	O B-artist I-artist O B-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B I I O
+add another song to the acoustic soul playlist	O O B-music_item O O B-playlist I-playlist O	AddToPlaylist	O O B O O B I O
+add inconfundible to the piano in the background playlist	O B-entity_name O O B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I I I I I I O
+put ares in my canadian country playlist	O B-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B O B B I O
+add shahrum kashani to my country hits	O B-artist I-artist O B-playlist_owner B-playlist I-playlist	AddToPlaylist	O B I O B B I
+add i pledge allegiance to the grind to my sinfonía hipster playlist	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I I I I O B B I O
+to johnnie s funtime activity playlist add the name the best of guitar shorty	O B-playlist_owner I-playlist_owner B-playlist I-playlist O O O O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name	AddToPlaylist	O B I B I O O O O B I I I I
+please add a song to ines s playlist called metal party	O O O B-music_item O B-playlist_owner I-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O O O B O B I O O B I
+put this tripp eisen song on canta en la ducha	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O B I B O B I I I
+add ultimatum to my crash course playlist	O B-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B O B B I O
+can you please put this track onto my todo novedades playlist	O O O O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O O O B O B B I O
+add album to my party with friends	O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist	AddToPlaylist	O B O B I I I
+add track to my playslist this is los fabulosos cadillacs	O B-music_item O B-playlist_owner O B-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B O B O B I I I I
+add waltz for debby to my soft pop hits playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O B B I I O
+add eric johnson song to my the refugee playlist playlist	O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I B O B B I O O
+add 2012 zwanzig zwölf to my miami 2017 guest list	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I O B B I I O
+put the airi suzuki album into my nuclear blast novelties playlist	O O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B I B O B B I O O
+add mg the visionary to my dubstep playlist	O B-artist I-artist I-artist O B-playlist_owner B-playlist O	AddToPlaylist	O B I I O B B O
+add the rebirth of kirk franklin to the fiesta playlist	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O O B-playlist O	AddToPlaylist	O B I I B I O O B O
+add cordell mosson to my i love my neo soul list	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I I I O
+add this album to holly s bandas sonoras playlist	O O B-music_item O B-playlist_owner I-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B I B I O
+add godmusic to my latin dance cardio playlist	O B-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B O B B I I O
+add a song to my playlist a peaceful rush hour	O O B-music_item O B-playlist_owner O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O B O B O B I I I
+add big bill broonzy to my impulso creativo	O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist	AddToPlaylist	O B I I O B I I
+add petar georgiev kalica song to my push button funk playlist	O B-artist I-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I B O B B I I O
+add this song to my list called the birth of cool	O O B-music_item O B-playlist_owner O O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O B O B O O B I I I
+add the greyest of blue skies in indie español my playlist	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist I-playlist B-playlist_owner O	AddToPlaylist	O B I I I I O B I O O
+add tune digster reggae	O B-music_item B-playlist I-playlist	AddToPlaylist	O B B I
+for the playlist this is mozart add nana mizuki live fighter -blue x red side-	O O O B-playlist I-playlist I-playlist O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name	AddToPlaylist	O O O B I I I B I I I O I I I
+add ali lohan songs in club hits	O B-artist I-artist O O B-playlist I-playlist	AddToPlaylist	O B I O O B I
+add this artist named cleopatra stratan to my playlist named 30 before 20 masterworks by teenagers	O O B-music_item O B-artist I-artist O B-playlist_owner O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O B O B I O B O O B I I I I B
+can i put indocumentado onto my folk music at the gaslight café playlist	O O O B-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O O B O B B I I I I I O
+add track  to this is puccini	O B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O B O B I I
+add this track to my road trip playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add song to top 100 country tracks on spotify	O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B O B I I I O B
+add tarte to bandas sonoras playlist	O B-entity_name O B-playlist I-playlist O	AddToPlaylist	O B O B I O
+add vyechnyy strannik to lo que suena new york	O B-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I O B I I I I
+add artist hex hector to my old school death metal playlist	O B-music_item B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B B I O B B I I I O
+add this tune to my post metal playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add the game to 80 s party	O B-artist I-artist O B-playlist I-playlist I-playlist	AddToPlaylist	O O B O B I I
+add rock & roll to my playlist named night out	O B-entity_name I-entity_name I-entity_name O B-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O B I I O B O O B I
+add this artist to metal party	O O B-music_item O B-playlist I-playlist	AddToPlaylist	O O B O B I
+put some stu phillips in the women of acoustic playlist	O O B-artist I-artist O O B-playlist I-playlist I-playlist O	AddToPlaylist	O O B I O O B I I O
+add paloma negra to my funky jams list	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add the avispa track to my bass gaming playlist	O O B-artist B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B B O B B I O
+i want new steps to go on the leche con chocolate list	O O B-entity_name I-entity_name O O O O B-playlist I-playlist I-playlist O	AddToPlaylist	O O B I I I O O B I I O
+add tune to my country playlist	O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O B O B B O
+edit top 100 indie tracks on spotify playlist by adding smokefree rockquest 2005	O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O O O B-entity_name I-entity_name I-entity_name	AddToPlaylist	O B I I I O B O O O B I I
+add fair charlotte to the we everywhere playlist	O B-entity_name I-entity_name O O B-playlist I-playlist O	AddToPlaylist	O B I O O B I O
+add hold my liquor to electronow	O B-entity_name I-entity_name I-entity_name O B-playlist	AddToPlaylist	O B I I O B
+add this track to new hip hop	O O B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O O B O B I I
+add nazad  nazad  kalino mome to escapada	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist	AddToPlaylist	O B I I I O B
+add dying mapa i to más que amigos	O B-entity_name I-entity_name I-entity_name O B-playlist I-playlist I-playlist	AddToPlaylist	O B I I O B I I
+place raise your fist onto year in metal 2016	O B-entity_name I-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I O B I I I
+add iene miene mutte to women of r&b playlist	O B-entity_name I-entity_name I-entity_name O B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O B I I O
+add jon mclaughlin to my forever country playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add hatfield and the north to my hot house playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I I O B B I O
+add francesco de gregori to gayle s women who dj playlist	O B-artist I-artist I-artist O B-playlist_owner I-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O B I B I I O
+add this track by clem burke to my atmospheric black metal playlist	O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B I O B B I I O
+add joplin in concert to my feel good dinner	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist	AddToPlaylist	O B I I O B B I B
+put this album on my road trip playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add country favorites willie nelson style to my playlist titled spinnin  records top 100	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner O O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I B I I O B O O B I I I
+add the piano bar to my cindy wilson	O B-playlist I-playlist I-playlist O B-playlist_owner B-artist I-artist	AddToPlaylist	O B I I O B B I
+add this album the the playlist canciones que lo van a petar	O O B-music_item O O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O B O O O B I I I I I
+add d flame to the dcode2016 playlist	O B-artist I-artist O O B-playlist O	AddToPlaylist	O B I O O B O
+add this nozomi tsuji tune to my hot house playlist	O O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B I B O B B I O
+add wastedagain to the wild & free workout playlist	O B-entity_name O O B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B O O B I I I O
+add the tune to my epic classical playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add vl mike to my dcode2016 playlist	O B-artist I-artist O B-playlist_owner B-playlist O	AddToPlaylist	O B I O B B O
+add the track to my playlist with the title showstopper being mary jane	O O B-music_item O B-playlist_owner O O O O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O B O B O O O O B I I I
+add us placers to my new boots	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist	AddToPlaylist	O O O O B I I
+add a tom thacker tune to my rock classics	O O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist	AddToPlaylist	O O B I B O B B I
+add this tune by harry connick jr to my jazz brasileiro playlist	O O B-music_item O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B I I O B B I O
+add alexia to women of classical	O B-artist O B-playlist I-playlist I-playlist	AddToPlaylist	O B O B I I
+add this album to my just dance by aftercluv playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I O B O
+add this track to the playlist hits of the 70s	O O B-music_item O O O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O B O O O B O O B
+add the block brochure welcome to the soil 6 onto my café con leche list	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B I I I I O B B I I O
+add what if punk never happened to autumn	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist	AddToPlaylist	O O I B I I I I
+put paula abdul on musica española 2017	O B-artist I-artist O B-playlist I-playlist I-playlist	AddToPlaylist	O B I O B I I
+add the tune to my viajes playlist	O O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O B O B B O
+add run rudolph run to my rockin  playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist O	AddToPlaylist	O B I I O B B O
+please add this song to madden nfl 16	O O O B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O O O B O B I I
+add irish heartbeat to my trapeo playlist	O B-entity_name I-entity_name O B-playlist_owner B-playlist O	AddToPlaylist	O B I O B B O
+add this album to jenifer s mellow dinner playlist	O O B-music_item O B-playlist_owner I-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B I B I O
+rate tune to my natalie macmaster viajes	O B-music_item O B-playlist_owner B-artist I-artist B-playlist	AddToPlaylist	O B O O B I O
+can 50 minute technicolor dream be added to meredith s cierra la puerta playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O O O B-playlist_owner I-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I I O O O B I B I I O
+can you add something by wynter gordon to my soul lounge playlist	O O O O O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O O O B I O B B I O
+i want to put roberto valverde into my ultra metal list	O O O O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O O B I O B B I O
+add that was only yesterday the last ep to my afternoon train ride playlist	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I I O B B O B B I I O
+add this track to duetos	O O B-music_item O B-playlist	AddToPlaylist	O O B O B
+add o b mcclinton to my playlist called women of electronic	O B-artist I-artist I-artist O B-playlist_owner O O B-playlist I-playlist I-playlist	AddToPlaylist	O B I I O B O O B I I
+put the love hurts track onto carmen s playlist	O O B-playlist I-playlist B-music_item O B-playlist_owner I-playlist_owner O	AddToPlaylist	O O B I B O B I O
+add grey cloudy lies to the hip hop playlist	O B-entity_name I-entity_name I-entity_name O O B-playlist I-playlist O	AddToPlaylist	O B I I O O B I O
+i want another album in my disco fever playlist	O O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O B O O B I O
+rate tune to 90 s baby makers	O B-music_item O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I I I I
+add eric bibb to country coffeehouse	O B-artist I-artist O B-playlist I-playlist	AddToPlaylist	O B I O B I
+add ashley cafagna tesoro to my reggae en español list	O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O B B I I O
+add this album to my throwback thursday playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+please add faccetta nera to my this is handel playlist	O O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B I O B B I I O
+add artist to my friendesemana playlist	O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O B O B B O
+i d like to add the artist jesper kyd onto my fresh electronic playlist	O O O O O O B-music_item B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O O O O O B I O B B I O
+i d like to add this tune to my spotify orchestra cello playlist	O O O O O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O O O O O B O B B I I O
+add camille to the this is lady antebellum playlist	O B-artist O O B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B O O B I I I O
+add tune to my hype playlist	O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O B O B B O
+add welcome to the cruel world to my reggae classics	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist	AddToPlaylist	O B I I I I O B I I
+put ron wood in the digster reggae playlist	O B-artist I-artist O O B-playlist I-playlist O	AddToPlaylist	O B I O O B I O
+put this song in my funk playlist  please	O O B-music_item O B-playlist_owner B-playlist O O	AddToPlaylist	O O B O B B O O
+add the track to the comedy new releases playlist	O O B-music_item O O B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O O B I I O
+add the wee wee man to pamela s stress relief playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner I-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I I O B I B I O
+add iemand als jij to my playlist named in the name of blues	O B-entity_name I-entity_name I-entity_name O B-playlist_owner O O B-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I O B O O B I I I I
+put this artist onto the chillin  on a dirt road playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O O B I I I I O
+i want to add a tune by damon johnson to my frescura indie playlist	O O O O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O O O B O B I O B B I O
+can this song get added to lunchtime	O O B-music_item O O O B-playlist	AddToPlaylist	O B B O O O B
+add one good reason to the bachelor party playlist	O B-entity_name I-entity_name I-entity_name O O B-playlist I-playlist O	AddToPlaylist	O B I I O O B I O
+add nana kitade to my modern psychedelia playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add current track to hillary clinton s women s history month playlist	O O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B B O B I I B I I I O
+add tsubasa imai to my another glass playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add billy eckstine to my emotron	O B-artist I-artist O B-playlist_owner B-playlist	AddToPlaylist	O B I O B I
+add joshua radin to my playlist called futuros hits	O B-artist I-artist O B-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O B I O B O O B I
+i want to put a copy of this tune into skatepark punks	O O O O O O O O B-music_item O B-playlist I-playlist	AddToPlaylist	O O O O O O O O B O B I
+add this artist to my jazz playlist	O O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O B O B B O
+add nico to my rock to work	O B-artist O B-playlist_owner B-playlist I-playlist I-playlist	AddToPlaylist	O B O B B I I
+add the crabfish to my playlist called the sleep machine rainforest	O B-entity_name I-entity_name O B-playlist_owner O O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I O B O O B I I I
+add htoo ein thin to my brooklyn beat playlist	O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I O B B I O
+add kjetil vidar haraldstad to my para entrenar playlist	O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I O B B I O
+put robbie robertson into my chill out playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+move el viaje de copperpot into my emily dickinson playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I I O B B I O
+the this is kevin johansen playlist needs the lamb lies down on broadway in it	O B-playlist I-playlist I-playlist I-playlist O O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O O	AddToPlaylist	O B I I I O B I I I I I I O I
+add this tune to my indie reflection playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add share the well to my epic wall of sound	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I O B I I I I
+can you add some disco to my playlist called genuine r&b	O O O O B-entity_name O B-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O O O O B O B O O B I
+please put this track onto letha s signed xoxo playlist	O O O B-music_item O B-playlist_owner I-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O B O B I B I O
+add the track bg knocc out to the rapcaviar playlist	O O B-music_item B-artist I-artist I-artist O O B-playlist O	AddToPlaylist	O O B B I O O O B O
+add the name cry like a baby to my a mis niños de 30 playlist	O O O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O O B I I I O B B I I I I O
+add the singer damon johnson album to my african heat playlists	O O O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B B I B O B B I O
+add nour mhanna to workday lounge	O B-artist I-artist O B-playlist I-playlist	AddToPlaylist	O B I O B I
+want to add pacific ocean blues to the playlist named lunch	O O O B-entity_name I-entity_name I-entity_name O O O O B-playlist	AddToPlaylist	O O O B I I O O O O B
+add track nature noise to my playlist	O B-music_item B-playlist I-playlist O B-playlist_owner O	AddToPlaylist	O B B I O B O
+add teriazume to the nação reggae playlist	O B-entity_name O O B-playlist I-playlist O	AddToPlaylist	O B O O B I O
+can you add something by the artist paul cargnello to my chill tracks playlist	O O O O O O B-music_item B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O O O O O B I O B B I O
+add the singer barbara to my country radio playlists	O O O B-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B B O B B I O
+i want lance king in my list called one love	O O B-artist I-artist O B-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O O B I O O O O B I
+add a tune to my this is marc anthony playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I I O
+add desert sessions to my i love my 80 s rollerdisco playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I I I I O
+add the pop tarts to my this is astor piazzolla playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B I O B B I I I O
+add curious corn to wild & free workout	O B-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I O B I I I
+add heart like a hurricane to digster soul classics	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist I-playlist I-playlist	AddToPlaylist	O B I I I O B I I
+add hold tight to my throwback party	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist	AddToPlaylist	O B I O B I I
+put deep purple on this is jennifer lopez	O B-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I O B I I I
+add sara carter to my nothing but a party r&b	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I O B B I I I I
+add i roy to my this is rosana playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I O
+add an artist to my playlist domingo indie	O O B-music_item O B-playlist_owner O B-playlist I-playlist	AddToPlaylist	O O B O B O B I
+add album radar latino	O B-music_item B-playlist I-playlist	AddToPlaylist	O B B I
+i would like ignacio figueredo s tune added to electronow	O O O B-artist I-artist O B-music_item O O B-playlist	AddToPlaylist	O O O B I O B O O B
+add shot forth self living to my folk metal warriors playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I I O B B I I O
+put this tune on my your favorite coffeehouse playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I O
+can you add something by snow onto my zen focus playlist	O O O O O B-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O O O B O B B I O
+add teddy boy to my irish folk – jigs & reels playlist	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I I I I O
+put any andrew hurley album onto timeless love songs	O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O O B I B O B I I
+add autry inman to my hanging out and relaxing playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I I O
+add inca roads to my weekend	O B-entity_name I-entity_name O B-playlist_owner B-playlist	AddToPlaylist	O B I O B B
+put this song on legendary guitar solos	O O B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O O B O B I I
+add artist to my trance life group	O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B O B B I I
+add picasso baby to digster reggae playlist	O B-entity_name I-entity_name O B-playlist I-playlist O	AddToPlaylist	O B I O B I O
+i want to put this track on diann s just smile playlist	O O O O O B-music_item O B-playlist_owner I-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O O O B O B I B I O
+put bring me down onto my tokyo rising playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I O B B I O
+put pedro navaja onto my flamenco pa ti playlist	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I O
+add this song to my workout playlist	O O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O B O B B O
+add track to my spring playlist	O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O B O B B O
+add tune to my this is animal collective	O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B O B B I I I
+i want this artist on the cena elegante playlist	O O O B-music_item O O B-playlist I-playlist O	AddToPlaylist	O O O B O O B I O
+can you add something from method man to my this is mozart playlist	O O O O O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O O O O B I O B B I I O
+add this album by bruce dickinson onto top entrevistas my playlist	O O B-music_item O B-artist I-artist O B-playlist I-playlist B-playlist_owner O	AddToPlaylist	O O B O B I O B I B O
+i want cocco added to my post metal playlist	O O B-artist O O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O O B B I O
+add michael wittig to the party playlist	O B-artist I-artist O O B-playlist O	AddToPlaylist	O B I O O B O
+add this track to morning classical	O O B-music_item O B-playlist I-playlist	AddToPlaylist	O O B O B I
+add song to kids workout	O B-music_item O B-playlist I-playlist	AddToPlaylist	O B O B I
+add this song to my indie acoustic playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add chris de burgh  in my playlist melancholia	O B-artist I-artist I-artist O B-playlist_owner O B-playlist	AddToPlaylist	O B I I O B O B
+add this song to my this is kevin johansen	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O B O B I I I I
+add de principii evangelikum to my domingo indie palylist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I O B B I I
+add track to indie electronics playlist	O B-music_item O B-playlist I-playlist O	AddToPlaylist	O B O B I O
+add this album to my playlist titled underground hits	O O B-music_item O B-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O O B O B O O B I
+add rise of the infidels to my bring back the 90s playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B I I I O B B I I I O
+add michael lepond to electronic bliss	O B-artist I-artist O B-playlist I-playlist	AddToPlaylist	O B I O B I
+put dschiwan gasparjan into the cool down playlist	O B-artist I-artist O O B-playlist I-playlist O	AddToPlaylist	O B I O O B I O
+add om to my classic punk	O B-entity_name O B-playlist_owner B-playlist I-playlist	AddToPlaylist	O B O B B I
+add track to my playlist a sudden rainstorm	O B-music_item O B-playlist_owner O B-playlist I-playlist I-playlist	AddToPlaylist	O B O B O B I I
+i d like to add this album to my siesta playlist	O O O O O O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O O O O O B O B B O
+can you add some tommie sunshine to my chill out playlist	O O O O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O O B I O B B I O
+add bring back my daddy to me to my playlist named might and myth power metal	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner O O B-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I I I I O B O O B I I I I
+add luiza possi to my bachelor party playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add artist to my playlist primavera sound 2016 barcelona	O B-music_item O B-playlist_owner O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B O B O B I I I
+add this album to my forever country playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add sam moran music to my tgif playlist	O B-artist I-artist O O B-playlist_owner B-playlist O	AddToPlaylist	O B I O O B B O
+add song to zen focus playlist	O B-music_item O B-playlist I-playlist O	AddToPlaylist	O B O B I O
+add warpaint in my pre-party list	O B-entity_name O B-playlist_owner B-playlist O	AddToPlaylist	O B O B O O
+add the unraveling to marina s playlist it s a southern thing	O B-entity_name I-entity_name O B-playlist_owner I-playlist_owner O B-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O I I O B I O B I I I I
+i want to add another album to the scratchy back porch blues playlist	O O O O O B-music_item O O B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O O O O B O O B I I I O
+add third stone from the sun to the concentración playlist	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O O B-playlist O	AddToPlaylist	O B I I I I O O B O
+add unreachable to my wine & dine playlist	O B-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B O B B I I O
+add tune to my para comer	O B-music_item O B-playlist_owner B-playlist I-playlist	AddToPlaylist	O B O B B I
+can you add woman of the world to my playlist entitled duetos	O O O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner O O B-playlist	AddToPlaylist	O O O B I I I O B O O B
+i would like to put taylor dayne on the pop 4 kids list	O O O O O B-artist I-artist O O B-playlist I-playlist I-playlist O	AddToPlaylist	O O O O O B I O O B I I O
+put say it ain’t so into my trap land playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I I O B B I O
+add the tune from leena peisa to my amor amor playlist	O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B I O B B I O
+add defined by struggle to chillin  on a dirt road to my playlist	O B-entity_name I-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist I-playlist O B-playlist_owner O	AddToPlaylist	O B I I I I I I I I O B O
+put framed onto my ntc studio sounds playlist	O B-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B O B B I I O
+add don and sherri to the electrosafari playlist	O B-entity_name I-entity_name I-entity_name O O B-playlist O	AddToPlaylist	O B I I O O B O
+add kaya newest track to my i love my  00 s r&b playlist	O B-artist O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B B B O O B I I I I I O
+add to my verano list a song by andy lee	O O B-playlist_owner B-playlist O O B-music_item O B-artist I-artist	AddToPlaylist	O O O B O O B O B I
+move josiah leming to te quiero list	O B-artist I-artist O B-playlist I-playlist O	AddToPlaylist	O B I O B I O
+add atticus ross to the electrosafari playlist	O B-artist I-artist O O B-playlist O	AddToPlaylist	O B I O O B O
+add this album to my throwback party playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add this track to the classical music for smart kids playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O O B I I I I O
+add 2120 south michigan avenue to my laundry playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist O	AddToPlaylist	O B I I I O B B O
+put before the eulogy onto acoustic blues	O B-entity_name I-entity_name I-entity_name O B-playlist I-playlist	AddToPlaylist	O B I I I B I
+i want to add this so chan whee tune to latin alternative music	O O O O O B-artist I-artist I-artist B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O O O O O B I I B O B I O
+add joe mcphee to my picnic in the park play list	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O O	AddToPlaylist	O B I O B B I I I O O
+add perfect sense  part i to my women of classical list	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I I O B B I I O
+put hampartsoum limondjian in running to rock 170 to 190 bpm	O B-artist I-artist O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I O B I I B I I I
+add cleo laine to psychedelic rock	O B-artist I-artist O B-playlist I-playlist	AddToPlaylist	O B I O B I
+add feel the passion to my this is kudai playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O B B I I O
+add song to daily lift playlist	O B-music_item O B-playlist I-playlist O	AddToPlaylist	O B O B I O
+i want to add the tim smith album to my best of 2010 s playlist	O O O O O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O O O O B I B O B I I I I O
+add rosemary clooney to pura vida playlist	O B-artist I-artist O B-playlist I-playlist O	AddToPlaylist	O B I O B I O
+add kevin ridel to instrumental madness	O B-artist I-artist O B-playlist I-playlist	AddToPlaylist	O B I O B I
+add the patty patty sound  to my metal talks kreator playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B I I O B B I I O
+add this john tesh tune to the friendesemana playlist	O O B-artist I-artist B-music_item O O B-playlist O	AddToPlaylist	O O B I B O O B O
+add shame on you to my masters of metal playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O B B I I O
+add tune to infinite indie folk	O B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O B O B I I
+add a track from the edge to my funk soul disco playlist	O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B I O B B I I O
+add mr j medeiros to my women of country playlist	O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I O B B I I O
+add maschi e altri to my this is john williams	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I I O B I I I I
+add something by ritchie valens to my playlist virales de siempre	O O O B-artist I-artist O B-playlist_owner O B-playlist I-playlist I-playlist	AddToPlaylist	O O O B I O B O B I I
+send the track from andrew hewitt to the piano ballads playlist	O O B-music_item O B-artist I-artist O O B-playlist I-playlist O	AddToPlaylist	O O B O B I O O B I O
+add bonga to the black sabbath the dio years playlist	O B-artist O O B-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O B O O B I I I I O
+add munia the tale to my playlist called adrenaline workout	O B-entity_name I-entity_name I-entity_name O B-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O B I I O B O O B I
+add runaljod gap var ginnunga to ashlee s playlist titled forever country	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner I-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O B I I I O B I O O B I
+play rock this playlist with badonviller marsch	O B-playlist I-playlist O O B-entity_name I-entity_name	AddToPlaylist	O B I O O B I
+add another album to my this is pavarotti playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I O
+put this frederick knight track on my the midnight hour playlist	O O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B I B O B B I I O
+for the playlist running power add the name the best is yet to come	O O O B-playlist I-playlist O O O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name	AddToPlaylist	O O O B I O O O B I I I I I
+add paulinho da viola to my radio rock song list	O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist O O	AddToPlaylist	O B I I O B B I B O
+add the beatles tune yesterday to my playlist  the southern highway chronicles	O O O B-music_item O O B-playlist_owner O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O B B B O B O B I I I
+add bronislau kaper to the drive playlist	O B-artist I-artist O O B-playlist O	AddToPlaylist	O B I O O B O
+add teenager to the queen playlist	O B-entity_name O O B-playlist O	AddToPlaylist	O B O O B O
+add yang hyun seok to the playlist called night out	O B-artist I-artist I-artist O O O O B-playlist I-playlist	AddToPlaylist	O B I I O O O O B I
+add the song to the dub on the beach playlist	O O B-music_item O O B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O O B I I I O
+can you add something by gregori chad petree to the playlist digster soul classics	O O O O O B-artist I-artist I-artist O O O B-playlist I-playlist I-playlist	AddToPlaylist	O O O O O B I I O O O B I I
+add another tune to my soft rock  playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add halley to this is tchaikovsky	O B-entity_name O B-playlist I-playlist I-playlist	AddToPlaylist	O B O B I I
+add the name covenant to the playlist fusion fest	O O O B-entity_name O O O B-playlist I-playlist	AddToPlaylist	O O O B O O O B I
+add this eric weissberg song to my dance workout	O O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist	AddToPlaylist	O O B I B O B B I
+add elkie brooks to happy birthday playlist	O B-artist I-artist O B-playlist I-playlist O	AddToPlaylist	O B I O B I O
+can you add a song by bill frisell to my top latin alternative playlist	O O O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O O O B O B I O B B I I O
+i want do you want to build a snowman in my hip hop 2017 new school playlist	O O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O O O I O I I I O O B I I I I O
+put this tune by mark norman on my keep calm list	O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B I O B B I O
+add this artist to my guilty pleasures playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B B I O
+add the artist verano to my michael mantler playlist	O O B-music_item B-playlist O B-playlist_owner B-artist I-artist O	AddToPlaylist	O O O B O B B I O
+add zombieland to noctámbulo playlist	O B-entity_name O B-playlist O	AddToPlaylist	O B O B O
+add this song to my classical dance music ballet & beyond list	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I I I I O
+add jermaine fagan to spring music	O B-artist I-artist O B-playlist I-playlist	AddToPlaylist	O B I O B O
+add a tune to my elrow guest list	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist	AddToPlaylist	O O B O B B I O
+move this tune by hironobu kageyama to my baila reggaeton playlist	O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B O B I O B B I O
+i need to add another track to my cleaning playlist	O O O O O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O O O O B O B B O
+add tranquility to the latin pop rising playlist	O B-entity_name O O B-playlist I-playlist I-playlist O	AddToPlaylist	O B O O B I I O
+add matthew helders artist in showstopper being mary jane	O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O B I B O B O B I
+i want to add johnny burke to the country bound playlist	O O O O B-artist I-artist O O B-playlist I-playlist O	AddToPlaylist	O O O O B I O O B I O
+add caleigh peters to my women of country list	O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I O
+add ernie hawkins to the dubstep playlist	O B-artist I-artist O O B-playlist O	AddToPlaylist	O B I O O B O
+add tune to electro workout	O B-music_item O B-playlist I-playlist	AddToPlaylist	O B O B I
+add the nastya kamenskih song to my the martin garrix show playlist	O O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B I B O B O B I I O
+add the artist to my metal playlist	O O B-music_item O B-playlist_owner B-playlist O	AddToPlaylist	O O B O B B O
+put michael cretu onto my beach vibes playlist	O B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add the artist todd snider  to my electro latino playlist	O O B-music_item B-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O O B I O B B I O
+for the playlist wild & free workout add tsidii le loka	O O O B-playlist I-playlist I-playlist I-playlist O B-artist I-artist I-artist	AddToPlaylist	O O O B I I I O B I I
+add a jacob miller album to my hardcore punk playlist	O O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O O B I B O B B I O
+i want to add kool keith to my chill out dinner playlist	O O O O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O O O B I O B B I I O
+i want to add the classical moments in movies track to my playlist	O O O O O B-playlist I-playlist I-playlist I-playlist B-music_item O B-playlist_owner O	AddToPlaylist	O O O O B B I I I B O B O
+add nana tanimura  to a sudden rainstorm	O B-artist I-artist O B-playlist I-playlist I-playlist	AddToPlaylist	O B I O O O B
+put this album on totally alternative	O O B-music_item O B-playlist I-playlist	AddToPlaylist	O O B O B I
+add hotter than hell to my fiesta playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist O	AddToPlaylist	O B I I O B B O
+add moby grape live to enamorándose	O B-entity_name I-entity_name I-entity_name O B-playlist	AddToPlaylist	O B I I I I
+add album to my classical essentials playlist	O B-music_item O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B O B B I O
+love in paris needs some frank farian in the playlist	B-playlist I-playlist I-playlist O O B-artist I-artist O O O	AddToPlaylist	B I I O O B I O O O
+add the song to my the funny thing about football is playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I I I I O
+add als het om de liefde gaat to my this is handel playlist	O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I I I I O B B I I O
+add la woman to my soul lounge playlist	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I O B B I O
+add this artist to my feel good dinner playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I O
+add dahmer to hiphop hot 50	O B-entity_name O B-playlist I-playlist I-playlist	AddToPlaylist	O B O B I I
+please add to my playlist hype the name introducing a r rahman	O O O B-playlist_owner O B-playlist O O B-entity_name I-entity_name I-entity_name I-entity_name	AddToPlaylist	O O O B O B O O B I I I
+add eef barzelay to the trad folk playlist	O B-artist I-artist O O B-playlist I-playlist O	AddToPlaylist	O B I O O B I O
+add sam sparro to my playlist called beach vibes	O B-artist I-artist O B-playlist_owner O O B-playlist I-playlist	AddToPlaylist	O B I O B O O B I
+add coordinates of confusion to bass face playlist	O B-entity_name I-entity_name I-entity_name O B-playlist I-playlist O	AddToPlaylist	O B I I O B I O
+add sara hickman to my targeted list	O B-artist I-artist O B-playlist_owner B-playlist O	AddToPlaylist	O B I O B O O
+add image to the nuclear blast novelties playlist	O B-entity_name O O B-playlist I-playlist I-playlist O	AddToPlaylist	O B O O B I I O
+add a kiley dean tune to my jazz for loving couples playlist	O O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B I B O B B I I I O
+put this track on musica española 2017	O O B-music_item O B-playlist I-playlist I-playlist	AddToPlaylist	O O B O B I I
+add crying  waiting  hoping to my weekly buzz playlist	O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I O B B I O
+add the artist to my this is mozart playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I O
+add bien acompañado to all out 60s	O B-entity_name I-entity_name O B-playlist I-playlist I-playlist	AddToPlaylist	O B I O O O B
+put do you love me on my acoustic soul playlist	O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I I O B B I O
+add mel draisey tomy 80s classic hits playlist	O B-artist I-artist O B-playlist I-playlist I-playlist O	AddToPlaylist	O B I I I I I O
+put king of america onto the playlist with the title a sudden rainstorm	O B-entity_name I-entity_name I-entity_name O O O O O O B-playlist I-playlist I-playlist	AddToPlaylist	O B I I O O O O O O B I I
+add my track to old school metal playlist	O B-playlist_owner B-music_item O B-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B I I O
+add lee seung gi to my baila reggaeton playlist	O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist O	AddToPlaylist	O B I I O B B I O
+the enamorándose playlist needs another album	O B-playlist O O O B-music_item	AddToPlaylist	O B O O O B
+add harry chapin in stress relief playlist	O B-artist I-artist O B-playlist I-playlist O	AddToPlaylist	O B I O B I O
+can you put a song from tom jones on my electronica & dance playlist	O O O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O O O O B O B I O B B I I O
+add madlib invazion to my prog rock monsters list	O B-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O	AddToPlaylist	O B I O B B I I O
+add the name the song about the towel to playlist piano in the background	O O O O B-entity_name I-entity_name I-entity_name I-entity_name O O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O O O B I I I I O O B I I I
+add the darkest red to this is jennifer lopez	O B-entity_name I-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist	AddToPlaylist	O I I I O B I I I
+add another song to my this is status quo playlist	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I I O
+add this song to my roadrunner rec new releases list	O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O	AddToPlaylist	O O B O B B I I I O
